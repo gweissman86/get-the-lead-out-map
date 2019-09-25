@@ -1,0 +1,298 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400&subset=latin,latin-ext);
+
+body {
+  margin:0;
+  padding:0;
+  font-family: "Open Sans", sans-serif;
+}
+
+h4, p {
+  font-family: 'Open Sans', sans-serif;
+  padding: 0;
+}
+
+
+/* Information, Dashboard, Filters, and Map */
+#top-section {
+  /* 100% of the view hieight minus 25px for the table and 25px for the key */
+  height: calc(100vh - 25px - 25px);
+  overflow-y: hidden;
+  position: relative;
+}
+
+.data {
+  background-color: rgba(210, 218, 219, 100);
+  height: 100%;
+  display: block;
+  position: relative;
+  width: 30%;
+  z-index: 2;
+}
+
+#img {
+  position: relative;
+  text-align: center;
+  z-index: 3;
+  left: 2;
+  background-color: rgba(210, 218, 219, 100);
+  padding: 30px;
+  padding-bottom: 0;
+  margin: 0;
+}
+
+#img a {
+  margin: 0 auto;
+  display: block;
+}
+
+#sub-panel {
+  padding: 5px;
+  padding-top: 0;
+}
+
+#sub-panel li a {
+  font-size: 14px;
+}
+
+.logo {
+  height: 100px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+#credits {
+  font-size: 12px !important;
+  margin-bottom: 20px;
+  margin-top: 65%;
+  position: relative;
+  display: block;
+  bottom: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+/* tab 1 */
+#text {
+  position: absolute;
+  top: 20;
+  left: 0;
+  width: 30%;
+  height: 100%;
+  padding: 15px;
+  padding-top: 8em;
+  background-color: rgba(69, 87, 96, 0.72);
+  color: white;
+}
+
+/* tab 2 */
+#dashboard {
+  height: 200px;
+  margin: 0 auto;
+  width: 90%;
+  text-align: left;
+}
+#school-visualizer {
+  position: relative;
+  padding: 15%;
+}
+
+#school-lead-result {
+  font-weight: bold;
+}
+
+#school-name {
+  font-weight: bold;
+}
+
+body {
+  text-align:center;
+  min-height:95vh;
+  margin:0;
+  padding:0;
+  border-bottom: 5vh solid $color;
+  font-family: "Myriad Pro","Arial",sans;
+  font-size:24px;
+}
+.dropdown {
+  background: rgb(84, 95, 96);
+  line-height: 5;
+  border: lightslategrey;
+  border: 1px solid dimgrey;
+  color: rgb(240,240,240);
+  width: 95%;
+  background: rgb(84, 95, 96, .8) !important;
+}
+ 
+
+/* map styling */
+#map {
+  height: 100% !important;
+  width: 70%;
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  right: 0;
+}
+
+.icon-credit {
+  position: absolute;
+  right: 280px;
+  bottom: 5px;
+  font-size: 9px;
+  line-height: 10px;
+}
+
+/* Lower Section */
+#key {
+  background-color: #5DBCD2;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  position: relative;
+  top: 20 !important;
+  width: 100%;
+  z-index: 4;
+  margin-top: 0px;
+}
+/* rgba(93, 188, 210, 0);*/
+
+.circle {
+  height: 12px;
+  width: 12px;
+  border: 1px solid rgb(69, 69, 69);
+  border-radius: 50%;
+}
+
+/* table section */
+#table {
+  z-index: 3;
+  background-color: rgba(210, 218, 219, 90);
+  overflow-x: : auto;
+}
+
+/*Markers pie-aggregated*/
+.marker {
+  width: 18px;
+  height: 18px;
+  border-width: 2px;
+  border-radius:10px;
+  margin-top: -10px;
+  margin-left: -10px;
+  border-style: solid;
+  fill: #CCC;
+  stroke: #444;
+  background: #CCC;
+  border-color: #444;
+}
+.marker div{
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.low {
+  fill: #F66257;
+  stroke:   #A9A9A9;
+  background: #F66257;
+  border-color:  #A9A9A9;
+}
+
+.high {
+  fill: #9E0000;
+  stroke:#A9A9A9;
+  background: #9E0000;
+  border-color: #A9A9A9;
+}
+
+.exempt {
+  fill:#05004E;
+  stroke:#A9A9A9;
+  background:#05004E;
+  border-color: #A9A9A9;
+}
+
+.untested {
+  /*fill: #06C2F4; #DFFF00*/ 
+  fill: #DFFF00;
+  stroke:#A9A9A9;
+  /*background:#06C2F4;*/
+  background: #DFFF00;
+  border-color: #A9A9A9;
+}
+
+.cluster-pie text{
+  stroke: white;
+}
+
+.button {
+  background: #6edeef;
+  box-shadow: 2px 2px 2px darkcyan;
+  color: #545f60 !important;
+  cursor: pointer;
+  font-weight: normal;
+  border-radius: 5px;
+  padding: 5px; 
+}
+
+#download-table {
+  float: right;
+  right: 20px;
+  text-decoration: none;
+}
+
+#school-visualizer {
+  height: 200px;
+  text-align: center;
+}
+
+#school-image {
+  margin: 0 auto;
+  max-width: 150px;
+  position: relative;
+  width: 80%;
+}
+
+@media (max-width: 700px) {
+
+  #top-section {
+    background: rgb(210, 218, 219);
+    height: auto !important;
+  }
+
+  .data {
+    height: auto;
+    width: 100%;
+  }
+
+  #credits {
+    text-align: center;
+  }
+
+  #content {
+    height: 300px !important;
+  }
+
+  #img {
+    padding: 10px;
+  }
+
+  #dashboard select {
+    background: white;
+  }
+
+  #school-image {
+    height: 50px;
+  }
+
+  #map {
+    height: 400px !important;
+    margin: 20px;
+    position: relative;
+    width: 100%;
+    width: calc(100% - 40px);
+  }
+}
