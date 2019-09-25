@@ -5,5 +5,5 @@ Online Interactive Map of Levels of Lead in Water in California Schools
 https://geosurge.github.io/get-the-lead-out-map/
 
 # contact
-Daniel Dufour (daniel@geosurge.io)
-Victoria Mak (victoria@geosurge.io)
+- Daniel Dufour (daniel@geosurge.io)
+- Victoria Mak (victoria@geosurge.io)
