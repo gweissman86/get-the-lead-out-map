@@ -1,11 +1,15 @@
 from csv import DictReader, DictWriter
+from datetime import datetime
 from googlemaps import Client
 from os import environ
 from requests import get
 from time import sleep
 
 infile = "ca_schools_lead_testing_data_september.csv"
-outfile = "ca_schools_lead_testing_data_september_geocoded.csv"
+previous_outfile = "ca_schools_lead_testing_data_september_geocoded_previous.csv"
+timestamp = str(datetime.now()).split(".")[0].replace(" ", "_").replace("-","_").replace(":","_")
+outfile = "ca_schools_lead_testing_data_september_geocoded_" + timestamp + ".csv"
+skip = 1759
 
 def isFloat(string):
   try:
@@ -22,8 +26,12 @@ with open(infile) as f:
   fieldnames = dictReader.fieldnames
 
 with open(outfile, "w") as f:
-  dictWriter = DictWriter(f, fieldnames=fieldnames)
-  dictWriter.writeheader()
+  if previous_outfile:
+    with open(previous_outfile, "r") as previous_f:
+      f.write(previous_f.read())
+  else:
+    dictWriter = DictWriter(f, fieldnames=fieldnames)
+    dictWriter.writeheader()
 
 previous = 0
 misses = 0
@@ -31,6 +39,9 @@ newly_geocoded = 0
 
 for index, school in enumerate(schools):
   print("\nindex:", index)
+  if index <= skip:
+    continue
+
   if not isFloat(school['latitude']) or not isFloat(school['longitude']):
     url = "https://nominatim.openstreetmap.org/search"
     schoolAddress = school["schoolAddress"]
@@ -58,12 +69,20 @@ for index, school in enumerate(schools):
         geocode_result = geocode_results[0]
         print("geocode_result:", geocode_result)
         components = geocode_result['address_components']
-        school['city'] = next(c['short_name'] for c in components if c['types'][0] == "locality")
-        school['county'] = next(c['short_name'] for c in components if c['types'][0] == "administrative_area_level_2")
-        school['latitude'] = geocode_result['geometry']['location']['lat']
-        school['longitude'] = geocode_result['geometry']['location']['lng']
-        print("\nschool:", school)
-        newly_geocoded += 1
+        city = ([c['short_name'] for c in components if c['types'][0] == "locality"] or [None])[0]
+        if city:
+          school['city'] = city
+          county = ([c['short_name'] for c in components if c['types'][0] == "administrative_area_level_2"] or [None])[0]
+          if county:
+            school['county'] = county
+            school['latitude'] = geocode_result['geometry']['location']['lat']
+            school['longitude'] = geocode_result['geometry']['location']['lng']
+            print("\nschool:", school)
+            newly_geocoded += 1
+          else:
+            misses += 1
+        else:
+          misses += 1
       else:
         print("couldn't find via Google:" + schoolAddress)
         misses += 1
