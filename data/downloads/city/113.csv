@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Colton Joint Unified,Abraham Lincoln Elementary,444 East Olive Street Colton CA 92324-2717,NA,NA,FALSE,tested,Colton,San Bernardino County,34.077493,-117.31787
+Colton Joint Unified,Alice Birney Elementary,1050 East Olive Street Colton CA 92324-2531,5.5,ppb,TRUE,tested,Colton,San Bernardino County,34.078401,-117.311043
+Colton Joint Unified,Colton High,777 West Valley Boulevard Colton CA 92324-2251,NA,NA,FALSE,tested,Colton,San Bernardino County,34.070791,-117.335065
+Colton Joint Unified,Colton Middle,670 West Laurel Street Colton CA 92324-1523,NA,NA,FALSE,tested,Colton,San Bernardino County,34.081224,-117.3337
+Colton Joint Unified,Cooley Ranch Elementary,1000 South Cooley Drive Colton CA 92324-4503,NA,NA,FALSE,tested,Colton,San Bernardino County,34.051931,-117.292525
+Rialto Unified,Georgia Morris Elementary,1900 West Randall Avenue Colton CA 92324-6642,NA,NA,FALSE,tested,Colton,San Bernardino County,34.084928,-117.359718
+Colton Joint Unified,Paul Rogers Elementary,955 West Laurel Street Colton CA 92324-1527,5.550000000000001,ppb,TRUE,tested,Colton,San Bernardino County,34.081224,-117.3337
+Colton Joint Unified,Reche Canyon Elementary,3101 Canyon Vista Drive Colton CA 92324-9540,NA,NA,FALSE,tested,Colton,San Bernardino County,34.039184,-117.274485
+Colton Joint Unified,San Salvador Preschool,471 Agua Mansa Road Colton CA 92324-3325,NA,NA,FALSE,tested,Colton,San Bernardino County,34.052444,-117.346065
+Colton Joint Unified,Slover Mountain High (Continuation),325 Hermosa Street Colton CA 92324-1901,6.9,ppb,TRUE,tested,Colton,San Bernardino County,34.070869,-117.345075
+Colton Joint Unified,Ulysses Grant Elementary,550 West Olive Street Colton CA 92324-1769,NA,NA,FALSE,tested,Colton,San Bernardino County,34.077527,-117.329513
+Colton Joint Unified,Washington High,900 East C Street Colton CA 92324-2600,6.9,ppb,TRUE,tested,Colton,San Bernardino County,34.071703,-117.312446
+Rialto Unified,William G. Jehue Middle,1500 North Eucalyptus Avenue Colton CA 92324-6650,21,ppb,TRUE,tested,Colton,San Bernardino County,34.084759,-117.357142
+Colton Joint Unified,William McKinley Elementary,600 West Johnston Street Colton CA 92324-1322,NA,NA,FALSE,tested,Colton,San Bernardino County,34.088454,-117.331081
+Colton Joint Unified,Woodrow Wilson Elementary,750 South Eighth Street Colton CA 92324-3573,NA,NA,FALSE,tested,Colton,San Bernardino County,34.057989,-117.325712

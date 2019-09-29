@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fresno Unified,Easterby Elementary,5211 East Tulare Street Fresno CA 93727-4048,NA,NA,FALSE,tested,Fowler,Fresno County,36.626456,-119.674549
+Fowler Unified,Fowler Academy Continuation,975 E. Adams Avenue Fowler CA 93625-2702,NA,NA,NA,not tested,Fowler,Fresno County,36.634426,-119.667679
+Fowler Unified,Fowler High,701 East Main Street Fowler CA 93625-2423,NA,NA,NA,not tested,Fowler,Fresno County,36.633413,-119.670523
+Fowler Unified,John Sutter Middle,701 East Walter Fowler CA 93625-9792,NA,NA,NA,not tested,Fowler,Fresno County,36.630775,-119.670125
+Fresno Unified,Kings Canyon Middle,5117 East Tulare Street Fresno CA 93727-3999,NA,NA,FALSE,tested,Fowler,Fresno County,36.626456,-119.674549
+Fowler Unified,Marshall Elementary,142 North Armstrong Avenue Fowler CA 93625-9601,NA,NA,NA,not tested,Fowler,Fresno County,36.635227,-119.673362
+Fresno Unified,Roosevelt High,4250 East Tulare Street Fresno CA 93702-3037,NA,NA,FALSE,tested,Fowler,Fresno County,36.626456,-119.674549

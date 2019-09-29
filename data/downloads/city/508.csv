@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Paula Unified,Barbara Webster Elementary,1150 Saticoy Street Santa Paula CA 93060-0710,6.8,ppb,TRUE,tested,Santa Paula,Ventura County,34.359989,-119.059108
+Santa Paula Unified,Blanchard Elementary,115 Peck Road Santa Paula CA 93060-3013,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.343068,-119.086599
+Briggs Elementary,Briggs Elementary,14438 West Telegraph Road Santa Paula CA 93060-3088,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.327403,-119.106654
+Santa Paula Unified,Glen City Elementary,141 Steckel Drive Santa Paula CA 93060-0710,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.346722,-119.079321
+Santa Paula Unified,Grace S. Thille Elementary,1144 Ventura Street Santa Paula CA 93060-2910,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.352984,-119.05613
+Santa Paula Unified,Isbell Middle,221 South Fourth Street Santa Paula CA 93060-3301,12.3,ppb,TRUE,tested,Santa Paula,Ventura County,34.349176,-119.066084
+Santa Paula Unified,McKevett Elementary,955 East Pleasant Street Santa Paula CA 93060-2158,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.358096,-119.063934
+Mupu Elementary,Mupu Elementary,4410 North Ojai Road Santa Paula CA 93060-9681,6.7,ppb,TRUE,tested,Santa Paula,Ventura County,34.371382,-119.064564
+Briggs Elementary,Olivelands Elementary,12465 Foothill Rd. Santa Paula CA 93060-9714,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.326395,-119.140907
+Santa Paula Unified,Renaissance High,333 North Palm Avenue Santa Paula CA 93060,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.354089,-119.073435
+Santa Paula Unified,Santa Paula High,404 North Sixth Street Santa Paula CA 93060-2008,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.356696,-119.070125
+Santa Paula Unified,Thelma B. Bedell Elementary,1305 Laurel Road Santa Paula CA 93060-0710,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.374243,-119.062245

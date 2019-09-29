@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Imperial Unified,Ben Hulse Elementary,303 South D Street Imperial CA 92251-1433,NA,NA,FALSE,tested,Imperial,Imperial County,32.84456,-115.576181
+Imperial Unified,Frank M. Wright Middle,885 North Imperial Avenue Imperial CA 92251-1105,NA,NA,FALSE,tested,El Centro,Imperial County,32.800345,-115.569821
+Imperial Unified,Imperial Ave. Holbrook High,322 North Imperial Avenue Imperial CA 92251-1267,NA,NA,FALSE,tested,Imperial,Imperial County,32.849821,-115.569873
+Imperial Unified,Imperial High,517 West Barioni Boulevard Imperial CA 92251-1452,NA,NA,FALSE,tested,Imperial,Imperial County,32.847402,-115.575155
+Imperial Unified,T. L. Waggoner Elementary,627 Joshua Tree Street Imperial CA 92251-8917,NA,NA,FALSE,tested,Imperial,Imperial County,32.822155,-115.591876

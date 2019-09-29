@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Apple Valley Unified,Desert Knolls Elementary,18213 Symeron Drive Apple Valley CA 92307-4537,NA,NA,FALSE,tested,Apple Valley,San Bernardino County,34.529047,-117.266854
+Apple Valley Unified,Granite Hills High,22900 Esaws Road Apple Valley CA 92307-4305,NA,NA,FALSE,tested,Apple Valley,San Bernardino County,34.508467,-117.165265
+Apple Valley Unified,Sycamore Rocks Elementary,23450 South Rd. Apple Valley CA 923072075,NA,NA,NA,not tested,Apple Valley,San Bernardino County,34.552357,-117.151843

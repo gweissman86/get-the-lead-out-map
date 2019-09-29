@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Southern Humboldt Joint Unified,Agnes J. Johnson  Elementary,73 School Road Weott CA 95571-0280,NA,NA,FALSE,tested,NA,Humboldt County,40.321362,-123.925004
+Southern Humboldt Joint Unified,Redway Elementary,344 Humboldt Avenue Redway CA 95560-0369,8.5,ppb,TRUE,tested,NA,Humboldt County,40.120006,-123.825261

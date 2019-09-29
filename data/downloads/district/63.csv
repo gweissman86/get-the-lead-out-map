@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bennett Valley Union Elementary,Sierra School of Sonoma County Santa Rosa,4580 Bennett View Dr Santa Rosa CA 95404,NA,NA,NA,not tested,NA,Sonoma County,38.41865,-122.669485
+Bennett Valley Union Elementary,Strawberry Elementary,2311 Horseshoe Drive Santa Rosa CA 95405-8199,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.434351,-122.661719
+Bennett Valley Union Elementary,Yulupa Elementary,2250 Mesquite Drive Santa Rosa CA 95405-8310,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.42951,-122.673084

@@ -1,0 +1,314 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,A Better Chance / California Autism Foundation,4138 Lakeside Drive Richmond CA 94806,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.988787,-122.32888
+Acalanes Union High,Acalanes Adult Education Center,1963 Tice Valley Boulevard Walnut Creek CA 94595-2201,NA,NA,NA,not tested,NA,Contra Costa County,37.87725,-122.073346
+Acalanes Union High,Acalanes Center for Independent Study,1963 Tice Valley Boulevard Walnut Creek CA 94595-2201,NA,NA,FALSE,tested,NA,Contra Costa County,37.87725,-122.073346
+Acalanes Union High,Acalanes High,1200 Pleasant Hill Road Lafayette CA 94549-2623,NA,NA,FALSE,tested,NA,Contra Costa County,37.904924,-122.098853
+Contra Costa County Office of Education,Acton Academy Blackhawk,3860 Blackhawk Rd Danville CA 94506,NA,NA,NA,not tested,NA,Contra Costa County,37.799487,-121.921584
+Brentwood Union Elementary,Adams (J. Douglas) Middle,401 American Avenue Brentwood CA 94513-4611,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.918004,-121.758874
+San Ramon Valley Unified,Alamo Elementary,100 Wilson Road Alamo CA 94507-1253,NA,NA,FALSE,tested,NA,Contra Costa County,37.86641,-122.030623
+Martinez Unified,Alhambra Senior High,150 E Street Martinez CA 94553-3139,NA,NA,FALSE,tested,Martinez,Contra Costa County,38.002524,-122.133945
+Private,All My Gods Children,1900 Willow Lake Rd Discovery Bay CA 94505,NA,NA,FALSE,tested,NA,Contra Costa County,37.900844,-121.599403
+Oakley Union Elementary,Almond Grove Elementary,5000 Amaryllis Street Oakley CA 94561-2206,NA,NA,NA,not tested,NA,Contra Costa County,37.974818,-121.725248
+Antioch Unified,Antioch Adult,820 West Second Street Antioch CA 94509-1145,9.6,ppb,TRUE,tested,Antioch,Contra Costa County,38.017093,-121.81667
+Antioch Unified,Antioch Charter Academy,3325 Hacienda Way Antioch CA 94509-5407,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.987567,-121.826826
+Antioch Unified,Antioch Charter Academy II,1201 West Tenth Street Antioch CA 94509-1406,NA,NA,NA,not tested,Antioch,Contra Costa County,38.008064,-121.821553
+Antioch Unified,Antioch High,700 West 18th Street Antioch CA 94509-1576,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.005158,-121.815775
+Antioch Unified,Antioch Middle,1500 D Street Antioch CA 94509-2346,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.00723,-121.81013
+West Contra Costa Unified,Aspire Richmond Ca. College Preparatory Academy,3040 Hilltop Mall Road Richmond CA 94806,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.978204,-122.326753
+West Contra Costa Unified,Aspire Richmond Technology Academy,3040 Hilltop Mall Rd Richmond CA 94806,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.978204,-122.326753
+Mt. Diablo Unified,Ayers Elementary,5120 Myrtle Drive Concord CA 94521-1522,NA,NA,FALSE,tested,Concord,Contra Costa County,37.965932,-121.959529
+Mt. Diablo Unified,Bancroft Elementary,2200 Parish Drive Walnut Creek CA 94598-1524,NA,NA,FALSE,tested,NA,Contra Costa County,37.929924,-122.035279
+West Contra Costa Unified,Bayview Elementary,3001 16th Street San Pablo CA 94806-2353,NA,NA,FALSE,tested,NA,Contra Costa County,37.973722,-122.34783
+Mt. Diablo Unified,Bel Air Elementary,663 Canal Road Bay Point CA 94565-3301,NA,NA,FALSE,tested,NA,Contra Costa County,38.019455,-121.937632
+San Ramon Valley Unified,Bella Vista Elementary,1050 Trumpet Vine Lane San Ramon CA 94582,NA,NA,FALSE,tested,San Ramon,Contra Costa County,37.752031,-121.918789
+Antioch Unified,Belshaw Elementary,2801 Roosevelt Lane Antioch CA 94509-5038,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.995449,-121.801249
+Antioch Unified,Bidwell Continuation High,800 Gary Avenue Antioch CA 94509-2763,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.999845,-121.793645
+Pittsburg Unified,Black Diamond High (Continuation),1131 Stoneman Avenue Pittsburg CA 94565-5466,NA,NA,FALSE,tested,NA,Contra Costa County,38.003175,-121.874172
+Antioch Unified,Black Diamond Middle,4730 Sterling Hill Drive Antioch CA 94531-7673,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.970467,-121.76675
+San Ramon Valley Unified,Blue Dot Academy,12998 Hawkins Dr San Ramon CA 94583,NA,NA,NA,not tested,NA,Contra Costa County,37.748875,-121.961584
+San Ramon Valley Unified,Bollinger Canyon Elementary,2300 Talavera Drive San Ramon CA 94583-2200,NA,NA,FALSE,tested,NA,Contra Costa County,37.760484,-121.97037
+Brentwood Union Elementary,Brentwood Elementary,200 Griffith Lane Brentwood CA 94513-1137,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.927768,-121.706432
+Antioch Unified,Bridges,501 West 17th Street Antioch CA 94509,NA,NA,NA,not tested,Antioch,Contra Costa County,38.006045,-121.81269
+Martinez Unified,Briones (Alternative),614 F St Martinez CA 94553-3212,NA,NA,NA,not tested,Martinez,Contra Costa County,38.000812,-122.130703
+Walnut Creek Elementary,Buena Vista Elementary,2355 San Juan Avenue Walnut Creek CA 94597-3099,NA,NA,FALSE,tested,NA,Contra Costa County,37.911512,-122.068627
+Lafayette Elementary,Burton Valley Elementary,"531 Merriewood Drive., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.862194,-122.09166
+Lafayette Elementary,Burton Valley Elementary,561 Merriewood Drive Lafayette CA 94549-5507,NA,NA,NA,not tested,NA,Contra Costa County,37.863285,-122.092291
+Contra Costa County Office of Education,Caliber: Beta Academy,4301 Berk Avenue Richmond CA 94804-4355,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.922857,-122.328978
+San Ramon Valley Unified,California High,9870 Broadmoor Drive San Ramon CA 94583-2942,NA,NA,FALSE,tested,NA,Contra Costa County,37.746128,-121.947352
+Mt. Diablo Unified,Cambridge Elementary,1135 Lacey Lane Concord CA 94520-4297,NA,NA,FALSE,tested,Concord,Contra Costa County,37.954353,-122.044152
+West Contra Costa Unified,Cameron,7140 Gladys Avenue El Cerrito CA 94530-3108,5.3,ppb,TRUE,tested,NA,Contra Costa County,37.921665,-122.307358
+Moraga Elementary,Camino Pablo Elementary,1111 Camino Pablo Moraga CA 94556-1898,NA,NA,FALSE,tested,NA,Contra Costa County,37.822976,-122.124552
+Acalanes Union High,Campolindo High,300 Moraga Road Moraga CA 94556-2402,NA,NA,FALSE,tested,NA,Contra Costa County,37.853918,-122.125044
+Antioch Unified,Carmen Dragon Elementary,4721 Vista Grande Drive Antioch CA 94531-8619,9.7,ppb,TRUE,tested,Antioch,Contra Costa County,37.96596,-121.754607
+John Swett Unified,Carquinez Middle,1099 Pomona Street Crockett CA 94525-1427,NA,NA,FALSE,tested,NA,Contra Costa County,38.052753,-122.21352
+Contra Costa County Office of Education,Central County Special Education Programs,2964 Miranda Avenue Alamo CA 94507-1614,6.3,ppb,TRUE,tested,NA,Contra Costa County,37.857959,-122.019906
+West Contra Costa Unified,Cesar E. Chavez Elementary,960 17th Street Richmond CA 94801-2400,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.946296,-122.353691
+San Ramon Valley Unified,Charlotte Wood Middle,600 El Capitan Drive Danville CA 94526-5000,NA,NA,FALSE,tested,NA,Contra Costa County,37.80018,-121.986104
+Contra Costa County Office of Education,Clayton Valley Charter High,1101 Alberta Way Concord CA 94521-3799,NA,NA,FALSE,tested,Concord,Contra Costa County,37.947562,-121.968368
+Mt. Diablo Unified,College Park High,201 Viking Drive Pleasant Hill CA 94523-1809,NA,NA,FALSE,tested,NA,Contra Costa County,37.964453,-122.07129
+West Contra Costa Unified,Collins Elementary,1224 Pinole Valley Road Pinole CA 94564-1300,NA,NA,FALSE,tested,NA,Contra Costa County,38.001453,-122.287588
+Mt. Diablo Unified,Concord High,4200 Concord Blvd. Concord CA 94521-1059,NA,NA,FALSE,tested,Concord,Contra Costa County,37.977161,-121.99117
+Contra Costa County Office of Education,Contra Costa Adult,5555 Giant Highway Richmond CA 94806-6002,NA,NA,NA,not tested,Richmond,Contra Costa County,37.994269,-122.352143
+Contra Costa County ROP,Contra Costa County ROP,77 Santa Barbara Road Pleasant Hill CA 94523-4215,NA,NA,NA,not tested,NA,Contra Costa County,37.935458,-122.070308
+Contra Costa County Office of Education,Contra Costa School of Performing Arts,2730 Mitchell Ln Walnut Creek CA 94598-1602,NA,NA,FALSE,tested,Walnut Creek,Contra Costa County,37.930349,-122.024609
+West Contra Costa Unified,Coronado Elementary,2100 Maine Avenue Richmond CA 94804-2798,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.927933,-122.349283
+San Ramon Valley Unified,Country Club Elementary,7534 Blue Fox Way San Ramon CA 94583-3721,NA,NA,FALSE,tested,NA,Contra Costa County,37.727953,-121.940515
+San Ramon Valley Unified,Coyote Creek Elementary,8700 North Gale Ridge Road San Ramon CA 94582-5081,NA,NA,FALSE,tested,NA,Contra Costa County,37.772381,-121.944236
+San Ramon Valley Unified,Creekside Elementary,6011 Massara Street Danville CA 94506-5004,NA,NA,FALSE,tested,Danville,Contra Costa County,37.792321,-121.881254
+West Contra Costa Unified,Crespi Junior High,1121 Allview Avenue El Sobrante CA 94803-1099,NA,NA,FALSE,tested,NA,Contra Costa County,37.986034,-122.308025
+Mt. Diablo Unified,Crossroads High (Alternative),2701 Willow Pass Concord CA 94519-1102,NA,NA,NA,not tested,Concord,Contra Costa County,37.979488,-122.027795
+Antioch Unified,Dallas Ranch Middle,1401 Mount Hamilton Drive Antioch CA 94531-8518,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.967266,-121.800802
+West Contra Costa Unified,De Anza High,5000 Valley View Road Richmond CA 94803-2599,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.96767,-122.285157
+Antioch Unified,Deer Valley High,4700 Lone Tree Way Antioch CA 94531-8486,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.963764,-121.77246
+San Ramon Valley Unified,Del Amigo High (Continuation),189 Del Amigo Road Danville CA 94526-2399,25,ppb,TRUE,tested,NA,Contra Costa County,37.826492,-122.011363
+Orinda Union Elementary,Del Rey Elementary,25 El Camino Moraga Orinda CA 94563-4117,9.2,ppb,TRUE,tested,NA,Contra Costa County,37.846206,-122.154358
+Mt. Diablo Unified,Delta View Elementary,2916 Rio Verde Pittsburg CA 94565-7641,NA,NA,FALSE,tested,Bay Point,Contra Costa County,38.011988,-121.967156
+Oakley Union Elementary,Delta Vista Middle,4901 Frank Hengel Way Oakley CA 94561-3712,NA,NA,NA,not tested,NA,Contra Costa County,37.990899,-121.689527
+Mt. Diablo Unified,Diablo Community Day,1026 Mohr Lane Concord CA 94518-3833,NA,NA,FALSE,tested,Concord,Contra Costa County,37.944461,-122.044856
+Mt. Diablo Unified,Diablo View Middle,300 Diablo View Lane Clayton CA 94517-1600,14,ppb,TRUE,tested,Clayton,Contra Costa County,37.930557,-121.92224
+Antioch Unified,Diablo Vista Elementary,4791 Prewett Ranch Drive Antioch CA 94531-8619,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.954682,-121.759936
+San Ramon Valley Unified,Diablo Vista Middle,4100 Camino Tassajara Danville CA 94506-4700,NA,NA,FALSE,tested,NA,Contra Costa County,37.799644,-121.89773
+Byron Union Elementary,Discovery Bay Elementary,1700 Willow Lake Road Discovery Bay CA 94505-9375,NA,NA,NA,not tested,NA,Contra Costa County,37.901243,-121.602046
+Moraga Elementary,Donald L. Rheem Elementary,90 Laird Drive Moraga CA 94556-1407,NA,NA,FALSE,tested,NA,Contra Costa County,37.856021,-122.130456
+San Ramon Valley Unified,Dougherty Valley High,10550 Albion Road San Ramon CA 94582-2901,NA,NA,FALSE,tested,NA,Contra Costa County,37.767625,-121.902625
+West Contra Costa Unified,Dover Elementary,1871 21st Street San Pablo CA 94806-4400,NA,NA,FALSE,tested,NA,Contra Costa County,37.958475,-122.349029
+Antioch Unified,Dozier-Libbey Medical High,4900 Sand Creek Road Antioch CA 94531-8680,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.948389,-121.768439
+Mt. Diablo Unified,Eagle Peak Montessori,800 Hutchinson Road Walnut Creek CA 94598-4505,NA,NA,FALSE,tested,NA,Contra Costa County,37.911569,-122.012047
+Contra Costa County Office of Education,East County Elementary Special Education,4207 Delta Fair Blvd. Antioch CA 94509-3944,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.003566,-121.849845
+San Ramon Valley Unified,Ed Center,699 Old Orchard Dr Danville CA 93526-4331,NA,NA,FALSE,tested,NA,Contra Costa County,37.812463,-121.977188
+Brentwood Union Elementary,Edna Hill Middle,140 Birch Street Brentwood CA 94513-1646,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.931557,-121.690817
+West Contra Costa Unified,Edward M. Downer Elementary,1231 18th Street San Pablo CA 94806-4731,NA,NA,FALSE,tested,NA,Contra Costa County,37.959562,-122.351315
+West Contra Costa Unified,El Cerrito High,540 Ashbury Avenue El Cerrito CA 94530-3299,NA,NA,FALSE,tested,NA,Contra Costa County,37.906899,-122.293916
+Mt. Diablo Unified,El Dorado Middle,1750 West Street Concord CA 94521-1008,NA,NA,FALSE,tested,Concord,Contra Costa County,37.97582,-121.992783
+Mt. Diablo Unified,El Monte Elementary,1400 Dina Drive Concord CA 94518-1222,NA,NA,FALSE,tested,Concord,Contra Costa County,37.968859,-122.012002
+West Contra Costa Unified,Ellerhorst Elementary,3501 Pinole Valley Road Pinole CA 94564-1299,NA,NA,FALSE,tested,NA,Contra Costa County,37.981439,-122.273164
+Mt. Diablo Unified,Fair Oaks Elementary,2400 Lisa Lane Pleasant Hill CA 94523-3993,NA,NA,FALSE,tested,NA,Contra Costa County,37.945132,-122.052077
+West Contra Costa Unified,Fairmont Elementary,724 Kearney Street El Cerrito CA 94530-3108,NA,NA,FALSE,tested,NA,Contra Costa County,37.906911,-122.304376
+Contra Costa County Office of Education,Floyd I. Marchus,2900 Avon Avenue Concord CA 94520-5404,NA,NA,FALSE,tested,Concord,Contra Costa County,37.994848,-122.047667
+Pittsburg Unified,Foothill Elementary,1200 Jensen Drive Pittsburg CA 94565-6399,NA,NA,FALSE,tested,NA,Contra Costa County,37.995443,-121.876417
+Mt. Diablo Unified,Foothill Middle,2775 Cedro Lane Walnut Creek CA 94598-3899,NA,NA,FALSE,tested,NA,Contra Costa County,37.9215,-122.01565
+West Contra Costa Unified,Ford Elementary,2711 Maricopa Avenue Richmond CA 94804-1091,NA,NA,FALSE,tested,NA,Contra Costa County,37.950676,-122.341959
+West Contra Costa Unified,Fred T. Korematsu Middle,1021 Navellier Street El Cerrito CA 94530-2691,NA,NA,FALSE,tested,NA,Contra Costa County,37.91595,-122.299504
+Liberty Union High,Freedom High,1050 Neroly Road Oakley CA 94561-3843,NA,NA,NA,not tested,NA,Contra Costa County,37.983484,-121.743151
+Antioch Unified,Fremont Elementary,1413 F St. Antioch CA 94509-2220,6.050000000000001,ppb,TRUE,tested,Antioch,Contra Costa County,38.007924,-121.812631
+San Ramon Valley Unified,Gale Ranch Middle,6400 Main Branch Road San Ramon CA 94582-5825,NA,NA,FALSE,tested,NA,Contra Costa County,37.765825,-121.912947
+Brentwood Union Elementary,Garin Elementary,250 First Street Brentwood CA 94513-1610,13,ppb,TRUE,tested,Brentwood,Contra Costa County,37.928876,-121.689359
+Mt. Diablo Unified,Gateway High (Continuation),235 Pacifica Avenue Bay Point CA 94565-2995,NA,NA,NA,not tested,NA,Contra Costa County,38.032075,-121.961473
+Oakley Union Elementary,Gehringer Elementary,100 Simoni Ranch Road Oakley CA 94561-2713,NA,NA,NA,not tested,Oakley,Contra Costa County,37.975273,-121.699951
+Orinda Union Elementary,Glorietta Elementary,15 Martha Road Orinda CA 94563-3558,13,ppb,TRUE,tested,NA,Contra Costa County,37.872397,-122.163514
+San Ramon Valley Unified,Golden View Elementary,5025 Canyon Crest Drive San Ramon CA 94582-4848,7.5,ppb,TRUE,tested,NA,Contra Costa County,37.78533,-121.943293
+West Contra Costa Unified,Grant Elementary,2400 Downer Avenue Richmond CA 94804-1458,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.942889,-122.345634
+Antioch Unified,Grant Elementary,4325 Spaulding Street Antioch CA 94531-8248,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.98583,-121.76822
+San Ramon Valley Unified,Green Valley Elementary,1001 Diablo Road Danville CA 94526-1923,6.1,ppb,TRUE,tested,NA,Contra Costa County,37.834731,-121.978839
+San Ramon Valley Unified,Greenbrook Elementary,1475 Harlan Drive Danville CA 94526-5248,NA,NA,FALSE,tested,NA,Contra Costa County,37.792249,-121.974112
+West Contra Costa Unified,Greenwood Academy,831 Chanslor Avenue Richmond CA 94801-3533,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.932545,-122.361495
+Mt. Diablo Unified,Gregory Gardens Elementary,1 Corritone Court Pleasant Hill CA 94523-2299,NA,NA,FALSE,tested,Pleasant Hill,Contra Costa County,37.960652,-122.068164
+West Contra Costa Unified,Hanna Ranch Elementary,2480 Refugio Valley Road Hercules CA 94547-1553,NA,NA,FALSE,tested,NA,Contra Costa County,37.995187,-122.242979
+Lafayette Elementary,Happy Valley Elementary,3855 Happy Valley Road Lafayette CA 94549-2406,NA,NA,NA,not tested,NA,Contra Costa County,37.905045,-122.141677
+Lafayette Elementary,Happy Valley Elementary,"3855 Happy Valley Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.905045,-122.141677
+West Contra Costa Unified,Harbour Way Elementary Community Day,1121 Allview Ave El Sobrante CA 94803-1054,NA,NA,NA,not tested,NA,Contra Costa County,37.986034,-122.308025
+West Contra Costa Unified,Harding Elementary,7230 Fairmont Avenue El Cerrito CA 94530-3797,NA,NA,FALSE,tested,El Cerrito,Contra Costa County,37.902781,-122.29454
+Pittsburg Unified,Heights Elementary,163 Alturas Avenue Pittsburg CA 94565-5883,NA,NA,FALSE,tested,NA,Contra Costa County,38.007723,-121.896989
+West Contra Costa Unified,Helms Middle,2500 Road 20 San Pablo CA 94806-5010,NA,NA,FALSE,tested,NA,Contra Costa County,37.963082,-122.33705
+West Contra Costa Unified,Hercules High,1900 Refugio Valley Road Hercules CA 94547-1554,NA,NA,FALSE,tested,NA,Contra Costa County,38.000619,-122.255895
+West Contra Costa Unified,Hercules Middle,1900 Refugio Valley Rd Hercules CA 94547-1554,NA,NA,FALSE,tested,NA,Contra Costa County,38.000619,-122.255895
+Liberty Union High,Heritage High,101 American Ave Brentwood CA 94513-4604,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.918004,-121.758874
+San Ramon Valley Unified,Hidden Hills Elementary,12995 Harcourt Way San Ramon CA 94582-2803,NA,NA,FALSE,tested,NA,Contra Costa County,37.764,-121.893225
+Mt. Diablo Unified,Hidden Valley Elementary,500 Glacier Drive Martinez CA 94553-5499,NA,NA,FALSE,tested,Martinez,Contra Costa County,37.983631,-122.088458
+West Contra Costa Unified,Highland Elementary,2829 Moyers Road Richmond CA 94806-2728,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.971754,-122.327019
+Mt. Diablo Unified,Highlands Elementary,1326 Pennsylvania Boulevard Concord CA 94521-4103,7.1,ppb,TRUE,tested,Concord,Contra Costa County,37.943848,-121.954917
+Pittsburg Unified,Highlands Elementary,4141 Harbor Street Pittsburg CA 94565-6199,NA,NA,FALSE,tested,NA,Contra Costa County,38.025839,-121.878565
+Pittsburg Unified,Hillview Junior High,333 Yosemite Drive Pittsburg CA 94565-5285,NA,NA,FALSE,tested,NA,Contra Costa County,38.002692,-121.888554
+Mt. Diablo Unified,Holbrook Language Academy,3333 Ronald Wy Concord CA 94519,8.9,ppb,TRUE,tested,Concord,Contra Costa County,37.992404,-122.026669
+Mt. Diablo Unified,Horizons School: Independent Study,1 Santa Barbara Road Pleasant Hill CA 94523-4496,NA,NA,NA,not tested,NA,Contra Costa County,37.935685,-122.068228
+Liberty Union High,Independence High,929 Second Street Brentwood CA 94513-1137,7.7,ppb,TRUE,tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Walnut Creek Elementary,Indian Valley Elementary,551 Marshall Drive Walnut Creek CA 94598-4908,NA,NA,FALSE,tested,NA,Contra Costa County,37.902121,-122.033482
+San Ramon Valley Unified,Iron Horse Middle,12601 Alcosta Boulevard San Ramon CA 94583-9025,NA,NA,FALSE,tested,NA,Contra Costa County,37.770467,-121.956629
+Oakley Union Elementary,Iron House Elementary,4801 Frank Hengel Way Oakley CA 94561-4617,NA,NA,NA,not tested,NA,Contra Costa County,37.997579,-121.695226
+Contra Costa County Office of Education,J.A. Ovick School,120 Middlefield Court Brentwood CA 94513,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.923902,-121.685781
+Antioch Unified,Jack London Elementary,4550 Country Hills Drive Antioch CA 94531-8906,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.972228,-121.774065
+Moraga Elementary,Joaquin Moraga Intermediate,1010 Camino Pablo Moraga CA 94556-1899,NA,NA,FALSE,tested,NA,Contra Costa County,37.82431,-122.130426
+San Ramon Valley Unified,John Baldwin Elementary,741 Brookside Drive Danville CA 94526-4201,NA,NA,FALSE,tested,NA,Contra Costa County,37.807374,-121.984351
+West Contra Costa Unified,John F. Kennedy High,4300 Cutting Boulevard Richmond CA 94804-3399,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.925431,-122.3289
+West Contra Costa Unified,John Henry High,251 South 12th Street Richmond CA 94804-2411,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.928696,-122.358118
+Martinez Unified,John Muir Elementary,205 Vista Way Martinez CA 94553-4029,NA,NA,FALSE,tested,Martinez,Contra Costa County,37.999169,-122.11958
+Martinez Unified,John Swett Elementary,4955 Alhambra Valley Road Martinez CA 94553-5707,NA,NA,FALSE,tested,Martinez,Contra Costa County,37.963766,-122.188155
+John Swett Unified,John Swett High,1098 Pomona Street Crockett CA 94525-1426,NA,NA,FALSE,tested,NA,Contra Costa County,38.052753,-122.21352
+West Contra Costa Unified,Kensington Elementary,90 Highland Boulevard Kensington CA 94708-1023,NA,NA,FALSE,tested,NA,Contra Costa County,37.913264,-122.278703
+Antioch Unified,Kimball Elementary,1310 August Way Antioch CA 94509-2402,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.008538,-121.800948
+Liberty Union High,La Paloma High (Continuation),400 Ghiggeri Way Brentwood CA 94513-5314,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.920421,-121.6809
+Lafayette Elementary,Lafayette Elementary,"950 Moraga Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.88895,-122.117624
+Lafayette Elementary,Lafayette Elementary,"950 Moraga Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.88895,-122.117624
+Lafayette Elementary,Lafayette Elementary,950 Moraga Road Lafayette CA 94549-4525,NA,NA,NA,not tested,NA,Contra Costa County,37.88895,-122.117624
+West Contra Costa Unified,Lake Elementary,2700 Eleventh Street San Pablo CA 94806-2298,NA,NA,FALSE,tested,San Pablo,Contra Costa County,37.97115,-122.35351
+Martinez Unified,Las Juntas Elementary,4105 Pacheco Boulevard Martinez CA 94553-2225,NA,NA,FALSE,tested,Martinez,Contra Costa County,38.013459,-122.123475
+Acalanes Union High,Las Lomas High,1460 South Main Street Walnut Creek CA 94596-5319,NA,NA,FALSE,tested,NA,Contra Costa County,37.89141,-122.057734
+Oakley Union Elementary,Laurel Elementary,1141 Laurel Road Oakley CA 94561-5906,NA,NA,NA,not tested,NA,Contra Costa County,37.983203,-121.716456
+West Contra Costa Unified,Leadership Public Schools: Richmond,880 Bissell Avenue Richmond CA 94801-2411,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.933985,-122.36118
+San Ramon Valley Unified,Lerner Academy,143 Clover Hill Court Danville CA 94526,NA,NA,NA,not tested,NA,Contra Costa County,37.813758,-121.983044
+Liberty Union High,Liberty Adult Education,929 Second Street Brentwood CA 94513-1137,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Liberty Union High,Liberty High,850 Second Street Brentwood CA 94513-1132,5.5,ppb,TRUE,tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Contra Costa County ROP,Liberty Transitions,850 Second Street  Brentwood CA 94513,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.938588,-121.699617
+West Contra Costa Unified,Lincoln Elementary,29 Sixth Street Richmond CA 94801-3595,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.932034,-122.363975
+San Ramon Valley Unified,Live Oak Elementary,5151 Sherwood Way San Ramon CA 94582-5961,7.45,ppb,TRUE,tested,NA,Contra Costa County,37.75467,-121.895029
+Antioch Unified,Live Oak High (Continuation),1708 F Street Antioch CA 94509-2225,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.005974,-121.812639
+Mt. Diablo Unified,Loma Vista Adult Center,1266 San Carlos Avenue Concord CA 94518-1102,NA,NA,FALSE,tested,Concord,Contra Costa County,37.96919,-122.025979
+Brentwood Union Elementary,Loma Vista Elementary,2110 San Jose Avenue Brentwood CA 94513-5930,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.939933,-121.737721
+Antioch Unified,Lone Tree Elementary,1931 Mokelumne Drive Antioch CA 94531-9129,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.964801,-121.788211
+San Ramon Valley Unified,Los Cerros Middle,968 Blemer Road Danville CA 94526-1502,NA,NA,FALSE,tested,NA,Contra Costa County,37.837749,-121.981318
+Pittsburg Unified,Los Medanos Elementary,610 Crowley Avenue Pittsburg CA 94565-4798,NA,NA,FALSE,tested,NA,Contra Costa County,38.01552,-121.898808
+Moraga Elementary,Los Perales Elementary,22 Wakefield Drive Moraga CA 94556-1216,NA,NA,FALSE,tested,NA,Contra Costa County,37.84761,-122.138177
+West Contra Costa Unified,Lovonya DeJean Middle,3400 Macdonald Avenue Richmond CA 94805-4501,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.934207,-122.33741
+West Contra Costa Unified,Lupine Hills Elementary,1919 Lupine Road Hercules CA 94547-1299,NA,NA,FALSE,tested,NA,Contra Costa County,38.006909,-122.25384
+Lafayette Elementary,M. H. Stanley Middle,3455 School Street Lafayette CA 94549-4573,NA,NA,NA,not tested,NA,Contra Costa County,37.887646,-122.11565
+West Contra Costa Unified,Madera Elementary,8500 Madera Drive El Cerrito CA 94530-2051,NA,NA,FALSE,tested,NA,Contra Costa County,37.928088,-122.299143
+Contra Costa County Office of Education,Making Waves Academy,4123 Lakeside Drive Richmond CA 94806-1942,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.986568,-122.332862
+West Contra Costa Unified,Manzanita Middle,3200 Barrett Ave Richmond CA 94804-1718,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.937038,-122.337925
+Pittsburg Unified,Marina Vista Elementary,50 East Eighth Street Pittsburg CA 94565-2442,NA,NA,FALSE,tested,Pittsburg,Contra Costa County,38.029197,-121.885819
+Brentwood Union Elementary,Marsh Creek Elementary,601 Grant Street Brentwood CA 94513-2259,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.952756,-121.707289
+Antioch Unified,Marsh Elementary,2304 G Street Antioch CA 94509-3500,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.000357,-121.815173
+Pittsburg Unified,Martin Luther King Jr. Junior High,2012 Carion Court Pittsburg CA 94565-4116,NA,NA,FALSE,tested,Pittsburg,Contra Costa County,38.015113,-121.87077
+West Contra Costa Unified,"Martin Luther King, Jr. Elementary",4022 Florida Ave Richmond CA 94804-3398,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.929387,-122.331668
+Martinez Unified,Martinez Early Intervention Preschool Program (MEIPP),921 Susana Street Martinez CA 94553-1848,NA,NA,NA,not tested,Martinez,Contra Costa County,38.014593,-122.132626
+Martinez Unified,Martinez Junior High,1600 Court Street Martinez CA 94553-1846,NA,NA,FALSE,tested,Martinez,Contra Costa County,38.017419,-122.133336
+Brentwood Union Elementary,Mary Casey Black Elementary,480 Farmington Drive Brentwood CA 94513-5548,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.94914,-121.687629
+Mt. Diablo Unified,Meadow Homes Elementary,1371 Detroit Avenue Concord CA 94520-3521,NA,NA,FALSE,tested,Concord,Contra Costa County,37.965447,-122.038581
+Private,"Meher Schools, The",999 Leland Drive Lafayette CA 94549,NA,NA,FALSE,tested,NA,Contra Costa County,37.89259,-122.087571
+West Contra Costa Unified,Middle College High,2600 Mission Bell Drive San Pablo CA 94806-3195,NA,NA,FALSE,tested,NA,Contra Costa County,37.969472,-122.339782
+West Contra Costa Unified,Mira Vista Elementary,6397 Hazel Avenue Richmond CA 94805-2099,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.939293,-122.315319
+Acalanes Union High,Miramonte High,750 Moraga Way Orinda CA 94563-4330,NA,NA,FALSE,tested,NA,Contra Costa County,37.842598,-122.145066
+Antioch Unified,Mission Elementary,1711 Mission Drive Antioch CA 94509-4543,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.997043,-121.83125
+San Ramon Valley Unified,Montair Elementary,300 Quinterra Lane Danville CA 94526-3239,NA,NA,FALSE,tested,Danville,Contra Costa County,37.819188,-122.004907
+West Contra Costa Unified,Montalvin Manor Elementary,300 Christine Drive San Pablo CA 94806-1199,NA,NA,FALSE,tested,San Pablo,Contra Costa County,37.995018,-122.33617
+Mt. Diablo Unified,Monte Gardens Elementary,3841 Larkspur Drive Concord CA 94519-1152,NA,NA,FALSE,tested,Concord,Contra Costa County,37.98917,-122.004239
+San Ramon Valley Unified,Monte Vista High,3131 Stone Valley Road Danville CA 94526-1129,11,ppb,TRUE,tested,NA,Contra Costa County,37.842615,-121.982307
+San Ramon Valley Unified,Montevideo Elementary,13000 Broadmoor Drive San Ramon CA 94583-2555,11.3,ppb,TRUE,tested,NA,Contra Costa County,37.754667,-121.950761
+Martinez Unified,Morello Park Elementary,1200 Morello Park Drive Martinez CA 94553-3524,NA,NA,FALSE,tested,Martinez,Contra Costa County,38.000686,-122.1006
+Mt. Diablo Unified,Mountain View Elementary,1705 Thornwood Drive Concord CA 94521-1999,NA,NA,FALSE,tested,Concord,Contra Costa County,37.969308,-121.979022
+Mt. Diablo Unified,Mt. Diablo Elementary,5880 Mount Zion Drive Clayton CA 94517-1114,NA,NA,FALSE,tested,NA,Contra Costa County,37.94261,-121.940134
+Mt. Diablo Unified,Mt. Diablo High,2455 Grant Street Concord CA 94520-2252,NA,NA,FALSE,tested,Concord,Contra Costa County,37.983224,-122.037232
+Antioch Unified,Muir (John) Elementary,615 Greystone Drive Antioch CA 94509-6990,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.976385,-121.796095
+West Contra Costa Unified,Murphy Elementary,4350 Valley View Road El Sobrante CA 94803-1499,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.977259,-122.291798
+Walnut Creek Elementary,Murwood Elementary,2050 Vanderslice Avenue Walnut Creek CA 94596-5923,NA,NA,FALSE,tested,NA,Contra Costa County,37.882798,-122.046501
+San Ramon Valley Unified,Neil A. Armstrong Elementary,2849 Calais Drive San Ramon CA 94583-3116,NA,NA,FALSE,tested,NA,Contra Costa County,37.740867,-121.947779
+Mt. Diablo Unified,Northgate High,425 Castle Rock Road Walnut Creek CA 94598-4599,5.5,ppb,TRUE,tested,NA,Contra Costa County,37.908348,-122.007059
+West Contra Costa Unified,Nutrition Center,750 Bissell Ave Richmond CA 94801,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.933986,-122.362315
+West Contra Costa Unified,Nystrom Elementary,230 Harbour Way South Richmond CA 94804-2428,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.934618,-122.359893
+Oakley Union Elementary,O'Hara Park Middle,1100 O'Hara Avenue Oakley CA 94561-3502,NA,NA,NA,not tested,NA,Contra Costa County,37.987895,-121.714105
+Mt. Diablo Unified,Oak Grove Middle,2050 Minert Road Concord CA 94518-3428,NA,NA,FALSE,tested,NA,Contra Costa County,37.939844,-122.034798
+Oakley Union Elementary,Oakley Elementary,501 Norcross Lane Oakley CA 94561-2189,NA,NA,NA,not tested,NA,Contra Costa County,37.994983,-121.716284
+West Contra Costa Unified,Ohlone Elementary,1616 Pheasant Drive Hercules CA 94547-1699,NA,NA,FALSE,tested,NA,Contra Costa County,38.007471,-122.272289
+Knightsen Elementary,Old River Elementary School,30 Learning Lane Brentwood CA 94513,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.935671,-121.620505
+West Contra Costa Unified,Olinda Elementary,5855 Olinda Road El Sobrante CA 94803-3589,NA,NA,FALSE,tested,NA,Contra Costa County,37.957231,-122.27196
+Mt. Diablo Unified,Olympic Continuation High,2730 Salvio Street Concord CA 94519-2599,NA,NA,FALSE,tested,Concord,Contra Costa County,37.980743,-122.027785
+Antioch Unified,Orchard Park,5150 Live Oak Avenue Oakley CA 94561-4127,NA,NA,NA,not tested,NA,Contra Costa County,38.00288,-121.741477
+Orinda Union Elementary,Orinda Intermediate,80 Ivy Drive Orinda CA 94563-4244,NA,NA,FALSE,tested,NA,Contra Costa County,37.851294,-122.145488
+Private,Palmer School For Boys and Girls,2740 Jones Road Walnut Creek CA 94597,NA,NA,FALSE,tested,NA,Contra Costa County,37.919587,-122.061608
+Antioch Unified,Park Middle,1 Spartan Way Antioch CA 94509-4882,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.993586,-121.814852
+Pittsburg Unified,Parkside Elementary,985 West 17th Street Pittsburg CA 94565-3716,6.7,ppb,TRUE,tested,NA,Contra Costa County,38.022733,-121.898544
+West Contra Costa Unified,Peres Elementary,719 Fifth Street Richmond CA 94801-2655,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.942731,-122.36451
+Mt. Diablo Unified,Pine Hollow Middle,5522 Pine Hollow Road Concord CA 94521-4799,NA,NA,FALSE,tested,NA,Contra Costa County,37.941161,-121.952087
+San Ramon Valley Unified,Pine Valley Middle,3000 Pine Valley Road San Ramon CA 94583-3324,NA,NA,FALSE,tested,NA,Contra Costa County,37.737881,-121.942621
+West Contra Costa Unified,Pinole Middle,1575 Mann Drive Pinole CA 94564-4042,NA,NA,FALSE,tested,NA,Contra Costa County,37.997539,-122.302804
+West Contra Costa Unified,Pinole Valley High,2900 Pinole Valley Road Pinole CA 94564-1499,NA,NA,FALSE,tested,NA,Contra Costa County,37.990756,-122.287192
+Brentwood Union Elementary,Pioneer Elementary,2010 Shady Willow Lane Brentwood CA 94513-5309,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.954513,-121.736856
+Pittsburg Unified,Pittsburg Adult Education Center,20 East 10th Street Pittsburg CA 94565-2599,7.7,ppb,TRUE,tested,NA,Contra Costa County,38.028085,-121.886147
+Pittsburg Unified,Pittsburg Senior High,1750 Harbor Street Pittsburg CA 94565-4615,NA,NA,FALSE,tested,NA,Contra Costa County,38.019479,-121.881436
+Mt. Diablo Unified,Pleasant Hill Education Center,1 Santa Barbara Rd B Pleasant Hill CA 94523-4417,NA,NA,NA,not tested,Pleasant Hill,Contra Costa County,37.937207,-122.066126
+Mt. Diablo Unified,Pleasant Hill Elementary,2097 Oak Park Boulevard Pleasant Hill CA 94523-4033,NA,NA,NA,not tested,NA,Contra Costa County,37.933544,-122.081776
+Mt. Diablo Unified,Pleasant Hill Middle,1 Santa Barbara Rd C Pleasant Hill CA 94503-4215,NA,NA,FALSE,tested,Pleasant Hill,Contra Costa County,37.937207,-122.066126
+Mt. Diablo Unified,Prospect High (Continuation),One Santa Barbara Road Pleasant Hill CA 94523-4417,NA,NA,NA,not tested,NA,Contra Costa County,37.935363,-122.070434
+Antioch Unified,Prospects High (Alternative),820 West Second Street Antioch CA 94509-1145,NA,NA,NA,not tested,Antioch,Contra Costa County,38.017093,-121.81667
+San Ramon Valley Unified,Quail Run Elementary,4000 Goldenbay Avenue San Ramon CA 94582-5814,NA,NA,FALSE,tested,NA,Contra Costa County,37.761633,-121.914476
+Private,Queen of All Saints Elementary,2391 Grant Street Concord CA 94520,NA,NA,FALSE,tested,Concord,Contra Costa County,37.982525,-122.036802
+Brentwood Union Elementary,R. Paul Krey Elementary,190 Crawford Drive Brentwood CA 94513-5628,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.91837,-121.738353
+Pittsburg Unified,Rancho Medanos Junior High,2301 Range Road Pittsburg CA 94565-5495,NA,NA,FALSE,tested,NA,Contra Costa County,38.024525,-121.918119
+San Ramon Valley Unified,Rancho Romero Elementary,180 Hemme Avenue Alamo CA 94507-2144,NA,NA,FALSE,tested,NA,Contra Costa County,37.839907,-122.027972
+West Contra Costa Unified,Richmond Charter Academy,1450 Marina Way South Richmond CA 94804-1718,NA,NA,NA,not tested,Richmond,Contra Costa County,37.935794,-122.356205
+West Contra Costa Unified,Richmond Charter Elementary-Benito Juarez,777 Sonoma Street Richmond CA 94805-1534,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.945284,-122.320734
+West Contra Costa Unified,Richmond College Preparatory,214 South 11th Street Richmond CA 94804-2474,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.928509,-122.358566
+West Contra Costa Unified,Richmond High,1250 23rd Street Richmond CA 94804-1091,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.931419,-122.347737
+Mt. Diablo Unified,Rio Vista Elementary,611 Pacifica Avenue Bay Point CA 94565-1359,NA,NA,FALSE,tested,NA,Contra Costa County,38.032075,-121.961473
+West Contra Costa Unified,Riverside Elementary,1300 Amador Street Richmond CA 94806-4098,NA,NA,FALSE,tested,NA,Contra Costa County,37.951613,-122.326928
+Mt. Diablo Unified,Riverview Middle,205 Pacifica Avenue Bay Point CA 94565-2995,NA,NA,FALSE,tested,NA,Contra Costa County,38.032075,-121.961473
+John Swett Unified,Rodeo Hills Elementary,545 Garretson Street Rodeo CA 94572-1418,NA,NA,FALSE,tested,Rodeo,Contra Costa County,38.030959,-122.269471
+Brentwood Union Elementary,Ron Nunn Elementary,1755 Central Boulevard Brentwood CA 94513-1734,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.930287,-121.728606
+Private,Saint Agnes,3886 Chestnut Avenue Concord CA 94519,NA,NA,FALSE,tested,Concord,Contra Costa County,37.971735,-122.003775
+Private,Salesian College Preparatory,2851 Salesian Avenue Richmond CA 94804,7.45,ppb,TRUE,tested,NA,Contra Costa County,37.95282,-122.339321
+San Ramon Valley Unified,San Ramon Valley High,501 Danville Boulevard Danville CA 94526-2404,11,ppb,TRUE,tested,NA,Contra Costa County,37.825825,-122.006628
+Private,"Seneca Family of Agencies, Olivera School",2351 Olivera Road Concord CA 94520,NA,NA,FALSE,tested,Concord,Contra Costa County,37.996371,-122.036166
+Mt. Diablo Unified,Sequoia Elementary,277 Boyd Road Pleasant Hill CA 94523-3796,NA,NA,FALSE,tested,NA,Contra Costa County,37.943562,-122.066553
+Mt. Diablo Unified,Sequoia Middle,265 Boyd Road Pleasant Hill CA 94523-3297,NA,NA,FALSE,tested,NA,Contra Costa County,37.943564,-122.065933
+San Ramon Valley Unified,Service Center,3280 East Crow Canyon Rd San Ramon CA 94583,NA,NA,FALSE,tested,NA,Contra Costa County,37.78033,-121.967474
+Private,"Seven Hills, The",975 North San Carlos Drive Walnut Creek CA 94598,NA,NA,FALSE,tested,NA,Contra Costa County,37.91834,-122.04018
+Mt. Diablo Unified,Shadelands Special Education,1860 Silverwood Dr Concord CA 94519-1351,NA,NA,FALSE,tested,Concord,Contra Costa County,37.985679,-122.002907
+West Contra Costa Unified,Shannon Elementary,685 Marlesta Road Pinole CA 94564-2899,NA,NA,FALSE,tested,NA,Contra Costa County,38.000639,-122.31068
+West Contra Costa Unified,Sheldon Elementary,2601 May Road Richmond CA 94803-3196,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.96756,-122.296109
+Mt. Diablo Unified,Shore Acres Elementary,351 Marina Road Bay Point CA 94565-1399,NA,NA,FALSE,tested,Bay Point,Contra Costa County,38.035684,-121.969751
+Mt. Diablo Unified,Silverwood Elementary,1649 Claycord Avenue Concord CA 94521-2299,NA,NA,FALSE,tested,Concord,Contra Costa County,37.96314,-121.971185
+Orinda Union Elementary,Sleepy Hollow Elementary,20 Washington Lane Orinda CA 94563-1325,NA,NA,FALSE,tested,NA,Contra Costa County,37.90786,-122.197454
+Private,Spectrum Center -Delta Campus,135 East Leland Road Pittsburg CA 94565,NA,NA,FALSE,tested,NA,Contra Costa County,38.01193,-121.890371
+Private,"Spectrum Center, Inc.-Valley Campus",1026 Oak Grove Road Suite 11 Concord CA 94518,5.5,ppb,TRUE,tested,Concord,Contra Costa County,37.950703,-122.035881
+Private,"Spectrum Center, Inc.–Tara Hills",16330 San Pablo Avenue San Pablo CA 94806,NA,NA,FALSE,tested,NA,Contra Costa County,37.953943,-122.334009
+Lafayette Elementary,Springhill Elementary,"3301 Springhill Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.90752,-122.101866
+Lafayette Elementary,Springhill Elementary,3301 Springhill Road Lafayette CA 94549-2519,NA,NA,NA,not tested,NA,Contra Costa County,37.90752,-122.101866
+Lafayette Elementary,Springhill Elementary,"3301 Springhill Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.90752,-122.101866
+Private,St. Cornelius Elementary,201 28th Street Richmond CA 94804,12,ppb,TRUE,tested,Richmond,Contra Costa County,37.934326,-122.341946
+Private,St. David's Elementary,871 Sonoma Street Richmond CA 94805,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.947349,-122.321745
+Private,St. Isidore School,435 La Gonda Way Danville CA 94526,5.2,ppb,TRUE,tested,NA,Contra Costa County,37.826669,-122.002781
+Private,St. John the Baptist,11156 San Pablo Avenue El Cerrito CA 94530,5.8,ppb,TRUE,tested,NA,Contra Costa County,37.91892,-122.313691
+Private,St. Joseph Elementary,1961 Plum Street Pinole CA 94564,8,ppb,TRUE,tested,NA,Contra Costa County,38.003815,-122.290834
+Private,St. Mary of the Immaculate Conception,1158 Bont Lane Walnut Creek CA 94596,5.3,ppb,TRUE,tested,NA,Contra Costa County,37.895662,-122.067939
+Private,St. Patrick School,907 Seventh Street Rodeo CA 94572,NA,NA,FALSE,tested,NA,Contra Costa County,38.028907,-122.263055
+Private,St. Paul School,1825 Church Lane San Pablo CA 94806,6.1,ppb,TRUE,tested,NA,Contra Costa County,37.956211,-122.342734
+Private,St. Perpetua,3445 Hamlin Road Lafayette CA 94549,NA,NA,FALSE,tested,NA,Contra Costa County,37.881858,-122.11304
+Lafayette Elementary,Stanley Middle,"3455 School St., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.887646,-122.11565
+West Contra Costa Unified,Stege Elementary,4949 Cypress Avenue Richmond CA 94804-4499,10,ppb,TRUE,tested,Richmond,Contra Costa County,37.919872,-122.323048
+West Contra Costa Unified,Stewart Elementary,2040 Hoke Drive Pinole CA 94564-1899,NA,NA,FALSE,tested,NA,Contra Costa County,37.991035,-122.289018
+San Ramon Valley Unified,Stone Valley Middle,3001 Miranda Avenue Alamo CA 94507-1646,NA,NA,FALSE,tested,NA,Contra Costa County,37.858525,-122.020534
+Pittsburg Unified,Stoneman Elementary,2929 Loveridge Road Pittsburg CA 94565-5132,NA,NA,FALSE,tested,NA,Contra Costa County,38.006843,-121.8713
+Mt. Diablo Unified,Strandwood Elementary,416 Gladys Drive Pleasant Hill CA 94523-2749,NA,NA,FALSE,tested,NA,Contra Costa County,37.950323,-122.075565
+Mt. Diablo Unified,Summit High (Continuation),4200 Concord Boulevard Concord CA 94521-1059,NA,NA,NA,not tested,Concord,Contra Costa County,37.977161,-121.99117
+Contra Costa County Office of Education,Summit Public School K2,1800 Elm Street El Cerrito CA 94530-1925,NA,NA,FALSE,tested,NA,Contra Costa County,37.925914,-122.313378
+West Contra Costa Unified,Summit Public School Tamalpais,3020 Hilltop Mall Rd Richmond CA 94806-1920,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.978124,-122.327402
+Mt. Diablo Unified,Sun Terrace Elementary,2448 Floyd Lane Concord CA 94520-1499,NA,NA,FALSE,tested,Concord,Contra Costa County,37.999991,-122.029861
+Mt. Diablo Unified,Sunrise (Special Education),1861 Silverwood Drive Concord CA 94519-1352,NA,NA,FALSE,tested,Concord,Contra Costa County,37.985569,-122.003062
+Antioch Unified,Sutter Elementary,3410 Longview Road Antioch CA 94509-6006,NA,NA,FALSE,tested,Antioch,Contra Costa County,37.985572,-121.812091
+San Ramon Valley Unified,Sycamore Valley Elementary,2200 Holbrook Drive Danville CA 94506-4413,NA,NA,FALSE,tested,NA,Contra Costa County,37.806889,-121.944634
+West Contra Costa Unified,Tara Hills Elementary,2300 Dolan Way San Pablo CA 94806-1699,NA,NA,FALSE,tested,San Pablo,Contra Costa County,37.994053,-122.313099
+San Ramon Valley Unified,Tassajara Hills Elementary,4675 Camino Tassajara Road Danville CA 94506-5901,9.1,ppb,TRUE,tested,NA,Contra Costa County,37.809672,-121.95325
+Private,The Saklan School,1678 School Street Moraga CA 94556,NA,NA,FALSE,tested,NA,Contra Costa County,37.833125,-122.132655
+Walnut Creek Elementary,Tice Creek,1847 Newell Avenue Walnut Creek CA 94595-1452,NA,NA,FALSE,tested,NA,Contra Costa County,37.893229,-122.056959
+Byron Union Elementary,Timber Point Elementary,40 Newbury Lane Discovery Bay CA 94505-1828,NA,NA,NA,not tested,NA,Contra Costa County,37.908853,-121.617675
+West Contra Costa Unified,Transition Program at Vista High,2625 Barnard Rd San Pablo CA 94806,NA,NA,NA,not tested,San Pablo,Contra Costa County,37.968545,-122.324831
+Antioch Unified,Turner Elementary,4207 Delta Fair Boulevard Antioch CA 94509-3944,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.003566,-121.849845
+San Ramon Valley Unified,Twin Creeks Elementary,2785 Marsh Drive San Ramon CA 94583-2049,NA,NA,FALSE,tested,NA,Contra Costa County,37.766876,-121.986567
+Mt. Diablo Unified,Valhalla Elementary,530 Kiki Drive Pleasant Hill CA 94523-1717,12,ppb,TRUE,tested,NA,Contra Costa County,37.966669,-122.081298
+Mt. Diablo Unified,Valle Verde Elementary,3275 Peachwillow Lane Walnut Creek CA 94598-1711,NA,NA,FALSE,tested,NA,Contra Costa County,37.934243,-122.014818
+West Contra Costa Unified,Valley View Elementary,3416 Maywood Drive Richmond CA 94803-2099,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.972379,-122.284983
+Mt. Diablo Unified,Valley View Middle,181 Viking Drive Pleasant Hill CA 94523-1808,NA,NA,FALSE,tested,NA,Contra Costa County,37.966721,-122.06641
+San Ramon Valley Unified,Venture (Alternative),10540 Albion Road San Ramon CA 94582-2901,NA,NA,FALSE,tested,NA,Contra Costa County,37.7676,-121.902708
+West Contra Costa Unified,Verde Elementary,2000 Giaramita Street Richmond CA 94801-1699,NA,NA,FALSE,tested,NA,Contra Costa County,37.960338,-122.363211
+Martinez Unified,Vicente Martinez High,614 F Street Martinez CA 94553-3212,NA,NA,NA,not tested,Martinez,Contra Costa County,38.000812,-122.130703
+Oakley Union Elementary,Vintage Parkway Elementary,1000 Vintage Parkway Oakley CA 94561-3161,NA,NA,NA,not tested,NA,Contra Costa County,38.004461,-121.719848
+San Ramon Valley Unified,Vista Grande Elementary,667 Diablo Road Danville CA 94526-2801,NA,NA,FALSE,tested,NA,Contra Costa County,37.825192,-121.987211
+West Contra Costa Unified,Vista High (Alternative),2625 Barnard Road San Pablo CA 94806-2703,12,ppb,TRUE,tested,San Pablo,Contra Costa County,37.968545,-122.324831
+Orinda Union Elementary,Wagner Ranch Elementary,350 Camino Pablo Orinda CA 94563-1602,NA,NA,FALSE,tested,NA,Contra Costa County,37.897772,-122.206793
+Mt. Diablo Unified,Walnut Acres Elementary,180 Cerezo Drive Walnut Creek CA 94598-3799,NA,NA,FALSE,tested,NA,Contra Costa County,37.917637,-122.019637
+Walnut Creek Elementary,Walnut Creek Intermediate,2425 Walnut Boulevard Walnut Creek CA 94597-3836,NA,NA,FALSE,tested,NA,Contra Costa County,37.911232,-122.059062
+Walnut Creek Elementary,Walnut Heights Elementary,4064 Walnut Boulevard Walnut Creek CA 94596-5463,NA,NA,FALSE,tested,NA,Contra Costa County,37.894696,-122.038519
+San Ramon Valley Unified,Walt Disney Elementary,3250 Pine Valley Road San Ramon CA 94583-3651,NA,NA,FALSE,tested,NA,Contra Costa County,37.741437,-121.935213
+West Contra Costa Unified,Washington Elementary,565 Wine Street Richmond CA 94801-4054,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.924323,-122.380779
+West Contra Costa Unified,West Contra Costa Adult Education,6028 Ralston Avenue Richmond CA 94805-1202,NA,NA,NA,not tested,Richmond,Contra Costa County,37.947862,-122.321026
+West Contra Costa Unified,West County Mandarin School,800 874 Sonoma Steet Richmond CA 94805,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.947944,-122.32185
+Mt. Diablo Unified,Westwood Elementary,1748 West Street Concord CA 94521-1008,NA,NA,FALSE,tested,Concord,Contra Costa County,37.975787,-121.992822
+Brentwood Union Elementary,William B. Bristow Middle,855 Minnesota Avenue Brentwood CA 94513-1802,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.937482,-121.714649
+Pittsburg Unified,Willow Cove Elementary,1880 Hanlon Way Pittsburg CA 94565-3835,NA,NA,FALSE,tested,NA,Contra Costa County,38.023023,-121.92719
+John Swett Unified,Willow High,1650 Crockett Boulevard Crockett CA 94525-0916,NA,NA,FALSE,tested,NA,Contra Costa County,38.046695,-122.220159
+West Contra Costa Unified,Wilson Elementary,629 42nd Street Richmond CA 94805-1898,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.938287,-122.328846
+San Ramon Valley Unified,Windemere Ranch Middle,11611 East Branch Parkway San Ramon CA 94582-5805,NA,NA,FALSE,tested,NA,Contra Costa County,37.751858,-121.906795
+Mt. Diablo Unified,Woodside Elementary,761 San Simeon Drive Concord CA 94518-2337,NA,NA,FALSE,tested,Concord,Contra Costa County,37.941282,-122.017875
+Mt. Diablo Unified,Wren Avenue Elementary,3339 Wren Avenue Concord CA 94519-2328,NA,NA,FALSE,tested,Concord,Contra Costa County,37.980303,-122.016179
+Mt. Diablo Unified,Ygnacio Valley Elementary,2217 Chalomar Road Concord CA 94518-2595,NA,NA,FALSE,tested,Concord,Contra Costa County,37.949264,-122.029658
+Mt. Diablo Unified,Ygnacio Valley High,755 Oak Grove Rd Concord CA 94518-2899,NA,NA,FALSE,tested,Concord,Contra Costa County,37.938303,-122.024823
+Pittsburg Unified,Youth Development Center,1001 Stoneman Ave Pittsburg CA 94565,NA,NA,FALSE,tested,NA,Contra Costa County,38.003891,-121.877803

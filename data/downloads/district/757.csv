@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sonoma Valley Unified,Adele Harrison Middle,1150 Broadway Sonoma CA 95476-7578,NA,NA,NA,not tested,Sonoma,Sonoma County,38.281178,-122.459415
+Sonoma Valley Unified,Altimira Middle,17805 Arnold Drive Sonoma CA 95476-4019,NA,NA,FALSE,tested,NA,Sonoma County,38.309373,-122.497089
+Sonoma Valley Unified,Creekside High,950 Broadway Sonoma CA 95476-7413,NA,NA,NA,not tested,Sonoma,Sonoma County,38.28388,-122.458984
+Sonoma Valley Unified,Dunbar Elementary,11700 Dunbar Road Glen Ellen CA 95442-9611,NA,NA,FALSE,tested,NA,Sonoma County,38.389178,-122.527835
+Sonoma Valley Unified,El Verano Elementary,18606 Riverside Drive Sonoma CA 95476-4526,NA,NA,FALSE,tested,NA,Sonoma County,38.306951,-122.484928
+Sonoma Valley Unified,Flowery Elementary,17600 Sonoma Highway Sonoma CA 95476-3699,NA,NA,FALSE,tested,Sonoma,Sonoma County,38.296639,-122.475504
+Sonoma Valley Unified,Prestwood Elementary,343 East MacArthur Street Sonoma CA 95476-7617,NA,NA,NA,not tested,Sonoma,Sonoma County,38.284068,-122.452841
+Sonoma Valley Unified,Sassarini Elementary,652 Fifth Street West Sonoma CA 95476-6803,NA,NA,NA,not tested,Sonoma,Sonoma County,38.290059,-122.467238
+Sonoma Valley Unified,Sonoma Charter,17202 Sonoma Highway Sonoma CA 95476-3667,NA,NA,FALSE,tested,NA,Sonoma County,38.322823,-122.487419
+Sonoma Valley Unified,Sonoma Valley High,20000 Broadway Sonoma CA 95476-7413,NA,NA,NA,not tested,Sonoma,Sonoma County,38.283178,-122.457827
+Sonoma Valley Unified,Woodland Star Charter,17811 Arnold Drive Sonoma CA 95476-4019,NA,NA,FALSE,tested,NA,Sonoma County,38.309333,-122.497069

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Ukiah Unified,Calpella Elementary,151 Moore Street Ukiah CA 95482-9547,NA,NA,FALSE,tested,Ukiah,Mendocino County,39.233857,-123.205838
+Ukiah Unified,Nokomis Elementary,495 Washington Street Ukiah CA 95482-6324,8.4,ppb,TRUE,tested,Ukiah,Mendocino County,39.133976,-123.213885
+Private,St. Mary of the Angels,991 South Dora Ukiah CA 95482,NA,NA,FALSE,tested,Ukiah,Mendocino County,39.139267,-123.209335

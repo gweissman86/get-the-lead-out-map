@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Corona-Norco Unified,Clara Barton Elementary,7437 Corona Valley Avenue Eastvale CA 92880-8700,NA,NA,FALSE,tested,Eastvale,Riverside County,33.951898,-117.587966
+Corona-Norco Unified,Dr. Augustine Ramirez Intermediate,6905 Harrison Avenue Eastvale CA 92880-9324,NA,NA,FALSE,tested,Eastvale,Riverside County,33.963254,-117.586086
+Corona-Norco Unified,Eastvale Elementary,13031 Orange Street Eastvale CA 92880-9743,NA,NA,FALSE,tested,Eastvale,Riverside County,33.959641,-117.56799
+Corona-Norco Unified,Eleanor Roosevelt High,7447 Scholar Way Eastvale CA 92880-9750,NA,NA,FALSE,tested,Eastvale,Riverside County,33.953064,-117.568594
+Jurupa Unified,Jurupa Valley High,10551 Bellegrave Avenue Jurupa Valley CA 91752-1800,NA,NA,NA,not tested,Eastvale,Riverside County,34.002287,-117.515233
+Corona-Norco Unified,Rosa Parks Elementary,13830 Whispering Hills Drive Corona CA 92880-3792,NA,NA,FALSE,tested,Eastvale,Riverside County,33.964874,-117.585109
+Jurupa Unified,Troth Street Elementary,5565 Troth Street Jurupa Valley CA 91752-2204,NA,NA,NA,not tested,Eastvale,Riverside County,33.984983,-117.515029
+Jurupa Unified,Van Buren Elementary,9501 Jurupa Road Jurupa Valley CA 92509-3513,NA,NA,NA,not tested,Eastvale,Riverside County,33.992729,-117.513909

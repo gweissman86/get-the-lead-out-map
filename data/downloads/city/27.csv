@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Las Lomitas Elementary,Las Lomitas Elementary,299 Alameda de Las Pulgas Atherton CA 94027-6469,24.8,ppb,TRUE,tested,Atherton,San Mateo County,37.438134,-122.212373
+Menlo Park City Elementary,Laurel Elementary,95 Edge Road Atherton CA 94027-2254,NA,NA,NA,not tested,Atherton,San Mateo County,37.466811,-122.17188
+Redwood City Elementary,Selby Lane Elementary,170 Selby Lane Atherton CA 94027-3960,17.65,ppb,TRUE,tested,Atherton,San Mateo County,37.458115,-122.22021

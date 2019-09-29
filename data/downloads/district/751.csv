@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Snowline Joint Unified,Baldy Mesa Elementary,10376 Baldy Mesa Road Phelan CA 92329-6000,NA,NA,FALSE,tested,Phelan,San Bernardino County,34.438811,-117.452014
+Snowline Joint Unified,Chaparral High,9258 Malpaso Road Phelan CA 92329-6000,NA,NA,NA,not tested,NA,San Bernardino County,34.418322,-117.576919
+Snowline Joint Unified,Eagle Summit Community Day,3919 Nielson Road Phelan CA 92371-8675,NA,NA,NA,not tested,NA,San Bernardino County,34.418971,-117.57347
+Snowline Joint Unified,Heritage,9542 Wilson Ranch Road Phelan CA 92371-7298,NA,NA,FALSE,tested,Phelan,San Bernardino County,34.423819,-117.523104
+Snowline Joint Unified,Phelan Elementary,4167 Phelan Road Phelan CA 92371-3902,NA,NA,FALSE,tested,NA,San Bernardino County,34.42625,-117.571433
+Snowline Joint Unified,Pinon Hills Elementary,878 Mono Road Pinon Hills CA 92372,NA,NA,FALSE,tested,NA,San Bernardino County,34.449852,-117.627455
+Snowline Joint Unified,Pinon Mesa Middle,9298 Sheep Creek Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,San Bernardino County,34.418928,-117.572535
+Snowline Joint Unified,Quail Valley Middle,10058 Arrowhead Road Phelan CA 92371-5506,NA,NA,FALSE,tested,NA,San Bernardino County,34.409155,-117.555049
+Snowline Joint Unified,Serrano High,9292 Sheep Creek Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,San Bernardino County,34.418811,-117.572535
+Snowline Joint Unified,Snowline Adult,4075 Nielson Road Phelan CA 92371,NA,NA,NA,not tested,NA,San Bernardino County,34.418969,-117.57264
+Snowline Joint Unified,Snowline Virtual,9298 Sheep Creek Road Phelan CA 92371-8588,NA,NA,NA,not tested,NA,San Bernardino County,34.418928,-117.572535
+Snowline Joint Unified,Vista Verde Elementary,13403 Vista Verde Drive Victorville CA 92393-1218,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.495668,-117.402941
+Snowline Joint Unified,Wrightwood Elementary,1175 State Highway 2 Wrightwood CA 92397,NA,NA,FALSE,tested,Wrightwood,San Bernardino County,34.361514,-117.635723

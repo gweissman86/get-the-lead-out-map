@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Tulare City,Alpine Vista,2975 East Alpine Avenue Tulare CA 93274-4265,NA,NA,FALSE,tested,NA,Tulare County,36.20214,-119.321055
+Tulare City,Cherry Avenue Middle,540 North Cherry Street Tulare CA 93274-2918,NA,NA,FALSE,tested,NA,Tulare County,36.215517,-119.336171
+Tulare City,Cypress Elementary,1870 South Laspina Street Tulare CA 93274-6962,NA,NA,FALSE,tested,NA,Tulare County,36.187788,-119.323795
+Tulare City,Frank Kohn Elementary,500 South Laspina Street Tulare CA 93274-5929,NA,NA,FALSE,tested,NA,Tulare County,36.204791,-119.320337
+Tulare City,Garden Elementary,640 East Pleasant Avenue Tulare CA 93274-2124,NA,NA,FALSE,tested,NA,Tulare County,36.219441,-119.341499
+Tulare City,Heritage Elementary,895 West Gail Avenue Tulare CA 93274-1236,NA,NA,FALSE,tested,NA,Tulare County,36.228501,-119.36127
+Tulare City,Lincoln Elementary,909 East Cedar Avenue Tulare CA 93274-5615,NA,NA,FALSE,tested,NA,Tulare County,36.198937,-119.334703
+Tulare City,Live Oak Middle,980 North Laspina Street Tulare CA 93274-2338,NA,NA,FALSE,tested,NA,Tulare County,36.219794,-119.319814
+Tulare City,Los Tules Middle,801 West Gail Avenue Tulare CA 93274-1236,NA,NA,FALSE,tested,NA,Tulare County,36.228508,-119.359171
+Tulare City,Maple Elementary,640 West Cross Avenue Tulare CA 93274-2616,NA,NA,FALSE,tested,NA,Tulare County,36.212863,-119.357664
+Tulare City,Mission Valley Elementary,1695 Bella Oaks Drive Tulare CA 93274-6268,NA,NA,FALSE,tested,NA,Tulare County,36.233643,-119.322225
+Tulare City,Mulcahy Middle,1001 West Sonora Avenue Tulare CA 93274-5041,NA,NA,FALSE,tested,NA,Tulare County,36.199934,-119.361905
+Tulare City,Pleasant Elementary,1855 West Pleasant Avenue Tulare CA 93274-1765,NA,NA,FALSE,tested,NA,Tulare County,36.217453,-119.373131
+Tulare City,Roosevelt Elementary,1046 West Sonora Avenue Tulare CA 93274-5042,5.9,ppb,TRUE,tested,NA,Tulare County,36.202408,-119.361734
+Tulare City,Wilson Elementary,955 East Tulare Avenue Tulare CA 93274-4443,NA,NA,FALSE,tested,NA,Tulare County,36.208431,-119.334308

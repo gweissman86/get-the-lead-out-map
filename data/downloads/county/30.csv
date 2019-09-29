@@ -1,0 +1,686 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cypress Elementary,A. E. Arnold Elementary,9281 Denni Street Cypress CA 90630-2724,6.55,ppb,TRUE,tested,Cypress,Orange County,33.824705,-118.054602
+Tustin Unified,A. G. Currie Middle,1402 Sycamore Ave. Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
+Garden Grove Unified,A. J. Cook Elementary,9802 Woodbury Avenue Garden Grove CA 92844-2819,NA,NA,FALSE,tested,Garden Grove,Orange County,33.763539,-117.958166
+Newport-Mesa Unified,Abraham Lincoln Elementary,3101 Pacific View Drive Corona Del Mar CA 92625-1108,NA,NA,FALSE,tested,Newport Beach,Orange County,33.609717,-117.861646
+Santa Ana Unified,Abraham Lincoln Elementary,425 South Sullivan Santa Ana CA 92704-1631,NA,NA,FALSE,tested,Santa Ana,Orange County,33.740542,-117.902154
+Fullerton Elementary,Acacia Elementary,1200 North Acacia Avenue Fullerton CA 92831-2102,NA,NA,FALSE,tested,Fullerton,Orange County,33.881564,-117.898333
+Westminster,Ada Clegg Elementary,6311 Larchwood Dr Huntington Beach CA 92647-2320,NA,NA,NA,not tested,Huntington Beach,Orange County,33.747037,-118.020418
+Santa Ana Unified,Adams Elementary,2130 South Raitt Street Santa Ana CA 92704-5001,NA,NA,FALSE,tested,Santa Ana,Orange County,33.719,-117.896176
+Newport-Mesa Unified,Adams Elementary,2850 Club House Road Costa Mesa CA 92626-4705,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.674343,-117.93196
+Garden Grove Unified,Adult Education,11262 Garden Grove Boulevard Garden Grove CA 92843,NA,NA,NA,not tested,Garden Grove,Orange County,33.774123,-117.93704
+Santa Ana Unified,Advanced Learning Academy,335 East Walnut Avenue Santa Ana CA 92701,NA,NA,FALSE,tested,Santa Ana,Orange County,33.744431,-117.863994
+Huntington Beach City Elementary,Agnes L. Smith Elementary,770 17th Street Huntington Beach CA 92648-3426,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.670184,-118.006777
+Garden Grove Unified,Agnes Ware Stanley Elementary,12201 Elmwood Avenue Garden Grove CA 92840-3439,NA,NA,FALSE,tested,Garden Grove,Orange County,33.785712,-117.937955
+Garden Grove Unified,Alamitos Intermediate,12381 Dale Street Garden Grove CA 92841-3219,NA,NA,FALSE,tested,Stanton,Orange County,33.782746,-117.98416
+Irvine Unified,Alderwood Elementary,2005 Knollcrest Irvine CA 92603-1600,5.08,ppb,TRUE,tested,Irvine,Orange County,33.648739,-117.775925
+Capistrano Unified,Aliso Niguel High,28000 Wolverine Way Aliso Viejo CA 92656-3385,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.563297,-117.719641
+Capistrano Unified,Aliso Viejo Middle,111 Park Avenue Aliso Viejo CA 92656-2847,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.579598,-117.713799
+Anaheim Union High,Anaheim High,811 West Lincoln Avenue Anaheim CA 92805-2499,5.9,ppb,TRUE,tested,Anaheim,Orange County,33.835031,-117.925578
+Orange Unified,Anaheim Hills Elementary,6450 East Serrano Anaheim CA 92807-5034,6.2,ppb,TRUE,tested,Anaheim,Orange County,33.829133,-117.760911
+Westminster,Anderson Elementary,8902 Hewitt Place Garden Grove CA 92844-2630,NA,NA,NA,not tested,Garden Grove,Orange County,33.761785,-117.973958
+Westminster,Anderson Elementary School,"8902 Hewitt Pl, Garden Grove, CA 92844",NA,NA,NA,exempt,Garden Grove,Orange County,33.761785,-117.973958
+Santa Ana Unified,Andrew Jackson Elementary,1143 South Nakoma Drive Santa Ana CA 92704-3030,NA,NA,FALSE,tested,Santa Ana,Orange County,33.732382,-117.908785
+La Habra City Elementary,Arbolita Elementary,1001 East Brookdale Avenue La Habra CA 90631-3114,NA,NA,FALSE,tested,La Habra,Orange County,33.94374,-117.936416
+Tustin Unified,Arnold O. Beckman High,3588 Bryan Avenue Irvine CA 92602-1347,NA,NA,FALSE,tested,Irvine,Orange County,33.718948,-117.780752
+Brea-Olinda Unified,Arovista Elementary,900 Eadington Drive Brea CA 92821-5298,NA,NA,FALSE,tested,Brea,Orange County,33.913696,-117.911997
+Tustin Unified,Arroyo Elementary,11112 Coronel Road Santa Ana CA 92705-2492,NA,NA,FALSE,tested,Santa Ana,Orange County,33.766596,-117.785666
+Capistrano Unified,Arroyo Vista Elementary,23371 Arroyo Vista Rancho Santa Margarita CA 92688-4906,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.623206,-117.615429
+Buena Park Elementary,Arthur F. Corey Elementary,7351 Holder Street Buena Park CA 90620-1608,5.3,ppb,TRUE,tested,Buena Park,Orange County,33.855509,-118.019979
+Newport-Mesa Unified,Back Bay High,390 Monte Vista Ave. Costa Mesa CA 92627-1495,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.653336,-117.89035
+Anaheim Union High,Ball Junior High,1500 West Ball Road Anaheim CA 92802-1626,6.6,ppb,TRUE,tested,Anaheim,Orange County,33.817915,-117.933481
+Tustin Unified,Barbara Benson Elementary,12712 Elizabeth Way Tustin CA 92780-2811,NA,NA,FALSE,tested,Tustin,Orange County,33.75139,-117.805291
+Anaheim Elementary,Barton (Clara) Elementary,1926 Clearbrook Lane Anaheim CA 92804-3519,NA,NA,FALSE,tested,Anaheim,Orange County,33.823485,-117.973949
+Capistrano Unified,Bathgate Elementary,27642 Napoli Way Mission Viejo CA 92692-5276,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.580725,-117.64851
+Irvine Unified,Beacon Park,200 Cultivate Irvine CA 92618,NA,NA,FALSE,tested,Irvine,Orange County,33.687829,-117.735016
+Fullerton Elementary,Beechwood Elementary,780 Beechwood Avenue Fullerton CA 92835-2777,NA,NA,FALSE,tested,Fullerton,Orange County,33.901224,-117.913869
+Tustin Unified,Benjamin F. Beswick Elementary,1362 Mitchell Avenue Tustin CA 92780-5746,NA,NA,FALSE,tested,Tustin,Orange County,33.731186,-117.820591
+Placentia-Yorba Linda Unified,Bernardo Yorba Middle,5350 Fairmont Boulevard Yorba Linda CA 92886-4446,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.888733,-117.79044
+Capistrano Unified,Bernice Ayer Middle,1271 Sarmentoso San Clemente CA 92673,NA,NA,FALSE,tested,San Clemente,Orange County,33.474801,-117.6219
+Private,Bethany Christian Academy,13431 Edwards Street Westminster CA 92683,NA,NA,FALSE,tested,Westminster,Orange County,33.767629,-118.016615
+Private,Blessed Sacrament Schol,14146 South Olive Street Westminster CA 92683,NA,NA,FALSE,tested,Westminster,Orange County,33.756866,-118.000089
+Garden Grove Unified,Bolsa Grande High,9401 Westminster Avenue Garden Grove CA 92844-2901,NA,NA,FALSE,tested,Garden Grove,Orange County,33.759417,-117.962259
+Irvine Unified,Bonita Canyon Elementary,1 Sundance Irvine CA 92603-3608,NA,NA,FALSE,tested,Irvine,Orange County,33.633672,-117.812839
+Brea-Olinda Unified,Brea Canyon High (Continuation),689 North Wildcat Way Brea CA 92821-7400,6,ppb,TRUE,tested,Brea,Orange County,33.92958,-117.875186
+Brea-Olinda Unified,Brea Country Hills Elementary,150 North Associated Road Brea CA 92821-4669,17,ppb,TRUE,tested,Brea,Orange County,33.920472,-117.873107
+Brea-Olinda Unified,Brea Junior High,400 North Brea Boulevard Brea CA 92821-3399,14,ppb,TRUE,tested,Brea,Orange County,33.92631,-117.894576
+Brea-Olinda Unified,Brea-Olinda High,789 North Wildcat Way Brea CA 92821-7400,NA,NA,FALSE,tested,Brea,Orange County,33.931962,-117.875972
+Private,Brethren Christian Junior and Senior High,21141 Strathmoor Lane Huntington Beach CA 92646,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.655311,-117.958674
+Capistrano Unified,Bridges Community Day,31576 El Camino Real San Juan Capistrano CA 92675-2631,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.50525,-117.662889
+Ocean View,Bright Star Academy,6621 Glen Dr. Huntington Beach CA 92647,7.5,ppb,TRUE,tested,Huntington Beach,Orange County,33.734081,-118.013489
+Santa Ana Unified,Broadway/ Headstart,321 W Washington St Santa Ana CA 92706,NA,NA,FALSE,tested,Santa Ana,Orange County,33.755981,-117.870863
+Placentia-Yorba Linda Unified,Brookhaven Elementary,1851 North Brookhaven Avenue Placentia CA 92870-2610,NA,NA,FALSE,tested,Placentia,Orange County,33.895513,-117.860171
+Garden Grove Unified,Brookhurst Elementary,9821 William Dalton Way Garden Grove CA 92841-3841,NA,NA,FALSE,tested,Garden Grove,Orange County,33.783525,-117.960795
+Anaheim Union High,Brookhurst Junior High,601 North Brookhurst Avenue Anaheim CA 92801-3879,NA,NA,FALSE,tested,Anaheim,Orange County,33.841393,-117.959729
+Garden Grove Unified,Bryant Elementary,8371 Orangewood Avenue Garden Grove CA 92841-1517,NA,NA,FALSE,tested,Garden Grove,Orange County,33.795555,-118.007584
+Placentia-Yorba Linda Unified,Bryant Ranch Elementary,24695 Paseo de Toronto Yorba Linda CA 92887-5116,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.878688,-117.718458
+Irvine Unified,Brywood Elementary,1 Westwood Irvine CA 92620-6200,NA,NA,FALSE,tested,Irvine,Orange County,33.711533,-117.7738
+Fullerton Joint Union High,Buena Park High,8833 Academy Drive Buena Park CA 90621-3705,NA,NA,FALSE,tested,Buena Park,Orange County,33.86102,-117.98016
+Buena Park Elementary,Buena Park Junior High,6931 Orangethorpe Avenue Buena Park CA 90620-1350,NA,NA,FALSE,tested,Buena Park,Orange County,33.858981,-118.012749
+Centralia Elementary,Buena Terra Elementary,8299 Holder Street Buena Park CA 90620-2957,NA,NA,FALSE,tested,Buena Park,Orange County,33.843761,-118.018506
+Garden Grove Unified,C. C. Violette Elementary,12091 Lampson Avenue Garden Grove CA 92840-5643,NA,NA,FALSE,tested,Garden Grove,Orange County,33.7817,-117.922911
+Tustin Unified,C. E. Utt Middle,13601 Browning Avenue Tustin CA 92780-5212,NA,NA,FALSE,tested,Tustin,Orange County,33.733753,-117.805558
+Orange Unified,California Elementary,1080 North California Street Orange CA 92867-5810,NA,NA,FALSE,tested,Orange,Orange County,33.805702,-117.842699
+Newport-Mesa Unified,California Elementary,3232 California Avenue Costa Mesa CA 92626-2231,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.688994,-117.925172
+Capistrano Unified,California Preparatory Academy,32972 Calle Perfecto San Juan Capistrano CA 92675-4706,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.483329,-117.672727
+Orange Unified,Cambridge Elementary,425 North Cambridge Orange CA 92866-1149,8.86,ppb,TRUE,tested,Orange,Orange County,33.793781,-117.844269
+Orange Unified,Canyon High,220 South Imperial Highway Anaheim CA 92807-3945,NA,NA,FALSE,tested,Anaheim,Orange County,33.848058,-117.788512
+Orange Unified,Canyon Hills,260 South Imperial Highway Anaheim CA 92807-3945,7.3,ppb,TRUE,tested,Anaheim,Orange County,33.850024,-117.790363
+Orange Unified,Canyon Rim Elementary,1090 The Highlands Drive Anaheim CA 92808-2144,NA,NA,FALSE,tested,Anaheim,Orange County,33.844819,-117.741318
+Irvine Unified,Canyon View Elementary,12025 Yale Court Irvine CA 92620-0210,NA,NA,FALSE,tested,Irvine,Orange County,33.725715,-117.75323
+Capistrano Unified,Canyon Vista Elementary,27800 Oak View Drive Aliso Viejo CA 92656-6244,NA,NA,NA,not tested,Aliso Viejo,Orange County,33.562528,-117.734939
+Capistrano Unified,Capistrano Connections Academy,33272 Valle Road San Juan Capistrano CA 92675-4842,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.488554,-117.662917
+Capistrano Unified,Capistrano Valley High,26301 Via Escolar Mission Viejo CA 92692-3999,NA,NA,FALSE,tested,San Juan Capistrano,Orange County,33.542536,-117.673115
+Capistrano Unified,Capistrano Virtual/Home,32972 Calle Perfect San Juan Capistrano CA 92675-4706,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.483948,-117.67191
+Private,Carden Conservatory,5702 Clark Drive Huntington Beach CA 92649,6,ppb,TRUE,tested,Huntington Beach,Orange County,33.726721,-118.029404
+Buena Park Elementary,Carl E. Gilbert Elementary,7255 Eighth Street Buena Park CA 90621-2203,8.1,ppb,TRUE,tested,Buena Park,Orange County,33.867455,-118.007035
+Capistrano Unified,Carl Hankey Elementary,27252 Nubles Street Mission Viejo CA 92692-3433,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.569588,-117.654886
+Santa Ana Unified,Carl Harvey Elementary,1635 South Center Street Santa Ana CA 92704-4111,6.2,ppb,TRUE,tested,Santa Ana,Orange County,33.725218,-117.898066
+Capistrano Unified,Castille Elementary,24042 Via la Coruna Mission Viejo CA 92691-3529,11,ppb,TRUE,tested,Mission Viejo,Orange County,33.614556,-117.658027
+Centralia Elementary,Centralia Elementary,195 North Western Avenue Anaheim CA 92801-6040,NA,NA,FALSE,tested,Anaheim,Orange County,33.832805,-118.002331
+Santa Ana Unified,Century High,1401 South Grand Avenue Santa Ana CA 92705-4408,NA,NA,FALSE,tested,Santa Ana,Orange County,33.709156,-117.851863
+Savanna Elementary,Cerritos Elementary,3731 Cerritos Anaheim CA 92804-4603,NA,NA,FALSE,tested,Anaheim,Orange County,33.810497,-117.958969
+Orange Unified,Cerro Villa Middle,17852 East Serrano Avenue Villa Park CA 92861-1214,NA,NA,FALSE,tested,Orange,Orange County,33.821101,-117.825013
+Santa Ana Unified,Cesar E. Chavez High,2128 South Cypress Santa Ana CA 92707-3244,NA,NA,FALSE,tested,Santa Ana,Orange County,33.718733,-117.867111
+Capistrano Unified,Chaparral Elementary,29001 Sienna Parkway Ladera Ranch CA 92694-0433,NA,NA,FALSE,tested,Ladera Ranch,Orange County,33.561762,-117.634362
+Orange Unified,Chapman Hills Elementary,170 North Aspen Street Orange CA 92869-6557,NA,NA,FALSE,tested,Santa Ana,Orange County,33.767638,-117.854712
+Buena Park Elementary,Charles G. Emery Elementary,8600 Somerset Street Buena Park CA 90621-1402,NA,NA,FALSE,tested,Buena Park,Orange County,33.884445,-117.983275
+Newport-Mesa Unified,Charles W. Tewinkle Middle,3224 California Avenue Costa Mesa CA 92626-2231,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.688652,-117.924254
+Placentia-Yorba Linda Unified,Charles Wagner Elementary,717 East Yorba Linda Boulevard Placentia CA 92870-3008,NA,NA,FALSE,tested,Placentia,Orange County,33.891627,-117.851774
+Private,Christ Lutheran,820 West Imperial Highway Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.917553,-117.911302
+Saddleback Valley Unified,Cielo Vista Elementary,"21811 Ave. De Los Fundadores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.646264,-117.586353
+Saddleback Valley Unified,Cielo Vista Elementary,"21811 Ave. De Los Fundadores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.646264,-117.586353
+Saddleback Valley Unified,Cielo Vista Elementary,21811 Avenida De Los Fundadores Rancho Santa Margarita CA 92688-5444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.646536,-117.58589
+Ocean View,Circle View Elementary,6261 Hooker Drive Huntington Beach CA 92647-2800,9.3,ppb,TRUE,tested,Huntington Beach,Orange County,33.73255,-118.018932
+Cypress Elementary,Clara J. King Elementary,8710 Moody Street Cypress CA 90630-2220,NA,NA,FALSE,tested,Cypress,Orange County,33.814886,-118.04551
+Capistrano Unified,Clarence Lobo Elementary,200 Avenida Vista Montana San Clemente CA 92672-9400,NA,NA,FALSE,tested,San Clemente,Orange County,33.437782,-117.597571
+Garden Grove Unified,Clinton Elementary,13641 Clinton Street Garden Grove CA 92843-4110,NA,NA,FALSE,tested,Garden Grove,Orange County,33.764861,-117.911514
+Huntington Beach Union High,Coast High,17231 Gothard Street Huntington Beach CA 92647-5421,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.712354,-118.000315
+Placentia-Yorba Linda Unified,Col. J. K. Tuffree Middle,2151 North Kraemer Boulevard Placentia CA 92870-1930,NA,NA,FALSE,tested,Placentia,Orange County,33.88027,-117.863594
+Irvine Unified,College Park Elementary,3700 Chaparral Avenue Irvine CA 92606-2199,NA,NA,FALSE,tested,Irvine,Orange County,33.705745,-117.792842
+Newport-Mesa Unified,College Park Elementary,2380 Notre Dame Road Costa Mesa CA 92626-6400,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.660732,-117.911449
+Ocean View,College View Elementary,6582 Lennox Drive Huntington Beach CA 92647-3452,5.1,ppb,TRUE,tested,Huntington Beach,Orange County,33.727508,-118.013745
+Tustin Unified,Columbus Tustin Middle,17952 Beneta Way Tustin CA 92780-2659,NA,NA,FALSE,tested,Tustin,Orange County,33.751018,-117.81941
+Fullerton Elementary,Commonwealth Elementary,2200 East Commonwealth Avenue Fullerton CA 92831-4212,NA,NA,FALSE,tested,Fullerton,Orange County,33.870458,-117.893322
+Santa Ana Unified,Community Day Intermediate and High,804 N Fairview Street Santa Ana CA 92703,NA,NA,NA,not tested,Santa Ana,Orange County,33.7544,-117.9026
+Capistrano Unified,Community Roots Academy,23431 Knollwood P-31 Aliso Viejo CA 92656,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.554458,-117.720726
+Capistrano Unified,Concordia Elementary,3120 Avenida del Presidente San Clemente CA 92672-4517,5.5,ppb,TRUE,tested,San Clemente,Orange County,33.403126,-117.597645
+Saddleback Valley Unified,Cordillera Elem,"25952 Cordillera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6101,-117.677676
+Saddleback Valley Unified,Cordillera Elementary,25952 Cordillera Drive Mission Viejo CA 92691-4099,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6101,-117.677676
+Newport-Mesa Unified,Corona del Mar High,2101 Eastbluff Drive Newport Beach CA 92660-4530,NA,NA,FALSE,tested,Newport Beach,Orange County,33.631196,-117.874638
+Newport-Mesa Unified,Costa Mesa High,2650 Fairview Road Costa Mesa CA 92626-5537,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.693573,-117.907813
+Fountain Valley Elementary,Courreges (Roch) Elementary,18313 Santa Carlotta Fountain Valley CA 92708-5616,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.696647,-117.976067
+Fountain Valley Elementary,Cox (James H.) Elementary,17615 Los Jardines East Fountain Valley CA 92708-5340,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.707484,-117.939004
+Irvine Unified,Creekside High,3387 Barranca Pkwy Irvine CA 92606-8272,NA,NA,FALSE,tested,Irvine,Orange County,33.685065,-117.809857
+Orange Unified,Crescent Elementary,5001 Gerda Drive Anaheim CA 92807-3090,NA,NA,FALSE,tested,Anaheim,Orange County,33.852419,-117.807919
+Irvine Unified,Culverdale Elementary,2 Paseo Westpark Irvine CA 92614-5311,NA,NA,FALSE,tested,Irvine,Orange County,33.681519,-117.818057
+Anaheim Union High,Cypress High,9801 Valley View Street Cypress CA 90630-3994,6,ppb,TRUE,tested,Cypress,Orange County,33.819547,-118.028229
+Irvine Unified,Cypress Village Elementary,355 Rush Lily Irvine CA 92620-4112,NA,NA,FALSE,tested,Irvine,Orange County,33.686527,-117.756128
+Fullerton Elementary,D. Russell Parks Junior High,1710 Rosecrans Avenue Fullerton CA 92833-1912,NA,NA,FALSE,tested,Fullerton,Orange County,33.892587,-117.952523
+Anaheim Union High,Dale Junior High,900 South Dale Street Anaheim CA 92804-4097,NA,NA,FALSE,tested,Anaheim,Orange County,33.819641,-117.982671
+Capistrano Unified,Dana Hills High,33333 Golden Lantern Dana Point CA 92629-1840,NA,NA,FALSE,tested,Dana Point,Orange County,33.47806,-117.699933
+Centralia Elementary,Danbrook Elementary,320 Danbrook Street Anaheim CA 92804-2715,8.3,ppb,TRUE,tested,Anaheim,Orange County,33.828462,-118.008133
+Saddleback Valley Unified,De Portola Elem.,"27031 Preciados Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.601471,-117.659954
+Saddleback Valley Unified,De Portola Elementary,27031 Preciados Drive Mission Viejo CA 92691-5214,NA,NA,NA,not tested,Mission Viejo,Orange County,33.601471,-117.659954
+Irvine Unified,Deerfield Elementary,2 Deerfield Avenue Irvine CA 92604-3048,6.89,ppb,TRUE,tested,Irvine,Orange County,33.700131,-117.798956
+Saddleback Valley Unified,Del Cerro Elementary,24382 Regina Street Mission Viejo CA 92691-4735,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.607649,-117.681047
+Saddleback Valley Unified School Distict,Del Cerro Elementary School,"24382 Regina St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.608417,-117.68135
+Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473,-117.656948
+Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473,-117.656948
+Saddleback Valley Unified,Del Lago Elementary,27181 Entidad Street Mission Viejo CA 92691-1029,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.648302,-117.655106
+Capistrano Unified,Del Obispo Elementary,25591 Camino del Avion San Juan Capistrano CA 92675-4328,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.487896,-117.680162
+Private,Del Sol School,5340 Myra Avenue Cypress CA 90630,NA,NA,FALSE,tested,Cypress,Orange County,33.814869,-118.039971
+Westminster,Demille Elementary,15400 Van Buren Midway City CA 92655-1660,5.2,ppb,TRUE,tested,Midway City,Orange County,33.739481,-117.985807
+Santa Ana Unified,Diamond Elementary,1450 South Center Street Santa Ana CA 92704-3660,NA,NA,FALSE,tested,Santa Ana,Orange County,33.728023,-117.898244
+Capistrano Unified,Don Juan Avila Elementary,26278 Wood Canyon Drive Aliso Viejo CA 92656-8060,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.562022,-117.734664
+Capistrano Unified,Don Juan Avila Middle,26278 Wood Canyon Dr Aliso Viejo CA 92656-8060,NA,NA,NA,not tested,Aliso Viejo,Orange County,33.562022,-117.734664
+Garden Grove Unified,Donald S. Jordan Intermediate,9821 Woodbury Road Garden Grove CA 92844-2835,NA,NA,FALSE,tested,Garden Grove,Orange County,33.763659,-117.939508
+Santa Ana Unified,Douglas MacArthur Fundamental Intermediate,600 West Alton Avenue Santa Ana CA 92707-4073,NA,NA,FALSE,tested,Santa Ana,Orange County,33.704318,-117.875638
+Magnolia Elementary,Dr. Albert Schweitzer,229 South Dale Avenue Anaheim CA 92804-2006,NA,NA,FALSE,tested,Anaheim,Orange County,33.829522,-117.984805
+Magnolia Elementary,Dr. Peter Marshall,2627 Crescent Avenue Anaheim CA 92801-4902,5.3,ppb,TRUE,tested,Anaheim,Orange County,33.839604,-117.978602
+Garden Grove Unified,Dr. Walter C. Ralston Intermediate,10851 East Lampson Avenue Garden Grove CA 92840-5134,NA,NA,FALSE,tested,Garden Grove,Orange County,33.782429,-117.943434
+Garden Grove Unified,Dwight D. Eisenhower Elementary,13221 Lilly Street Garden Grove CA 92843-2156,NA,NA,FALSE,tested,Garden Grove,Orange County,33.770614,-117.906954
+Garden Grove Unified,Earl Warren Elementary,12871 Estock Drive Garden Grove CA 92840-4205,NA,NA,FALSE,tested,Garden Grove,Orange County,33.785421,-117.909194
+Irvine Unified,Early Childhood Learning Center,1 Smoketree Irvine CA 92604-3158,NA,NA,FALSE,tested,Irvine,Orange County,33.684571,-117.77658
+Newport-Mesa Unified,Early College High,2990 Mesa Verde Drive Costa Mesa CA 92626-3636,6,ppb,TRUE,tested,Costa Mesa,Orange County,33.680624,-117.927832
+East Whittier City Elementary,East Whittier Middle,14421 East Whittier Boulevard Whittier CA 90605-2188,NA,NA,FALSE,tested,La Habra,Orange County,33.939117,-117.944715
+Newport-Mesa Unified,Eastbluff Elementary,2627 Vista del Oro Newport Beach CA 92660-3548,5.3,ppb,TRUE,tested,Newport Beach,Orange County,33.639713,-117.882194
+Irvine Unified,Eastshore Elementary,155 Eastshore Irvine CA 92604-4625,6.539999999999999,ppb,TRUE,tested,Irvine,Orange County,33.677961,-117.79023
+Westminster,Eastwood Elementary,13552 University Westminster CA 92683-2770,NA,NA,FALSE,tested,Westminster,Orange County,33.765436,-118.035953
+Anaheim Elementary,Edison (Thomas) Elementary,1526 East Romneya Drive Anaheim CA 92805-1214,NA,NA,FALSE,tested,Anaheim,Orange County,33.850807,-117.895828
+Huntington Beach Union High,Edison High,21400 Magnolia Huntington Beach CA 92646-6306,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.665035,-117.971213
+Santa Ana Unified,Edward B. Cole Academy,333 East Walnut Street Santa Ana CA 92701-5928,NA,NA,FALSE,tested,Santa Ana,Orange County,33.744509,-117.86463
+Garden Grove Unified,Edward Russell Elementary,600 South Jackson Street Santa Ana CA 92704-1457,NA,NA,FALSE,tested,Santa Ana,Orange County,33.739862,-117.915791
+Placentia-Yorba Linda Unified,El Camino Real Continuation High,1351 East Orangethorpe Avenue Placentia CA 92870-5302,NA,NA,FALSE,tested,Placentia,Orange County,33.868249,-117.838334
+Irvine Unified,El Camino Real Elementary,4782 Karen Ann Ln Irvine CA 92604,NA,NA,FALSE,tested,Irvine,Orange County,33.696585,-117.779684
+La Habra City Elementary,El Cerrito Elementary,1051 North Hillside La Habra CA 90631-2820,NA,NA,FALSE,tested,La Habra,Orange County,33.941839,-117.948909
+Placentia-Yorba Linda Unified,El Dorado High,1651 North Valencia Avenue Placentia CA 92870-3030,NA,NA,FALSE,tested,Placentia,Orange County,33.891816,-117.854986
+Orange Unified,El Modena High,3920 Spring Street Orange CA 92869-3599,NA,NA,FALSE,tested,NA,Orange County,33.791361,-117.801329
+Laguna Beach Unified,El Morro Elementary,8681 North Coast Highway Laguna Beach CA 92651-1032,NA,NA,NA,not tested,Laguna Beach,Orange County,33.5481,-117.799363
+Laguna Beach Unified,El Morro Elementary,"8681 N Coast Hwy, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.5481,-117.799363
+Lowell Joint,El Portal Elementary,200 North Nada Street La Habra CA 90631-4451,NA,NA,FALSE,tested,La Habra,Orange County,33.933824,-117.966018
+Orange Unified,El Rancho Charter,181 South Del Giorgio Road Anaheim CA 92808-1307,NA,NA,FALSE,tested,Anaheim,Orange County,33.857729,-117.767982
+Santa Ana Unified,El Sol Santa Ana Science and Arts Academy,1010 North Broadway Street Santa Ana CA 92701-3408,NA,NA,NA,not tested,Santa Ana,Orange County,33.753779,-117.869993
+Saddleback Valley Unified,El Toro High,25255 Toledo Way Lake Forest CA 92630-4203,NA,NA,NA,not tested,Lake Forest,Orange County,33.636973,-117.687752
+Saddleback Valley Unified School Distict,El Toro High School,"25255 Toledo Way, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.636973,-117.687752
+Garden Grove Unified,Enders Elementary,12302 Springdale Street Garden Grove CA 92845-2239,NA,NA,FALSE,tested,Garden Grove,Orange County,33.785053,-118.019717
+Garden Grove Unified,Ernest O. Lawrence Elementary,12521 Monroe Garden Grove CA 92841-4422,NA,NA,FALSE,tested,Garden Grove,Orange County,33.780172,-117.987347
+Saddleback Valley Unified,Esperanza,25121 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.597054,-117.667657
+Placentia-Yorba Linda Unified,Esperanza High,1830 North Kellogg Dr Anaheim CA 92807-1218,NA,NA,FALSE,tested,Anaheim,Orange County,33.869338,-117.803391
+Placentia-Yorba Linda Unified,Esperanza High,1830 North Kellogg Drive Anaheim CA 92807-1218,11,ppb,TRUE,tested,Anaheim,Orange County,33.869338,-117.803391
+Saddleback Valley Unified,Esperanza Sp. Educ.,"25121 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.597054,-117.667657
+Orange Unified,Esplanade Elementary,381 North Esplanade Street Orange CA 92869-2909,NA,NA,FALSE,tested,Orange,Orange County,33.794114,-117.808437
+Newport-Mesa Unified,Estancia High,2323 Placentia Avenue Costa Mesa CA 92627-3305,5.5,ppb,TRUE,tested,Costa Mesa,Orange County,33.657616,-117.93225
+Magnolia Elementary,Esther L. Walter,10802 Rustic Lane Anaheim CA  92804-6356,NA,NA,FALSE,tested,Stanton,Orange County,33.805534,-117.973385
+Magnolia Elementary,Esther L. Walter,10802 Rustic Lane Anaheim CA 92804-6356,NA,NA,FALSE,tested,Stanton,Orange County,33.805534,-117.973385
+Garden Grove Unified,Ethan B. Allen Elementary,16200 Bushard Street Fountain Valley CA 92708-1505,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.715969,-117.963197
+Huntington Beach City Elementary,Ethel Dwyer Middle,1502 Palm Avenue Huntington Beach CA 92648-4007,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.668873,-118.005581
+Garden Grove Unified,Ethel M. Evans Elementary,12281 Nelson Street Garden Grove CA 92840-3205,NA,NA,FALSE,tested,Garden Grove,Orange County,33.785788,-117.94561
+Newport-Mesa Unified,Everett A. Rea Elementary,661 Hamilton Street Costa Mesa CA 92627-2678,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.650618,-117.926249
+Garden Grove Unified,Excelsior Elementary,10421 Woodbury Road Garden Grove CA 92843-3277,NA,NA,FALSE,tested,Garden Grove,Orange County,33.763687,-117.94792
+Orange Unified,Fairhaven Elementary,1415 East Fairhaven Avenue Santa Ana CA 92705-6822,NA,NA,FALSE,tested,Santa Ana,Orange County,33.773795,-117.849999
+Placentia-Yorba Linda Unified,Fairmont Elementary,5241 Fairmont Boulevard Yorba Linda CA 92886-4400,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.88745,-117.79038
+Garden Grove Unified,Faylane Elementary,11731 Morrie Lane Garden Grove CA 92840-1906,NA,NA,FALSE,tested,Garden Grove,Orange County,33.79182,-117.952812
+Fullerton Elementary,Fern Drive Elementary,1400 West Fern Drive Fullerton CA 92833-2331,NA,NA,FALSE,tested,Fullerton,Orange County,33.879717,-117.950959
+Westminster,Finley Elementary,13521 Edwards Street Westminster CA 92683-2502,NA,NA,FALSE,tested,Westminster,Orange County,33.762005,-118.016049
+Orange Unified,Fletcher Elementary,515 West Fletcher Street Orange CA 92865-2521,8.22,ppb,TRUE,tested,Orange,Orange County,33.829874,-117.857388
+Tustin Unified,Foothill High,19251 Dodge Avenue Santa Ana CA 92705-2236,NA,NA,FALSE,tested,Santa Ana,Orange County,33.766807,-117.797529
+Saddleback Valley Unified,Foothill Ranch Elementary,1 Torino Drive Foothill Ranch CA 92691-3142,NA,NA,NA,not tested,Lake Forest,Orange County,33.682052,-117.661726
+Saddleback Valley Unified School Distict,Foothill Ranch Elementary School,"1 Torino Dr, Foothill Ranch, CA 92610",NA,NA,NA,exempt,Lake Forest,Orange County,33.682052,-117.661726
+Huntington Beach Union High,Fountain Valley High,17816 Bushard Fountain Valley CA 92708-4598,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.705789,-117.960559
+Los Alamitos Unified,Francis Hopkinson Elementary,12582 Kensington Road Los Alamitos CA 90720-4749,NA,NA,FALSE,tested,NA,Orange County,33.799018,-118.082606
+Cypress Elementary,Frank Vessels Elementary,5900 Cathy Ave Cypress CA 90630-4615,9.9,ppb,TRUE,tested,Cypress,Orange County,33.81166,-118.030091
+Anaheim Elementary,Franklin (Benjamin) Elementary,521 West Water Street Anaheim CA 92805-4542,NA,NA,FALSE,tested,Anaheim,Orange County,33.8276,-117.91771
+Santa Ana Unified,Franklin Elementary,210 West Cubbon Santa Ana CA 92701-5649,NA,NA,FALSE,tested,Santa Ana,Orange County,33.735594,-117.869561
+Santa Ana Unified,Frederick Remington Elementary,1325 East Fourth Street Santa Ana CA 92701-5111,NA,NA,FALSE,tested,Santa Ana,Orange County,33.748558,-117.85105
+Santa Ana Unified,Fremont Elementary,1930 West 10th Street Santa Ana CA 92703-2045,NA,NA,FALSE,tested,Santa Ana,Orange County,33.75333,-117.895924
+Westminster,Fryberger Elementary,6952 Hood Drive Westminster CA 92683-2122,5.1,ppb,TRUE,tested,Westminster,Orange County,33.771228,-118.010225
+Fullerton Joint Union High,Fullerton School District Nutrition Center,389 W Truslow Fullerton CA 92832,12,ppb,TRUE,tested,Fullerton,Orange County,33.867364,-117.930633
+Fullerton Joint Union High,Fullerton Union High,201 East Chapman Avenue Fullerton CA 92832-1925,NA,NA,FALSE,tested,Fullerton,Orange County,33.874068,-117.921946
+Fountain Valley Elementary,Fulton (Harry C.) Middle,8778 El Lago Street Fountain Valley CA 92708-4320,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.705379,-117.975924
+Garden Grove Unified,Garden Grove High,11271 Stanford Avenue Garden Grove CA 92840-5317,NA,NA,FALSE,tested,Garden Grove,Orange County,33.777936,-117.935583
+Garden Grove Unified,Garden Park Elementary,6562 Stanford Avenue Garden Grove CA 92845-2243,NA,NA,FALSE,tested,Garden Grove,Orange County,33.777645,-118.01825
+Santa Ana Unified,Garfield Elementary,850 East Brown Street Santa Ana CA 92701-3902,NA,NA,FALSE,tested,Santa Ana,Orange County,33.74944,-117.860287
+Anaheim Elementary,Gauer (Melbourne A.) Elementary,810 North Gilbert Street Anaheim CA 92801-3348,NA,NA,FALSE,tested,Anaheim,Orange County,33.843368,-117.967693
+Garden Grove Unified,Genevieve M. Crosby Elementary,12181 West Street Garden Grove CA 92840-3803,NA,NA,FALSE,tested,Garden Grove,Orange County,33.786113,-117.923795
+Centralia Elementary,George B. Miller Elementary,7751 Furman Road La Palma CA 90623-1536,NA,NA,NA,not tested,La Palma,Orange County,33.850226,-118.033051
+Placentia-Yorba Linda Unified,George Key,710 East Golden Avenue Placentia CA 92870-1635,NA,NA,FALSE,tested,Placentia,Orange County,33.903294,-117.85268
+Santa Ana Unified,George Washington Carver Elementary,1401 West Santa Ana Boulevard Santa Ana CA 92703-3708,NA,NA,FALSE,tested,Santa Ana,Orange County,33.747948,-117.886921
+Capistrano Unified,George White Elementary,25422 Chapparosa Park Drive Laguna Niguel CA 92677-5715,NA,NA,NA,not tested,Laguna Niguel,Orange County,33.516047,-117.685742
+Santa Ana Unified,Gerald P. Carr Intermediate,2120 West Edinger Street Santa Ana CA 92704-4106,NA,NA,FALSE,tested,Santa Ana,Orange County,33.726928,-117.897117
+Garden Grove Unified,Gilbert Elementary,9551 Orangewood Avenue Garden Grove CA 92841-1737,NA,NA,FALSE,tested,Garden Grove,Orange County,33.795892,-117.966575
+Anaheim Union High,Gilbert High (Continuation),1800 Ball Road Anaheim CA 92804-5516,NA,NA,FALSE,tested,Anaheim,Orange County,33.817658,-117.968255
+Fountain Valley Elementary,Gisler (Robert) Elementary,18720 Las Flores Street Fountain Valley CA 92708-7113,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.693843,-117.949741
+Centralia Elementary,Glen H. Dysinger Sr. Elementary,7770 Camellia Drive Buena Park CA 90620-2152,NA,NA,FALSE,tested,Buena Park,Orange County,33.850449,-117.991763
+Saddleback Valley Unified,Glen Yermo Elementary,26400 Trabuco Road Mission Viejo CA 92691-1999,NA,NA,NA,not tested,Mission Viejo,Orange County,33.613253,-117.656855
+Saddleback Valley Unified,Glen Yermo.,"26400 Trabuco Rd, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.613253,-117.656855
+Placentia-Yorba Linda Unified,Glenknoll Elementary,6361 Glenknoll Drive Yorba Linda CA 92886-6416,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.869374,-117.788253
+Placentia-Yorba Linda Unified,Glenview Elementary,1775 Glenview Avenue Anaheim CA 92807-1040,NA,NA,FALSE,tested,Anaheim,Orange County,33.868872,-117.812664
+Anaheim Elementary,GOALS Academy,412 W. Carl Karcher Way Anaheim CA 92801-2408,NA,NA,FALSE,tested,Anaheim,Orange County,33.850737,-117.922993
+Placentia-Yorba Linda Unified,Golden Elementary,740 East Golden Avenue Placentia CA 92870-1635,NA,NA,FALSE,tested,Placentia,Orange County,33.903763,-117.854632
+Fullerton Elementary,Golden Hill Elementary,732 Barris Drive Fullerton CA 92832-1002,NA,NA,FALSE,tested,Fullerton,Orange County,33.878407,-117.939384
+Ocean View,Golden View Elementary,17251 Golden View Lane Huntington Beach CA 92647-5664,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.711581,-118.010797
+Santa Ana Unified,Gonzalo Felicitas Mendez Fundamental Intermediate,2000 North Bristol Santa Ana CA 92706-2451,NA,NA,FALSE,tested,Santa Ana,Orange County,33.762477,-117.88668
+Buena Park Elementary,Gordon H. Beatty Elementary,8201 Country Club Drive Buena Park CA 90621-1529,NA,NA,FALSE,tested,Buena Park,Orange County,33.883937,-117.988927
+Private,Grace Lutheran School,5172 McFadden Avenue Huntington Beach CA 92649,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.736183,-118.03846
+Irvine Unified,Greentree Elementary,4200 Manzanita Irvine CA 92604-2711,NA,NA,FALSE,tested,Irvine,Orange County,33.698263,-117.78911
+Santa Ana Unified,Greenville Fundamental Elementary,3600 South Raitt Street Santa Ana CA 92704-7531,NA,NA,FALSE,tested,Santa Ana,Orange County,33.699013,-117.899177
+Tustin Unified,Guin Foss Elementary,18492 Vanderlip Avenue Santa Ana CA 92705-3242,NA,NA,FALSE,tested,Santa Ana,Orange County,33.75588,-117.81105
+Anaheim Elementary,Guinn (James M.) Elementary,1051 South Sunkist Street Anaheim CA 92806-5051,NA,NA,FALSE,tested,Anaheim,Orange County,33.823452,-117.880652
+Orange Unified,Handy Elementary,860 North Handy Street Orange CA 92867-7243,7.59,ppb,TRUE,tested,Orange,Orange County,33.801262,-117.828621
+Savanna Elementary,Hansen Elementary,1300 South Knott Anaheim CA 92804-4711,NA,NA,FALSE,tested,Anaheim,Orange County,33.815393,-118.009993
+Orange County Department of Education,Harbor Learning Center,15872 Harbor Boulevard Fountain Valley CA 92708,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.731936,-117.919035
+Newport-Mesa Unified,Harbor View Elementary,900 Goldenrod Avenue Corona Del Mar CA 92625-1503,NA,NA,FALSE,tested,Newport Beach,Orange County,33.603728,-117.869954
+Ocean View,Harbour View Elementary,4343 Pickwick Circle Huntington Beach CA 92649-3108,5.5,ppb,TRUE,tested,Huntington Beach,Orange County,33.720712,-118.052197
+Capistrano Unified,Harold Ambuehl Elementary,28001 San Juan Creek Road San Juan Capistrano CA 92675-3321,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.503529,-117.645226
+Newport-Mesa Unified,Harper,425 East 18th Street Costa Mesa CA 92627-3161,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.632002,-117.907187
+Santa Ana Unified,Hector G. Godinez,3002 Centennial Road Santa Ana CA 92704-3904,NA,NA,FALSE,tested,Santa Ana,Orange County,33.723061,-117.909503
+Private,Heights Christian School / Brea,200 South Associated Road Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.917261,-117.876035
+Newport-Mesa Unified,Heinz Kaiser Elementary,2130 Santa Ana Avenue Costa Mesa CA 92627-1826,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.644801,-117.903576
+Tustin Unified,Helen Estock Elementary,14741 North B Street Tustin CA 92780-2529,NA,NA,FALSE,tested,Tustin,Orange County,33.750111,-117.825714
+Westminster,Helen Stacey Middle,6311 Larchwood Drive Huntington Beach CA 92647-2320,NA,NA,NA,not tested,Huntington Beach,Orange County,33.747037,-118.020418
+Anaheim Elementary,Henry (Patrick) Elementary,1123 West Romneya Drive Anaheim CA 92801-2109,NA,NA,FALSE,tested,Anaheim,Orange County,33.850844,-117.933081
+Tustin Unified,Heritage Elementary,15400 Lansdowne Rd. Tustin CA 92782,NA,NA,FALSE,tested,Tustin,Orange County,33.718208,-117.828946
+Garden Grove Unified,Heritage Elementary,426 South Andres Place Santa Ana CA 92704-1123,NA,NA,FALSE,tested,Santa Ana,Orange County,33.740718,-117.931575
+Fullerton Elementary,Hermosa Drive Elementary,400 East Hermosa Drive Fullerton CA 92835-1654,NA,NA,FALSE,tested,Fullerton,Orange County,33.910129,-117.925059
+Santa Ana Unified,Heroes Elementary,1111 Civic Center Drive Santa Ana CA 92703-2229,NA,NA,FALSE,tested,Santa Ana,Orange County,33.751693,-117.882414
+Tustin Unified,Hewes Middle,13232 Hewes Avenue Santa Ana CA 92705-2246,5.6,ppb,TRUE,tested,Santa Ana,Orange County,33.77049,-117.804993
+Tustin Unified,Hicks Canyon Elementary,3817 Viewpark Irvine CA 92602-2036,7.52,ppb,TRUE,tested,Irvine,Orange County,33.728221,-117.773502
+Capistrano Unified,Hidden Hills Elementary,25142 Hidden Hills Road Laguna Niguel CA 92677-8894,NA,NA,NA,not tested,Laguna Niguel,Orange County,33.52883,-117.68743
+Tustin Unified,Hillview High (Continuation),1151 San Juan Street Tustin CA 92780-4629,NA,NA,FALSE,tested,Tustin,Orange County,33.739984,-117.816118
+Garden Grove Unified,Hilton D. Bell Intermediate,12345 Springdale Street Garden Grove CA 92845-2238,NA,NA,FALSE,tested,Garden Grove,Orange County,33.785549,-118.019911
+Savanna Elementary,Holder Elementary,9550 Holder Street Buena Park CA 90620-4209,NA,NA,FALSE,tested,Buena Park,Orange County,33.823548,-118.018256
+Santa Ana Unified,Hoover Elementary,408 East Santa Clara Avenue Santa Ana CA 92706-2957,NA,NA,FALSE,tested,Santa Ana,Orange County,33.7659,-117.863286
+Anaheim Union High,Hope,7901 Knott Avenue Buena Park CA 90620-2469,7.3,ppb,TRUE,tested,Buena Park,Orange County,33.8614,-118.011197
+Ocean View,Hope View Elementary,17622 Flintstone Lane Huntington Beach CA 92647-6413,5.2,ppb,TRUE,tested,Huntington Beach,Orange County,33.706298,-118.019392
+Newport-Mesa Unified,Horace Ensign Intermediate,2000 Cliff Drive Newport Beach CA 92663-5223,NA,NA,FALSE,tested,Newport Beach,Orange County,33.619345,-117.915892
+Huntington Beach Union High,Huntington Beach High,1905 Main Street Huntington Beach CA 92648-2705,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.675358,-118.001859
+Private,Huntington Christian,9700 Levee Drive Huntington Beach CA 92646,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.660993,-117.958491
+Huntington Beach City Elementary,Huntington Seacliff Elementary,6701 Garfield Avenue Huntington Beach CA 92648-1510,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.686672,-118.011345
+Orange Unified,Imperial Elementary,400 South Imperial Highway Anaheim CA 92807-3946,NA,NA,FALSE,tested,Anaheim,Orange County,33.84911,-117.790096
+La Habra City Elementary,Imperial Middle,1450 South Schoolwood Drive La Habra CA 90631-7276,5.4,ppb,TRUE,tested,La Habra,Orange County,33.914458,-117.953396
+Imperial Valley ROP,Imperial Valley ROP,687 State Street El Centro CA 92243-2943,NA,NA,NA,not tested,Newport Beach,Orange County,33.611214,-117.914601
+Santa Ana Unified,Independent Study Program,2802 S Flower St Santa Ana CA 92707,NA,NA,NA,not tested,Santa Ana,Orange County,33.709076,-117.876935
+Irvine Unified,Irvine Adult Transition Programs,311 West Yale Loop Irvine CA 92604-4736,6.79,ppb,TRUE,tested,Irvine,Orange County,33.682122,-117.806096
+Irvine Unified,Irvine High,4321 Walnut Avenue Irvine CA 92604-2239,NA,NA,FALSE,tested,Irvine,Orange County,33.701744,-117.783481
+Huntington Beach City Elementary,Isaac L. Sowers Middle,9300 Indianapolis Avenue Huntington Beach CA 92646-5900,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.664936,-117.966903
+Garden Grove Unified,Izaak Walton Intermediate,12181 Buaro Street Garden Grove CA 92840-3924,NA,NA,FALSE,tested,Garden Grove,Orange County,33.786945,-117.919315
+Los Alamitos Unified,J. H. McGaugh Elementary,1698 Bolsa Avenue Seal Beach CA 90740-6212,NA,NA,FALSE,tested,Seal Beach,Orange County,33.744938,-118.093743
+Los Alamitos Unified,Jack L. Weaver Elementary,11872 Wembley Road Los Alamitos CA 90720-2200,NA,NA,FALSE,tested,NA,Orange County,33.798179,-118.082231
+Buena Park Elementary,James A. Whitaker Elementary,8401 Montana Street Buena Park CA 90621-3629,NA,NA,FALSE,tested,Buena Park,Orange County,33.862525,-117.986416
+Garden Grove Unified,James Irvine Intermediate,10552 Hazard Avenue Garden Grove CA 92843-5109,NA,NA,FALSE,tested,Orange,Orange County,33.752225,-117.945297
+Garden Grove Unified,James Monroe Elementary,16225 Newhope Street Fountain Valley CA 92708-1703,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.727865,-117.928671
+Tustin Unified,Jeane Thorman Elementary,1402 Sycamore Avenue Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
+Anaheim Elementary,Jefferson (Thomas) Elementary,504 East South Street Anaheim CA 92805-5338,NA,NA,FALSE,tested,Anaheim,Orange County,33.827811,-117.905903
+Santa Ana Unified,Jefferson Elementary,1522 West Adams Street Santa Ana CA 92704-5798,NA,NA,FALSE,tested,Santa Ana,Orange County,33.711933,-117.891153
+Irvine Unified,Jeffrey Trail Middle,155 Visions Irvine CA 92620-3682,NA,NA,FALSE,tested,Irvine,Orange County,33.693661,-117.761825
+Westminster,Jessie Hayden Elementary,14782 Eden Street Midway City CA 92655-1108,NA,NA,FALSE,tested,Midway City,Orange County,33.747779,-117.975924
+Santa Ana Unified,Jim Thorpe Fundamental,2450 West Alton Santa Ana CA 92704-7118,NA,NA,FALSE,tested,Santa Ana,Orange County,33.70271,-117.902335
+Santa Ana Unified,John F. Kennedy Elementary,1300 East McFadden Santa Ana CA 92705-4104,NA,NA,FALSE,tested,Santa Ana,Orange County,33.732459,-117.853721
+Anaheim Union High,John F. Kennedy High,8281 Walker Street La Palma CA 90623-2126,NA,NA,FALSE,tested,La Palma,Orange County,33.842097,-118.037233
+Huntington Beach City Elementary,John H. Eader Elementary,9291 Banning Avenue Huntington Beach CA 92646-8302,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.643346,-117.965257
+Capistrano Unified,John Malcom Elementary,32261 Charles Avenue Laguna Niguel CA 92677-4258,NA,NA,NA,not tested,Laguna Niguel,Orange County,33.495283,-117.70783
+Garden Grove Unified,John Marshall Elementary,15791 Bushard Street Westminster CA 92683-7455,NA,NA,FALSE,tested,Orange,Orange County,33.73326,-117.963512
+Santa Ana Unified,John Muir Fundamental Elementary,1951 North Mabury Santa Ana CA 92705-1854,NA,NA,FALSE,tested,Santa Ana,Orange County,33.763325,-117.843455
+Garden Grove Unified,John Murdy Elementary,14851 Donegal Drive Garden Grove CA 92844-3237,NA,NA,FALSE,tested,Garden Grove,Orange County,33.746928,-117.961291
+Placentia-Yorba Linda Unified,John O. Tynes Elementary,735 Stanford Placentia CA 92870-5117,NA,NA,FALSE,tested,Placentia,Orange County,33.872088,-117.85605
+Huntington Beach City Elementary,John R. Peterson Elementary,20661 Farnsworth Lane Huntington Beach CA 92646-5511,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.662467,-117.984245
+Westminster,Johnson Middle,13603 Edwards Street Westminster CA 92683-3006,7.1,ppb,TRUE,tested,Westminster,Orange County,33.764452,-118.015902
+Magnolia Elementary,Jonas E. Salk,1411 South Gilbert Street Anaheim CA 92804-5230,NA,NA,FALSE,tested,NA,Orange County,33.812436,-117.967695
+Orange Unified,Jordan Elementary,4319 East Jordan Avenue Orange CA 92869-5431,NA,NA,FALSE,tested,Orange,Orange County,33.780219,-117.807289
+Garden Grove Unified,Jordan Secondary Learning Center,9915 Woodbury Avenue Garden Grove CA 92844-2838,NA,NA,FALSE,tested,Garden Grove,Orange County,33.763504,-117.956916
+Santa Ana Unified,Jose Sepulveda Elementary,1801 South Poplar Santa Ana CA 92704-4321,NA,NA,FALSE,tested,Santa Ana,Orange County,33.72404,-117.887098
+Huntington Beach City Elementary,Joseph R. Perry Elementary,19231 Harding Lane Huntington Beach CA 92646-2023,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.68318,-117.982795
+Capistrano Unified,Journey,27102 Foxborough Aliso Viejo CA 92656-3377,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.567081,-117.719505
+Anaheim Elementary,Juarez (Benito) Elementary,841 South Sunkist Street Anaheim CA 92806-4716,NA,NA,FALSE,tested,Anaheim,Orange County,33.818577,-117.880586
+Santa Ana Unified,Julia C. Lathrop Intermediate,1111 South Broadway Santa Ana CA 92707-1205,NA,NA,FALSE,tested,Santa Ana,Orange County,33.734173,-117.869714
+Cypress Elementary,Juliet Morris Elementary,9952 Graham Street Cypress CA 90630-3815,5.8,ppb,TRUE,tested,Cypress,Orange County,33.818178,-118.034526
+Magnolia Elementary,Juliette Low,215 North Ventura Anaheim CA 92801-5167,NA,NA,FALSE,tested,Anaheim,Orange County,33.833812,-117.963372
+Capistrano Unified,Junipero Serra High,31422 Camino Capistrano San Juan Capistrano CA 92675-2600,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.505853,-117.664602
+Anaheim Union High,Katella High,2200 East Wagner Avenue Anaheim CA 92806-4999,NA,NA,FALSE,tested,Anaheim,Orange County,33.825305,-117.889128
+Anaheim Elementary,Key (Francis Scott),2000 West Ball Road Anaheim CA 92804,9.55,ppb,TRUE,tested,Anaheim,Orange County,33.817779,-117.956423
+Newport-Mesa Unified,Killybrooke Elementary,3155 Killybrooke Lane Costa Mesa CA 92626-2613,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.685753,-117.913962
+Huntington Beach City Elementary,Kinetic Academy,721 Utica Avenue Huntington Beach CA 92648,NA,NA,NA,not tested,Huntington Beach,Orange County,33.676228,-117.990108
+Capistrano Unified,Kinoshita Elementary,2 Via Positiva San Juan Capistrano CA 92675-4318,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.490144,-117.676717
+Placentia-Yorba Linda Unified,Kraemer Middle,645 North Angelina Drive Placentia CA 92870-5007,NA,NA,FALSE,tested,Placentia,Orange County,33.876183,-117.864844
+Placentia-Yorba Linda Unified,La Entrada High,4999 Casa Loma Ave Yorba Linda CA 92886-3398,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.888925,-117.824725
+Placentia-Yorba Linda Unified,La Entrada High,"4999 Casa Loma Ave Yorba Linda, CA CA 92886-3398",NA,NA,NA,not tested,Yorba Linda,Orange County,33.895311,-117.824427
+Fullerton Joint Union High,La Habra High,801 West Highlander Avenue La Habra CA 90631-3720,NA,NA,FALSE,tested,La Habra,Orange County,33.937265,-117.95704
+Saddleback Valley Unified,La Madera Elementary,25350 Serrano Road Lake Forest CA 92630-3599,NA,NA,NA,not tested,Lake Forest,Orange County,33.639925,-117.689089
+Saddleback Valley Unified School Distict,La Madera Elementary School,"25350 Serrano Rd, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.639925,-117.689089
+Saddleback Valley Unified,La Paz Inter.,"25151 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.597618,-117.666497
+Saddleback Valley Unified,La Paz Intermediate,25151 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.597618,-117.666497
+Garden Grove Unified,La Quinta High,10372 McFadden Street Westminster CA 92683-7098,NA,NA,FALSE,tested,Westminster,Orange County,33.735988,-117.949406
+Fullerton Joint Union High,La Sierra High (Alternative),951 North State College Boulevard Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.88656,-117.889754
+Saddleback Valley Unified School Distict,La Tierra Early Childhood Center,"24150 Lindley St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.611581,-117.691372
+Saddleback Valley Unified,La Tierra Early Childhood Center,24150 Lindley Street Mission Viejo CA 92691-3719,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.610772,-117.691402
+Orange Unified,La Veta Elementary,2800 East La Veta Avenue Orange CA 92869-5111,8.04,ppb,TRUE,tested,Orange,Orange County,33.779589,-117.823814
+Fullerton Joint Union High,La Vista High (Continuation),909 North State College Boulevard Fullerton CA 92831-3013,NA,NA,FALSE,tested,Fullerton,Orange County,33.87803,-117.889768
+Tustin Unified,Ladera Elementary,2515 Rawlings Way Tustin CA 92782-5111,NA,NA,FALSE,tested,Tustin,Orange County,33.743449,-117.779345
+La Habra City Elementary,Ladera Palma Elementary,2151 East Brookdale Avenue La Habra CA 90631-3267,NA,NA,FALSE,tested,La Habra,Orange County,33.944012,-117.922232
+Capistrano Unified,Ladera Ranch Elementary,29551 Sienna Parkway Ladera Ranch CA 92694-0789,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.55353,-117.637021
+Capistrano Unified,Ladera Ranch Middle,29551 Sienna Pkwy Ladera Ranch CA 92694-0789,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.55353,-117.637021
+Fullerton Elementary,Ladera Vista Junior High School of the Arts,1700 East Wilshire Drive Fullerton CA 92831-4115,NA,NA,FALSE,tested,Fullerton,Orange County,33.871602,-117.896218
+Laguna Beach Unified,Laguna Beach High,625 Park Avenue Laguna Beach CA 92651-2340,NA,NA,NA,not tested,Laguna Beach,Orange County,33.540372,-117.776069
+Laguna Beach Unified,Laguna Beach High School,"625 Park Ave, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.540372,-117.776069
+Saddleback Valley Unified,Laguna Hills High,25401 Paseo de Valencia Laguna Hills CA 92653-5395,NA,NA,NA,not tested,Laguna Hills,Orange County,33.60586,-117.705084
+Saddleback Valley Unified,Laguna Hills HS,"25401 Paseo De Valencia, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.60586,-117.705084
+Capistrano Unified,Laguna Niguel Elementary,27922 Niguel Heights Boulevard Laguna Niguel CA 92677-7204,NA,NA,NA,not tested,Laguna Niguel,Orange County,33.556748,-117.704511
+Fullerton Elementary,Laguna Road Elementary,300 West Laguna Road Fullerton CA 92835-2504,NA,NA,FALSE,tested,Fullerton,Orange County,33.896929,-117.932557
+Saddleback Valley Unified,Lake Forest Elementary,21801 Pittsford Drive Lake Forest CA 92630-7518,NA,NA,NA,not tested,Lake Forest,Orange County,33.644979,-117.671365
+Saddleback Valley Unified School Distict,Lake Forest Elementary School,"21801 Pittsford Drive, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.644979,-117.671365
+Garden Grove Unified,Lake Intermediate School,10801 Orangewood Avenue Garden Grove CA 92840-1644,NA,NA,FALSE,tested,Garden Grove,Orange County,33.795816,-117.942432
+Ocean View,Lake View Elementary,17451 Zeider Lane Huntington Beach CA 92647-6361,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.708698,-117.981511
+Irvine Unified,Lakeside Middle,3 Lemongrass Irvine CA 92604-3608,NA,NA,FALSE,tested,Irvine,Orange County,33.685526,-117.795272
+Placentia-Yorba Linda Unified,Lakeview Elementary,17510 Lakeview Avenue Yorba Linda CA 92886-2381,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.886008,-117.8132
+Orange Unified,Lampson Elementary,13321 Lampson Avenue Garden Grove CA 92840-6141,NA,NA,FALSE,tested,Garden Grove,Orange County,33.782669,-117.900749
+Capistrano Unified,Las Flores Elementary,25862 Antonio Parkway Rancho Santa Margarita CA 92688-5541,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.58579,-117.629087
+Capistrano Unified,Las Flores Middle,25862 Antonio Pkway Los Flores CA 92688,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.58579,-117.629087
+La Habra City Elementary,Las Lomas Elementary,301 Las Lomas Drive La Habra CA 90631-7171,NA,NA,FALSE,tested,La Habra,Orange County,33.921285,-117.947375
+Capistrano Unified,Las Palmas Elementary,1101 Calle Puente San Clemente CA 92672-5019,NA,NA,FALSE,tested,San Clemente,Orange County,33.428657,-117.623684
+La Habra City Elementary,Las Positas Elementary,1400 South Schoolwood Drive La Habra CA 90631-7276,NA,NA,FALSE,tested,La Habra,Orange County,33.914516,-117.955288
+Brea-Olinda Unified,Laurel Elementary,200 South Flower Avenue Brea CA 92821-4944,NA,NA,FALSE,tested,Brea,Orange County,33.916069,-117.896975
+Garden Grove Unified,Leo Carrillo Elementary,15270 Bushard Street Westminster CA 92683-6502,NA,NA,FALSE,tested,Orange,Orange County,33.740781,-117.963413
+Private,LePort Schools - Huntington Harbor,16081 Waikiki Lane Huntington Beach CA 92649,7.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.727857,-118.044407
+Garden Grove Unified,Leroy L. Doig Intermediate,12752 Trask Avenue Garden Grove CA 92843-3041,NA,NA,FALSE,tested,Garden Grove,Orange County,33.76701,-117.924349
+Anaheim Union High,Lexington Junior High,4351 Orange Avenue Cypress CA 90630-2799,NA,NA,FALSE,tested,Cypress,Orange County,33.824227,-118.057046
+Anaheim Elementary,Lincoln (Abraham) Elementary,1413 East Broadway Anaheim CA 92805-4214,NA,NA,FALSE,tested,Anaheim,Orange County,33.836781,-117.898579
+Saddleback Valley Unified,Linda Vista Elem.,"25222 Pericia Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.596442,-117.666715
+Orange Unified,Linda Vista Elementary,1200 North Cannon Street Orange CA 92869-1303,6.15,ppb,TRUE,tested,Orange,Orange County,33.808544,-117.795963
+Placentia-Yorba Linda Unified,Linda Vista Elementary,5600 South Ohio Street Yorba Linda CA 92886-5499,6.15,ppb,TRUE,tested,Yorba Linda,Orange County,33.882691,-117.805341
+Newport-Mesa Unified,Lindberg School,220 23rd St. Costa Mesa CA 92627,10.9,ppb,TRUE,tested,Costa Mesa,Orange County,33.651079,-117.900384
+Garden Grove Unified,Linton T. Simmons Elementary,11602 Steele Drive Garden Grove CA 92841-2121,NA,NA,FALSE,tested,Garden Grove,Orange County,33.793591,-117.945073
+Anaheim Elementary,Loara Elementary,1601 West Broadway Anaheim CA 92802-1107,NA,NA,FALSE,tested,Anaheim,Orange County,33.829022,-117.937284
+Anaheim Union High,Loara High,1765 West Cerritos Avenue Anaheim CA 92804-6198,NA,NA,FALSE,tested,Anaheim,Orange County,33.810109,-117.907135
+Tustin Unified,Loma Vista Elementary,13822 Prospect Avenue Santa Ana CA 92705-2690,5.8,ppb,TRUE,tested,Santa Ana,Orange County,33.76216,-117.819079
+Saddleback Valley Unified,Lomarena Elem.,"25100 Earhart Rd, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.595578,-117.691131
+Saddleback Valley Unified,Lomarena Elementary,25100 Earhart Road Laguna Hills CA 92653-5257,NA,NA,NA,not tested,Laguna Hills,Orange County,33.595578,-117.691131
+Magnolia Elementary,Lord Baden-Powell,2911 Stonybrook Drive Anaheim CA 92804-3931,NA,NA,FALSE,tested,Anaheim,Orange County,33.823117,-118.001567
+Santa Ana Unified,Lorin Griset Academy,1915 West McFadden Santa Ana CA 92704-2902,NA,NA,FALSE,tested,Santa Ana,Orange County,33.734946,-117.894279
+Los Alamitos Unified,Los Alamitos Elementary,10862 Bloomfield Street Los Alamitos CA 90720-2598,NA,NA,FALSE,tested,NA,Orange County,33.805185,-118.06318
+Los Alamitos Unified,Los Alamitos High,3591 Cerritos Avenue Los Alamitos CA 90720-2414,NA,NA,FALSE,tested,NA,Orange County,33.810472,-118.07179
+Saddleback Valley Unified,Los Alisos Intermediate,25171 Moor Avenue Mission Viejo CA 92691-3099,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.616819,-117.690919
+Saddleback Valley Unified School Distict,Los Alisos Intermediate School,"25171 Moor Ave, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.615852,-117.691308
+Garden Grove Unified,Los Amigos High,16566 Newhope Street Fountain Valley CA 92708-2403,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.721861,-117.92629
+Centralia Elementary,Los Coyotes Elementary,8122 Moody Street La Palma CA 90623-2046,NA,NA,NA,not tested,La Palma,Orange County,33.844713,-118.046049
+Garden Grove Unified,Louis G. Zeyen Elementary,12081 South Magnolia Street Garden Grove CA 92841-3314,NA,NA,FALSE,tested,Anaheim,Orange County,33.803116,-117.975635
+Santa Ana Unified,Lowell Elementary,700 South Flower Street Santa Ana CA 92703-4896,NA,NA,FALSE,tested,Santa Ana,Orange County,33.738708,-117.877056
+Garden Grove Unified,Loyal Barker Elementary,12565 Springdale Street Garden Grove CA 92845-2841,NA,NA,FALSE,tested,Garden Grove,Orange County,33.780172,-118.020042
+Santa Ana Unified,Lydia Romero-Cruz Elementary,1512 West Santa Ana Boulevard Santa Ana CA 92703-3603,NA,NA,FALSE,tested,Santa Ana,Orange County,33.747457,-117.888611
+Buena Park Elementary,Mabel L. Pendleton Elementary,7101 Stanton Avenue Buena Park CA 90621-3825,5.9,ppb,TRUE,tested,Buena Park,Orange County,33.857673,-117.994675
+Placentia-Yorba Linda Unified,Mabel M. Paine Elementary,4444 Plumosa Drive Yorba Linda CA 92886-2399,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.896833,-117.815812
+Lowell Joint,Macy Elementary,2301 West Russell Street La Habra CA 90631-2473,NA,NA,FALSE,tested,La Habra,Orange County,33.944796,-117.971886
+Anaheim Elementary,Madison (James) Elementary,1510 South Nutwood Street Anaheim CA 92804-6023,NA,NA,FALSE,tested,Anaheim,Orange County,33.81029,-117.950235
+Santa Ana Unified,Madison Elementary,1124 East Hobart Street Santa Ana CA 92707-1999,NA,NA,FALSE,tested,Santa Ana,Orange County,33.729465,-117.857076
+Anaheim Union High,Magnolia High,2450 West Ball Road Anaheim CA 92804-5298,NA,NA,FALSE,tested,Anaheim,Orange County,33.817723,-117.970432
+Garden Grove Unified,Mamie L. Northcutt Elementary,11303 Sandstone Street Fountain Valley CA 92708-3025,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.71901,-117.931646
+Anaheim Elementary,Mann (Horace) Elementary,600 West La Palma Avenue Anaheim CA 92801-2361,NA,NA,FALSE,tested,Anaheim,Orange County,33.847171,-117.91191
+Santa Ana Unified,Manuel Esqueda Elementary,2240 South Main Street Santa Ana CA 92707-3264,NA,NA,FALSE,tested,Santa Ana,Orange County,33.697065,-117.86817
+Fullerton Elementary,Maple Elementary,244 East Valencia Drive Fullerton CA 92832-2440,NA,NA,FALSE,tested,Fullerton,Orange County,33.866156,-117.921087
+Capistrano Unified,Marblehead Elementary,2410 Via Turqueza San Clemente CA 92673-3912,NA,NA,FALSE,tested,San Clemente,Orange County,33.450697,-117.620401
+Capistrano Unified,Marco Forster Middle,25601 Camino del Avion San Juan Capistrano CA 92675-4330,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.489838,-117.679509
+Private,Mardan School of Educational Therapy,1 Osborn Street Irvine CA 92604,NA,NA,FALSE,tested,Irvine,Orange County,33.674712,-117.791529
+Cypress Elementary,Margaret Landell Elementary,9739 Denni Street Cypress CA 90630-3447,NA,NA,NA,not tested,Cypress,Orange County,33.819769,-118.054527
+Capistrano Unified,Marian Bergeson Elementary,25302 Rancho Niguel Road Laguna Niguel CA 92677-7300,NA,NA,NA,not tested,Laguna Niguel,Orange County,33.553008,-117.688218
+Garden Grove Unified,Marie L. Hare High,12012 Magnolia Street Garden Grove CA 92841-1644,14.3,ppb,TRUE,tested,Garden Grove,Orange County,33.78817,-117.975332
+Huntington Beach Union High,Marina High,15871 Springdale Street Huntington Beach CA 92649-1727,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.730772,-118.024185
+Ocean View,Marine View Middle,5682 Tilburg Drive Huntington Beach CA 92649-4699,6.1,ppb,TRUE,tested,Huntington Beach,Orange County,33.710261,-118.029415
+Newport-Mesa Unified,Mariners Elementary,2100 Mariners Drive Newport Beach CA 92660-4633,NA,NA,FALSE,tested,Newport Beach,Orange County,33.630623,-117.904865
+Brea-Olinda Unified,Mariposa Elementary,1111 West Mariposa Drive Brea CA 92821-2599,NA,NA,FALSE,tested,Brea,Orange County,33.935145,-117.896934
+Tustin Unified,Marjorie Veeh Elementary,1701 San Juan Street Tustin CA 92780-5204,NA,NA,FALSE,tested,Tustin,Orange County,33.735317,-117.809395
+Garden Grove Unified,Mark Twain Special Center,11802 Loara Street Garden Grove CA 92840-2324,NA,NA,FALSE,tested,Garden Grove,Orange County,33.791046,-117.936769
+Anaheim Elementary,Marshall (John) Elementary,2066 Falmouth Avenue Anaheim CA 92801-1751,NA,NA,FALSE,tested,Anaheim,Orange County,33.848289,-117.95045
+Santa Ana Unified,Martin Elementary,939 West Wilshire Santa Ana CA 92707-1142,NA,NA,FALSE,tested,Santa Ana,Orange County,33.731592,-117.878213
+Santa Ana Unified,Martin Luther King Jr. Elementary,1001 South Graham Lane Santa Ana CA 92703-4726,NA,NA,FALSE,tested,Santa Ana,Orange County,33.735128,-117.886892
+Santa Ana Unified,Martin R. Heninger Elementary,417 West Walnut Street Santa Ana CA 92701-5562,NA,NA,FALSE,tested,Santa Ana,Orange County,33.744877,-117.871756
+Fountain Valley Elementary,Masuda (Kazuo) Middle,17415 Los Jardines West Fountain Valley CA 92708-4846,5.6,ppb,TRUE,tested,Fountain Valley,Orange County,33.709297,-117.94338
+Magnolia Elementary,Mattie Lou Maxwell,2613 West Orange Avenue Anaheim CA 92804-3201,NA,NA,FALSE,tested,Anaheim,Orange County,33.826245,-117.977028
+Newport-Mesa Unified,Maude B. Davis Elementary,1050 Arlington Drive Costa Mesa CA 92626-5626,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.668952,-117.90606
+Santa Ana Unified,McFadden Intermediate,2701 South Raitt Santa Ana CA 92704-5599,NA,NA,FALSE,tested,Santa Ana,Orange County,33.710812,-117.895309
+Orange Unified,McPherson Magnet,333 South Prospect Street Orange CA 92869-4825,NA,NA,FALSE,tested,Orange,Orange County,33.783685,-117.817169
+Irvine Unified,Meadow Park Elementary,50 Blue Lake South Irvine CA 92614-5472,NA,NA,FALSE,tested,Irvine,Orange County,33.671206,-117.809035
+Westminster,Meairs Elementary,8441 Trask Avenue Garden Grove CA 92844-1811,NA,NA,NA,not tested,Garden Grove,Orange County,33.766675,-117.973274
+Westminster,Meairs Elementary School,"8441 Trask Ave, Garden Grove, CA 92844",NA,NA,NA,exempt,Garden Grove,Orange County,33.766675,-117.973274
+Saddleback Valley Unified,Melinda Heights Elementary,21001 Rancho Trabuco Rancho Santa Margarita CA 92688-3444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.657527,-117.614423
+Saddleback Valley Unified,Melinda Heights Elementary,"21001 Rancho Trabuco, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.65592,-117.614584
+Saddleback Valley Unified,Melinda Heights Elementary,"21001 Rancho Trabuco, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.65592,-117.614584
+Placentia-Yorba Linda Unified,Melrose Elementary,974 South Melrose Street Placentia CA 92870-7117,NA,NA,FALSE,tested,Placentia,Orange County,33.85892,-117.873633
+Garden Grove Unified,Merton E. Hill Elementary,9681 11th Street Garden Grove CA 92844-3101,NA,NA,FALSE,tested,Garden Grove,Orange County,33.754099,-117.960117
+Ocean View,Mesa View Middle,17601 Avilla Lane Huntington Beach CA 92647-6612,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.706318,-118.010711
+Santa Ana Unified,Middle College High,1530 West 17th Street Santa Ana CA 92706-3398,NA,NA,NA,not tested,Santa Ana,Orange County,33.759964,-117.890007
+Saddleback Valley Unified,Mission Viejo High,25025 Chrisanta Drive Mission Viejo CA 92691-5326,NA,NA,NA,not tested,Mission Viejo,Orange County,33.599402,-117.67186
+Saddleback Valley Unified,Mission Viejo HS,"25025 Chrisanta Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.599402,-117.67186
+Santa Ana Unified,Mitchell Child Development,3001 West Harvard Santa Ana CA 92704-3913,NA,NA,FALSE,tested,Santa Ana,Orange County,33.720647,-117.909224
+Santa Ana Unified,Monroe Elementary,417 East Central Avenue Santa Ana CA 92707-3501,NA,NA,FALSE,tested,Santa Ana,Orange County,33.713992,-117.863931
+Santa Ana Unified,Monte Vista Elementary,2116 West Monta Vista Avenue Santa Ana CA 92704-2826,NA,NA,FALSE,tested,Santa Ana,Orange County,33.737595,-117.896825
+Private,Montessori of Brea Inc.,701 Mulberry Avenue Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9106,-117.907309
+Saddleback Valley Unified,Montevideo Elem.,"24071 Carrillo, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.613166,-117.667381
+Saddleback Valley Unified,Montevideo Elementary,24071 Carrillo Drive Mission Viejo CA 92691-4222,NA,NA,NA,not tested,Mission Viejo,Orange County,33.613166,-117.667381
+Garden Grove Unified,Morningside Elementary,10521 Morningside Drive Garden Grove CA 92843-4810,NA,NA,FALSE,tested,Garden Grove,Orange County,33.75649,-117.946398
+Placentia-Yorba Linda Unified,Morse Avenue Elementary,431 East Morse Avenue Placentia CA 92870-3413,NA,NA,FALSE,tested,Placentia,Orange County,33.884355,-117.859436
+Capistrano Unified,Moulton Elementary,29851 Highlands Avenue Laguna Niguel CA 92677-2008,NA,NA,FALSE,tested,Laguna Niguel,Orange County,33.526064,-117.720891
+Tustin Unified,Myford Elementary,3181 Trevino Drive Irvine CA 92602-0795,NA,NA,FALSE,tested,Tustin,Orange County,33.735679,-117.775899
+Capistrano Unified,Newhart Middle,25001 Veterans Way Mission Viejo CA 92692-2735,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.6,-117.64998
+Garden Grove Unified,Newhope Elementary,4419 West Regent Drive Santa Ana CA 92704-2245,NA,NA,FALSE,tested,Santa Ana,Orange County,33.732195,-117.927151
+Fountain Valley Elementary,Newland (William T.) Elementary,8787 Dolphin Street Huntington Beach CA 92646-3218,NA,NA,NA,not tested,Huntington Beach,Orange County,33.67667,-117.974792
+Newport-Mesa Unified,Newport Coast Elementary,6655 Ridge Park Road Newport Beach CA 92657-1232,NA,NA,FALSE,tested,Newport Beach,Orange County,33.606851,-117.829322
+Newport-Mesa Unified,Newport Elementary,1327 West Balboa Boulevard Newport Beach CA 92661-1043,NA,NA,FALSE,tested,Newport Beach,Orange County,33.606585,-117.918037
+Newport-Mesa Unified,Newport Harbor High,600 Irvine Avenue Newport Beach CA 92663-5412,NA,NA,FALSE,tested,Newport Beach,Orange County,33.622894,-117.914068
+Newport-Mesa Unified,Newport Heights Elementary,300 East 15th Street Newport Beach CA 92663-4840,6.15,ppb,TRUE,tested,Newport Beach,Orange County,33.626182,-117.918875
+Fullerton Elementary,Nicolas Junior High,1100 West Olive Avenue Fullerton CA 92833-4132,NA,NA,FALSE,tested,Fullerton,Orange County,33.862841,-117.946982
+Capistrano Unified,Niguel Hills Middle,29070 Paseo Escuela Laguna Niguel CA 92677,NA,NA,FALSE,tested,Laguna Niguel,Orange County,33.539237,-117.687031
+Orange Unified,Nohl Canyon Elementary,4100 East Nohl Ranch Road Anaheim CA 92807-3415,6.4,ppb,TRUE,tested,Anaheim,Orange County,33.837751,-117.825126
+North Monterey County Unified,North Orange County ROP,385 North Muller Street Anaheim CA 92801-5456,NA,NA,FALSE,tested,Anaheim,Orange County,33.838306,-117.950284
+Irvine Unified,Northwood Elementary,28 Carson Irvine CA 92620-3313,7.305,ppb,TRUE,tested,Irvine,Orange County,33.704942,-117.769805
+Irvine Unified,Northwood High,4515 Portola Parkway Irvine CA 92620-2200,NA,NA,FALSE,tested,Irvine,Orange County,33.733947,-117.750465
+Santa Ana Unified,Nova Academy,1010 West 17th Street Santa Ana CA 92706-3504,NA,NA,NA,not tested,Santa Ana,Orange County,33.75997,-117.877908
+Irvine Unified,Oak Creek Elementary,1 Dove Creek Irvine CA 92618-3997,NA,NA,FALSE,tested,Irvine,Orange County,33.664858,-117.78345
+Capistrano Unified,Oak Grove Elementary,22705 Sanborn Aliso Viejo CA 92656-6055,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.575081,-117.735562
+Los Alamitos Unified,Oak Middle,10821 Oak Street Los Alamitos CA 90720-2313,NA,NA,FALSE,tested,NA,Orange County,33.807478,-118.075836
+Ocean View,Oak View Elementary,17241 Oak Lane Huntington Beach CA 92647-5895,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.712282,-117.993629
+Huntington Beach Union High,Ocean View High,17071 Gothard Street Huntington Beach CA 92647-5417,6.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.714019,-118.000172
+Saddleback Valley Unified,Ocean View NPS School,24521 Moulton Pkwy Aliso Viejo CA 92657,NA,NA,FALSE,tested,Laguna Woods,Orange County,33.606072,-117.72153
+Garden Grove Unified,Ocia A. Peters Elementary,13162 Newhope Street Garden Grove CA 92843-1416,NA,NA,FALSE,tested,Garden Grove,Orange County,33.771559,-117.929012
+Santa Ana Unified,OCSA,1010 North Main Street Santa Ana CA 92701-3608,NA,NA,NA,not tested,Santa Ana,Orange County,33.753609,-117.867709
+Fountain Valley Elementary,Oka (Isojiro) Elementary,9800 Yorktown Avenue Huntington Beach CA 92646-2841,NA,NA,NA,not tested,Huntington Beach,Orange County,33.679528,-117.957143
+Brea-Olinda Unified,Olinda Elementary,3145 East Birch Street Brea CA 92821-6250,NA,NA,FALSE,tested,Brea,Orange County,33.919475,-117.853967
+Lowell Joint,Olita Elementary,950 South Briercliff Drive La Habra CA 90631-6223,8.3,ppb,TRUE,tested,La Habra,Orange County,33.920368,-117.973665
+Orange Unified,Olive Elementary,3038 North Magnolia Orange CA 92865-1631,NA,NA,FALSE,tested,Orange,Orange County,33.84005,-117.844185
+Anaheim Elementary,Olive Street Elementary,890 South Olive Street Anaheim CA 92805-5214,NA,NA,FALSE,tested,Anaheim,Orange County,33.826059,-117.906638
+Saddleback Valley Unified,Olivewood Elementary,23391 Dune Mear Road Lake Forest CA 92630-3819,NA,NA,FALSE,tested,Lake Forest,Orange County,33.623477,-117.705277
+Saddleback Valley Unified School Distict,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.623464,-117.705787
+Saddleback Valley Unified,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.623464,-117.705787
+Tustin Unified,Orange County Department of Education Foothill HS Annex,19061 Foothill Blvd Santa Ana CA 92705,NA,NA,NA,not tested,North Tustin,Orange County,33.76942,-117.800437
+Santa Ana Unified,Orange County Educational Arts Academy,825 North Broadway Santa Ana CA 92701-3423,NA,NA,NA,not tested,Santa Ana,Orange County,33.752197,-117.869606
+Orange County Department of Education,Orange County Workforce Innovation High,505 North Euclid Street Anaheim CA 92805-5506,NA,NA,NA,not tested,Anaheim,Orange County,33.837814,-117.941661
+Anaheim Elementary,Orange Grove Elementary,1000 South Harbor Boulevard Anaheim CA 92805-5531,NA,NA,FALSE,tested,Anaheim,Orange County,33.820817,-117.913749
+Orange Unified,Orange High,525 North Shaffer Street Orange CA 92867-6824,5.84,ppb,TRUE,tested,Orange,Orange County,33.79802,-117.846793
+Orange Unified,Orange Unified Pre-K SDC,5125 East Gerda Drive Anaheim CA 92807-3009,NA,NA,FALSE,tested,Anaheim,Orange County,33.852073,-117.805483
+Fullerton Elementary,Orangethorpe Elementary,1400 South Brookhurst Road Fullerton CA 92833-4493,NA,NA,FALSE,tested,Fullerton,Orange County,33.857302,-117.958311
+Anaheim Union High,Orangeview Junior High,3715 West Orange Avenue Anaheim CA 92804-2899,5.2,ppb,TRUE,tested,Anaheim,Orange County,33.826447,-118.013899
+Tustin Unified,Orchard Hills,11555 Culver Drive Irvine CA 92602-0835,NA,NA,FALSE,tested,Irvine,Orange County,33.727937,-117.764314
+Capistrano Unified,Oso Grande Elementary,30251 Sienna Parkway Ladera Ranch CA 92694-1459,NA,NA,FALSE,tested,Ladera Ranch,Orange County,33.54432,-117.639542
+Orange Unified,OUSD Community Day,250 South Yorba St Orange CA 92869-3609,NA,NA,NA,not tested,Orange,Orange County,33.78519,-117.827162
+Orange Unified,OUSD Home Sch,250 S Yorba Street Orange CA 92869-3609,NA,NA,NA,not tested,Orange,Orange County,33.78519,-117.827162
+Anaheim Union High,Oxford Academy,5172 Orange Avenue Cypress CA 90630-2921,NA,NA,FALSE,tested,Cypress,Orange County,33.822275,-118.042542
+Saddleback Valley Unified,Oxford Preparatory Academy,22882 Loumont Dr. Lake Forest CA 92630,10,ppb,TRUE,tested,Lake Forest,Orange County,33.629854,-117.700718
+Capistrano Unified,Oxford Preparatory Academy - South Orange County,23000 Via Santa Maria Mission Viejo CA 92692-1827,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.629017,-117.658553
+Fullerton Elementary,Pacific Drive Elementary,1501 West Valencia Drive Fullerton CA 92833-3940,NA,NA,FALSE,tested,Fullerton,Orange County,33.867222,-117.953195
+Garden Grove Unified,Pacifica High,6851 Lampson Avenue Garden Grove CA 92845-2211,NA,NA,FALSE,tested,Garden Grove,Orange County,33.781087,-118.01439
+Capistrano Unified,Palisades Elementary,26462 Via Sacramento Capistrano Beach CA 92624-1399,NA,NA,FALSE,tested,Dana Point,Orange County,33.461154,-117.667986
+Anaheim Elementary,Palm Lane Elementary,1646 West Palm Lane Anaheim CA 92802-2007,NA,NA,FALSE,tested,Anaheim,Orange County,33.816034,-117.940197
+Orange Unified,Palmyra Elementary,1325 East Palmyra Avenue Orange CA 92866-2428,6.425000000000001,ppb,TRUE,tested,Orange,Orange County,33.784691,-117.839036
+Orange Unified,Panorama Elementary,10512 Crawford Canyon Rd Santa Ana CA 92705,7.779999999999999,ppb,TRUE,tested,Santa Ana,Orange County,33.780839,-117.791364
+Garden Grove Unified,Parkview Elementary,12272 Wilken Way Garden Grove CA 92840-2699,NA,NA,FALSE,tested,Garden Grove,Orange County,33.793744,-117.92298
+Garden Grove Unified,Patton Elementary,6861 Santa Rita Avenue Garden Grove CA 92845-1443,NA,NA,FALSE,tested,Garden Grove,Orange County,33.78937,-118.01321
+Newport-Mesa Unified,Paularino Elementary,1060 Paularino Avenue Costa Mesa CA 92626-2849,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.682477,-117.900941
+Tustin Unified,Peters Canyon Elementary,26900 Peters Canyon Road Tustin CA 92782-3300,NA,NA,FALSE,tested,Irvine,Orange County,33.711015,-117.798729
+Capistrano Unified,Philip J. Reilly Elementary/Special Education,24171 Pavion Mission Viejo CA 92692-2200,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.61446,-117.634563
+Santa Ana Unified,Pio Pico Elementary,931 West Highland Santa Ana CA 92703-4809,NA,NA,FALSE,tested,Santa Ana,Orange County,33.737693,-117.877936
+Tustin Unified,Pioneer Middle,2700 Pioneer Rd. Irvine CA 92782,NA,NA,FALSE,tested,Tustin,Orange County,33.749951,-117.773231
+Orange County Department of Education,Placentia Education Center,5247 E Orangethorpe Avenue Anaheim CA 92807,NA,NA,NA,not tested,Anaheim,Orange County,33.859494,-117.918477
+Fountain Valley Elementary,Plavan (Urbain H.) Elementary,9675 Warner Avenue Fountain Valley CA 92708-2823,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.716138,-117.959421
+Irvine Unified,Plaza Vista,670 Paseo Westpark Irvine CA 92606-8946,NA,NA,FALSE,tested,Irvine,Orange County,33.691677,-117.808363
+Ocean View,Pleasant View,16692 Landau Lane Huntington Beach CA 92647-5097,8.7,ppb,TRUE,tested,Westminster,Orange County,33.721351,-117.975752
+Newport-Mesa Unified,Pomona Elementary,2051 Pomona Avenue Costa Mesa CA 92627-2921,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.648939,-117.927618
+Anaheim Elementary,Ponderosa Elementary,2135 South Mountain View Avenue Anaheim CA 92802-4917,NA,NA,FALSE,tested,Anaheim,Orange County,33.794629,-117.904179
+Irvine Unified,Portola High,1001 Cadence Irvine CA 92618,NA,NA,FALSE,tested,Irvine,Orange County,33.672935,-117.71288
+Saddleback Valley Unified,Portola Hills Elementary,19422 Saddleback Ranch Road Trabuco Canyon CA 92679-1177,NA,NA,NA,not tested,Trabuco Canyon,Orange County,33.679652,-117.631447
+Saddleback Valley Unified School Distict,Portola Hills Elementary School,"19422 Saddleback Ranch Rd, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Trabuco Canyon,Orange County,33.679652,-117.631447
+Orange Unified,Portola Middle,270 North Palm Drive Orange CA 92868-2428,NA,NA,FALSE,tested,Orange,Orange County,33.791056,-117.869775
+Irvine Unified,Portola Springs Elementary,12100 Portola Springs Irvine CA 92618,NA,NA,FALSE,tested,Irvine,Orange County,33.6943,-117.711489
+Garden Grove Unified,Post Elementary,14641 Ward Street Westminster CA 92683-5830,NA,NA,FALSE,tested,Westminster,Orange County,33.739583,-117.946099
+Anaheim Elementary,Price (Adelaide) Elementary,1516 West North Street Anaheim CA 92801-4332,5.2,ppb,TRUE,tested,Anaheim,Orange County,33.840772,-117.9365
+Orange Unified,Prospect Elementary,379 North Virage Street Orange CA 92869-2856,7.53,ppb,TRUE,tested,Orange,Orange County,33.792504,-117.81612
+Garden Grove Unified,R. F. Hazard Elementary,4218 West Hazard Avenue Santa Ana CA 92703-2610,NA,NA,FALSE,tested,Santa Ana,Orange County,33.751522,-117.9256
+Saddleback Valley Unified,Ralph A. Gates Elementary,23882 Landisview Avenue Lake Forest CA 92630-5152,NA,NA,FALSE,tested,Lake Forest,Orange County,33.615094,-117.696678
+Saddleback Valley Unified School District,Ralph A. Gates Elementary School,"23882 Landisview Ave, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.615585,-117.697405
+Huntington Beach City Elementary,Ralph E. Hawes Elementary,9682 Yellowstone Drive Huntington Beach CA 92646-4857,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.668658,-117.959342
+Garden Grove Unified,Rancho Alamitos High,11351 Dale Street Garden Grove CA 92841-1598,NA,NA,FALSE,tested,Garden Grove,Orange County,33.797909,-117.984513
+Saddleback Valley Unified,Rancho Canada Elementary,21801 Winding Way Lake Forest CA 92630-2599,NA,NA,NA,not tested,Lake Forest,Orange County,33.646258,-117.69197
+Saddleback Valley Unified School Distict,Rancho Canada Elementary School,"21801 Winding Way, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.646258,-117.69197
+Irvine Unified,Rancho San Joaquin Middle,4861 Michelson Drive Irvine CA 92612-2826,NA,NA,FALSE,tested,Irvine,Orange County,33.663685,-117.806714
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,"21931 Alma Aldea, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.644024,-117.589584
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,"21931 Alma Aldea, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.644024,-117.589584
+Saddleback Valley Unified,Rancho Santa Margarita Intermediate,21931 Alma Aldea Rancho Santa Margarita CA 92688-2342,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.644284,-117.5876
+Santa Ana Unified,Raymond A. Villa Fundamental Intermediate,1441 East Chestnut Avenue Santa Ana CA 92701-6318,NA,NA,FALSE,tested,Santa Ana,Orange County,33.742883,-117.849336
+Fullerton Elementary,Raymond Elementary,517 North Raymond Avenue Fullerton CA 92831-3310,NA,NA,FALSE,tested,Fullerton,Orange County,33.874404,-117.907112
+Centralia Elementary,Raymond Temple Elementary,7800 Holder Street Buena Park CA 90620-2315,NA,NA,FALSE,tested,Buena Park,Orange County,33.850241,-118.019721
+Santa Ana Unified,REACH Academy,804 North Fairview Road Santa Ana CA 92703-1840,NA,NA,FALSE,tested,Santa Ana,Orange County,33.752345,-117.904301
+Tustin Unified,Red Hill Elementary,11911 Red Hill Avenue Santa Ana CA 92705-3105,NA,NA,FALSE,tested,Santa Ana,Orange County,33.704698,-117.844315
+Anaheim Elementary,Revere (Paul) Elementary,140 West Guinida Lane Anaheim CA 92805-6507,NA,NA,FALSE,tested,Anaheim,Orange County,33.814136,-117.908409
+Capistrano Unified,Richard Henry Dana Elementary,24242 La Cresta Dr Dana Point CA 92629-2561,NA,NA,FALSE,tested,Dana Point,Orange County,33.469114,-117.706106
+Capistrano Unified,Richard Henry Dana Exceptional Needs,24242 La Cresta Drive Dana Point CA 92629-2561,8.5,ppb,TRUE,tested,Dana Point,Orange County,33.469114,-117.706106
+Los Alamitos Unified,Richard Henry Lee Elementary,11481 Foster Road Los Alamitos CA 90720-3818,NA,NA,FALSE,tested,NA,Orange County,33.795997,-118.082013
+Orange Unified,Richland Continuation High,615 North Lemon Street Orange CA 92867-6611,NA,NA,FALSE,tested,Orange,Orange County,33.797016,-117.854811
+Fullerton Elementary,Richman Elementary,700 South Richman Avenue Fullerton CA 92832-2724,NA,NA,FALSE,tested,Fullerton,Orange County,33.86483,-117.93297
+Placentia-Yorba Linda Unified,Rio Vista Elementary,310 North Rio Vista Street Anaheim CA 92806-3767,NA,NA,FALSE,tested,Anaheim,Orange County,33.843225,-117.871646
+Garden Grove Unified,Riverdale Elementary,13222 Lewis Street Garden Grove CA 92843-2229,10.2,ppb,TRUE,tested,Garden Grove,Orange County,33.771243,-117.89701
+Fullerton Elementary,Robert C. Fisler Elementary,1350 Starbuck Street Fullerton CA 92833-5668,NA,NA,FALSE,tested,Fullerton,Orange County,33.885935,-117.962456
+Tustin Unified,Robert Heideman Elementary,15571 Williams Street Tustin CA 92780-4146,5.9,ppb,TRUE,tested,Tustin,Orange County,33.737406,-117.840872
+Magnolia Elementary,Robert M. Pyles,10411 South Dale Street Stanton CA 90680-2505,NA,NA,FALSE,tested,Anaheim,Orange County,33.815642,-117.984735
+Trabuco Canyon Water District,Robinson Elementary,"21400 Lindsay Dr, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Trabuco Canyon,Orange County,33.651897,-117.57234
+Saddleback Valley Unified,Robinson Elementary,21400 Lindsay Drive Trabuco Canyon CA 92679-3213,NA,NA,NA,not tested,Trabuco Canyon,Orange County,33.651897,-117.57234
+Trabuco Canyon Water District,Robinson Elementary,"21400 Lindsay Dr., Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Trabuco Canyon,Orange County,33.651897,-117.57234
+Fullerton Elementary,Rolling Hills Elementary,1460 East Rolling Hills Drive Fullerton CA 92835-2008,NA,NA,FALSE,tested,Fullerton,Orange County,33.90251,-117.901603
+Anaheim Elementary,Roosevelt (Theodore) Elementary,1600 East Vermont Avenue Anaheim CA 92805-5628,6.85,ppb,TRUE,tested,Anaheim,Orange County,33.826925,-117.893047
+Orange Unified,ROP-Career Education,250 South Yorba Street Orange CA 92869,NA,NA,NA,not tested,Orange,Orange County,33.78519,-117.827162
+Private,Rosary Academy,1340 North Acacia Avenue Fullerton CA 92831,NA,NA,FALSE,tested,Fullerton,Orange County,33.887169,-117.898416
+Placentia-Yorba Linda Unified,Rose Drive Elementary,4700 Rose Drive Yorba Linda CA 92886-2096,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.890667,-117.841691
+Garden Grove Unified,Rosita Elementary,4726 Hazard Avenue Santa Ana CA 92703-2537,NA,NA,FALSE,tested,Orange,Orange County,33.752347,-117.932063
+Anaheim Elementary,Ross (Betsy) Elementary,535 South Walnut Street Anaheim CA 92802-1450,6.9,ppb,TRUE,tested,Anaheim,Orange County,33.826569,-117.929578
+Private,Rossier Park School,7100 Knott Avenue Buena Park CA 90620,NA,NA,FALSE,tested,Buena Park,Orange County,33.8614,-118.011197
+Los Alamitos Unified,Rossmoor Elementary,3272 Shakespeare Drive Los Alamitos CA 90720-3842,NA,NA,FALSE,tested,NA,Orange County,33.793412,-118.075981
+Newport-Mesa Unified,Roy O. Andersen Elementary,1900 Port Seabourne Way Newport Beach CA 92660-6634,NA,NA,FALSE,tested,Newport Beach,Orange County,33.62127,-117.85596
+Placentia-Yorba Linda Unified,Ruby Drive Elementary,601 Ruby Drive Placentia CA 92870-4828,5.7,ppb,TRUE,tested,Placentia,Orange County,33.879143,-117.874652
+Orange Unified,Running Springs Elementary,8670 East Running Springs Drive Anaheim CA 92808-1693,NA,NA,FALSE,tested,Anaheim,Orange County,33.859008,-117.725101
+Huntington Beach City Elementary,S. A. Moffett Elementary,8800 Burlcrest Avenue Huntington Beach CA 92646-4620,11,ppb,TRUE,tested,Huntington Beach,Orange County,33.668173,-117.974369
+Santa Ana Unified,Saddleback High,2801 South Flower Santa Ana CA 92707-3935,NA,NA,FALSE,tested,Santa Ana,Orange County,33.709682,-117.876786
+Private,Saint Jeanne de Lestonnac School,16791 East Main Street Tustin CA 92780,9.7,ppb,TRUE,tested,Tustin,Orange County,33.743023,-117.83705
+Private,"Saint Vincent's Day Home, Inc.",1086 Eighth Street Oakland CA 94607,NA,NA,FALSE,tested,NA,Orange County,28.557538,-81.632829
+Private,Salem Lutheran,6411 East Frank Lane Orange CA 92869,5.05,ppb,TRUE,tested,Orange,Orange County,33.812261,-117.784848
+Orange County Department of Education,Samueli Academy,1901 North Fairview Street Santa Ana CA 92706-2205,NA,NA,FALSE,tested,Santa Ana,Orange County,33.763154,-117.902335
+Capistrano Unified,San Clemente High,700 Avenido Pico San Clemente CA 92673-5681,NA,NA,FALSE,tested,San Clemente,Orange County,33.43984,-117.617333
+Private,San Clemente Presbyterian Preschool,119 Ave De La Estrella San Clemente CA 92672,NA,NA,FALSE,tested,San Clemente,Orange County,33.429356,-117.613366
+Saddleback Valley Unified,San Joaquin Elementary,22182 Barbera Laguna Hills CA 92653-1899,NA,NA,FALSE,tested,Laguna Hills,Orange County,33.617322,-117.742621
+Saddleback Valley Unified School Distict,San Joaquin Elementary School,"22182 Barbera, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.617858,-117.742621
+Capistrano Unified,San Juan Elementary,31642 El Camino Real San Juan Capistrano CA 92675-2616,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.502701,-117.661791
+Capistrano Unified,San Juan Hills High,29211 Stallion Ridge San Juan Capistrano CA 92675-3639,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.499262,-117.621419
+Centralia Elementary,San Marino Elementary,6215 San Rolando Way Buena Park CA 90620-3635,5.8,ppb,TRUE,tested,Buena Park,Orange County,33.836941,-118.024373
+Santa Ana Unified,Santa Ana High,520 West Walnut Santa Ana CA 92701-5559,NA,NA,FALSE,tested,Santa Ana,Orange County,33.743997,-117.874724
+Santa Ana Unified,Santa Ana Unified School District Food and Nutrition Services,1749 E Carnegie Ave Santa Ana CA 92705,NA,NA,FALSE,tested,Santa Ana,Orange County,33.712551,-117.845704
+Santa Ana Unified,Santa Ana Unified School District Office,1601 E Chestnut Ave Santa Ana CA 92701,NA,NA,FALSE,tested,Santa Ana,Orange County,33.743376,-117.847078
+Santa Ana Unified,Santiago Elementary,2212 North Baker Street Santa Ana CA 92706-1999,NA,NA,FALSE,tested,Santa Ana,Orange County,33.764824,-117.882578
+Saddleback Valley Unified School Distict,Santiago Elementary School,"2212 N Baker St, Santa Ana, CA 92706",NA,NA,NA,exempt,Santa Ana,Orange County,33.764824,-117.882578
+Garden Grove Unified,Santiago High,12342 Trask Avenue Garden Grove CA 92843-2812,5.46,ppb,TRUE,tested,Garden Grove,Orange County,33.76701,-117.924349
+Irvine Unified,Santiago Hills Elementary,29 Christamon West Irvine CA 92620-1836,9.385,ppb,TRUE,tested,Irvine,Orange County,33.718993,-117.758407
+Orange Unified,Santiago Middle,515 North Rancho Santiago Boulevard Orange CA 92869-2724,5.5649999999999995,ppb,TRUE,tested,Orange,Orange County,33.795547,-117.798896
+Garden Grove Unified,Sarah McGarvin Intermediate,9802 Bishop Place Westminster CA 92683-6605,NA,NA,FALSE,tested,Westminster,Orange County,33.741198,-117.959598
+Anaheim Union High,Savanna High,301 North Gilbert Street Anaheim CA 92801-5099,NA,NA,FALSE,tested,Anaheim,Orange County,33.835376,-117.967782
+Westminster,Schmitt Elementary,7200 Trask Avenue Westminster CA 92683-2626,NA,NA,FALSE,tested,Westminster,Orange County,33.766328,-118.003902
+Westminster,Schroeder Elementary,15151 Columbia Lane Huntington Beach CA 92647-2507,NA,NA,NA,not tested,Huntington Beach,Orange County,33.741874,-118.017903
+Santa Ana Unified,Segerstrom High,2301 West MacArthur Boulevard Santa Ana CA 92704-7168,NA,NA,FALSE,tested,Santa Ana,Orange County,33.701906,-117.900533
+Westminster,Sequoia Elementary,5900 Iroquois Road Westminster CA 92683-2460,NA,NA,FALSE,tested,Westminster,Orange County,33.768388,-118.026902
+Orange Unified,Serrano Elementary,17741 Serrano Avenue Villa Park CA 92861-1213,NA,NA,FALSE,tested,Villa Park,Orange County,33.821631,-117.823037
+Saddleback Valley Unified,Serrano Intermediate,24642 Jeronimo Road Lake Forest CA 92630-3112,NA,NA,NA,not tested,Lake Forest,Orange County,33.632614,-117.69681
+Saddleback Valley Unified School Distict,Serrano Intermediate School,"24642 Jeronimo Rd, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.632614,-117.69681
+Los Alamitos Unified,Sharon Christa McAuliffe Middle,4112 Cerritos Avenue Los Alamitos CA 90720-2521,NA,NA,FALSE,tested,NA,Orange County,33.810258,-118.061658
+Capistrano Unified,Shorecliffs Middle,240 Via Socorro San Clemente CA 92672-3714,NA,NA,FALSE,tested,San Clemente,Orange County,33.441359,-117.637986
+Santa Ana Unified,Sierra Preparatory Academy,2021 North Grand Avenue Santa Ana CA 92705-1751,7,ppb,TRUE,tested,Santa Ana,Orange County,33.76279,-117.851755
+Placentia-Yorba Linda Unified,Sierra Vista Elementary,1811 North Placentia Avenue Placentia CA 92870-2302,NA,NA,FALSE,tested,Placentia,Orange County,33.890818,-117.874018
+La Habra City Elementary,Sierra Vista Elementary,1800 East Whittier Boulevard La Habra CA 90631-4171,NA,NA,FALSE,tested,La Habra,Orange County,33.938544,-117.927905
+Irvine Unified,Sierra Vista Middle,2 Liberty Irvine CA 92620-2536,NA,NA,FALSE,tested,Irvine,Orange County,33.71624,-117.76804
+Saddleback Valley Unified,Silverado Cont. HS,"25632 Peter A Hartman Way, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.620997,-117.683403
+Newport-Mesa Unified,Sonora Elementary,966 Sonora Road Costa Mesa CA 92626-5710,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.675388,-117.895921
+Fullerton Joint Union High,Sonora High,401 South Palm Street La Habra CA 90631-5735,NA,NA,FALSE,tested,La Habra,Orange County,33.928104,-117.926594
+South Bay Union School District,South Coast Regional Occupational Program,31522 El Camino Real San Juan Capistrano CA 92675-2631,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.505347,-117.662935
+Anaheim Union High,South Junior High,2320 East South Street Anaheim CA 92806-4599,NA,NA,FALSE,tested,Anaheim,Orange County,33.832577,-117.884507
+Irvine Unified,South Lake Middle,655 West Yale Loop Irvine CA 92614-7939,NA,NA,FALSE,tested,Irvine,Orange County,33.669066,-117.80965
+Ocean View,Spring View Middle,16662 Trudy Lane Huntington Beach CA 92647-4261,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.720024,-118.019597
+Irvine Unified,Springbrook Elementary,655 Springbrook North Irvine CA 92614-7568,7.885,ppb,TRUE,tested,Irvine,Orange County,33.669925,-117.797627
+Santa Ana Unified,Spurgeon Intermediate,2701 West Fifth Street Santa Ana CA 92703-1821,NA,NA,FALSE,tested,Santa Ana,Orange County,33.750007,-117.905303
+Private,St. Angela Merici Elementary,575 South Walnut Avenue Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.912094,-117.904174
+Private,St. Anne School,32451 Bear Brand Road Laguna Niguel CA 92677,NA,NA,FALSE,tested,Laguna Niguel,Orange County,33.49456,-117.700306
+Ocean View,Star View Elementary,8411 Worthy Drive Midway City CA 92655-1659,NA,NA,FALSE,tested,Midway City,Orange County,33.735185,-117.981961
+Garden Grove Unified,Stephen R. Fitz Intermediate,4600 West McFadden Avenue Santa Ana CA 92704-1142,NA,NA,FALSE,tested,Santa Ana,Orange County,33.737407,-117.930545
+Cypress Elementary,Steve Luther Elementary,4631 La Palma Ave La Palma CA 90623-1620,5.04,ppb,TRUE,tested,La Palma,Orange County,33.846355,-118.041088
+Anaheim Elementary,Stoddard (Alexander J.) Elementary,1841 South Ninth Street Anaheim CA 92802-3299,NA,NA,FALSE,tested,Anaheim,Orange County,33.801664,-117.933207
+Irvine Unified,Stone Creek Elementary,2 Stone Creek South Irvine CA 92604-4525,NA,NA,FALSE,tested,Irvine,Orange County,33.685421,-117.802739
+Irvine Unified,Stonegate Elementary,100 Honors Irvine CA 92620-2128,NA,NA,FALSE,tested,Irvine,Orange County,33.707,-117.739647
+Ocean View,Sun View Elementary,7721 Juliette Low Drive Huntington Beach CA 92647-4181,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.72491,-117.994301
+El Centro Elementary,Sunflower Elementary,2450 Main Street El Centro CA 92243-3577,NA,NA,FALSE,tested,Newport Beach,Orange County,33.614761,-117.922086
+Anaheim Elementary,Sunkist Elementary,500 North Sunkist Street Anaheim CA 92806-3052,NA,NA,FALSE,tested,Anaheim,Orange County,33.846025,-117.879301
+Fullerton Joint Union High,Sunny Hills High,1801 Warburton Way Fullerton CA 92833-2235,NA,NA,FALSE,tested,Fullerton,Orange County,33.884334,-117.95265
+Garden Grove Unified,Sunnyside Elementary,9972 East Russell Avenue Garden Grove CA 92844-2431,NA,NA,FALSE,tested,Garden Grove,Orange County,33.767698,-117.956184
+Fullerton Elementary,Sunset Lane Elementary,2030 Sunset Lane Fullerton CA 92833-1852,NA,NA,FALSE,tested,Fullerton,Orange County,33.89214,-117.958262
+Garden Grove Unified,Susan B. Anthony Elementary,15320 Pickford Street Westminster CA 92683-7015,NA,NA,FALSE,tested,Westminster,Orange County,33.740756,-117.951336
+Orange Unified,Sycamore Elementary,340 North Main Street Orange CA 92868-2408,NA,NA,FALSE,tested,Orange,Orange County,33.792399,-117.868104
+Anaheim Union High,Sycamore Junior High,1801 East Sycamore Street Anaheim CA 92805-3486,NA,NA,FALSE,tested,Anaheim,Orange County,33.846005,-117.893653
+Santa Ana Unified,Taft Elementary,500 West Keller Santa Ana CA 92707-4823,NA,NA,FALSE,tested,Santa Ana,Orange County,33.695769,-117.875739
+Orange Unified,Taft Elementary,1829 North Cambridge Orange CA 92865-4409,NA,NA,FALSE,tested,Orange,Orange County,33.818298,-117.842656
+Fountain Valley Elementary,Talbert (Samuel E.) Middle,9101 Brabham Drive Huntington Beach CA 92646-2764,NA,NA,NA,not tested,Huntington Beach,Orange County,33.680802,-117.969194
+Fountain Valley Elementary,Tamura (Hisamatsu) Elementary,17340 Santa Suzanne Street Fountain Valley CA 92708-3307,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.711794,-117.976083
+Private,Tarbut V Torah Community Day School,5 Federation Wy Irvine CA 92603,NA,NA,FALSE,tested,Irvine,Orange County,33.63141,-117.830708
+Capistrano Unified,Tesoro High,1 Tesoro Creek Road Las Flores CA 92688-4706,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.580797,-117.613374
+Santa Ana Unified,Theodore Roosevelt Elementary,501 South Halladay Santa Ana CA 92701-6114,NA,NA,FALSE,tested,Santa Ana,Orange County,33.741539,-117.858891
+Santa Ana Unified,Thomas A. Edison Elementary,2063 Orange Avenue Santa Ana CA 92707-2833,NA,NA,FALSE,tested,Santa Ana,Orange County,33.720098,-117.864934
+Garden Grove Unified,Thomas Paine Elementary,15792 Ward Street Garden Grove CA 92843-5348,NA,NA,FALSE,tested,Garden Grove,Orange County,33.734314,-117.94591
+Laguna Beach Unified,Thurston Middle,2100 Park Avenue Laguna Beach CA 92651-2240,NA,NA,NA,not tested,Laguna Beach,Orange County,33.549113,-117.764166
+Laguna Beach Unified,Thurston Middle School,"2100 Park Ave, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.549113,-117.764166
+Capistrano Unified,Tijeras Creek Elementary,23072 Avenida Empresa Rancho Santa Margarita CA 92688-8533,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.627919,-117.602636
+Laguna Beach Unified,Top of the World Elementary,"21601 Treetop Ln, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.545141,-117.751971
+Laguna Beach Unified,Top of the World Elementary,21601 Tree Top Lane Laguna Beach CA 92651-2099,NA,NA,NA,not tested,Laguna Beach,Orange County,33.545524,-117.751778
+Placentia-Yorba Linda Unified,Topaz Elementary,3232 Topaz Lane Fullerton CA 92831-2609,NA,NA,FALSE,tested,Fullerton,Orange County,33.886041,-117.870068
+Trabuco Canyon Water District,Trabuco Elementary,"31052 Trabuco Canyon Rd., Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.657461,-117.579716
+Saddleback Valley Unified,Trabuco Elementary,31052 Trabuco Canyon Road Trabuco Canyon CA 92678-0277,NA,NA,NA,not tested,Rancho Santa Margarita,Orange County,33.657461,-117.579716
+Trabuco Canyon Water District,Trabuco Elementary,"31052 Trabuco Canyon Rd, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.657461,-117.579716
+Saddleback Valley Unified,Trabuco Hills High,27501 Cordova Road Mission Viejo CA 92691-1027,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.653879,-117.652071
+Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.652933,-117.650591
+Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.652933,-117.650591
+Saddleback Valley Unified,Trabuco Mesa Elementary,"21301 Ave. de Las Flores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.653185,-117.580081
+Saddleback Valley Unified,Trabuco Mesa Elementary,21301 Avenida de los Flores Rancho Santa Margarita CA 92688-5444,NA,NA,FALSE,tested,Rancho Santa Margarita,Orange County,33.653428,-117.579621
+Saddleback Valley Unified,Trabuco Mesa Elementary,"21301 Ave. de Las Flores, Rancho Santa Margarita, CA 92688",NA,NA,NA,exempt,Rancho Santa Margarita,Orange County,33.653185,-117.580081
+Placentia-Yorba Linda Unified,Travis Ranch,5200 Via de la Escuela Yorba Linda CA 92887-2556,5.9,ppb,TRUE,tested,Yorba Linda,Orange County,33.885404,-117.761069
+Fullerton Joint Union High,Troy High,2200 East Dorothy Lane Fullerton CA 92831-3036,NA,NA,FALSE,tested,Fullerton,Orange County,33.881375,-117.895006
+Capistrano Unified,Truman Benedict Elementary,1251 Sarmentoso San Clemente CA 92673,NA,NA,FALSE,tested,San Clemente,Orange County,33.474801,-117.6219
+Irvine Unified,Turtle Rock Elementary,5151 Amalfi Drive Irvine CA 92603-3443,NA,NA,FALSE,tested,Irvine,Orange County,33.647835,-117.818615
+Tustin Unified,Tustin High,1171 El Camino Real Tustin CA 92780-4660,NA,NA,FALSE,tested,Tustin,Orange County,33.737469,-117.817308
+Tustin Unified,Tustin Memorial Elementary,12712 Browning Avenue Santa Ana CA 92705-3465,NA,NA,FALSE,tested,Santa Ana,Orange County,33.743971,-117.793483
+Tustin Unified,Tustin Ranch Elementary,12950 Robinson Drive Tustin CA 92782-0921,NA,NA,FALSE,tested,Tustin,Orange County,33.73499,-117.789421
+Savanna Elementary,Twila Reid Elementary,720 South Western Anaheim CA 92804-3831,NA,NA,FALSE,tested,Anaheim,Orange County,33.821956,-118.001424
+Irvine Unified,University High,4771 Campus Drive Irvine CA 92612-3298,5.5,ppb,TRUE,tested,Irvine,Orange County,33.650225,-117.824221
+Irvine Unified,University Park Elementary,4572 Sandburg Way Irvine CA 92612-2735,NA,NA,FALSE,tested,Irvine,Orange County,33.659097,-117.821927
+Placentia-Yorba Linda Unified,Valadez Middle School Academy,161 East La Jolla Street Placentia CA 92870-7112,NA,NA,FALSE,tested,Placentia,Orange County,33.85876,-117.872422
+Saddleback Valley Unified,Valencia Elem.,"25661 Paseo De Valencia, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.60586,-117.705084
+Saddleback Valley Unified,Valencia Elementary,25661 Paseo de Valencia Laguna Hills CA 92653-5308,NA,NA,NA,not tested,Laguna Hills,Orange County,33.60586,-117.705084
+Placentia-Yorba Linda Unified,Valencia High,500 North Bradford Avenue Placentia CA 92870-4844,NA,NA,FALSE,tested,Placentia,Orange County,33.87626,-117.869138
+Fullerton Elementary,Valencia Park Elementary,3441 West Valencia Drive Fullerton CA 92833-3131,6.5,ppb,TRUE,tested,Fullerton,Orange County,33.866484,-117.975626
+Santa Ana Unified,Valley High,1801 South Greenville Street Santa Ana CA 92704-4005,NA,NA,FALSE,tested,Santa Ana,Orange County,33.723019,-117.901475
+Huntington Beach Union High,Valley Vista High (Continuation),9600 Dolphin Street Fountain Valley CA 92708-4603,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.707806,-117.961099
+Placentia-Yorba Linda Unified,Van Buren Elementary,1245 North Van Buren Street Placentia CA 92870-4024,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.884021,-117.831614
+Irvine Unified,Venado Middle,4 Deerfield Avenue Irvine CA 92604-3048,NA,NA,FALSE,tested,Irvine,Orange County,33.700131,-117.798956
+Newport-Mesa Unified,Victoria Elementary,1025 Victoria Street Costa Mesa CA 92627-3929,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.652241,-117.941985
+Capistrano Unified,Viejo Elementary,26782 Via Grande Mission Viejo CA 92691-6133,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.571543,-117.668816
+Orange Unified,Villa Park Elementary,10551 Center Drive Villa Park CA 92861-5332,NA,NA,FALSE,tested,Villa Park,Orange County,33.808546,-117.813764
+Orange Unified,Villa Park High,18042 Taft Avenue Villa Park CA 92861-4148,5.9,ppb,TRUE,tested,Villa Park,Orange County,33.81588,-117.817813
+Ocean View,Village View Elementary,5361 Sisson Drive Huntington Beach CA 92649-2442,6.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.726803,-118.035427
+Capistrano Unified,Vista del Mar Elementary,1130 Avenue Talega San Clemente CA 92673,NA,NA,NA,not tested,San Clemente,Orange County,33.46813,-117.596672
+Capistrano Unified,Vista del Mar Middle,1130 Ave Talega  San Clemente CA 92673,NA,NA,FALSE,tested,San Clemente,Orange County,33.468423,-117.598186
+Irvine Unified,Vista Verde,6 Federation Way Irvine CA 92603-0100,NA,NA,FALSE,tested,Irvine,Orange County,33.629976,-117.82745
+Ocean View,Vista View Middle,16250 Hickory Street Fountain Valley CA 92708-1404,6.3,ppb,TRUE,tested,Fountain Valley,Orange County,33.727256,-117.970746
+Tustin Unified,W. R. Nelson Elementary,14392 Browning Avenue Tustin CA 92780-6338,NA,NA,FALSE,tested,Tustin,Orange County,33.723443,-117.812668
+Capistrano Unified,Wagon Wheel Elementary,30912 Bridle Path Coto De Caza CA 92679-5360,NA,NA,FALSE,tested,Coto De Caza,Orange County,33.580766,-117.592005
+Garden Grove Unified,Wakeham Elementary,7772 Chapman Avenue Garden Grove CA 92841-3003,NA,NA,FALSE,tested,Garden Grove,Orange County,33.788436,-117.97993
+Private,Waldorf School of Orange County,2350 Canyon Drive Costa Mesa CA 92627,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.658932,-117.94072
+Santa Ana Unified,Walker Elementary,811 East Bishop Street Santa Ana CA 92701-6205,NA,NA,FALSE,tested,Santa Ana,Orange County,33.740849,-117.857668
+Anaheim Union High,Walker Junior High,8132 Walker Street La Palma CA 90623-2097,9.9,ppb,TRUE,tested,La Palma,Orange County,33.843091,-118.037045
+Santa Ana Unified,Wallace R. Davis Elementary,1405 French Street Santa Ana CA 92701-2414,NA,NA,FALSE,tested,Santa Ana,Orange County,33.756897,-117.863901
+La Habra City Elementary,Walnut Elementary,625 North Walnut Street La Habra CA 90631-3711,NA,NA,FALSE,tested,La Habra,Orange County,33.938128,-117.951663
+Magnolia Elementary,Walt Disney,2323 West Orange Avenue Anaheim CA 92804-3474,NA,NA,FALSE,tested,Anaheim,Orange County,33.825075,-117.964662
+Westminster,Warner Middle,14171 Newland Street Westminster CA 92683-4503,NA,NA,FALSE,tested,Orange,Orange County,33.756253,-117.981142
+Santa Ana Unified,Washington Elementary,910 West Anahurst Place Santa Ana CA 92707-2501,NA,NA,FALSE,tested,Santa Ana,Orange County,33.717239,-117.875499
+La Habra City Elementary,Washington Middle,716 East La Habra Boulevard La Habra CA 90631-5530,8.1,ppb,TRUE,tested,La Habra,Orange County,33.930403,-117.938406
+Westminster,Webber Elementary,14142 Hoover Street Westminster CA 92683-4312,NA,NA,FALSE,tested,Westminster,Orange County,33.757965,-117.998294
+Orange Unified,West Orange Elementary,243 South Bush Orange CA 92868-3802,NA,NA,FALSE,tested,Orange,Orange County,33.785281,-117.865804
+Anaheim Union High,Western High,501 South Western Avenue Anaheim CA 92804-1699,11,ppb,TRUE,tested,Anaheim,Orange County,33.824514,-118.002234
+Huntington Beach Union High,Westminster High,14325 Goldenwest Street Westminster CA 92683-4905,NA,NA,FALSE,tested,Westminster,Orange County,33.753195,-118.009772
+Anaheim Elementary,Westmont Elementary,1525 West Westmont Drive Anaheim CA 92801-4736,NA,NA,FALSE,tested,Anaheim,Orange County,33.837628,-117.935899
+Ocean View,Westmont Elementary,8251 Heil Avenue Westminster CA 92683-7834,5.5,ppb,TRUE,tested,Westminster,Orange County,33.723063,-117.984047
+Irvine Unified,Westpark Elementary,25 San Carlo Irvine CA 92614-7314,NA,NA,FALSE,tested,Irvine,Orange County,33.680859,-117.830988
+Irvine Unified,Westwood Elementary,1 Liberty Irvine CA 92620,6.23,ppb,TRUE,tested,Irvine,Orange County,33.716601,-117.768592
+Newport-Mesa Unified,Whittier Elementary,1800 Whittier Avenue Costa Mesa CA 92627-4558,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.641141,-117.940532
+Santa Ana Unified,Willard Intermediate,1342 North Ross Santa Ana CA 92706-3816,NA,NA,FALSE,tested,Santa Ana,Orange County,33.756871,-117.873584
+Brea-Olinda Unified,William E. Fanning Elementary,650 North Apricot Brea CA 92821-3501,NA,NA,FALSE,tested,Brea,Orange County,33.928276,-117.887751
+Westminster,Willmore Elementary,7122 Maple Street Westminster CA 92683-5021,NA,NA,FALSE,tested,Westminster,Orange County,33.753574,-118.005466
+Newport-Mesa Unified,Wilson Elementary,801 Wilson Street Costa Mesa CA 92627-3333,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.656301,-117.904235
+Santa Ana Unified,Wilson Elementary,1317 North Baker Street Santa Ana CA 92706-3457,NA,NA,FALSE,tested,Santa Ana,Orange County,33.756036,-117.882632
+Capistrano Unified,Wood Canyon Elementary,23431 Knollwood Aliso Viejo CA 92656-4240,NA,NA,FALSE,tested,Aliso Viejo,Orange County,33.55354,-117.722009
+Irvine Unified,Woodbridge High,2 Meadowbrook Irvine CA 92604-4726,NA,NA,FALSE,tested,Irvine,Orange County,33.677269,-117.806454
+Irvine Unified,Woodbury Elementary,125 Great Lawn Irvine CA 92620-3832,NA,NA,FALSE,tested,Irvine,Orange County,33.696516,-117.750471
+Garden Grove Unified,Woodbury Elementary,11362 Woodbury Road Garden Grove CA 92843-3599,NA,NA,FALSE,tested,Garden Grove,Orange County,33.763666,-117.931233
+Fullerton Elementary,Woodcrest Elementary,455 West Baker Avenue Fullerton CA 92832-3269,NA,NA,FALSE,tested,Fullerton,Orange County,33.856915,-117.945004
+Newport-Mesa Unified,Woodland Elementary,2025 Garden Lane Costa Mesa CA 92627-2113,NA,NA,FALSE,tested,Costa Mesa,Orange County,33.642201,-117.90284
+Placentia-Yorba Linda Unified,Woodsboro Elementary,7575 East Woodsboro Avenue Anaheim CA 92807-2441,NA,NA,FALSE,tested,Anaheim,Orange County,33.868513,-117.772421
+Placentia-Yorba Linda Unified,Yorba Linda High,19900 Bastanchury Road Yorba Linda CA 92886-8417,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.899773,-117.810367
+Placentia-Yorba Linda Unified,Yorba Linda Middle,4777 Casa Loma Avenue Yorba Linda CA 92886-3399,NA,NA,FALSE,tested,Yorba Linda,Orange County,33.891485,-117.824211
+Orange Unified,Yorba Middle,935 North Cambridge Orange CA 92867-5720,NA,NA,FALSE,tested,Orange,Orange County,33.802811,-117.844231

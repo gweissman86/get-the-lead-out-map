@@ -1,0 +1,22 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Baldwin Park Unified,Baldwin Park High,3900 North Puente Avenue Baldwin Park CA 91706-4428,6.1,ppb,TRUE,tested,Baldwin Park,Los Angeles County,34.085137,-117.949724
+Baldwin Park Unified,Central Elementary,14741 Central Avenue Baldwin Park CA 91706-5617,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.083714,-117.953566
+Baldwin Park Unified,Charles Bursch Elementary,4245 North Merced Avenue Baldwin Park CA 91706-2960,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.089785,-117.974002
+Baldwin Park Unified,Charles D. Jones Junior High,14250 East Merced Avenue Baldwin Park CA 91706-5205,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.075314,-117.967509
+Baldwin Park Unified,De Anza Elementary,12820 Bess Street Baldwin Park CA 91706-4546,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.069365,-117.995873
+Baldwin Park Unified,Elwin Elementary,13010 East Waco Street Baldwin Park CA 91706-3798,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.073499,-117.990517
+Baldwin Park Unified,Ernest R. Geddes Elementary,14600 Cavette Place Baldwin Park CA 91706-2799,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.096953,-117.95812
+Baldwin Park Unified,Foster Elementary,13900 Foster Avenue Baldwin Park CA 91706-4926,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.07157,-117.972101
+Baldwin Park Unified,Jerry D. Holland Middle,4733 Landis Avenue Baldwin Park CA 91706-2565,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.098333,-117.963345
+Baldwin Park Unified,Kenmore Elementary,3823 Kenmore Avenue Baldwin Park CA 91706-4039,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.081819,-117.974438
+Baldwin Park Unified,Margaret Heath Elementary,14321 School Street Baldwin Park CA 91706-1650,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.101431,-117.962582
+Baldwin Park Unified,North Park Continuation High,4600 Bogart Avenue Baldwin Park CA 91706-2703,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.095564,-117.957287
+Baldwin Park Unified,Olive Middle,13701 Olive Street Baldwin Park CA 91706-2398,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.099453,-117.975675
+Baldwin Park Unified,Pleasant View Elementary,14900 East Nubia Street Baldwin Park CA 91706-1999,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.102324,-117.953383
+Baldwin Park Unified,Santa Fe Elementary,4650 Baldwin Park Boulevard Baldwin Park CA 91706-2506,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.095863,-117.964845
+Baldwin Park Unified,Sierra Vista High,3600 North Frazier Street Baldwin Park CA 91706-3897,13.5,ppb,TRUE,tested,Baldwin Park,Los Angeles County,34.075239,-117.978985
+Baldwin Park Unified,Sierra Vista Junior High,13400 Foster Avenue Baldwin Park CA 91706-4838,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.075854,-117.979108
+Private,St. John the Baptist,3870 Stewart Avenue Baldwin Park CA 91706,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.082664,-117.96746
+Baldwin Park Unified,Tracy Elementary,13350 Tracy Street Baldwin Park CA 91706-4798,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.072232,-117.98451
+Baldwin Park Unified,Vineland Elementary,3609 Vineland Avenue Baldwin Park CA 91706-5398,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.079731,-117.961731
+Baldwin Park Unified,Walnut Elementary,4701 North Walnut Street Baldwin Park CA 91706-2328,NA,NA,FALSE,tested,Baldwin Park,Los Angeles County,34.098138,-117.976382

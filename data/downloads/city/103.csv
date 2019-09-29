@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bassett Unified,Torch Middle,751 North Vineland Avenue City Of Industry CA 91746-1914,NA,NA,NA,not tested,City of Industry,Los Angeles County,34.057277,-117.984249
+Hacienda la Puente Unified,William Workman High,16303 East Temple Avenue City Of Industry CA 91744-4162,6.7,ppb,TRUE,tested,City of Industry,Los Angeles County,34.028627,-117.93744

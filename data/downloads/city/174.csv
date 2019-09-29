@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Escalon Unified,El Portal Middle,805 First Street Escalon CA 95320-1508,NA,NA,FALSE,tested,Escalon,San Joaquin County,37.793849,-121.00234
+Escalon Unified,Escalon High,1528 East Yosemite Avenue Escalon CA 95320-1753,NA,NA,FALSE,tested,Escalon,San Joaquin County,37.800464,-120.994563
+Escalon Unified,Farmington Elementary,25233 East Highway 4 Farmington CA 95230-0068,NA,NA,NA,not tested,Escalon,San Joaquin County,37.931091,-121.004083

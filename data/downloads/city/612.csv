@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lake Elsinore Unified,Wildomar Elementary,21575 Palomar Road Wildomar CA 92595-7441,8.1,ppb,TRUE,tested,Wildomar,Riverside County,33.602942,-117.272417
+Lake Elsinore Unified,William Collier Elementary,20150 Mayhall Drive Wildomar CA 92595-8272,NA,NA,FALSE,tested,Wildomar,Riverside County,33.616188,-117.301273

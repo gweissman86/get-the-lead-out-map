@@ -1,0 +1,20 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Brentwood Union Elementary,Adams (J. Douglas) Middle,401 American Avenue Brentwood CA 94513-4611,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.918004,-121.758874
+Brentwood Union Elementary,Brentwood Elementary,200 Griffith Lane Brentwood CA 94513-1137,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.927768,-121.706432
+Brentwood Union Elementary,Edna Hill Middle,140 Birch Street Brentwood CA 94513-1646,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.931557,-121.690817
+Brentwood Union Elementary,Garin Elementary,250 First Street Brentwood CA 94513-1610,13,ppb,TRUE,tested,Brentwood,Contra Costa County,37.928876,-121.689359
+Liberty Union High,Heritage High,101 American Ave Brentwood CA 94513-4604,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.918004,-121.758874
+Liberty Union High,Independence High,929 Second Street Brentwood CA 94513-1137,7.7,ppb,TRUE,tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Contra Costa County Office of Education,J.A. Ovick School,120 Middlefield Court Brentwood CA 94513,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.923902,-121.685781
+Liberty Union High,La Paloma High (Continuation),400 Ghiggeri Way Brentwood CA 94513-5314,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.920421,-121.6809
+Liberty Union High,Liberty Adult Education,929 Second Street Brentwood CA 94513-1137,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Liberty Union High,Liberty High,850 Second Street Brentwood CA 94513-1132,5.5,ppb,TRUE,tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Contra Costa County ROP,Liberty Transitions,850 Second Street  Brentwood CA 94513,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Brentwood Union Elementary,Loma Vista Elementary,2110 San Jose Avenue Brentwood CA 94513-5930,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.939933,-121.737721
+Brentwood Union Elementary,Marsh Creek Elementary,601 Grant Street Brentwood CA 94513-2259,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.952756,-121.707289
+Brentwood Union Elementary,Mary Casey Black Elementary,480 Farmington Drive Brentwood CA 94513-5548,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.94914,-121.687629
+Knightsen Elementary,Old River Elementary School,30 Learning Lane Brentwood CA 94513,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.935671,-121.620505
+Brentwood Union Elementary,Pioneer Elementary,2010 Shady Willow Lane Brentwood CA 94513-5309,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.954513,-121.736856
+Brentwood Union Elementary,R. Paul Krey Elementary,190 Crawford Drive Brentwood CA 94513-5628,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.91837,-121.738353
+Brentwood Union Elementary,Ron Nunn Elementary,1755 Central Boulevard Brentwood CA 94513-1734,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.930287,-121.728606
+Brentwood Union Elementary,William B. Bristow Middle,855 Minnesota Avenue Brentwood CA 94513-1802,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.937482,-121.714649

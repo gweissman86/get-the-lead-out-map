@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Temecula Valley Unified,French Valley Elementary,36680 Cady Road Winchester CA 92596-9041,NA,NA,FALSE,tested,Winchester,Riverside County,33.58864,-117.095221
+Menifee Union Elementary,Harvest Hill S.T.E.A.M. Academy,"31600 Pat Road, Menifee",NA,NA,NA,exempt,Winchester,Riverside County,33.620658,-117.107552
+Menifee Union Elementary,Harvest Hill S.T.E.A.M. Academy,31600 Pat Road Winchester CA 92596,NA,NA,NA,not tested,Winchester,Riverside County,33.620658,-117.107552
+Temecula Valley Unified,Susan La Vorgna Elementary,31777 Algarve Avenue Winchester CA 92596-8788,NA,NA,FALSE,tested,Winchester,Riverside County,33.604185,-117.104506
+Temecula Valley Unified,Temecula Preparatory,35777 Abelia Street Winchester CA 92596-8450,NA,NA,FALSE,tested,Winchester,Riverside County,33.604295,-117.085671
+Temecula Valley Unified,Temecula Valley Charter,35755 Abelia St. Winchester CA 92596-8450,NA,NA,FALSE,tested,Winchester,Riverside County,33.604142,-117.085324

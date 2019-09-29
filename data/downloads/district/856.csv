@@ -1,0 +1,23 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Washington Unified,Adult Education,919 Westacre Road West Sacramento CA 95691-3224,NA,NA,FALSE,tested,NA,Yolo County,38.578192,-121.530507
+Washington Unified,Alyce Norman Learning Center,1200 Anna Street  West Sacramento CA 95605,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.596198,-121.531679
+Washington Unified,Alyce Norman Learning Center,1200 Anna Street West Sacramento CA 95605,NA,NA,NA,not tested,NA,Yolo County,38.596419,-121.531426
+Washington Unified,Bridgeway Island Elementary,3255 Half Moon Bay Circle West Sacramento CA 95691-5861,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.54118,-121.567433
+Washington Unified,Bryte Career and College Training,637 Todhunter Avenue West Sacramento CA 95605,NA,NA,FALSE,tested,NA,Yolo County,38.597426,-121.534162
+Washington Unified,Elkhorn Village Elementary,750 Cummins Way West Sacramento CA 95605-2511,NA,NA,FALSE,tested,NA,Yolo County,38.594846,-121.52112
+Washington Unified,Evergreen Elementary,919 Westacre Road West Sacramento CA 95691-3223,NA,NA,NA,not tested,NA,Yolo County,38.578192,-121.530507
+Washington Unified,River Charter Schools Lighthouse Charter,1500 Park Boulevard West Sacramento CA 95691-3927,NA,NA,FALSE,tested,NA,Yolo County,38.57136,-121.530804
+Washington Unified,River City High,1 Raider Lane West Sacramento CA 95691-4619,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.546916,-121.539327
+Washington Unified,Riverbank Elementary,1100 Carrie Street West Sacramento CA 95605-2046,NA,NA,FALSE,tested,NA,Yolo County,38.599873,-121.528881
+Washington Unified,Southport Elementary,2747 Linden Road West Sacramento CA 95691-4258,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.551773,-121.54858
+Washington Unified,Stonegate Elementary,2500 La Jolla Street West Sacramento CA 95691-4947,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.552593,-121.524542
+Washington Unified,W. E. B. DuBois Public Charter,2604 Martin Luther King Boulevard Fresno CA 93706,NA,NA,FALSE,tested,Fresno,Fresno County,36.7062,-119.80056
+Washington Unified,W. E. B. DuBois Public Charter Satellite Campus,2604 Martin Luther King Blvd. Fresno  CA 93706,NA,NA,FALSE,tested,Fresno,Fresno County,36.7062,-119.80056
+Washington Unified,Washington Middle College High,1504 Fallbrook Street West Sacramento CA 95691-3622,11,ppb,TRUE,tested,NA,Yolo County,38.569814,-121.53419
+Washington Unified,Washington Unified School District Office,930 Westacre Road West Sacramento CA 95691-3224,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.577632,-121.531105
+Washington Unified,West Fresno Elementary,2910 South Ivy Street Fresno CA 93706-5515,5.3,ppb,TRUE,tested,Fresno,Fresno County,36.695293,-119.794041
+Washington Unified,West Fresno Middle,2888 South Ivy Street Fresno CA 93706-5513,7.1,ppb,TRUE,tested,Fresno,Fresno County,36.696553,-119.794084
+Washington Unified,West Sacramento Early College Prep Charter,1504 Fallbrook Street West Sacramento CA 95691-3622,NA,NA,NA,not tested,NA,Yolo County,38.569814,-121.53419
+Washington Unified,Westfield Village Elementary,508 Poplar Street West Sacramento CA 95691-2555,NA,NA,FALSE,tested,Galt,Sacramento County,38.260286,-121.305602
+Washington Unified,Westmore Oaks Elementary,1100 Clarendon Street West Sacramento CA 95691-3605,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.572814,-121.53791
+Washington Unified,Yolo High,919 Westacre Road West Sacramento CA 95691-3224,NA,NA,NA,not tested,NA,Yolo County,38.578192,-121.530507

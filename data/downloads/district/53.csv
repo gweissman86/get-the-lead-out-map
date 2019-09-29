@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bear Valley Unified,Baldwin Lane Elementary,44500 Baldwin Lane Big Bear City CA 92314,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.251074,-116.830062
+Bear Valley Unified,Big Bear Elementary,409040 Pennsylvania Big Bear Lake CA 92315-1627,NA,NA,FALSE,tested,Big Bear Lake,San Bernardino County,34.239182,-116.90627
+Bear Valley Unified,Big Bear High,351 Maple Lane Big Bear City CA 92314-9700,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.25581,-116.825138
+Bear Valley Unified,Big Bear Middle,41275 Big Bear Boulevard Big Bear Lake CA 92315-1607,NA,NA,FALSE,tested,Big Bear Lake,San Bernardino County,34.24298,-116.9018
+Bear Valley Unified,Chautauqua High (Continuation),525 Maple LN Big Bear City CA 92314,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.251671,-116.825117
+Bear Valley Unified,Fallsvale School,40600 Valley of the Falls Drive Forest Falls CA 92339,NA,NA,NA,not tested,NA,San Bernardino County,34.085835,-116.912024
+Bear Valley Unified,North Shore Elementary,765 North Stanfield Cutoff Big Bear Lake CA 92315-1887,NA,NA,FALSE,tested,Big Bear Lake,San Bernardino County,34.257287,-116.883266

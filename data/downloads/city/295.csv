@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Central Union Elementary,Akers Elementary,Constellation Avenue N.A.S. Lemoore CA 93245-0001,NA,NA,NA,not tested,Lemoore,Kings County,36.263877,-119.875215
+Lemoore Union Elementary,Lemoore University Elementary Charter,450 Marsh Drive Lemoore CA 93245,7.3,ppb,TRUE,tested,Lemoore,Kings County,36.291858,-119.828138
+Lemoore Union Elementary,Meadow Lane Elementary,Meadow Lane and Quandt Lemoore CA 93245-3418,5.3,ppb,TRUE,tested,Lemoore,Kings County,36.318699,-119.778743
+Central Union Elementary,R. J. Neutra,Community Center Drive N.A.S. Lemoore CA 93245-0001,NA,NA,NA,not tested,Lemoore,Kings County,36.263907,-119.875106

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Orange Unified,Serrano Elementary,17741 Serrano Avenue Villa Park CA 92861-1213,NA,NA,FALSE,tested,Villa Park,Orange County,33.821631,-117.823037
+Orange Unified,Villa Park Elementary,10551 Center Drive Villa Park CA 92861-5332,NA,NA,FALSE,tested,Villa Park,Orange County,33.808546,-117.813764
+Orange Unified,Villa Park High,18042 Taft Avenue Villa Park CA 92861-4148,5.9,ppb,TRUE,tested,Villa Park,Orange County,33.81588,-117.817813

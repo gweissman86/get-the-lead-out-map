@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Atwater Elementary,Aileen Colburn Elementary,2201 Heller Street Atwater CA 95301-3438,NA,NA,FALSE,tested,Atwater,Merced County,37.353118,-120.619786
+Merced Union High,Atwater High,2201 Fruitland Avenue Atwater CA 95301-0835,NA,NA,NA,not tested,Atwater,Merced County,37.36825,-120.616568
+Atwater Elementary,Atwater Senior Academy,1800 Juniper Avenue Atwater CA 95301-1401,NA,NA,NA,not tested,Atwater,Merced County,37.355554,-120.612664
+Atwater Elementary,Bellevue Elementary,1020 East Bellevue Road Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584588
+Atwater Elementary,Bellevue Senior Elementary,1020 East Bellevue Rd Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584588
+Atwater Elementary,Elmer Wood Elementary,1271 West Bellevue Road Atwater CA 95301-2716,NA,NA,FALSE,tested,Atwater,Merced County,37.360924,-120.606215
+Private,King's Christian Academy,1683 Fifth Street Atwater CA 95301,15,ppb,TRUE,tested,Atwater,Merced County,37.352331,-120.608798
+Private,Landmark Christian,1925 Olive Avenue Atwater CA 95301,NA,NA,FALSE,tested,Atwater,Merced County,37.349802,-120.616359
+Atwater Elementary,Mitchell Elementary,1761 Grove Avenue Atwater CA 95301-3537,NA,NA,FALSE,tested,Atwater,Merced County,37.352953,-120.611296
+Atwater Elementary,Mitchell Intermediate,1753 Fifth Street Atwater CA 95301-3620,NA,NA,FALSE,tested,Atwater,Merced County,37.352952,-120.608235
+Atwater Elementary,Peggy Heller Elementary,201 Lake View Drive Atwater CA 95301-4769,NA,NA,FALSE,tested,Atwater,Merced County,37.370764,-120.59381
+Atwater Elementary,Shaffer Elementary,1434 California Street Atwater CA 95301-4464,NA,NA,FALSE,tested,Atwater,Merced County,37.346828,-120.597518
+Private,St. Anthony,1801 Winton Way Atwater CA 95301,NA,NA,FALSE,tested,Atwater,Merced County,37.356577,-120.614439
+Atwater Elementary,Thomas Olaeta Elementary,2266 High Street Atwater CA 95301-2831,NA,NA,FALSE,tested,Atwater,Merced County,37.354681,-120.596859
+Merced County Office of Education,Valley Atwater Community,1800 Matthew Avenue Atwater CA 95301-2079,NA,NA,FALSE,tested,Atwater,Merced County,37.340312,-120.618121

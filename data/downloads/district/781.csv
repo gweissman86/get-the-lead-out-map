@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Strathmore Union Elementary,Strathmore Community Day,19938 Rd 230 Strathmore CA 93267,10.65,ppb,TRUE,tested,NA,Tulare County,36.147352,-119.058334
+Strathmore Union Elementary,Strathmore Elementary,23024 Avenue 198 Strathmore CA 93267,NA,NA,FALSE,tested,NA,Tulare County,36.150111,-119.057257
+Strathmore Union Elementary,Strathmore Middle School,19840 Orange Belt Dr. Strathmore CA 93267,NA,NA,FALSE,tested,Strathmore,Tulare County,36.149838,-119.061616

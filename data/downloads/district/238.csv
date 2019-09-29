@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fall River Joint Unified,Burney Community Day,20375 Tamarack  Burney CA 96013-4054,NA,NA,FALSE,tested,NA,Shasta County,40.878747,-121.672735
+Fall River Joint Unified,Burney Elementary,37403 Toronto Street Burney CA 96013-4381,5.3,ppb,TRUE,tested,Burney,Shasta County,40.882487,-121.654362
+Fall River Joint Unified,Burney Elementary Community Day,20375 Tamarack Ave Burney CA 96013-4054,NA,NA,NA,not tested,NA,Shasta County,40.878747,-121.672735
+Fall River Joint Unified,Burney Junior-Senior High,37571 Mountain View Road Burney CA 96013-4350,NA,NA,FALSE,tested,NA,Shasta County,40.884845,-121.64847
+Fall River Joint Unified,Fall River Community Day,44144 A Street McArthur CA 96056-8556,NA,NA,FALSE,tested,NA,Shasta County,41.051248,-121.40225
+Fall River Joint Unified,Fall River Elementary,24977 Curve Street Fall River Mills CA 96028-9798,NA,NA,FALSE,tested,NA,Shasta County,41.006536,-121.440879
+Fall River Joint Unified,Fall River Junior-Senior High,44215 Walnut Street McArthur CA 96056-8555,NA,NA,FALSE,tested,NA,Shasta County,41.046592,-121.399831
+Fall River Joint Unified,Mountain View High (Continuation),20375 Tamarack Avenue Burney CA 96013-4054,NA,NA,FALSE,tested,NA,Shasta County,40.878747,-121.672735
+Fall River Joint Unified,Mt. Burney Special Education Center,37577 Mountain View Road Burney CA 96013,NA,NA,FALSE,tested,NA,Shasta County,40.884828,-121.648369

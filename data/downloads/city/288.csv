@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mark West Union Elementary,Mark West Charter,5350 Faught Rd Santa Rosa CA 95403-1205,NA,NA,FALSE,tested,Larkfield-Wikiup,Sonoma County,38.513658,-122.759756
+Mark West Union Elementary,San Miguel Elementary,5350 Faught Road Santa Rosa CA 95403-1205,NA,NA,FALSE,tested,Larkfield-Wikiup,Sonoma County,38.513658,-122.759756
+Private,St. Rose,4300 Old Redwood Highway Santa Rosa CA 95403,NA,NA,FALSE,tested,Larkfield-Wikiup,Sonoma County,38.493198,-122.740619

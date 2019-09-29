@@ -1,0 +1,34 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pasadena Unified,Altadena Elementary,743 East Calaveras Street Altadena CA 91001-2332,NA,NA,FALSE,tested,NA,Los Angeles County,34.184715,-118.135284
+Pasadena Unified,Aveson Global Leadership Academy,575 West Altadena Drive Altadena CA 91001-4203,NA,NA,NA,not tested,NA,Los Angeles County,34.198151,-118.158383
+Pasadena Unified,Aveson School of Leaders,1919 East Pinecrest Drive Altadena CA 91001-2116,NA,NA,FALSE,tested,Altadena,Los Angeles County,34.192025,-118.111602
+Pasadena Unified,Blair High,1201 South Marengo Avenue Pasadena CA 91106-4265,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.126458,-118.146174
+Pasadena Unified,Blair Middle School,1201 S Marengo Ave Pasadena CA 91106,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.126458,-118.146174
+Pasadena Unified,Charles W. Eliot Middle,2184 North Lake Avenue Altadena CA 91001-2443,NA,NA,FALSE,tested,NA,Los Angeles County,34.18341,-118.131506
+Pasadena Unified,Cleveland Elementary,524 Palisade Street Pasadena CA 91103-2056,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.171212,-118.162918
+Pasadena Unified,Daniel Webster,2101 East Washington Boulevard Pasadena CA 91104-1899,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.168946,-118.137123
+Pasadena Unified,Don Benito Fundamental,3700 Denair Street Pasadena CA 91107-1303,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.171178,-118.072203
+Pasadena Unified,Field (Eugene) Elementary,3600 Sierra Madre Boulevard Pasadena CA 91107-1969,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.161613,-118.075703
+Pasadena Unified,Franklin Elementary,527 West Ventura Street Altadena CA 91001-4936,NA,NA,FALSE,tested,NA,Los Angeles County,34.189743,-118.154663
+Pasadena Unified,Hamilton Elementary,2089 Rose Villa Street Pasadena CA 91107-5078,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.140888,-118.108228
+Pasadena Unified,Jackson Elementary,593 West Woodbury Road Altadena CA 91001-5464,NA,NA,NA,not tested,NA,Los Angeles County,34.18318,-118.162401
+Pasadena Unified,Jefferson Elementary,1500 East Villa Street Pasadena CA 91106-1322,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.154264,-118.119481
+Pasadena Unified,John Muir High,1905 North Lincoln Avenue Pasadena CA 91103-1315,9.3,ppb,TRUE,tested,Altadena,Los Angeles County,34.181632,-118.159697
+Pasadena Unified,Learning Works,90 North Daisy Avenue Pasadena CA 91107-3704,NA,NA,NA,not tested,Pasadena,Los Angeles County,34.147758,-118.092908
+Pasadena Unified,Longfellow (Henry W.) Elementary,1065 East Washington Boulevard Pasadena CA 91104-2498,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.169856,-118.128437
+Pasadena Unified,Madison Elementary,515 Ashtabula Street Pasadena CA 91104-4306,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.159083,-118.143786
+Pasadena Unified,Marshall Fundamental,990 North Allen Avenue Pasadena CA 91104-4025,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.163105,-118.113
+Pasadena Unified,McKinley,325 South Oak Knoll Avenue Pasadena CA 91101-3418,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.141237,-118.135271
+Pasadena Unified,Norma Coombs Elementary,2600 Paloma Street Pasadena CA 91107-2642,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.159225,-118.098312
+Pasadena Unified,Pasadena High,2925 East Sierra Madre Blvd Pasadena CA 91107-1846,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.16354,-118.092256
+Pasadena Unified,Pasadena Rosebud Academy,3544 North Canon Blvd. Altadena CA 91001-4008,NA,NA,FALSE,tested,NA,Los Angeles County,34.205186,-118.135624
+Pasadena Unified,Roosevelt,315 North Pasadena Avenue Pasadena CA 91103-3567,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.151486,-118.157323
+Pasadena Unified,Rose City High (Continuation),351 Hudson Avenue Pasadena CA 91109-3507,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.13963,-118.134121
+Pasadena Unified,San Rafael Elementary,1090 Nithsdale Road Pasadena CA 91105-1499,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.137119,-118.172975
+Pasadena Unified,Sierra Madre Elementary,141 West Highland Avenue Sierra Madre CA 91024-1810,NA,NA,FALSE,tested,Sierra Madre,Los Angeles County,34.164239,-118.055589
+Pasadena Unified,Sierra Madre Middle,160 North Canon Avenue Sierra Madre CA 91024-2004,NA,NA,FALSE,tested,Sierra Madre,Los Angeles County,34.164862,-118.044816
+Pasadena Unified,Stratford School,2046 Allen Ave. Altadena CA 91001,NA,NA,FALSE,tested,NA,Los Angeles County,34.177359,-118.112235
+Pasadena Unified,Washington Accelerated Elementary,1520 North Raymond Avenue Pasadena CA 91103-1819,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.171637,-118.149022
+Pasadena Unified,Washington Middle,1505 North Marengo Avenue Pasadena CA 91103-1813,8.1,ppb,TRUE,tested,Pasadena,Los Angeles County,34.171181,-118.146257
+Pasadena Unified,Willard Elementary,301 South Madre Street Pasadena CA 91107-4635,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.14211,-118.08165
+Pasadena Unified,Woodrow Wilson Middle,300 South Madre Avenue Pasadena CA 91107-4634,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.141307,-118.080964

@@ -1,0 +1,27 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Norwalk-La Mirada Unified,Anna M. Glazier Elementary,10932 East Excelsior Drive Norwalk CA 90650-4631,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.894774,-118.101938
+Norwalk-La Mirada Unified,Arturo Sanchez Elementary,11960 East 162nd Street Norwalk CA 90650-7228,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.883848,-118.078147
+Norwalk-La Mirada Unified,Cesar Chavez Elementary,12110 East Walnut Street Norwalk CA 90650-4164,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.903328,-118.074814
+Norwalk-La Mirada Unified,Corvallis Middle,11032 East Leffingwell Road Norwalk CA 90650-3638,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.906691,-118.098573
+Little Lake City Elementary,Cresson Elementary,11650 East Cresson Street Norwalk CA 90650-1618,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.92976,-118.084221
+Norwalk-La Mirada Unified,D. D. Johnston Elementary,13421 South Fairford Avenue Norwalk CA 90650-3630,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.90976,-118.094959
+Norwalk-La Mirada Unified,Earl E. Edmondson Elementary,15121 South Grayland Avenue Norwalk CA 90650-6627,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.893845,-118.076224
+Norwalk-La Mirada Unified,John Dolland Elementary,15021 South Bloomfield Avenue Norwalk CA 90650-6807,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.894441,-118.064352
+Norwalk-La Mirada Unified,John H. Glenn High,13520 Shoemaker Avenue Norwalk CA 90650-4521,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.908535,-118.055235
+Norwalk-La Mirada Unified,John H. Nuffer Elementary,14821 South Jersey Avenue Norwalk CA 90650-5850,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.896271,-118.087003
+Norwalk-La Mirada Unified,Julia B. Morrison Elementary,13510 South Maidstone Norwalk CA 90650-3850,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.909143,-118.086555
+Little Lake City Elementary,Lakeland Elementary,11224 Bombardier Avenue Norwalk CA 90650-1830,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.929655,-118.076835
+Little Lake City Elementary,Lakeside Middle,11000 East Kenney Street Norwalk CA 90650-7625,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.92768,-118.096964
+Norwalk-La Mirada Unified,Loretta Lampton Elementary,14716 Elmcroft Avenue Norwalk CA 90650-5626,7.15,ppb,TRUE,tested,Norwalk,Los Angeles County,33.896578,-118.095517
+Norwalk-La Mirada Unified,Los Alisos Middle,14800 South Jersey Avenue Norwalk CA 90650-5849,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.896174,-118.086537
+Norwalk-La Mirada Unified,Nettie L. Waite Middle,14320 South Norwalk Boulevard Norwalk CA 90650-5046,6.2,ppb,TRUE,tested,Norwalk,Los Angeles County,33.901769,-118.072848
+Norwalk-La Mirada Unified,New River Elementary,13432 South Halcourt Avenue Norwalk CA 90650-3562,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.908235,-118.10239
+Norwalk-La Mirada Unified,Norwalk High,11356 East Leffingwell Road Norwalk CA 90650-3646,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.908491,-118.090816
+Norwalk-La Mirada Unified,Norwalk-La Mirada Adult,15711 Pioneer Boulevard Norwalk CA 90650-5849,11.5,ppb,TRUE,tested,Norwalk,Los Angeles County,33.898904,-118.082584
+Little Lake City Elementary,Paddison Elementary,12100 Crewe Street Norwalk CA 90650-2443,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.920673,-118.076448
+Private,Saint John of God,13817 Pioneer Boulevard Norwalk CA 90650,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.906086,-118.083508
+Southeast ROP,Southeast ROP,12940 East Foster Road Norwalk CA 90650-3332,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.909081,-118.057075
+Private,St. Linus School,13913 Shoemaker Avenue Norwalk CA 90650,11,ppb,TRUE,tested,Norwalk,Los Angeles County,33.904845,-118.0554
+Little Lake City Elementary,Studebaker Elementary,11800 Halcourt Avenue Norwalk CA 90650-7512,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.926331,-118.101047
+Norwalk-La Mirada Unified,Thomas B. Moffitt Elementary,13323 South Goller Avenue Norwalk CA 90650-3223,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.909734,-118.065678
+Little Lake City Elementary,William W. Orr Elementary,12130 South Jersey Avenue Norwalk CA 90650-2316,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.921118,-118.085066

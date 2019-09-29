@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santee,Cajon Park Elementary,10300 Magnolia Avenue Santee CA 92071-1704,6,ppb,TRUE,tested,Santee,San Diego County,32.864912,-116.971515
+Santee,Carlton Hills Elementary,9353 Pike Road Santee CA 92071-2515,NA,NA,FALSE,tested,Santee,San Diego County,32.849252,-116.996534
+Santee,Carlton Oaks Elementary,9353 Wethersfield Road Santee CA 92071-2354,NA,NA,FALSE,tested,Santee,San Diego County,32.843978,-117.014617
+Santee,Chet F. Harritt Elementary,8120 Arlette Street Santee CA 92071-3513,NA,NA,FALSE,tested,Santee,San Diego County,32.831413,-117.019564
+Santee,Hill Creek Elementary,9665 Jeremy Street Santee CA 92071-2836,NA,NA,FALSE,tested,Santee,San Diego County,32.85294,-116.963236
+Santee,Pepper Drive Elementary,1935 Marlinda Way El Cajon CA 92020-1155,NA,NA,FALSE,tested,El Cajon,San Diego County,32.826849,-116.953984
+Santee,PRIDE Academy at Prospect Avenue,9303 Prospect Avenue Santee CA 92071-3798,NA,NA,FALSE,tested,Santee,San Diego County,32.833926,-116.995685
+Santee,Rio Seco Elementary,9545 Cuyamaca Street Santee CA 92071-2674,NA,NA,FALSE,tested,Santee,San Diego County,32.836153,-116.983711
+Santee,Santee Success Program,10280 North Magnolia Avenue Santee CA 92071-1998,NA,NA,NA,not tested,Santee,San Diego County,32.857426,-116.970998
+Santee,Sycamore Canyon Elementary,10201 Settle Road Santee CA 92071-1099,NA,NA,FALSE,tested,Santee,San Diego County,32.862869,-117.003857

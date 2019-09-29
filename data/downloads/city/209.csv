@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Colton Joint Unified,Grand Terrace Elementary,12066 Vivienda Avenue Grand Terrace CA 92313-5026,6.8,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.035358,-117.321013
+Colton Joint Unified,Grand Terrace High School at the Ray Abril Jr. Educational Complex,21810 Main Street Grand Terrace CA 92313-5810,NA,NA,FALSE,tested,Grand Terrace,San Bernardino County,34.021718,-117.328209
+Colton Joint Unified,Terrace Hills Middle,22579 DeBerry Street Grand Terrace CA 92313-5515,6.75,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.029686,-117.312056
+Colton Joint Unified,Terrace View Elementary,22731 Grand Terrace Road Grand Terrace CA 92313-4921,10.4,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.042728,-117.308629

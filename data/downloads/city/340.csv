@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Westminster,Demille Elementary,15400 Van Buren Midway City CA 92655-1660,5.2,ppb,TRUE,tested,Midway City,Orange County,33.739481,-117.985807
+Westminster,Jessie Hayden Elementary,14782 Eden Street Midway City CA 92655-1108,NA,NA,FALSE,tested,Midway City,Orange County,33.747779,-117.975924
+Ocean View,Star View Elementary,8411 Worthy Drive Midway City CA 92655-1659,NA,NA,FALSE,tested,Midway City,Orange County,33.735185,-117.981961

@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Juan Unified,Arlington Heights Elementary,6401 Trenton Way Citrus Heights CA 95621-4821,6.3,ppb,TRUE,tested,Citrus Heights,Sacramento County,38.685241,-121.315988
+San Juan Unified,Cambridge Heights Elementary,5555 Fleetwood Drive Citrus Heights CA 95621-7313,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.666292,-121.295228
+San Juan Unified,Carriage Drive Elementary,7519 Carriage Drive Citrus Heights CA 95621-2000,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.702513,-121.295789
+San Juan Unified,El Sereno Alternative Education,10700 Fair Oaks Boulevard Fair Oaks CA 95628-7213,5.3,ppb,TRUE,tested,Citrus Heights,Sacramento County,38.644918,-121.264116
+San Juan Unified,Grand Oaks Elementary,7901 Rosswood Drive Citrus Heights CA 95621-1246,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.710218,-121.300523
+San Juan Unified,Kingswood K-8,5700 Primrose Drive Citrus Heights CA 95610-7543,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.670662,-121.27839
+San Juan Unified,Lichen K-8,8319 Lichen Drive Citrus Heights CA 95621-1123,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.719042,-121.305412
+San Juan Unified,Mariposa Avenue Elementary,7940 Mariposa Avenue Citrus Heights CA 95610-1513,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.70987,-121.281073
+San Juan Unified,Mesa Verde High,7501 Carriage Drive Citrus Heights CA 95621-2000,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.701738,-121.298406
+San Juan Unified,San Juan High,7551 Greenback Lane Citrus Heights CA 95610-5614,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.678358,-121.28341
+San Juan Unified,Skycrest Elementary,5641 Mariposa Avenue Citrus Heights CA 95610-7441,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.678347,-121.284733
+San Juan Unified,Sunrise Tech Center,7322 Sunrise Boulevard Citrus Heights CA 95610-3000,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.699272,-121.271654
+San Juan Unified,Sylvan Middle,7137 Auburn Boulevard Citrus Heights CA 95610-3824,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.697896,-121.290429
+San Juan Unified,Woodside K-8,8248 Villa Oak Drive Citrus Heights CA 95610-2616,NA,NA,FALSE,tested,Citrus Heights,Sacramento County,38.705743,-121.254203

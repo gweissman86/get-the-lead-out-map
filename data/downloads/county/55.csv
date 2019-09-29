@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Douglas City Elementary,Douglas City Elementary,100 School Road Douglas City CA 96024-0280,NA,NA,FALSE,tested,Douglas City,Trinity County,40.655649,-122.954266
+Mountain Valley Unified,Hayfork Elementary,6930 State Highway 3 Hayfork CA 96041-0070,10.365,ppb,TRUE,tested,Hayfork,Trinity County,40.553817,-123.182605
+Mountain Valley Unified,Hayfork High,231 Oak Street Hayfork CA 96041-0010,NA,NA,FALSE,tested,Hayfork,Trinity County,40.551219,-123.171169
+Lewiston Elementary,Lewiston Elementary,685 Lewiston Road Lewiston CA 96052-9676,NA,NA,FALSE,tested,NA,Trinity County,40.697829,-122.819206
+Private,The Learning Center,7450 State Highway 3 Hayfork CA 96041,NA,NA,FALSE,tested,Hayfork,Trinity County,40.554032,-123.176686
+Trinity Center Elementary,Trinity Center Elementary,1 Trinity Vista Drive Trinity Center CA 96091-0127,NA,NA,FALSE,tested,Trinity Center,Trinity County,40.982749,-122.706951
+Trinity Alps Unified,Trinity High,321 Victory Lane Weaverville CA 96093-1060,NA,NA,FALSE,tested,NA,Trinity County,40.738903,-122.948444
+Trinity Alps Unified,Weaverville Elementary,31020 State Highway 3 PO Box 1000 Weaverville CA 96093-1000,NA,NA,FALSE,tested,Weaverville,Trinity County,40.732816,-122.936391

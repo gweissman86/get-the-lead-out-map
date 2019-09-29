@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Yucaipa-Calimesa Joint Unified,Calimesa Elementary,13523 Second Street Yucaipa CA 92399-5339,NA,NA,FALSE,tested,Yucaipa,San Bernardino County,34.007883,-117.042262
+Yucaipa-Calimesa Joint Unified,Chapman Heights Elementary,33692 Cramer Road Yucaipa CA 92399-6978,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.040405,-117.071515
+Yucaipa-Calimesa Joint Unified,Competitive Edge Charter Academy (CECA),34450 Stonewood Drive Yucaipa CA 92399-6852,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.043959,-117.052389
+Yucaipa-Calimesa Joint Unified,Dunlap Elementary,32870 Avenue E Yucaipa CA 92399-1903,5.8,ppb,TRUE,tested,Yucaipa (City of),San Bernardino County,34.02673,-117.085931
+Yucaipa-Calimesa Joint Unified,Green Valley High,35948 Susan St. Yucaipa CA 92399-5299,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.008522,-117.019723
+Yucaipa-Calimesa Joint Unified,Inland Leaders Charter,12375 California Street Yucaipa CA 92399-4403,9.95,ppb,TRUE,tested,Yucaipa (City of),San Bernardino County,34.030044,-117.038727
+Yucaipa-Calimesa Joint Unified,Inland Leaders Charter (K - 2nd Grade Campus),13456 Bryant St Yucaipa CA 92399,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.009174,-117.034575
+Yucaipa-Calimesa Joint Unified,Mesa View Middle,800 Mustang Way Calimesa CA 92399-1080,NA,NA,FALSE,tested,Calimesa,Riverside County,33.99741,-117.069558
+Yucaipa-Calimesa Joint Unified,Oak View High School & Education Center,12358 Sixth Street Yucaipa CA 92399-2423,6.2,ppb,TRUE,tested,Yucaipa,San Bernardino County,34.029098,-117.062169
+Yucaipa-Calimesa Joint Unified,Park View Middle,34875 Tahoe Drive Yucaipa CA 92399-3334,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.053437,-117.042589
+Yucaipa-Calimesa Joint Unified,Ridgeview Elementary,11021 Sunnyside Drive Yucaipa CA 92399-3332,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.055956,-117.040741
+Yucaipa-Calimesa Joint Unified,Valley Elementary,12333 Eighth Street Yucaipa CA 92399-2157,NA,NA,FALSE,tested,Yucaipa,San Bernardino County,34.029798,-117.069091
+Yucaipa-Calimesa Joint Unified,Wildwood Elementary,35972 Susan Street C Yucaipa CA 92399-6300,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.008874,-117.020359
+Yucaipa-Calimesa Joint Unified,Yucaipa Early Childhood Education Center,35912 Avenue H Yucaipa CA 92399-5206,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.010389,-117.021448
+Yucaipa-Calimesa Joint Unified,Yucaipa High,33000 Yucaipa Boulevard Yucaipa CA 92399-1951,5.5,ppb,TRUE,tested,Yucaipa (City of),San Bernardino County,34.033977,-117.084498

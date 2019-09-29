@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Woodland Joint Unified,Beamer Elementary,525 Beamer Street Woodland CA 95695-3209,NA,NA,FALSE,tested,Woodland,Yolo County,38.68479,-121.774361
+Yolo County Office of Education,Cesar Chavez Community School,255 West Beamer Street Woodland CA 95695-2510,NA,NA,FALSE,tested,Woodland,Yolo County,38.684783,-121.795748
+Woodland Joint Unified,Dingle Elementary,625 Elm Street Woodland CA 95695-3921,6.3,ppb,TRUE,tested,Woodland,Yolo County,38.673222,-121.776209
+Woodland Joint Unified,Douglass Middle,525 Granada Drive Woodland CA 95695-4861,NA,NA,FALSE,tested,Woodland,Yolo County,38.665848,-121.774478
+Woodland Joint Unified,Freeman Elementary,126 North West Street Woodland CA 95695-2614,NA,NA,FALSE,tested,Woodland,Yolo County,38.686862,-121.783782
+Woodland Joint Unified,Gibson Elementary,312 Gibson Road Woodland CA 95695-4765,NA,NA,FALSE,tested,Woodland,Yolo County,38.662862,-121.778413
+Yolo County Office of Education,Greengate Center for Exception,285 W. Beamer St. Woodland CA 95695,9.6,ppb,TRUE,tested,Woodland,Yolo County,38.684788,-121.797057
+Woodland Joint Unified,Lee Middle,520 West Street Woodland CA 95695-3798,NA,NA,FALSE,tested,Woodland,Yolo County,38.674576,-121.785652
+Woodland Joint Unified,Pioneer High,1400 Pioneer Avenue Woodland CA 95776-5152,NA,NA,FALSE,tested,Woodland,Yolo County,38.659873,-121.740499
+Woodland Joint Unified,Ramon S. Tafoya Elementary,720 Homestead Way Woodland CA 95776-4934,NA,NA,FALSE,tested,Woodland,Yolo County,38.671591,-121.73902
+Woodland Joint Unified,Rhoda Maxwell Elementary,50 Ashley Avenue Woodland CA 95695-2504,9.5,ppb,TRUE,tested,Woodland,Yolo County,38.684004,-121.797939
+Woodland Joint Unified,T. L. Whitehead Elementary,624 West Southwood Drive Woodland CA 95695-4304,NA,NA,FALSE,tested,Woodland,Yolo County,38.669319,-121.794604
+Woodland Joint Unified,Woodland Adult Education,526 Marshall Avenue Woodland CA 95695,NA,NA,FALSE,tested,Woodland,Yolo County,38.667838,-121.774362
+Woodland Joint Unified,Woodland Community Day,526 Marshall Ave Woodland CA 95695-4853,NA,NA,FALSE,tested,Woodland,Yolo County,38.667838,-121.774362
+Woodland Joint Unified,Woodland Prairie Elementary,1444 Stetson Street Woodland CA 95695-6722,NA,NA,FALSE,tested,Woodland,Yolo County,38.665989,-121.75276
+Woodland Joint Unified,Woodland Senior High,21 North West Street Woodland CA 95695-2611,NA,NA,FALSE,tested,Woodland,Yolo County,38.686596,-121.786852
+Yolo County Office of Education,Yolo County Special Education,1280 Santa Anita Ct. Woodland CA 95776-6127,41,ppb,TRUE,tested,Woodland,Yolo County,38.696024,-121.757964
+Woodland Joint Unified,Zamora Elementary,1716 Cottonwood Street Woodland CA 95695-5137,NA,NA,FALSE,tested,Woodland,Yolo County,38.6579,-121.793634

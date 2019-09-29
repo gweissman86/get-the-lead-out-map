@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Redlands Unified,Arroyo Verde Elementary,7701 Church Street Highland CA 92346-3968,NA,NA,FALSE,tested,Highland,San Bernardino County,34.113287,-117.173653
+Redlands Unified,Beattie Middle,7800 Orange Street Highland CA 92346-5767,NA,NA,FALSE,tested,Highland,San Bernardino County,34.127065,-117.213127
+San Bernardino City Unified,Cole Elementary,1331 Cole Avenue Highland CA 92346-3119,NA,NA,FALSE,tested,Highland,San Bernardino County,34.124964,-117.212275
+Redlands Unified,Cram Elementary,29700 Water Street Highland CA 92346-5923,NA,NA,FALSE,tested,Highland,San Bernardino County,34.11707,-117.157818
+San Bernardino City Unified,Cypress Elementary,26825 Cypress Street Highland CA 92346-3539,NA,NA,FALSE,tested,Highland,San Bernardino County,34.113915,-117.21917
+Redlands Unified,Highland Grove Elementary,7700 Orange Street Highland CA 92346-5384,NA,NA,FALSE,tested,Highland,San Bernardino County,34.113077,-117.182641
+San Bernardino City Unified,Highland Pacific Elementary,3340 Pacific Street Highland CA 92346-2410,NA,NA,FALSE,tested,Highland,San Bernardino County,34.128612,-117.21446
+San Bernardino City Unified,Oehl Elementary,2525 Palm Avenue Highland CA 92346-2248,NA,NA,FALSE,tested,Highland,San Bernardino County,34.106164,-117.208813
+San Bernardino City Unified,San Andreas High,3232 East Pacific St Highland CA 92346-2499,10.1,ppb,TRUE,tested,Highland,San Bernardino County,34.12856,-117.217393
+San Bernardino City Unified,Serrano Middle,3131 Piedmont Drive Highland CA 92346-1836,NA,NA,FALSE,tested,Highland,San Bernardino County,34.144818,-117.218375
+Private,St. Adelaide,27487 East Base Line Road Highland CA 92346,NA,NA,FALSE,tested,Highland,San Bernardino County,34.121274,-117.226201
+San Bernardino City Unified,Thompson Elementary,7401 Church Avenue Highland CA 92346-3709,NA,NA,FALSE,tested,Highland,San Bernardino County,34.118597,-117.204313

@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lake Elsinore Unified,Earl Warren Elementary,41221 Rosetta Canyon Road Lake Elsinore CA 92532-1648,6.5,ppb,TRUE,tested,Lake Elsinore,Riverside County,33.696939,-117.317223
+Lake Elsinore Unified,Keith McCarthy Academy,4305 Education Way Lake Elsinore CA 92530-2711,NA,NA,FALSE,tested,Lake Elsinore,Riverside County,33.682888,-117.336291
+Lake Elsinore Unified,Lakeside High,32593 Riverside Drive Lake Elsinore CA 92530-7802,NA,NA,FALSE,tested,Lake Elsinore,Riverside County,33.670122,-117.380601
+Lake Elsinore Unified,Ortega High,520 Chaney Street Building 100 Lake Elsinore CA 92530-1230,NA,NA,FALSE,tested,Lake Elsinore,Riverside County,33.681031,-117.336154
+Lake Elsinore Unified,Tuscany Hills Elementary,23 Ponte Russo Lake Elsinore CA 92532-0500,NA,NA,FALSE,tested,Lake Elsinore,Riverside County,33.687163,-117.29043

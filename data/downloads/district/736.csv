@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sequoia Union High,Carlmont High,1400 Alameda de Las Pulgas Belmont CA 94002-3585,NA,NA,FALSE,tested,Belmont,San Mateo County,37.505105,-122.288643
+Sequoia Union High,East Palo Alto Academy,1050 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.463249,-122.131905
+Sequoia Union High,Everest Public High,455 Fifth Avenue Redwood City CA 94063-3727,NA,NA,NA,not tested,Redwood City,San Mateo County,37.473593,-122.20399
+Sequoia Union High,Menlo-Atherton High,555 Middlefield Road Atherton CA 94025-3438,NA,NA,FALSE,tested,NA,San Mateo County,37.467512,-122.189718
+Sequoia Union High,Redwood High,1968 Old County Road Redwood City CA 94063-1073,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.494309,-122.244214
+Sequoia Union High,Sequoia District Adult Education,3247 Middlefield Road Menlo Park CA 94025-1859,NA,NA,FALSE,tested,NA,San Mateo County,37.458969,-122.172732
+Sequoia Union High,Sequoia High,1201 Brewster Avenue Redwood City CA 94062-1378,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.482878,-122.23677
+Sequoia Union High,Summit Preparatory Charter High,890 Broadway Redwood City CA 94063-3105,NA,NA,FALSE,tested,Redwood City,San Mateo County,37.486738,-122.210182
+Sequoia Union High,Woodside High,199 Churchill Avenue Woodside CA 94062-2306,NA,NA,FALSE,tested,NA,San Mateo County,37.443044,-122.231305

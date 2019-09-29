@@ -1,0 +1,30 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Temecula Valley Unified,Abby Reinke Elementary,43799 Sunny Meadows Drive Temecula CA 92592-4337,NA,NA,FALSE,tested,Temecula,Riverside County,33.491678,-117.086232
+Temecula Valley Unified,Chaparral High,27215 Nicolas Road Temecula CA 92591-7348,NA,NA,FALSE,tested,Temecula,Riverside County,33.538404,-117.141217
+Temecula Valley Unified,Crowne Hill Elementary,33535 Old Kent Road Temecula CA 92592-7129,NA,NA,FALSE,tested,Temecula,Riverside County,33.497768,-117.076851
+Temecula Valley Unified,Erle Stanley Gardner Middle,45125 Via Del Coronado Temecula CA 92592-4400,NA,NA,FALSE,tested,Temecula,Riverside County,33.470106,-117.109012
+Temecula Valley Unified,Great Oak High,32555 Deer Hollow Way Temecula CA 92592-1283,NA,NA,FALSE,tested,Temecula,Riverside County,33.450213,-117.096097
+Temecula Valley Unified,Helen Hunt Jackson Elementary,32400 Camino San Dimas Temecula CA 92592-1259,NA,NA,FALSE,tested,Temecula,Riverside County,33.458703,-117.092407
+Temecula Valley Unified,James L. Day Middle,40775 Camino Campos Verdes Temecula CA 92591-1849,NA,NA,FALSE,tested,Temecula,Riverside County,33.527372,-117.145134
+Private,Julian Charter School,27235 Madison Ave # 101 Temecula CA 92590,NA,NA,FALSE,tested,Temecula,Riverside County,33.52658,-117.168478
+Private,Julian Charter School,29141 Vallejo Ave Temecula CA 92592,NA,NA,FALSE,tested,Temecula,Riverside County,33.483087,-117.139686
+Temecula Valley Unified,Margarita Middle,30600 Margarita Road Temecula CA 92591-1528,NA,NA,FALSE,tested,Temecula,Riverside County,33.514312,-117.135148
+Temecula Valley Unified,Paloma Elementary,42940 Via Rami Temecula CA 92592-3648,NA,NA,FALSE,tested,Temecula,Riverside County,33.501102,-117.106676
+Temecula Valley Unified,Pauba Valley Elementary,33125 Regina Drive Temecula CA 92592-1473,NA,NA,FALSE,tested,Temecula,Riverside County,33.472561,-117.08466
+Temecula Valley Unified,Rancho Elementary,31530 La Serena Way Temecula CA 92591-5080,NA,NA,FALSE,tested,Temecula,Riverside County,33.518479,-117.121875
+Temecula Valley Unified,Rancho Vista High,32225 Pio Pico Road Temecula CA 92592-6200,NA,NA,FALSE,tested,Temecula,Riverside County,33.490649,-117.103688
+Temecula Valley Unified,Red Hawk Elementary,32045 Camino San Jose Temecula CA 92592-1025,NA,NA,FALSE,tested,Temecula,Riverside County,33.469332,-117.099184
+Riverside County Office of Education,River Springs Charter,43466 Business Park Drive Temecula CA 92590-5526,NA,NA,NA,not tested,Temecula,Riverside County,33.497809,-117.16159
+Private,Springs Charter Schools,43040 Margarita Road Temecula CA 92592,NA,NA,FALSE,tested,Temecula,Riverside County,33.497792,-117.115428
+Private,Springs Charter Schools Lyndie Lane Campus,42145 Lyndie Lane Temecula CA 92591,NA,NA,FALSE,tested,Temecula,Riverside County,33.507362,-117.142849
+Temecula Valley Unified,Susan H. Nelson,32225 Pio Pico Rd Temecula CA 92592-2772,NA,NA,FALSE,tested,Temecula,Riverside County,33.490649,-117.103688
+Temecula Valley Unified,Temecula Elementary,41951 Moraga Road Temecula CA 92591-4789,NA,NA,FALSE,tested,Temecula,Riverside County,33.510021,-117.140871
+Temecula Valley Unified,Temecula Luiseno Elementary,45754 Wolf Creek Drive North Temecula CA 92592-2895,NA,NA,FALSE,tested,Temecula,Riverside County,33.46402,-117.107524
+Temecula Valley Unified,Temecula Middle,42075 Meadows Parkway Temecula CA 92592-3800,NA,NA,FALSE,tested,Temecula,Riverside County,33.506148,-117.096197
+Temecula Valley Unified,Temecula Valley Adult,43000 Margarita Road Temecula CA 92591,NA,NA,NA,not tested,Temecula,Riverside County,33.514312,-117.135148
+Temecula Valley Unified,Temecula Valley High,31555 Rancho Vista Road Temecula CA 92592-3516,5.9,ppb,TRUE,tested,Temecula,Riverside County,33.504992,-117.110204
+Temecula Valley Unified,Tony Tobin Elementary,45200 Morgan Hill Drive Temecula CA 92592-5557,NA,NA,FALSE,tested,Temecula,Riverside County,33.470034,-117.068562
+Temecula Valley Unified,Vail Elementary,29835 Mira Loma Drive Temecula CA 92592-2228,NA,NA,FALSE,tested,Temecula,Riverside County,33.503234,-117.135826
+Temecula Valley Unified,Vail Ranch Middle,33340 Camino Piedra Rojo Temecula CA 92592-1184,NA,NA,FALSE,tested,Temecula,Riverside County,33.48094,-117.077421
+Temecula Valley Unified,Vintage Hills Elementary,42240 Camino Romo Temecula CA 92592-3537,NA,NA,FALSE,tested,Temecula,Riverside County,33.509119,-117.099415
+Temecula Valley Unified,Ysabel Barnett Elementary,39925 Harveston Drive Temecula CA 92591-4586,NA,NA,FALSE,tested,Temecula,Riverside County,33.539473,-117.152989

@@ -1,0 +1,26 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hemet Unified,Acacia Middle,1200 East Acacia Avenue Hemet CA 92543-4521,NA,NA,NA,not tested,Hemet,Riverside County,33.744067,-116.959753
+Hemet Unified,Alessandro High,831 East Devonshire Avenue Hemet CA 92543-3052,NA,NA,NA,not tested,Hemet,Riverside County,33.750853,-116.963913
+Hemet Unified,Aspire Community Day,26866 San Jacinto Street Hemet CA 92544-7293,NA,NA,FALSE,tested,Hemet,Riverside County,33.748512,-116.95865
+Hemet Unified,Bautista Creek Elementary,441 Lake Street Hemet CA 92544-3314,NA,NA,FALSE,tested,Hemet,Riverside County,33.754133,-116.915025
+Hemet Unified,Cawston Elementary,4000 West Menlo Avenue Hemet CA 92545-6320,NA,NA,FALSE,tested,Hemet,Riverside County,33.758403,-116.980478
+Hemet Unified,Dartmouth Middle,41535 Mayberry Avenue Hemet CA 92544-6389,NA,NA,FALSE,tested,Hemet,Riverside County,33.739608,-116.936337
+Hemet Unified,Diamond Valley Middle,291 West Chambers Street Hemet CA 92543-9658,NA,NA,FALSE,tested,Hemet,Riverside County,33.722049,-116.981756
+Hemet Unified,Family Tree Learning Center,26400 Dartmouth St Hemet CA 92544-6302,NA,NA,FALSE,tested,NA,Riverside County,33.738082,-116.936751
+Hemet Unified,Fruitvale Elementary,2800 West Fruitvale Avenue Hemet CA 92545-1541,NA,NA,FALSE,tested,Hemet,Riverside County,33.762289,-117.001476
+Hemet Unified,Harmony Elementary,1500 South Cawston Street Hemet CA 92545-7056,NA,NA,FALSE,tested,Hemet,Riverside County,33.721734,-117.016124
+Hemet Unified,Helen Hunt Jackson College Prep High School,26400 Dartmouth Ave Hemet CA 92544-6302,NA,NA,FALSE,tested,Hemet,Riverside County,33.737498,-116.936678
+Hemet Unified,Hemet Elementary,633 E Kimball Ave Hemet CA 92543,NA,NA,NA,not tested,Hemet,Riverside County,33.745663,-116.965812
+Hemet Unified,Hemet High,41701 Stetson Avenue Hemet CA 92544-7518,6.1,ppb,TRUE,tested,Hemet,Riverside County,33.729229,-117.032699
+Hemet Unified,Idyllwild,26700 State Highway 243 Idyllwild CA 92549-0097,NA,NA,NA,not tested,Idyllwild-Pine Cove,Riverside County,33.738234,-116.7205
+Hemet Unified,Jacob Wiens Elementary,935 East Campus Way Hemet CA 92543-3121,NA,NA,NA,not tested,Hemet,Riverside County,33.754026,-116.962522
+Hemet Unified,Little Lake Elementary,26091 South Meridian Street Hemet CA 92544-6401,NA,NA,FALSE,tested,Hemet,Riverside County,33.742918,-116.928757
+Hemet Unified,McSweeny Elementary,451 West Chambers Avenue Hemet CA 92543-9661,NA,NA,FALSE,tested,Hemet,Riverside County,33.722027,-116.974624
+Hemet Unified,Ramona Elementary,41051 Whittier Avenue Hemet CA 92544-6312,NA,NA,FALSE,tested,Hemet,Riverside County,33.73674,-116.944651
+Hemet Unified,Rancho Viejo Middle,985 North Cawston Avenue Hemet CA 92545-1551,NA,NA,FALSE,tested,Hemet,Riverside County,33.752694,-117.015409
+Hemet Unified,Tahquitz High,4425 Titan Trail Hemet CA 92545-6224,NA,NA,FALSE,tested,Hemet,Riverside County,33.768242,-117.018734
+Hemet Unified,Valle Vista Elementary,43900 Mayberry Avenue Hemet CA 92544-6634,NA,NA,FALSE,tested,Hemet,Riverside County,33.74102,-116.894813
+Hemet Unified,West Valley High,3401 Mustang Way Hemet CA 92545-9257,NA,NA,FALSE,tested,Hemet,Riverside County,33.717867,-117.010267
+Hemet Unified,Western Center Academy,2345 Searl Parkway Hemet CA 92543-9706,NA,NA,FALSE,tested,Hemet,Riverside County,33.706597,-116.992958
+Hemet Unified,Whittier Elementary,400 West Whittier Avenue Hemet CA 92543-5940,NA,NA,NA,not tested,Hemet,Riverside County,33.736726,-116.975115
+Hemet Unified,Winchester Elementary,28751 Winchester Road Winchester CA 92596-9570,NA,NA,FALSE,tested,NA,Riverside County,33.702846,-117.084997

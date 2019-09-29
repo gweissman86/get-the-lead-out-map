@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Buckeye Union Elementary,Blue Oak Elementary,2391 Merrychase Drive Cameron Park CA 95682-9094,7,ppb,TRUE,tested,Cameron Park,El Dorado County,38.658044,-121.007482
+Buckeye Union Elementary,Camerado Springs Middle,2480 Merrychase Drive Cameron Park CA 95682-9093,NA,NA,FALSE,tested,Cameron Park,El Dorado County,38.658029,-121.005098
+Buckeye Union Elementary,Charter Montessori Blue Oak Campus,2391 Merrychase Dr Cameron Park CA 95682-9094,NA,NA,FALSE,tested,Cameron Park,El Dorado County,38.658044,-121.007482

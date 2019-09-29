@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mountain View-Los Altos Union High,Alta Vista High,1325 Bryant Avenue Mountain View CA 94040-4527,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.360424,-122.063648
+Mountain Valley Unified,Alta Vista High School,1325 Bryant Ave. Mountain View CA 94040,NA,NA,NA,not tested,Mountain View,Santa Clara County,37.360424,-122.063648
+Mountain View Whisman,Benjamin Bubb Elementary,525 Hans Avenue Mountain View CA 94040-3103,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.379077,-122.082193
+Mountain View Whisman,Crittenden Middle,1701 Rock Street Mountain View CA 94043-3133,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.410656,-122.085478
+Mountain View Whisman,Edith Landels Elementary,115 West Dana Street Mountain View CA 94041-1406,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.389478,-122.072592
+Mountain View Whisman,Frank L. Huff Elementary,253 Martens Avenue Mountain View CA 94040-3220,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.375307,-122.07467
+Mountain View Whisman,Gabriela Mistral Elementary,505 Escuela Avenue Mountain View CA 94040-2006,NA,NA,NA,not tested,Mountain View,Santa Clara County,37.394807,-122.093525
+Mountain View Whisman,Isaac Newton Graham Middle,1175 Castro Street Mountain View CA 94040-2505,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.383673,-122.085091
+Private,Khan Lab School,1200 Villa Street Suite 100 Mountain View CA 94041,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.396648,-122.084006
+Mountain View Whisman,Mariano Castro Elementary,505 Escuela Ave Mountain View CA 94040-2006,5.1,ppb,TRUE,tested,Mountain View,Santa Clara County,37.394807,-122.093525
+Mountain View Whisman,Monta Loma Elementary,460 Thompson Avenue Mountain View CA 94043-3133,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.408382,-122.09799
+Mountain View Whisman,Slater Special Education Preschool,220 North Whisman Road Mountain View CA 94043-3954,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.395261,-122.060402
+Mountain View Whisman,Stevenson Elementary,750B San Pierre Way Mountain View CA 94043-3133,NA,NA,FALSE,tested,Mountain View,Santa Clara County,37.403691,-122.083979
+Mountain View Whisman,Theuerkauf Elementary,1625 San Luis Avenue Mountain View CA 94043-3133,9.9,ppb,TRUE,tested,Mountain View,Santa Clara County,37.40526,-122.084246

@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Newhall,Dr. J. Michael McGrath Elementary,21501 Deputy Jake Way Newhall CA 91321-4687,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.376081,-118.513723
+Newhall,Meadows Elementary,25577 North Fedala Road Valencia CA 91355-2536,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.391334,-118.554932
+Newhall,Newhall Elementary,24607 North Walnut Street Newhall CA 91321-1751,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.381765,-118.532083
+Newhall,Oak Hills Elementary,26730 Old Rock Road Valencia CA 91381-0775,NA,NA,NA,not tested,Stevenson Ranch,Los Angeles County,34.404591,-118.591438
+Newhall,Old Orchard Elementary,25141 North Avenida Rondel Valencia CA 91355-3205,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.381218,-118.547888
+Newhall,Peachland Avenue Elementary,24800 Peachland Avenue Newhall CA 91321-3430,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.374486,-118.545625
+Newhall,Pico Canyon Elementary,25255 Pico Canyon Road Stevenson Ranch CA 91381-1658,NA,NA,NA,not tested,NA,Los Angeles County,34.379052,-118.566499
+Newhall,Stevenson Ranch Elementary,25820 North Carroll Lane Stevenson Ranch CA 91381-1100,NA,NA,NA,not tested,Stevenson Ranch,Los Angeles County,34.391157,-118.595784
+Newhall,Valencia Valley Elementary,23601 Carrizo Drive Valencia CA 91355-2182,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.407669,-118.544291
+Newhall,Wiley Canyon Elementary,24240 La Glorita Circle Newhall CA 91321-2304,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.376503,-118.559843

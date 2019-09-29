@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mt. Diablo Unified,Gregory Gardens Elementary,1 Corritone Court Pleasant Hill CA 94523-2299,NA,NA,FALSE,tested,Pleasant Hill,Contra Costa County,37.960652,-122.068164
+Mt. Diablo Unified,Pleasant Hill Education Center,1 Santa Barbara Rd B Pleasant Hill CA 94523-4417,NA,NA,NA,not tested,Pleasant Hill,Contra Costa County,37.937207,-122.066126
+Mt. Diablo Unified,Pleasant Hill Middle,1 Santa Barbara Rd C Pleasant Hill CA 94503-4215,NA,NA,FALSE,tested,Pleasant Hill,Contra Costa County,37.937207,-122.066126

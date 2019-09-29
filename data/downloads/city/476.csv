@@ -1,0 +1,81 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Bernardino City Unified,Allred Childcare,303 S K Street San Bernardino CA 92410,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.096338,-117.307558
+San Bernardino City Unified,Anderson,24302 East Fourth Street San Bernardino CA 92410-4919,8.6,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.106999,-117.273398
+Private,Aquinas High School,2772 Sterling Avenue San Bernardino CA 92404,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.113483,-117.243679
+San Bernardino City Unified,Arrowhead Elementary,3825 Mountain View Avenue San Bernardino CA 92405-2329,8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.180245,-117.287315
+San Bernardino City Unified,Arrowview Middle,2299 North G Street San Bernardino CA 92405-3631,5.2,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.136844,-117.298557
+San Bernardino City Unified,Arroyo Valley High,1881 West Baseline Street San Bernardino CA 92411-1650,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.121269,-117.328464
+Private,ASA Charter,3512 North E Street San Bernardino CA 92405,6.25,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.155179,-117.294165
+Private,Ballington Academy,799 East Rialto Ave  San Bernardino CA 92408,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.100943,-117.268438
+San Bernardino City Unified,Barton Elementary,2214 Pumalo Street San Bernardino CA 92404-3564,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.13919,-117.243095
+San Bernardino City Unified,Belvedere Elementary,2501 East Marshall Boulevard Highland CA 92346-1638,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.149003,-117.244276
+San Bernardino City Unified,Bing Wong Elementary,1250 East Ninth Street San Bernardino CA 92410-4097,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.11604,-117.257088
+San Bernardino City Unified,Bob Holcomb Elementary,1345 West 48th Street San Bernardino CA 92407-5004,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.171367,-117.316135
+San Bernardino City Unified,Bradley Elementary,1300 Valencia Avenue San Bernardino CA 92404-5440,8.8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.123174,-117.272046
+San Bernardino City Unified,Cajon High,1200 Hill Drive San Bernardino CA 92407-2932,8.8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.175587,-117.311614
+San Bernardino City Unified,Captain Leland Norton Elementary,747 North Mountain View Avenue San Bernardino CA 92410-1121,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.112647,-117.286384
+San Bernardino City Unified,"Casa Ramona Academy for Technology, Community, and Education",1524 West Seventh Street San Bernardino CA 92411-2508,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.112674,-117.318722
+Private,Center For Learning and Educational Success,1697 North Sierra Way San Bernardino CA 92405-4628,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.129904,-117.285071
+San Bernardino City Unified,Cesar E. Chavez Middle,6650 North Magnolia Avenue San Bernardino CA 92407-1914,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.204404,-117.363554
+San Bernardino County Superintendent of Schools,Child Development Preschool Center,2350 North E St. San Bernardino CA 92405,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.137573,-117.294385
+San Bernardino City Unified,Colonel Joseph C. Rodriguez PREP Academy,1985 North Guthrie Street San Bernardino CA 92404-5927,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.132058,-117.239278
+San Bernardino County Superintendent of Schools,Community Day School,24424 Monterrey Ave. San Bernardino CA 92410,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.10778,-117.270782
+San Bernardino County Office of Education,Community School/Independent Alternative Education,244 South D Street San Bernardino CA 92410-3093,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.096941,-117.292296
+San Bernardino City Unified,Curtis Middle,1050 North Delrosa Drive San Bernardino CA 92410-4112,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.11877,-117.253047
+San Bernardino City Unified,Davidson Elementary,2844 Davidson Avenue San Bernardino CA 92405-1918,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.144186,-117.310369
+San Bernardino City Unified,Del Rosa Elementary,3395 North Mountain Avenue San Bernardino CA 92404-2768,5.8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.150659,-117.256715
+San Bernardino City Unified,Del Vallejo Middle,1885 East Lynwood Drive San Bernardino CA 92404-3269,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.146723,-117.248899
+San Bernardino City Unified,Dr. Mildred Dalton Henry Elementary,1250 West 14th Street San Bernardino CA 92411-1810,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.125108,-117.311853
+San Bernardino City Unified,E. Neal Roberts Elementary,494 East Ninth Street San Bernardino CA 92410-3822,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.116198,-117.274723
+San Bernardino City Unified,Emmerton Elementary,1888 Arden Avenue San Bernardino CA 92404-6715,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.143998,-117.234952
+San Bernardino City Unified,Fairfax Elementary,1362 Pacific Street San Bernardino CA 92404-6226,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.128716,-117.258755
+San Bernardino City Unified,George Brown Jr. Elementary,2525 North G Street San Bernardino CA 92405-3637,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.138545,-117.298532
+San Bernardino City Unified,Golden Valley Middle,3800 Waterman Avenue San Bernardino CA 92404-1739,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.128844,-117.278755
+San Bernardino City Unified,Graciano Gomez Elementary,1480 West 11th Street San Bernardino CA 92411-2132,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.120416,-117.317137
+San Bernardino City Unified,H. Frank Dominguez Elementary,135 South Allen Street San Bernardino CA 92408-1503,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.100087,-117.28182
+San Bernardino City Unified,Hardy Brown College Prep,655 West 2nd Street San Bernardino CA 92410-3210,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.102662,-117.297648
+San Bernardino City Unified,Hillside Elementary,4975 North Mayfield Avenue San Bernardino CA 92407-3130,6.6,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.17499,-117.290998
+San Bernardino City Unified,Howard Inghram Elementary,1695 West 19th Street San Bernardino CA 92411-1154,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.13227,-117.327073
+San Bernardino City Unified,Hunt Elementary,1342 Pumalo Street San Bernardino CA 92404-4326,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.138682,-117.257768
+San Bernardino City Unified,Indian Springs High,650 North Del Rosa Drive San Bernardino CA 92410-4669,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.111548,-117.254564
+San Bernardino City Unified,Inland Career Education Center,1200 North E Street San Bernardino CA 92405,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.158384,-117.294007
+San Bernardino City Unified,Juanita Blakely Jones Elementary,700 North F Street San Bernardino CA 92410-3018,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.112178,-117.296528
+Rialto Unified,Kelley Elementary,380 South Meridian Avenue Rialto CA 92376-6713,10.5,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.094492,-117.348637
+San Bernardino City Unified,Kimbark Elementary,18021 West Kenwood Avenue San Bernardino CA 92407-1113,6.3,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.235599,-117.411529
+San Bernardino City Unified,Lankershim Elementary,7499 Lankershim Avenue Highland CA 92346-3459,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.118728,-117.234858
+San Bernardino City Unified,Lincoln Elementary,255 West 13th Street San Bernardino CA 92405-4801,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.12324,-117.288658
+San Bernardino City Unified,Lytle Creek Elementary,275 South K Street San Bernardino CA 92410-2441,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.097046,-117.307559
+San Bernardino City Unified,Manuel A. Salinas Creative Arts Elementary,2699 North California Street San Bernardino CA 92407-6714,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.142525,-117.331089
+San Bernardino City Unified,Marshall Elementary,3288 North G Street San Bernardino CA 92405-2712,11,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.151082,-117.298651
+San Bernardino City Unified,Martin Luther King Jr. Middle,1250 North Medical Center Drive San Bernardino CA 92411-1605,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.122856,-117.322974
+San Bernardino City Unified,Middle College High,1260 West Esperanza Street San Bernardino CA 92410-2704,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.090154,-117.312621
+San Bernardino City Unified,Monterey Elementary,794 East Monterey Avenue San Bernardino CA 92410-6416,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.107381,-117.266819
+San Bernardino City Unified,Mt. Vernon Elementary,1271 West Tenth Street San Bernardino CA 92411-2217,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.117403,-117.313258
+San Bernardino City Unified,North Park Elementary,5378 North H Street San Bernardino CA 92407-2561,10.5,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.179296,-117.30132
+San Bernardino City Unified,North Verdemont Elementary,3555 West Meyers Road San Bernardino CA 92407-1911,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.205558,-117.36647
+San Bernardino County Office of Education,Norton Space and Aeronautics Academy,503 East Central Avenue San Bernardino CA 92408-2313,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.086014,-117.275795
+Private,Options for Youth II,1148 East Highland Ave San Bernardino CA 92404,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.136263,-117.263249
+Private,Options for Youth-San Bernardino,985-A South E Street San Bernardino CA 92408,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.082941,-117.293375
+San Bernardino City Unified,Pacific High,1020 Pacific Street San Bernardino CA 92404-6228,8.85,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.128713,-117.265441
+San Bernardino City Unified,Palm Avenue Elementary,6565 Palm Avenue San Bernardino CA 92407-5145,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.199628,-117.354434
+San Bernardino City Unified,Parkside Elementary,3775 North Waterman Avenue San Bernardino CA 92404-1738,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.159764,-117.27821
+Private,Public Safety Academy,1482 East Enterprise Drive San Bernardino CA 92408-0161,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.099929,-117.254338
+San Bernardino City Unified,Ramona-Alessandro Elementary,670 Ramona Avenue San Bernardino CA 92411-2526,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.111058,-117.322089
+San Bernardino City Unified,Richardson Prep Hi,455 South K Street San Bernardino CA 92410-2607,6.300000000000001,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.092721,-117.307561
+San Bernardino City Unified,Riley Elementary,1266 North G Street San Bernardino CA 92405-5011,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.122682,-117.298772
+San Bernardino City Unified,Rio Vista Elementary,1451 North California Street San Bernardino CA 92411-1558,5.1,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.125783,-117.33108
+San Bernardino City Unified,Roger Anton Elementary,1501 Anton Court San Bernardino CA 92404-5400,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.12694,-117.26886
+San Bernardino City Unified,Roosevelt Elementary,1554 Garner Avenue San Bernardino CA 92411-1823,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.127976,-117.311255
+San Bernardino County Office of Education,San Bernardino County Special Education,601 North E St San Bernardino CA 92415-0020,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.158384,-117.294007
+San Bernardino City Unified,San Bernardino High,1850 North E Street San Bernardino CA 92405,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.158384,-117.294007
+San Bernardino County Superintendent of Schools,San Bernardino Nutrition Services,1257 Northpark Blvd. W San Bernardino CA 92407,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.178366,-117.309217
+San Bernardino City Unified,San Gorgonio High,2299 East Pacific Avenue San Bernardino CA 92404-6172,5.7,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.128005,-117.23706
+San Bernardino City Unified,Shandin Hills Middle,4301 Little Mountain Drive San Bernardino CA 92407-5899,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.17465,-117.314795
+San Bernardino City Unified,Sierra High,570 East Ninth Street San Bernardino CA 92410-3898,11,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.116198,-117.273679
+San Bernardino City Unified,SOAR Charter Academy,198 West Mill Street San Bernardino CA 92408-1402,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.092232,-117.287267
+San Bernardino City Unified,Urbita Elementary,771 South J Street San Bernardino CA 92410-2725,10,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.085615,-117.305309
+San Bernardino City Unified,Vermont Elementary,3695 Vermont Street San Bernardino CA 92407-6947,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.163018,-117.352858
+San Bernardino City Unified,Warm Springs Elementary,7497 Sterling Avenue San Bernardino CA 92410-4219,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.118972,-117.243565
+San Bernardino City Unified,Wilson Elementary,2894 North Belle Street San Bernardino CA 92404-3915,8.1,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.143903,-117.279864
+Private,Woodward Leadership Academy,1777 West Baseline Street San Bernardino CA 92411-1648,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.121271,-117.326366
+San Bernardino City Unified,Yvonne Harmon,4865 North State Street San Bernardino CA 92407-3328,12,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.172716,-117.330994

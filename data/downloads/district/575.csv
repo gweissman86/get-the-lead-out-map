@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Paso Robles Joint Unified,Daniel Lewis Middle,900 Creston Road Paso Robles CA 93447-3002,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.572486,-120.589818
+Paso Robles Joint Unified,George H. Flamson Middle,655 24th Street Paso Robles CA 93446-1444,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.639125,-120.693219
+Paso Robles Joint Unified,Georgia Brown Elementary,525 36th Street Paso Robles CA 93447-7010,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.651413,-120.695617
+Paso Robles Joint Unified,Kermit King Elementary,700 Schoolhouse Circle Paso Robles CA 93446-7001,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.649593,-120.677175
+Paso Robles Joint Unified,Liberty High (Continuation),810 Niblick Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.61519,-120.670571
+Paso Robles Joint Unified,Marie Bauer/Glen Speck School,401 17th St Paso Robles CA 93446,7.5,ppb,TRUE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.632638,-120.6946
+Paso Robles Joint Unified,Paso Robles High,801 Niblick Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,NA,San Luis Obispo County,35.615903,-120.669888
+Paso Robles Joint Unified,Pat Butler Elementary,700 Nicklaus Street Paso Robles CA 93446-3415,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.610783,-120.673847
+Paso Robles Joint Unified,Virginia Peterson Elementary,2501 Beechwood Drive Paso Robles CA 93446-4730,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.60037,-120.655644
+Paso Robles Joint Unified,Winifred Pifer Elementary,1350 Creston Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.572486,-120.589818

@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Petaluma City Elementary,Grant Elementary,200 Grant Avenue Petaluma CA 94952-4811,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.221029,-122.630483
+Petaluma City Elementary,Live Oak Charter,"100 Gnoss Concourse, Building 1 Petaluma CA 94952-3395",NA,NA,NA,not tested,Petaluma,Sonoma County,38.240574,-122.627517
+Petaluma City Elementary,McDowell Elementary,421 South McDowell Boulevard Petaluma CA 94954-3753,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.24705,-122.621833
+Petaluma City Elementary,McKinley Elementary,110 Ellis Street Petaluma CA 94952-3305,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.244217,-122.633522
+Petaluma City Elementary,McNear Elementary,605 Sunnyslope Avenue Petaluma CA 94952-4912,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.222827,-122.636383
+Petaluma City Elementary,Penngrove Elementary,365 Adobe Road Penngrove CA 94951,NA,NA,FALSE,tested,Rohnert Park,Sonoma County,38.300601,-122.668012
+Petaluma City Elementary,Sixth Grade Charter Academy at Petaluma Jr. High,700 Bantam Way B Petaluma CA 94952-1709,NA,NA,NA,not tested,Petaluma,Sonoma County,38.234624,-122.658939
+Petaluma City Elementary,South County Consortium,200 Douglas St Petaluma CA 94952-2567,NA,NA,NA,not tested,Petaluma,Sonoma County,38.22835,-122.644183
+Petaluma City Elementary,Valley Oaks Elementary (Alternative),540 Vallejo St Petaluma CA 94952-3364,NA,NA,NA,not tested,Petaluma,Sonoma County,38.238363,-122.628861
+Petaluma City Elementary,Valley Vista Elementary,730 North Webster Street Petaluma CA 94952-1735,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.231888,-122.653422

@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lennox,Buford Elementary,4919 West 109th Street Lennox CA 90304-2135,NA,NA,FALSE,tested,NA,Los Angeles County,33.936777,-118.363907
+Lennox,Century Academy for Excellence,2400 West 85th Street Inglewood CA 90305-1816,NA,NA,NA,not tested,Inglewood,Los Angeles County,33.960811,-118.318943
+Lennox,Century Community Charter,901 South Maple Street Inglewood CA 90301-3823,NA,NA,NA,not tested,Inglewood,Los Angeles County,33.952198,-118.354072
+Lennox,Dolores Huerta Elementary,4125 West 105th Street Lennox CA 90304-2019,NA,NA,FALSE,tested,Inglewood,Los Angeles County,33.940995,-118.346872
+Lennox,Felton Elementary,10417 Felton Avenue Lennox CA 90304-1709,NA,NA,FALSE,tested,NA,Los Angeles County,33.920738,-118.36609
+Lennox,Jefferson Elementary,10322 Condon Avenue Lennox CA 90304-1436,NA,NA,FALSE,tested,Inglewood,Los Angeles County,33.94225,-118.358853
+Lennox,"Lennox Mathematics, Science and Technology Academy",11036 Hawthorne Boulevard Lennox CA 90304-2316,NA,NA,FALSE,tested,NA,Los Angeles County,33.935143,-118.35196
+Lennox,Lennox Middle,11033 Buford Avenue Lennox CA 90304-2126,NA,NA,FALSE,tested,Lennox,Los Angeles County,33.934809,-118.364777
+Lennox,Moffett Elementary,11050 Larch Avenue Lennox CA 90304-1419,NA,NA,FALSE,tested,NA,Los Angeles County,33.935546,-118.349318

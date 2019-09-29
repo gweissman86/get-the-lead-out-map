@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Adelanto Elementary,Adelanto Elementary,17931 Jonathan Street Adelanto CA 92301-1734,NA,NA,NA,not tested,NA,San Bernardino County,34.576866,-117.409614
+Adelanto Elementary,Columbia Middle,14409 Aster Street Adelanto CA 92301-3451,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.512255,-117.433856
+Adelanto Elementary,Desert Trails Preparatory Academy,14350 Bellflower Road Adelanto CA 92301-0070,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.511569,-117.417274
+Adelanto Elementary,Donald F. Bradach Elementary,15550 Bellflower Road Adelanto CA 92301-3443,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.533038,-117.417521
+Adelanto Elementary,Eagle Ranch Elementary,12545 Eagle Ranch Parkway Adelanto CA 92301-0070,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.478744,-117.388733
+Adelanto Elementary,El Mirage,19250 Street Anthony Avenue Adelanto CA 92301,NA,NA,NA,not tested,El Mirage,San Bernardino County,34.600347,-117.632401
+Adelanto Elementary,George Visual and Performing Arts Magnet and Middle,10650 Bartlett Avenue Adelanto CA 92301-2122,NA,NA,NA,not tested,NA,San Bernardino County,34.579505,-117.43478
+Adelanto Elementary,Gus Franklin Jr. School,13125 Hopland Street Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.542967,-117.346744
+Adelanto Elementary,Melva Davis Academy of Excellence,15831 Diamond Rd Victorville CA 92394,NA,NA,FALSE,tested,NA,San Bernardino County,34.676276,-117.380827
+Adelanto Elementary,Mesa Linda Middle,13001 Mesa Linda Road Victorville CA 92392-8086,NA,NA,FALSE,tested,NA,San Bernardino County,34.61924,-117.389383
+Adelanto Elementary,Morgan Kincaid Preparatory,13257 Mesa Linda Avenue Victorville CA 92392-7915,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.491272,-117.390503
+Adelanto Elementary,Theodore Vick Elementary,10575 Seneca Adelanto CA 92301-4221,NA,NA,NA,not tested,NA,San Bernardino County,34.513959,-117.419963
+Adelanto Elementary,Victoria Magathan Elementary,11411 Holly Road Adelanto CA 92301,NA,NA,NA,not tested,NA,San Bernardino County,34.542951,-117.415008
+Adelanto Elementary,West Creek Elementary,15763 Colbalt Road Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.537751,-117.372687
+Adelanto Elementary,Westside Park Elementary,18270 Casaba Road Adelanto CA 92301-0070,NA,NA,NA,not tested,NA,San Bernardino County,34.580712,-117.421827

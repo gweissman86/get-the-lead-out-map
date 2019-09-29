@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Yreka Union Elementary,Evergreen Elementary,416 Evergreen Lane Yreka CA 96097-3204,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.725142,-122.643907
+Yreka Union Elementary,Jackson Street Elementary,405 Jackson Street Yreka CA 96097-2898,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.727645,-122.640827
+Yreka Union Elementary,Yreka Community Day,309 Jackson Street Yreka CA 96097-3369,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.728012,-122.639064

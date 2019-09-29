@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Miguel Joint Union,Cappy Culver Elementary,11011 Heritage Ranch Loop Road Paso Robles CA 93446-7725,NA,NA,NA,not tested,Paso Robles,San Luis Obispo County,35.636876,-120.654502
+Paso Robles Joint Unified,Daniel Lewis Middle,900 Creston Road Paso Robles CA 93447-3002,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.572486,-120.589818
+Paso Robles Joint Unified,Kermit King Elementary,700 Schoolhouse Circle Paso Robles CA 93446-7001,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.649593,-120.677175
+Private,Trinity Lutheran School,940 Creston Road Paso Robles CA 93446,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.572486,-120.589818
+Paso Robles Joint Unified,Winifred Pifer Elementary,1350 Creston Road Paso Robles CA 93447-7010,NA,NA,FALSE,tested,Paso Robles,San Luis Obispo County,35.572486,-120.589818

@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Stanislaus Union Elementary,Agnes M. Baptist Elementary,1825 Cheyenne Way Modesto CA 95356-0987,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.693425,-121.025338
+Stanislaus Union Elementary,George Eisenhut Elementary,1809 Sheldon Drive Modesto CA 95350-0420,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.685531,-121.025145
+Stanislaus Union Elementary,Josephine Chrysler Elementary,2818 Conant Avenue Modesto CA 95350-1752,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.681065,-121.040389
+Stanislaus Union Elementary,Mary Lou Dieterich Elementary,2412 Warm Springs Drive Modesto CA 95350-9399,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.698822,-121.038758
+Stanislaus Union Elementary,Prescott Junior High,2243 West Rumble Road Modesto CA 95350-0219,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.682415,-121.036118
+Stanislaus Union Elementary,Stanislaus Elementary,1931 Kiernan Avenue Modesto CA 95356-9159,NA,NA,NA,not tested,Modesto,Stanislaus County,37.711394,-121.038414

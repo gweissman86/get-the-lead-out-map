@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Tehachapi Unified,Cummings Valley Elementary,24220 Bear Valley Road Hc80 Tehachapi CA 93561-8308,NA,NA,NA,not tested,Tehachapi,Kern County,35.133129,-118.575726
+Tehachapi Unified,Golden Hills Elementary,20215 Park Road Tehachapi CA 93561-6706,11,ppb,TRUE,tested,Tehachapi,Kern County,35.128871,-118.489678
+Tehachapi Unified,Jacobsen Middle,711 Anita Drive Tehachapi CA 93561-1501,10,ppb,TRUE,tested,Tehachapi,Kern County,35.126603,-118.43661
+Tehachapi Unified,Tehachapi High,801 South Dennison Road Tehachapi CA 93561-1524,150,ppb,TRUE,tested,Tehachapi,Kern County,35.121534,-118.432928
+Tehachapi Unified,Tompkins Elementary,1120 South Curry Street Tehachapi CA 93561-2300,8.6,ppb,TRUE,tested,Tehachapi,Kern County,35.117988,-118.448657

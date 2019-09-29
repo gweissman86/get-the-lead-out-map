@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pasadena Unified,Aveson School of Leaders,1919 East Pinecrest Drive Altadena CA 91001-2116,NA,NA,FALSE,tested,Altadena,Los Angeles County,34.192025,-118.111602
+Pasadena Unified,John Muir High,1905 North Lincoln Avenue Pasadena CA 91103-1315,9.3,ppb,TRUE,tested,Altadena,Los Angeles County,34.181632,-118.159697

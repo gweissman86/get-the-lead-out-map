@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lompoc Unified,Crestview Elementary,Utah Avenue Vandenberg Air Force Base CA 93437,NA,NA,FALSE,tested,VAFB,Santa Barbara County,34.73977,-120.530589
+Lompoc Unified,Manzanita Public Charter,991 Mountain View Boulevard Vandenberg AFB CA 93437-1209,NA,NA,FALSE,tested,VAFB,Santa Barbara County,34.747566,-120.507243
+Lompoc Unified,Martha Negus Orthopedic Center,991 Mountain view Blvd Vandenberg AFB CA 93437,NA,NA,FALSE,tested,VAFB,Santa Barbara County,34.747566,-120.507243
+Lompoc Unified,Vandenberg Middle,Mountain View Boulevard Vandenberg Air Force Base CA 93437,NA,NA,NA,not tested,VAFB,Santa Barbara County,34.748379,-120.510099

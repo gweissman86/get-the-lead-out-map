@@ -1,0 +1,16 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Upland Unified,Adult Education,1558 West Ninth Street Upland CA 91786,NA,NA,NA,not tested,Upland,San Bernardino County,34.095737,-117.680105
+Upland Unified,Baldy View Elementary,979 West 11th Street Upland CA 91786-3765,NA,NA,FALSE,tested,Upland,San Bernardino County,34.103411,-117.66557
+Upland Unified,Cabrillo Elementary,1562 West 11th Street Upland CA 91786-4149,NA,NA,FALSE,tested,Upland,San Bernardino County,34.103186,-117.680174
+Upland Unified,Citrus Elementary,925 West Seventh Street Upland CA 91786-6421,NA,NA,FALSE,tested,Upland,San Bernardino County,34.089754,-117.664299
+Upland Unified,Foothill Knolls Elementary,1245 Veterans Court Upland CA 91786-3450,NA,NA,FALSE,tested,Upland,San Bernardino County,34.108962,-117.634715
+Upland Unified,Hillside High,1558 West Ninth St. Upland CA 91786-5636,7.2,ppb,TRUE,tested,Upland,San Bernardino County,34.095737,-117.680105
+Upland Unified,Magnolia Elementary,465 West 15th Street Upland CA 91786-2282,NA,NA,FALSE,tested,Upland,San Bernardino County,34.11781,-117.656956
+Upland Unified,Pepper Tree Elementary,1045 West 18th Street Upland CA 91784-1551,NA,NA,FALSE,tested,Upland,San Bernardino County,34.128998,-117.666806
+Upland Unified,Pioneer Junior High,245 West 18th Street Upland CA 91784-1682,NA,NA,FALSE,tested,Upland,San Bernardino County,34.129312,-117.653981
+Upland Unified,Sierra Vista Elementary,253 East 14th Street Upland CA 91786-3249,NA,NA,FALSE,tested,Upland,San Bernardino County,34.114362,-117.647994
+Upland Unified,Sycamore Elementary,1075 West 13th Street Upland CA 91786-2643,NA,NA,FALSE,tested,Upland,San Bernardino County,34.111367,-117.66686
+Upland Unified,Upland Elementary,444 East 11th Street Upland CA 91786-4860,NA,NA,FALSE,tested,Upland,San Bernardino County,34.103322,-117.645723
+Upland Unified,Upland High,565 West 11th Street Upland CA 91786-4660,10,ppb,TRUE,tested,Upland,San Bernardino County,34.105288,-117.659845
+Upland Unified,Upland Junior High,444 East 11th St. Upland CA 91785-1239,NA,NA,FALSE,tested,Upland,San Bernardino County,34.103322,-117.645723
+Upland Unified,Valencia Elementary,541 West 22nd Street Upland CA 91784-8914,NA,NA,FALSE,tested,Upland,San Bernardino County,34.143389,-117.657743

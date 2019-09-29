@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Laguna Beach Unified,El Morro Elementary,"8681 N Coast Hwy, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.5481,-117.799363
+Laguna Beach Unified,El Morro Elementary,8681 North Coast Highway Laguna Beach CA 92651-1032,NA,NA,NA,not tested,Laguna Beach,Orange County,33.5481,-117.799363
+Laguna Beach Unified,Laguna Beach High,625 Park Avenue Laguna Beach CA 92651-2340,NA,NA,NA,not tested,Laguna Beach,Orange County,33.540372,-117.776069
+Laguna Beach Unified,Laguna Beach High School,"625 Park Ave, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.540372,-117.776069
+Laguna Beach Unified,Thurston Middle,2100 Park Avenue Laguna Beach CA 92651-2240,NA,NA,NA,not tested,Laguna Beach,Orange County,33.549113,-117.764166
+Laguna Beach Unified,Thurston Middle School,"2100 Park Ave, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.549113,-117.764166
+Laguna Beach Unified,Top of the World Elementary,"21601 Treetop Ln, Laguna Beach, CA 92651",NA,NA,NA,exempt,Laguna Beach,Orange County,33.545141,-117.751971
+Laguna Beach Unified,Top of the World Elementary,21601 Tree Top Lane Laguna Beach CA 92651-2099,NA,NA,NA,not tested,Laguna Beach,Orange County,33.545524,-117.751778

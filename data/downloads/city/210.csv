@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Roseville Joint Union High,Granite Bay High,1 Grizzly Way Granite Bay CA 95746-7194,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731927,-121.211864
+Eureka Union,Greenhills Elementary,8200 Greenhills Way Granite Bay CA 95746-4300,NA,NA,FALSE,tested,Granite Bay,Placer County,38.750316,-121.216498
+Eureka Union,Oakhills Elementary,9233 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731043,-121.206479
+Eureka Union,Ridgeview Elementary,9177 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731801,-121.206785

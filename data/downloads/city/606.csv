@@ -1,0 +1,18 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,Bethany Christian Academy,13431 Edwards Street Westminster CA 92683,NA,NA,FALSE,tested,Westminster,Orange County,33.767629,-118.016615
+Private,Blessed Sacrament Schol,14146 South Olive Street Westminster CA 92683,NA,NA,FALSE,tested,Westminster,Orange County,33.756866,-118.000089
+Westminster,Eastwood Elementary,13552 University Westminster CA 92683-2770,NA,NA,FALSE,tested,Westminster,Orange County,33.765436,-118.035953
+Westminster,Finley Elementary,13521 Edwards Street Westminster CA 92683-2502,NA,NA,FALSE,tested,Westminster,Orange County,33.762005,-118.016049
+Westminster,Fryberger Elementary,6952 Hood Drive Westminster CA 92683-2122,5.1,ppb,TRUE,tested,Westminster,Orange County,33.771228,-118.010225
+Westminster,Johnson Middle,13603 Edwards Street Westminster CA 92683-3006,7.1,ppb,TRUE,tested,Westminster,Orange County,33.764452,-118.015902
+Garden Grove Unified,La Quinta High,10372 McFadden Street Westminster CA 92683-7098,NA,NA,FALSE,tested,Westminster,Orange County,33.735988,-117.949406
+Ocean View,Pleasant View,16692 Landau Lane Huntington Beach CA 92647-5097,8.7,ppb,TRUE,tested,Westminster,Orange County,33.721351,-117.975752
+Garden Grove Unified,Post Elementary,14641 Ward Street Westminster CA 92683-5830,NA,NA,FALSE,tested,Westminster,Orange County,33.739583,-117.946099
+Garden Grove Unified,Sarah McGarvin Intermediate,9802 Bishop Place Westminster CA 92683-6605,NA,NA,FALSE,tested,Westminster,Orange County,33.741198,-117.959598
+Westminster,Schmitt Elementary,7200 Trask Avenue Westminster CA 92683-2626,NA,NA,FALSE,tested,Westminster,Orange County,33.766328,-118.003902
+Westminster,Sequoia Elementary,5900 Iroquois Road Westminster CA 92683-2460,NA,NA,FALSE,tested,Westminster,Orange County,33.768388,-118.026902
+Garden Grove Unified,Susan B. Anthony Elementary,15320 Pickford Street Westminster CA 92683-7015,NA,NA,FALSE,tested,Westminster,Orange County,33.740756,-117.951336
+Westminster,Webber Elementary,14142 Hoover Street Westminster CA 92683-4312,NA,NA,FALSE,tested,Westminster,Orange County,33.757965,-117.998294
+Huntington Beach Union High,Westminster High,14325 Goldenwest Street Westminster CA 92683-4905,NA,NA,FALSE,tested,Westminster,Orange County,33.753195,-118.009772
+Ocean View,Westmont Elementary,8251 Heil Avenue Westminster CA 92683-7834,5.5,ppb,TRUE,tested,Westminster,Orange County,33.723063,-117.984047
+Westminster,Willmore Elementary,7122 Maple Street Westminster CA 92683-5021,NA,NA,FALSE,tested,Westminster,Orange County,33.753574,-118.005466

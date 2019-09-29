@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Mateo-Foster City,Audubon Elementary,841 Gull Avenue Foster City CA 94404-1427,NA,NA,FALSE,tested,Foster City,San Mateo County,37.56717,-122.259322
+San Mateo-Foster City,Bowditch Middle,1450 Tarpon Street Foster City CA 94404-1938,NA,NA,FALSE,tested,Foster City,San Mateo County,37.560347,-122.250543
+San Mateo-Foster City,Brewer Island Elementary,1151 Polynesia Drive Foster City CA 94404-1749,NA,NA,FALSE,tested,Foster City,San Mateo County,37.560764,-122.260798
+San Mateo-Foster City,Foster City Elementary,461 Beach Park Boulevard Foster City CA 94404-2713,6.1,ppb,TRUE,tested,Foster City,San Mateo County,37.545507,-122.273119
+San Mateo-Foster City,San Mateo-Foster City Special Education Preschool,1170 Chess Drive Foster City CA 94404-1107,NA,NA,NA,not tested,Foster City,San Mateo County,37.565938,-122.273101

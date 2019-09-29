@@ -1,0 +1,17 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pleasant Valley,Camarillo Heights Elementary,35 Catalina Drive Camarillo CA 93010-1120,NA,NA,FALSE,tested,Camarillo,Ventura County,34.241399,-119.047507
+Pleasant Valley,Cape Charter School,777 Aileen St. Camarillo CA 93010,NA,NA,FALSE,tested,Camarillo,Ventura County,34.22661,-119.059539
+Pleasant Valley,Dos Caminos Elementary,3635 Appian Way Camarillo CA 93010-4099,NA,NA,FALSE,tested,Camarillo,Ventura County,34.237444,-119.020958
+Pleasant Valley,La Mariposa,4800 Corte Olivas Camarillo CA 93012-4043,NA,NA,FALSE,tested,Camarillo,Ventura County,34.233871,-119.008795
+Pleasant Valley,Las Colinas Middle,5750 Fieldcrest Drive Camarillo CA 93012-4303,NA,NA,FALSE,tested,Camarillo,Ventura County,34.233366,-118.992891
+Pleasant Valley,Las Posas Elementary,75 Calle La Guerra Camarillo CA 93010-4801,NA,NA,FALSE,tested,Camarillo,Ventura County,34.227522,-119.068633
+Pleasant Valley,Los Primeros School of Sciences & Arts,1555 Kendall Avenue Camarillo CA 93010-3607,NA,NA,FALSE,tested,Camarillo,Ventura County,34.233432,-119.030376
+Pleasant Valley,Monte Vista Middle,888 North Lantana Street Camarillo CA 93010-3023,NA,NA,FALSE,tested,Camarillo,Ventura County,34.22622,-119.054781
+Pleasant Valley,Pleasant Valley School of Engineering,700 Temple Ave. Camarillo CA 93010,5.6,ppb,TRUE,tested,Camarillo,Ventura County,34.224821,-119.029182
+Pleasant Valley,Pleasant Valley School of Engineering and Arts,1099 North Bedford Drive Camarillo CA 93010-4511,NA,NA,NA,not tested,Camarillo,Ventura County,34.228782,-119.04686
+Pleasant Valley,Pleasant Valley School of Engineering and Arts Early Education Center,550 Temple Ave. Camarillo CA 93010,7.5,ppb,TRUE,tested,Camarillo,Ventura County,34.223161,-119.029945
+Pleasant Valley,Preschool Early Education Program PEEP,3635 Appian Way B Camarillo CA 93010-4050,NA,NA,NA,not tested,Camarillo,Ventura County,34.237444,-119.020958
+Pleasant Valley,Rancho Rosal Elementary,3535 Village at the Park Drive Camarillo CA 93012-7788,NA,NA,FALSE,tested,Camarillo,Ventura County,34.212693,-119.01971
+Pleasant Valley,Santa Rosa Technology Magnet,13282 Santa Rosa Road Camarillo CA 93012-8200,NA,NA,FALSE,tested,Camarillo,Ventura County,34.218599,-119.004848
+Pleasant Valley,Tierra Linda Elementary,1201 Woodcreek Road Camarillo CA 93012-5555,NA,NA,FALSE,tested,Camarillo,Ventura County,34.22988,-118.997983
+Pleasant Valley,University Preparation Charter School,1099 North Bedford Dr. Camarillo CA 93010,NA,NA,FALSE,tested,Camarillo,Ventura County,34.227974,-119.047241

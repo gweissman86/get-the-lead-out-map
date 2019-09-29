@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bellflower Unified,Bellflower High,15301 South McNab Avenue Bellflower CA 90706-4101,8.9,ppb,TRUE,tested,Bellflower,Los Angeles County,33.894294,-118.114835
+Bellflower Unified,Ernie Pyle Elementary,14500 South Woodruff Avenue Bellflower CA 90706-3237,15,ppb,TRUE,tested,Bellflower,Los Angeles County,33.899974,-118.116268
+Bellflower Unified,Frank E. Woodruff Elementary,15332 South Eucalyptus Street Bellflower CA 90706-3706,13,ppb,TRUE,tested,Bellflower,Los Angeles County,33.893737,-118.121197
+Bellflower Unified,Las Flores Home Education Independent Study Academy,10039 East Palm Street Bellflower CA 90706-6013,8.4,ppb,TRUE,tested,Bellflower,Los Angeles County,33.876921,-118.119354
+Bellflower Unified,Ramona Elementary,9351 East Laurel Street Bellflower CA 90706-5615,NA,NA,FALSE,tested,Bellflower,Los Angeles County,33.88311,-118.134466
+Bellflower Unified,Somerset Continuation High,9242 East Laurel Street Bellflower CA 90706-7607,NA,NA,FALSE,tested,Bellflower,Los Angeles County,33.882754,-118.136777
+Bellflower Unified,Thomas Jefferson Elementary,10027 East Rose Street Bellflower CA 90706-6916,NA,NA,FALSE,tested,Bellflower,Los Angeles County,33.869929,-118.120018
+Bellflower Unified,Washington Elementary,9725 East Jefferson Street Bellflower CA 90706-3615,NA,NA,FALSE,tested,Bellflower,Los Angeles County,33.893294,-118.126927

@@ -1,0 +1,23 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Franklin-McKinley Elementary,ACE Franklin McKinley,1665 Santee Drive San Jose CA 95112-2865,NA,NA,FALSE,tested,San José,Santa Clara County,37.327993,-121.845405
+Franklin-McKinley Elementary,Bridges Academy,1702 Mclaughlin Avenue San Jose CA 95122-2936,NA,NA,FALSE,tested,San José,Santa Clara County,37.326885,-121.845222
+Franklin-McKinley Elementary,Captain Jason M. Dahl Elementary,3200 Water Street San Jose CA 95111-3236,6.1,ppb,TRUE,tested,San José,Santa Clara County,37.288821,-121.839847
+Franklin-McKinley Elementary,College Connection Academy,1855 Lucretia San Jose CA 95122-3730,NA,NA,NA,not tested,San Jose,Santa Clara County,37.320326,-121.848597
+Franklin-McKinley Elementary,Cornerstone Academy Preparatory,1598 Lucretia Avenue San Jose CA 95122-3817,NA,NA,NA,not tested,San José,Santa Clara County,37.325724,-121.852982
+Franklin-McKinley Elementary,Franklin Elementary,420 Tully Road San Jose CA 95111-1914,6.1,ppb,TRUE,tested,San José,Santa Clara County,37.306224,-121.850031
+Franklin-McKinley Elementary,G. W. Hellyer Elementary,725 Hellyer Avenue San Jose CA 95111-1523,NA,NA,FALSE,tested,San José,Santa Clara County,37.284456,-121.819247
+Franklin-McKinley Elementary,Jeanne R. Meadows Elementary,1250 Taper Lane San Jose CA 95122-2950,NA,NA,FALSE,tested,San José,Santa Clara County,37.321091,-121.839709
+Franklin-McKinley Elementary,KIPP Heritage Academy,2545 Sherlock Drive San Jose CA 95121-2700,NA,NA,FALSE,tested,San José,Santa Clara County,37.311042,-121.838638
+Franklin-McKinley Elementary,Lairon College Preparatory Academy,3975 Mira Loma San Jose CA 95111-3520,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.281872,-121.829509
+Franklin-McKinley Elementary,Los Arboles Literacy and Technology Academy,455 Los Arboles Street San Jose CA 95111-2399,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.285605,-121.831279
+Franklin-McKinley Elementary,McKinley Elementary,651 Macredes Avenue San Jose CA 95116-3257,NA,NA,FALSE,tested,San José,Santa Clara County,37.337647,-121.862279
+Franklin-McKinley Elementary,Ramblewood Elementary,1351 Lightland Road San Jose CA 95121-2663,NA,NA,FALSE,tested,San José,Santa Clara County,37.295291,-121.811892
+Franklin-McKinley Elementary,Robert F. Kennedy Elementary,1602 Lucretia Avenue San Jose CA 95122-3812,NA,NA,FALSE,tested,San José,Santa Clara County,37.324516,-121.852095
+Franklin-McKinley Elementary,Rocketship Mosaic Elementary,950 Owsley Avenue San Jose CA 95122-3109,NA,NA,FALSE,tested,San José,Santa Clara County,37.329887,-121.855096
+Franklin-McKinley Elementary,Rocketship Spark Academy,683 Sylvandale Avenue San Jose CA 95111-1414,NA,NA,FALSE,tested,San José,Santa Clara County,37.288049,-121.822077
+Franklin-McKinley Elementary,Santee Elementary,1313 Audubon Drive San Jose CA 95122-3211,NA,NA,FALSE,tested,San José,Santa Clara County,37.328202,-121.84752
+Franklin-McKinley Elementary,"Shirakawa (George, Sr.) Elementary",665 Wool Creek Drive San Jose CA 95112-2617,NA,NA,FALSE,tested,San José,Santa Clara County,37.315136,-121.848754
+Franklin-McKinley Elementary,Stonegate Elementary,2605 Gassmann Drive San Jose CA 95121-2812,NA,NA,FALSE,tested,San José,Santa Clara County,37.308131,-121.836975
+Franklin-McKinley Elementary,Sylvandale Middle,653 Sylvandale Avenue San Jose CA 95111-1414,NA,NA,FALSE,tested,San José,Santa Clara County,37.288042,-121.822185
+Franklin-McKinley Elementary,Voices College-Bound Language Academy,715 Hellyer Avenue San Jose CA 95111-1584,NA,NA,NA,not tested,San José,Santa Clara County,37.284457,-121.819275
+Franklin-McKinley Elementary,Windmill Springs Elementary,2880 Aetna Way San Jose CA 95121-2301,NA,NA,FALSE,tested,San José,Santa Clara County,37.306301,-121.824267

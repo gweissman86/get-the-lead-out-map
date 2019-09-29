@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mariposa County Unified,Lake Don Pedro Elementary,2411 Hildago La Grange CA 95329,NA,NA,NA,not tested,La Grange,Mariposa County,37.672315,-120.357688
+Mariposa County Unified,Mariposa County High,5074 Old Highway Mariposa CA 95338-0127,NA,NA,FALSE,tested,NA,Mariposa County,37.459455,-119.956572
+Mariposa County Unified,Mariposa Elementary,5044 Jones Street Mariposa CA 95338-5002,NA,NA,FALSE,tested,NA,Mariposa County,37.48716,-119.96434
+Mariposa County Office of Education,Monarch Academy,5082 Old Highway North Mariposa CA 95338,NA,NA,FALSE,tested,NA,Mariposa County,37.490439,-119.966173
+Private,Victory Baptist Christian School,5005 Frank Wilson Road Mariposa CA 95338,5.7,ppb,TRUE,tested,Mariposa,Mariposa County,37.503841,-119.98391

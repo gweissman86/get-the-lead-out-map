@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Big Valley Joint Unified,Big Valley Elementary,90 First Street Bieber CA 96009-0157,NA,NA,NA,not tested,Bieber,Lassen County,41.120889,-121.141574
+Big Valley Joint Unified,Big Valley Jr. Sr. High,400 Bridge Street Bieber CA 96009-0157,NA,NA,NA,not tested,NA,Lassen County,41.121393,-121.138745
+Susanville Elementary,Diamond View Middle,850 Richmond Road Susanville CA 96130-4823,NA,NA,NA,not tested,Susanville,Lassen County,40.407632,-120.661499
+Fort Sage Unified,Herlong High,200 DS HL Herlong CA 96113,NA,NA,NA,not tested,Herlong,Lassen County,40.143939,-120.134653
+Lassen County Office of Education,Lassen County Juvenile Court,1415B Chestnut Street Susanville CA 96130-8752,NA,NA,NA,not tested,Susanville,Lassen County,40.423992,-120.650682
+Lassen Union High,Lassen High,1110 Main Street Susanville CA 96130-4421,NA,NA,NA,not tested,Susanville,Lassen County,40.416762,-120.65467
+Ravendale-Termo Elementary,Long Valley Charter,436-965 Susan Drive Doyle CA 96109-0007,NA,NA,NA,not tested,Doyle,Lassen County,40.045298,-120.123635
+Susanville Elementary,McKinley Elementary,2005 Fourth Street Susanville CA 96130-4105,NA,NA,FALSE,tested,Susanville,Lassen County,40.418718,-120.643467
+Susanville Elementary,Meadow View,1200 Paiute Lane Susanville CA 96130-4105,NA,NA,NA,not tested,Susanville,Lassen County,40.433938,-120.663944
+Fort Sage Unified,Mt. Lassen Charter,100 David S Hall Street Herlong CA 96113,NA,NA,NA,not tested,Herlong,Lassen County,40.141665,-120.13378
+Westwood Unified,Westwood Charter,313 Birch Street Westwood CA 96137,NA,NA,NA,not tested,NA,Lassen County,40.302505,-121.00198
+Westwood Unified,Westwood High,Fourth and Greenwood Streets Westwood CA 96137-1510,NA,NA,FALSE,tested,Westwood,Lassen County,40.301195,-121.00817

@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Big Pine Unified,Big Pine Elementary,500 South Main St Big Pine CA 93513-0908,NA,NA,FALSE,tested,Bishop,Inyo County,37.161695,-118.288983
+Big Pine Unified,Big Pine High,500 South Main Street Big Pine CA 93513-0908,NA,NA,FALSE,tested,Bishop,Inyo County,37.161695,-118.288983
+Bishop Unified,Bishop Union Elementary Community Day II,800 West Elm Street Bishop CA 93514-2524,11,ppb,TRUE,tested,Bishop,Inyo County,37.36536,-118.404811
+Bishop Unified,Bishop Union High,301 North Fowler Street Bishop CA 93514-2609,7.5,ppb,TRUE,tested,Bishop,Inyo County,37.363516,-118.398069
+Bishop Unified,Home Street Middle,201 Home Street Bishop CA 93514-2521,6.6,ppb,TRUE,tested,Bishop,Inyo County,37.362263,-118.402446
+Inyo County Office of Education,Jill Kinmont Boothe,166 Grandview Ln. Bishop CA 93514-2984,NA,NA,FALSE,tested,Bishop,Inyo County,37.360197,-118.434334
+Lone Pine Unified,Lo-Inyo Elementary,223 East Locust Street Lone Pine CA 93545,NA,NA,NA,not tested,NA,Inyo County,36.60843,-118.061117
+Lone Pine Unified,Lone Pine Adult,301 South Hay Street Lone Pine CA 93545-0159,NA,NA,NA,not tested,NA,Inyo County,36.604377,-118.060056
+Lone Pine Unified,Lone Pine High,538 South Main Street Lone Pine CA 93545,NA,NA,NA,not tested,NA,Inyo County,36.581642,-118.057573
+Owens Valley Unified,Owens Valley Elementary,202 South Clay Street Independence CA 93526,NA,NA,NA,not tested,NA,Inyo County,36.802378,-118.196776
+Owens Valley Unified,Owens Valley High,202 South Clay St Independence CA 93526,NA,NA,NA,not tested,NA,Inyo County,36.802378,-118.196776
+Lone Pine Unified,Sierra Alternative Learning Academy,301 South Hay St Lone Pine CA 93545,NA,NA,NA,not tested,NA,Inyo County,36.604377,-118.060056

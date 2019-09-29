@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alpine Union Elementary,Creekside Early Learning Center,8818 Harbison Canyon Road Alpine CA 91901-2616,NA,NA,FALSE,tested,Alpine,San Diego County,32.833773,-116.815423
+Alpine Union Elementary,Mountain View Learning Academy,8770 Harbison Canyon Road Alpine CA 91901-2615,5.66,ppb,TRUE,tested,Alpine,San Diego County,32.832623,-116.816024
+Alpine Union Elementary,Shadow Hills Elementary,8770 Harbison Canyon Road Alpine CA 91901-2615,NA,NA,NA,not tested,Alpine,San Diego County,32.832623,-116.816024

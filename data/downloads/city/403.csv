@@ -1,0 +1,49 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Westside Union Elementary,Anaverde Hills,2902 Greenbrier Street Palmdale CA 93551-5518,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.56396,-118.177293
+Antelope Valley ROP,Antelope Valley ROP,1156 East Avenue S Palmdale CA 93550-6149,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.557901,-118.106996
+Palmdale Elementary,AV Academy High School,37212 47th Street East Palmdale CA 93552-4421,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.558681,-118.045081
+Palmdale Elementary,AV Academy High School,3212 47th Street East Palmdale CA 93552-4421,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.545276,-118.045253
+Palmdale Elementary,Barrel Springs Elementary,3636 Ponderosa Way Palmdale CA 93550-8441,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.543378,-118.065681
+Palmdale Elementary,Buena Vista Elementary,37005 Hillcrest Drive Palmdale CA 93552-5347,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.553428,-118.03667
+Palmdale Elementary,Cactus Middle,3243 East Avenue R-8 Palmdale CA 93550-5690,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.565651,-118.070621
+Palmdale Elementary,Chaparral Elementary,37500 50th Street East Palmdale CA 93552-4517,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.563335,-118.040107
+Palmdale Elementary,Cimarron Elementary,36940 45th Street East Palmdale CA 93552-5201,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.550824,-118.049638
+Westside Union Elementary,Cottonwood Elementary,2740 West Avenue P-8 Palmdale CA 93551-1543,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.594311,-118.181659
+Keppel Union Elementary,Daisy Gibson Elementary,9650 East Palmdale Boulevard Palmdale CA 93591-2235,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.579684,-117.957246
+Palmdale Elementary,Desert Rose Elementary,37730 27th Street East Palmdale CA 93550-5580,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.567946,-118.080908
+Palmdale Elementary,Desert Willow Middle,36555 Sunny Lane Palmdale CA 93550-1019,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.545837,-118.081004
+Palmdale Elementary,Discovery Center,1330 West Elizabeth Lake Rd Palmdale CA 93550,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.587123,-118.155257
+Palmdale Elementary,Dos Caminos,39174 Palm Tree Way Palmdale CA 93551-3994,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.5944,-118.155867
+Westside Union Elementary,Esperanza Elementary,40521 35th Street West Palmdale CA 93551-5647,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.617945,-118.19453
+Palmdale Elementary,Golden Poppy Elementary,37802 Rockie Lane Palmdale CA 93552-4041,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.56933,-118.02069
+Westside Union Elementary,Gregg Anderson Academy,5151 West Avenue N8 Palmdale CA 93551,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.624224,-118.222618
+Palmdale Elementary,Guidance Charter,37230 37th St. East Palmdale CA 93550-2542,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.559202,-118.062695
+Antelope Valley Union High,Highland High,39055 25th Street West Palmdale CA 93551-4164,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.594272,-118.174222
+Westside Union Elementary,Hillview Middle,40525 Peonza Lane Palmdale CA 93551-2647,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.619117,-118.210665
+Palmdale Elementary,Innovations Academy of Palmdale,38136-B 35th Street East Palmdale CA 93550,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.580071,-118.067213
+Palmdale Elementary,Joshua Hills Elementary,3030 Fairfield Palmdale CA 93550-8300,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.553113,-118.077645
+Antelope Valley Union High,Knight Prep Academy,37423 70th Street East Palmdale CA 93552-4800,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.675315,-118.005198
+Keppel Union Elementary,Lake Los Angeles Elementary,16310 East Avenue Q Palmdale CA 93591-3603,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.587157,-117.839861
+Palmdale Elementary,Los Amigos,6640 East Avenue R8 Palmdale CA 93552-3503,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.565103,-118.010065
+Palmdale Elementary,Manzanita Elementary,38620 33rd Street Palmdale CA 93550-4232,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.584413,-118.0686
+Palmdale Elementary,Mesquite Elementary,37622 43rd Street East Palmdale CA 93552-3647,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.566027,-118.051924
+Palmdale Elementary,Oak Tree Community Day,37230 37th Street East Palmdale CA 93550-5003,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.559209,-118.062068
+Palmdale Elementary,Oak Tree Community Day,38136 35th Street East Palmdale CA 93550-5003,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.580071,-118.067213
+Palmdale Elementary,Ocotillo Elementary,38737 Ocotillo School Drive Palmdale CA 93551,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.585923,-118.153989
+Palmdale Elementary,Palm Tree Elementary,326 East Avenue R Palmdale CA 93550-5208,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.572436,-118.123722
+Antelope Valley Union High,Palmdale High,2137 East Avenue R Palmdale CA 93550-5415,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.572799,-118.091635
+Palmdale Elementary,Palmdale Learning Plaza,38043 Division Street Palmdale CA 93551-3427,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.569588,-118.129233
+Antelope Valley Union High,Palmdale Preparatory Academy,2270 East Avenue Q Palmdale CA 93550-4141,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.587366,-118.086688
+Palmdale Elementary,Quail Valley Elementary,37236 58th Street East Palmdale CA 93552-5461,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.55952,-118.024943
+Westside Union Elementary,Quartz Hill Elementary,41820 North 50th Street West Quartz Hill CA 93536-2961,7.6,ppb,TRUE,tested,Palmdale,Los Angeles County,34.643092,-118.218337
+Antelope Valley Union High,R. Rex Parris High,38801 Clock Tower Plaza Drive Palmdale CA 93550-3346,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.588006,-118.120383
+Westside Union Elementary,Rancho Vista Elementary,40641 Peonza Lane Palmdale CA 93551-2648,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.620841,-118.210384
+Palmdale Elementary,Shadow Hills Middle,37315 60th Street East Palmdale CA 93552-5462,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.565113,-118.02285
+Palmdale Elementary,Space Aeronautics Gateway to Exploration (SAGE) Academy,38060 20th Street East Palmdale CA 93550-4903,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.574275,-118.093893
+Palmdale Elementary,Summerwind Elementary,39360 Summerwind Drive Palmdale CA 93551-4082,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.598749,-118.156617
+Palmdale Elementary,Tamarisk,1843 East Avenue Q5 Palmdale CA 93550-2218,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.58326,-118.094685
+Palmdale Elementary,Tumbleweed Elementary,1100 East Avenue R-4 Palmdale CA 93550-6185,13,ppb,TRUE,tested,Palmdale,Los Angeles County,34.568916,-118.110697
+Wilsona Elementary,Vista San Gabriel Elementary,18020 East Avenue O Palmdale CA 93591-3800,NA,NA,NA,not tested,Palmdale,Los Angeles County,34.616547,-117.808837
+Antelope Valley Union High,William J. (Pete) Knight High,37423 70th Street East Palmdale CA 93552-4800,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.675315,-118.005198
+Palmdale Elementary,Yellen Learning Center,37015 Goldenview Way Palmdale CA 93552-5348,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.553256,-118.039987
+Palmdale Elementary,Yucca Elementary,38440 Second Street East Palmdale CA 93550-3603,NA,NA,FALSE,tested,Palmdale,Los Angeles County,34.581796,-118.127309

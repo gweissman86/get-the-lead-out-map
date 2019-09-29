@@ -1,0 +1,36 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Clara Unified,Adrian Wilcox High,3250 Monroe Street Santa Clara CA 95051-1153,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.365034,-121.984847
+Santa Clara Unified,Bowers Elementary,2755 Barkley Avenue Santa Clara CA 95051-2414,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.357262,-121.97618
+Santa Clara Unified,Bracher Elementary,2700 Chromite Drive Santa Clara CA 95051-0910,8.65,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.36721,-121.976192
+Santa Clara Unified,Briarwood Elementary,1930 Townsend Avenue Santa Clara CA 95051-2203,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.358297,-121.988098
+Santa Clara Unified,Buchser Middle,1111 Bellomy Street Santa Clara CA 95050-5433,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.346573,-121.937895
+Santa Clara Unified,C. W. Haman Elementary,865 Los Padres Boulevard Santa Clara CA 95050-5130,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.343473,-121.964661
+Santa Clara Unified,Central Park Elementary School,2720 Sonoma Place Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.344792,-121.97614
+Santa Clara Unified,Don Callejon,4176 Lick Mill Boulevard Santa Clara CA 95054-3585,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.402638,-121.953649
+Cupertino Union,Dwight D. Eisenhower Elementary,277 Rodonovan Drive Santa Clara CA 95051-6656,5.4,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.329209,-121.98951
+Cupertino Union,Happy Days,220 Blake Ave. Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.98009
+Santa Clara Unified,Juan Cabrillo Middle,2550 Cabrillo Avenue Santa Clara CA 95051-1803,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.359696,-121.972971
+Santa Clara Unified,Kathryn Hughes Elementary,4949 Calle de Escuela Santa Clara CA 95054-1430,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.40484,-121.964205
+Santa Clara Unified,Laurelwood Elementary,955 Teal Drive Santa Clara CA 95051-4299,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.343102,-122.002238
+Santa Clara Unified,Martinson Child Development Center,1350 Hope Drive Santa Clara CA 95054,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.400693,-121.954245
+Santa Clara Unified,Millikin Elementary,615 Hobart Terrace Santa Clara CA 95051-5620,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.333085,-121.976952
+Private,Mission College Child Development Center,3000 Mission College Blvd Ms 6 Santa Clara CA 95054,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.392559,-121.982583
+Santa Clara Unified,Mission Early College High School,3000 Mission College Blvd.  Santa Clara CA 95054,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.391216,-121.982046
+Santa Clara Unified,Montague Elementary,750 Laurie Avenue Santa Clara CA 95054-2236,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.388491,-121.947397
+Private,Monticello Academy,3401 Monroe Street Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.367781,-121.990809
+Private,Monticello Academy,3345 Lochinvar Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.33958,-121.990187
+Santa Clara Unified,Monticello School,3411 Monroe Street Santa Clara CA 95051,6.5,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.367002,-121.990754
+Cupertino Union,Morning Star,220 Blake Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.98009
+Santa Clara Unified,New Valley Continuation High,1875 Lawrence Road Santa Clara CA 95051-2162,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.357265,-121.995692
+Santa Clara Unified,Pomeroy Elementary,1250 Pomeroy Avenue Santa Clara CA 95051-3618,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.34836,-121.986637
+Private,Santa Clara Christian,3421 Monroe Street Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.367283,-121.992001
+Santa Clara Unified,Santa Clara Community Day,3450 Brookdale Drive Santa Clara CA 95051-4624,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.342104,-121.991895
+Santa Clara Unified,Santa Clara High,3000 Benton Street Santa Clara CA 95051-3736,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.346519,-121.982146
+Santa Clara Unified,Scott Lane Elementary,1925 Scott Boulevard Santa Clara CA 95050-3723,8.4,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.357807,-121.959372
+Cupertino Union,Sierra School,220 Blake Ave Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.98009
+Private,Stratford School,890 Pomeroy Avenue Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.340754,-121.988487
+Santa Clara Unified,Sutter Elementary,3200 Forbes Avenue Santa Clara CA 95051-6119,13,ppb,TRUE,tested,Santa Clara,Santa Clara County,37.33444,-121.986699
+Cupertino Union,Waha Montessori,220 Blake Av. Santa Clara CA 95051,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.328334,-121.98009
+Santa Clara Unified,Washington Elementary,270 Washington Avenue Santa Clara CA 95050-5950,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.342374,-121.940956
+Santa Clara Unified,Westwood Elementary,435 Saratoga Avenue Santa Clara CA 95050-6434,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.333172,-121.960172
+Santa Clara Unified,Wilson Alternative,1840 Benton St Santa Clara CA 95050-5215,NA,NA,FALSE,tested,Santa Clara,Santa Clara County,37.34709,-121.95551

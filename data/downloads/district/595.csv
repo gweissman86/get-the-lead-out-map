@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pleasant Ridge Union Elementary,Alta Sierra Elementary,16607 Annie Drive Grass Valley CA 95949-7147,10.1,ppb,TRUE,tested,Grass Valley,Nevada County,39.118737,-121.041713
+Pleasant Ridge Union Elementary,Cottage Hill Elementary,22600 Kingston Lane Grass Valley CA 95949-7706,NA,NA,FALSE,tested,Grass Valley,Nevada County,39.050983,-121.067056
+Pleasant Ridge Union Elementary,Magnolia Intermediate,22431 Kingston Lane Grass Valley CA 95949-7706,9.95,ppb,TRUE,tested,Grass Valley,Nevada County,39.051179,-121.070438

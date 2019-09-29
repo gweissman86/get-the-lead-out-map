@@ -1,0 +1,166 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Riverbank Unified,Adelante High,6801 Seventh Street Riverbank CA 95367,NA,NA,FALSE,tested,Riverbank,Stanislaus County,37.737272,-120.929663
+Stanislaus Union Elementary,Agnes M. Baptist Elementary,1825 Cheyenne Way Modesto CA 95356-0987,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.693425,-121.025338
+Modesto City Elementary,Alberta Martone Elementary,1413 Poust Road Modesto CA 95358-1093,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.655429,-121.046002
+Empire Union Elementary,Alice N. Stroud Elementary,815 Frazine Road Modesto CA 95357-0255,8.3,ppb,TRUE,tested,Modesto,Stanislaus County,37.654152,-120.912348
+Patterson Joint Unified,Apricot Valley Elementary,1320 Henley Parkway Patterson CA 95363-8800,NA,NA,NA,not tested,NA,Stanislaus County,37.468918,-121.154975
+Ceres Unified,Argus High (Continuation),2555 Lawrence Street Ceres CA 95307-0307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.590541,-120.948315
+Sylvan Union Elementary,Aspire University Charter,3313 Coffee Road Modesto CA 95355-1534,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.686386,-120.97613
+Modesto City High,Aspire Vanguard College Preparatory Academy,5255 First Street Empire CA 95319,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.639937,-120.898052
+Keyes Union,Barbara Spratling Middle,5277 Washington Road Hughson CA 95326-9112,NA,NA,FALSE,tested,Hughson,Stanislaus County,37.560441,-120.903477
+Empire Union Elementary,Bernard L. Hughes Elementary,512 North McClure Road Modesto CA 95357-1542,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.647071,-120.929993
+Ceres Unified,Blaker-Kinser Junior High,1601 Kinser Road Ceres CA 95307-0307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.591274,-120.968615
+Newman-Crows Landing Unified,Bonita Elementary,425 Fink Road Crows Landing CA 95313-9771,NA,NA,NA,not tested,NA,Stanislaus County,37.391428,-121.076686
+Modesto City Elementary,Bret Harte Elementary,909 Bret Harte Place Modesto CA 95358-5099,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.602553,-121.005757
+Modesto City Elementary,Burbank Elementary,1135 Paradise Road Modesto CA 95351-2999,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.619215,-121.025553
+Riverbank Unified,California Avenue Elementary,3800 California Avenue Riverbank CA 95367-3009,NA,NA,FALSE,tested,Riverbank,Stanislaus County,37.728666,-120.926046
+Empire Union Elementary,Capistrano Elementary,400 Capistrano Drive Modesto CA 95354-3243,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.643516,-120.942392
+Riverbank Unified,Cardozo Middle,3525 Santa Fe Street Riverbank CA 95367-2300,NA,NA,FALSE,tested,NA,Stanislaus County,37.736013,-120.946742
+Ceres Unified,Carroll Fowler Elementary,2611 Garrison Street Ceres CA 95307-2736,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.598782,-120.946149
+Ceres Unified,Caswell Elementary,1800 North Central Avenue Ceres CA 95307-1807,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.602541,-120.956885
+Modesto City Elementary,Catherine Everett Elementary,1530 Mount Vernon Drive Modesto CA 95350-2798,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.67657,-121.017966
+Ceres Unified,Central Valley High,4033 Central Avenue Ceres CA 95307-7507,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.579742,-120.957015
+Ceres Unified,Ceres High,2320 Central Avenue Ceres CA 95307-2502,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.596394,-120.956808
+Ceres Unified,Cesar Chavez Junior High,2701 Eastgate Boulevard Ceres CA 95307-5054,7,ppb,TRUE,tested,Ceres,Stanislaus County,37.594429,-120.926767
+Chatom Union,Chatom Elementary,7221 Clayton Road Turlock CA 95380-9352,NA,NA,NA,not tested,Turlock,Stanislaus County,37.482156,-120.931952
+Empire Union Elementary,Christine Sipherd Elementary,3420 East Orangeburg Avenue Modesto CA 95355-3550,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.663487,-120.932101
+Oakdale Joint Unified,Cloverland Elementary,201 East Johnson Street Oakdale CA 95361-3236,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.771348,-120.838275
+Sylvan Union Elementary,Coleman F. Brown Elementary,2024 Vera Cruz Drive Modesto CA 95355-2404,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.672739,-120.972243
+Waterford Unified,Connecting Waters Charter,12420 Bentley Street Waterford CA 95386-9150,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.639284,-120.763521
+Patterson Joint Unified,Creekside Middle,535 Peregrine Patterson CA 95363-2232,NA,NA,NA,not tested,NA,Stanislaus County,37.473786,-121.146951
+Sylvan Union Elementary,Crossroads Elementary,5800 Saxon Way Riverbank CA 95367-9559,NA,NA,FALSE,tested,NA,Stanislaus County,37.723242,-120.947949
+Turlock Unified,Crowell Elementary,118 North Avenue Turlock CA 95382-2410,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.509979,-120.847364
+Turlock Unified,Cunningham Elementary,324 West Linwood Avenue Turlock CA 95380-6220,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.478096,-120.855048
+Sylvan Union Elementary,Daniel J. Savage Middle,1900 Maid Mariane Lane Modesto CA 95355-8744,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.670832,-120.93033
+Patterson Joint Unified,Del Puerto High,640 M Street Patterson CA 95363-2215,NA,NA,NA,not tested,NA,Stanislaus County,37.476256,-121.139609
+Salida Union Elementary,Dena Boer,4801 Gold Valley Road Salida CA 95368-9742,NA,NA,FALSE,tested,NA,Stanislaus County,37.698808,-121.083246
+Denair Unified,Denair Charter Academy,3460 Lester Road Denair CA 95316-9502,NA,NA,FALSE,tested,Denair,Stanislaus County,37.523601,-120.805557
+Denair Unified,Denair Elementary Charter Academy,3773 Madera Ave. Denair CA 95316-9428,5.47,ppb,TRUE,tested,Denair,Stanislaus County,37.526589,-120.800495
+Denair Unified,Denair High,3431 Lester Road Denair CA 95316-9502,NA,NA,FALSE,tested,Denair,Stanislaus County,37.524403,-120.803725
+Denair Unified,Denair Middle,3701 Lester Road Denair CA 95316,5.35,ppb,TRUE,tested,Denair,Stanislaus County,37.525655,-120.804382
+Turlock Unified,Dennis G. Earl Elementary,4091 North Olive Avenue Turlock CA 95382-7261,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.530687,-120.841127
+Hughson Unified,Dickens (Billy Joe) High (Continuation),6937 Fox Road Hughson CA 95326-0099,8.289,ppb,TRUE,tested,NA,Stanislaus County,37.602121,-120.86613
+Ceres Unified,Don Pedro Elementary,2300 Don Pedro Road Ceres CA 95307-4134,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.582869,-120.953424
+Oakdale Joint Unified,East Stanislaus High,250 Hinkley Avenue Oakdale CA 95361-3609,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.760654,-120.856927
+Turlock Unified,eCademy Charter at Crane,1100 Cahill Avenue Turlock CA 95380-4102,6.92,ppb,TRUE,tested,Turlock,Stanislaus County,37.497192,-120.839786
+Modesto City Elementary,El Vista Elementary,450 El Vista Avenue Modesto CA 95354-1899,5.85,ppb,TRUE,tested,Modesto,Stanislaus County,37.644223,-120.956103
+Modesto City Elementary,Elihu Beard Elementary,915 Bowen Avenue Modesto CA 95350-3096,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.675032,-121.00365
+Sylvan Union Elementary,Elizabeth Ustach Middle,2701 Kodiak Drive Modesto CA 95355-9256,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.683371,-120.954843
+Hughson Unified,Emilie J. Ross Middle,7448 Fox Road Hughson CA 95326-0189,NA,NA,FALSE,tested,NA,Stanislaus County,37.601868,-120.853549
+Empire Union Elementary,Empire Elementary,5201 First Street Empire CA 95319,NA,NA,NA,not tested,Modesto,Stanislaus County,37.639632,-120.898589
+Modesto City Elementary,Enslen Elementary,515 Coldwell Avenue Modesto CA 95354-0107,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.652966,-120.999851
+Modesto City Elementary,Ethel Pearson Elementary,500 Locust Street Modesto CA 95351,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.640315,-121.013983
+Modesto City Elementary,Evelyn Hanshaw Middle,1725 Las Vegas Street Modesto CA 95358-5500,6.7,ppb,TRUE,tested,Modesto,Stanislaus County,37.605744,-121.002819
+Oakdale Joint Unified,Fair Oaks Elementary,151 North Lee Avenue Oakdale CA 95361-3314,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.764062,-120.865789
+Modesto City Elementary,Fairview Elementary,1937 West Whitmore Avenue Modesto CA 95358-9463,7.9,ppb,TRUE,tested,NA,Stanislaus County,37.595117,-121.023089
+Hughson Unified,Fox Road Elementary,7600 Fox Road Hughson CA 95326-9627,NA,NA,NA,not tested,NA,Stanislaus County,37.601866,-120.852822
+Modesto City Elementary,Franklin Elementary,120 South Emerald Avenue Modesto CA 95351-1197,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.637527,-121.020149
+Modesto City High,Fred C. Beyer High,1717 Sylvan Avenue Modesto CA 95355-1399,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.689042,-120.968151
+Sylvan Union Elementary,Freedom Elementary,2101 Fine Avenue Modesto CA 95355-9771,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.67354,-120.926001
+Turlock Unified,Fusion Charter,2217 Geer Road Turlock CA 95382-2407,NA,NA,NA,not tested,Turlock,Stanislaus County,37.513516,-120.848777
+Stanislaus Union Elementary,George Eisenhut Elementary,1809 Sheldon Drive Modesto CA 95350-0420,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.685531,-121.025145
+Modesto City High,Grace M. Davis High,1200 West Rumble Road Modesto CA 95350-2198,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.681172,-121.010036
+Patterson Joint Unified,Grayson Charter,301 Howard Road Westley CA 95387-0007,NA,NA,NA,not tested,NA,Stanislaus County,37.545131,-121.198809
+Stanislaus County Office of Education,Great Valley Academy,3200 Tully Road Modesto CA 95350-0811,5.2,ppb,TRUE,tested,Modesto,Stanislaus County,37.685068,-121.011649
+Salida Union Elementary,Great Valley Academy - Salida,5901 Sisk Road Modesto CA 95356-8870,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.687147,-121.057143
+Ceres Unified,Hanline Elementary,4231 Central Avenue Ceres CA 95307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.576985,-120.957052
+Modesto City Elementary,Harriette Kirschen Elementary,1900 Kirschen Drive Modesto CA 95351-2916,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.615456,-121.022172
+Hickman Community Charter,Hickman Charter,"13306 Fourth Street, Area B Hickman CA 95323",NA,NA,NA,not tested,Hickman,Stanislaus County,37.620327,-120.748302
+Hickman Community Charter,Hickman Elementary,"13306 Fourth Street, Area A Hickman CA 95323",NA,NA,NA,not tested,Hickman,Stanislaus County,37.620327,-120.748302
+Hickman Community Charter,Hickman Middle,13306 Fourth Street Hickman CA 95323-9634,NA,NA,NA,not tested,Hickman,Stanislaus County,37.620327,-120.748302
+Hughson Unified,Hughson Elementary,7201 East Whitmore Avenue Hughson CA 95326-0189,NA,NA,NA,not tested,NA,Stanislaus County,37.594844,-120.862994
+Hughson Unified,Hughson High,7419 East Whitmore Avenue Hughson CA 95326-0099,NA,NA,FALSE,tested,Hughson,Stanislaus County,37.595937,-120.859662
+Newman-Crows Landing Unified,Hunt Elementary,907 R Street Newman CA 95360-1124,6.49,ppb,TRUE,tested,NA,Stanislaus County,37.319597,-121.029849
+Newman-Crows Landing Unified,Hurd Barrington Elementary,838 Eucalyptus Avenue Newman CA 95360-9503,NA,NA,FALSE,tested,NA,Stanislaus County,37.323072,-121.014482
+Modesto City High,James C. Enochs High,3201 Sylvan Avenue Modesto CA 95355-7893,10,ppb,TRUE,tested,Modesto,Stanislaus County,37.689071,-120.935069
+Modesto City Elementary,James Marshall Elementary,515 Sutter Avenue Modesto CA 95351-3798,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.622817,-121.012365
+Ceres Unified,Joel J. Hidahl Elementary,2351 East Redwood Road Ceres CA 95307-5052,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.574692,-120.953564
+Stanislaus County Office of Education,John B. Allard,350 North Kilroy Road Turlock CA 95380-9516,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.496501,-120.876183
+Modesto City Elementary,John Fremont Elementary,1220 West Orangeburg Avenue Modesto CA 95350-4074,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.663581,-121.011158
+Turlock Unified,John H. Pitman High,2525 West Christofferson Parkway Turlock CA 95382-9509,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.530051,-120.87708
+Modesto City Elementary,John Muir Elementary,1215 Lucerne Avenue Modesto CA 95350-6012,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.653059,-120.977101
+Stanislaus Union Elementary,Josephine Chrysler Elementary,2818 Conant Avenue Modesto CA 95350-1752,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.681065,-121.040389
+Turlock Unified,Julien Elementary,1924 East Canal Drive Turlock CA 95380-4222,7.48,ppb,TRUE,tested,Turlock,Stanislaus County,37.500041,-120.826862
+Keyes Union,Keyes Elementary,4400 Maud Avenue Keyes CA 95328,5.6,ppb,TRUE,tested,NA,Stanislaus County,37.553416,-120.909543
+Keyes Union,Keyes to Learning Charter,5709 Ninth Street Keyes CA 95328,8.2,ppb,TRUE,tested,Keyes,Stanislaus County,37.553278,-120.907875
+Knights Ferry Elementary,Knights Ferry Elementary,12726 Dent Street Knights Ferry CA 95361-2040,NA,NA,FALSE,tested,NA,Stanislaus County,37.82014,-120.672926
+Modesto City Elementary,La Loma Junior High,1800 Encina Avenue Modesto CA 95354-1598,9.7,ppb,TRUE,tested,Modesto,Stanislaus County,37.645162,-120.966245
+Ceres Unified,La Rosa Elementary,2800 Eastgate Boulevard Ceres CA 95307-5053,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.594429,-120.926767
+Modesto City Elementary,Lakewood Elementary,2920 Middleboro Place Modesto CA 95355-4699,9.8,ppb,TRUE,tested,Modesto,Stanislaus County,37.657811,-120.940948
+Patterson Joint Unified,Las Palmas Elementary,624 West Las Palmas Avenue Patterson CA 95363-2697,NA,NA,NA,not tested,NA,Stanislaus County,37.469633,-121.134065
+Ceres Unified,Lucas Elementary,3500 Rose Avenue Ceres CA 95307-3865,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.597625,-120.943283
+Waterford Unified,Lucille Whitehead Intermediate,119 North Reinway Avenue Waterford CA 95386-9211,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.641958,-120.773979
+Ceres Unified,M. Robert Adkison Elementary,1824 Nadine Avenue Modesto CA 95351-4401,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.612821,-120.963466
+Ceres Unified,Mae Hensley Junior High,1806 Moffet Road Ceres CA 95307-1936,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.603247,-120.947519
+Oakdale Joint Unified,Magnolia Elementary,739 Magnolia Street Oakdale CA 95361-9625,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.767198,-120.855988
+Modesto City Elementary,Mark Twain Junior High,707 Emerald Avenue Modesto CA 95351-1996,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.63263,-121.022618
+Turlock Unified,Marvin A. Dutcher Middle,1441 Colorado Avenue Turlock CA 95380-2709,5.92,ppb,TRUE,tested,Turlock,Stanislaus County,37.506345,-120.836256
+Sylvan Union Elementary,Mary Ann Sanders Elementary,3101 Fine Avenue Modesto CA 95355-9702,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.67811,-120.925984
+Stanislaus Union Elementary,Mary Lou Dieterich Elementary,2412 Warm Springs Drive Modesto CA 95350-9399,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.698822,-121.038758
+Riverbank Unified,Mesa Verde Elementary,4850 Mesa Drive Oakdale CA 95361-7862,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.738663,-120.906957
+Salida Union Elementary,Mildred Perkins Elementary,3920 Blue Bird Dr. Modesto CA 95356-0254,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.696395,-121.058545
+Modesto City High,Modesto High,18 H Street Modesto CA 95351-3203,9.7,ppb,TRUE,tested,Modesto,Stanislaus County,37.631473,-121.007126
+Chatom Union,Mountain View Middle,10001 Crows Landing Road Turlock CA 95313-9798,NA,NA,NA,not tested,Crows Landing,Stanislaus County,37.491493,-120.995221
+Empire Union Elementary,Norman N. Glick Middle,400 Frazine Road Modesto CA 95357-0251,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.64306,-120.910608
+Patterson Joint Unified,Northmead Elementary,625 L Street Patterson CA 95363-2230,NA,NA,NA,not tested,NA,Stanislaus County,37.475503,-121.138323
+Oakdale Joint Unified,Oakdale Charter,1235 East D Street Oakdale CA 95361-3223,7.7,ppb,TRUE,tested,Oakdale,Stanislaus County,37.772871,-120.839108
+Oakdale Joint Unified,Oakdale High,739 West G Street Oakdale CA 95361-3739,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.761504,-120.856099
+Oakdale Joint Unified,Oakdale Junior High,400 Maag Avenue Oakdale CA 95361-9625,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.766504,-120.830152
+Sylvan Union Elementary,Orchard Elementary,1800 Wisdom Way Modesto CA 95355-8836,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.669814,-120.953972
+Newman-Crows Landing Unified,Orestimba High,707 Hardin Road Newman CA 95360-1144,NA,NA,FALSE,tested,NA,Stanislaus County,37.321771,-121.030888
+Modesto City Elementary,Orville Wright Elementary,1602 Monterey Street Modesto CA 95354-4298,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.626335,-120.969981
+Turlock Unified,Osborn Two-Way Immersion Academy,201 North Soderquist Road Turlock CA 95380-3723,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.494028,-120.86236
+Ceres Unified,Patricia Kay Beaver Elementary,4927 Central Avenue Ceres CA 95307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.566797,-120.957168
+Patterson Joint Unified,Patterson High,200 North Seventh Street Patterson CA 95363-2215,NA,NA,NA,not tested,Patterson,Stanislaus County,37.471492,-121.138193
+Modesto City High,Peter Johansen High,641 Norseman Drive Modesto CA 95357-0405,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.648039,-120.919259
+Stanislaus County Office of Education,Petersen Alternative Center for Education,2209 Blue Gum Avenue Modesto CA 95358-1052,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.664382,-121.042174
+Stanislaus Union Elementary,Prescott Junior High,2243 West Rumble Road Modesto CA 95350-0219,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.682415,-121.036118
+Private,Reyn Franca,4041 Main Street Denair CA 95316,NA,NA,FALSE,tested,Denair,Stanislaus County,37.522813,-120.802319
+Waterford Unified,Richard M. Moon Primary,319 North Reinway Avenue Waterford CA 95386-9187,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.642764,-120.77399
+Riverbank Unified,Riverbank High,6200 Claus Road Riverbank CA 95367-3013,NA,NA,FALSE,tested,NA,Stanislaus County,37.729147,-120.921973
+Riverbank Unified,Riverbank Language Academy,2400 Stanislaus Street Riverbank CA 95367-2233,NA,NA,FALSE,tested,NA,Stanislaus County,37.734932,-120.954013
+Modesto City High,Robert Elliott Alternative Education Center,1440 Sunrise Avenue Modesto CA 95350-4643,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.664362,-120.984703
+Modesto City Elementary,Robertson Road Elementary,1821 Robertson Road Modesto CA 95351-3499,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.613653,-121.019356
+Modesto City Elementary,Roosevelt Junior High,1330 College Avenue Modesto CA 95350-5099,6.6,ppb,TRUE,tested,Modesto,Stanislaus County,37.663045,-121.005854
+Modesto City Elementary,Rose Avenue Elementary,1120 Rose Avenue Modesto CA 95355-3799,12,ppb,TRUE,tested,Modesto,Stanislaus County,37.65869,-120.966641
+Private,Sacred Heart Catholic,505 M Street Patterson CA 95363,6.5,ppb,TRUE,tested,NA,Stanislaus County,37.477281,-121.137751
+Salida Union Elementary,Salida Elementary,4519 Finney Road Salida CA 95368-9333,NA,NA,FALSE,tested,NA,Stanislaus County,37.703911,-121.086692
+Salida Union Elementary,Salida Middle School - Vella Campus,5041 Toomes Road Salida CA 95368-9447,NA,NA,FALSE,tested,NA,Stanislaus County,37.711801,-121.095917
+Ceres Unified,Samuel Vaughn Elementary,3618 Helen Perry Road Ceres CA 95307-7456,5.3,ppb,TRUE,tested,Ceres,Stanislaus County,37.602038,-120.923205
+Turlock Unified,Sandra Tovar Medeiros Elementary,651 West Springer Drive Turlock CA 95382-7314,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.533704,-120.856632
+Waterford Unified,Sentinel High,121 South Reinway Avenue Waterford CA 95386-9629,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.637824,-120.77393
+Modesto City Elementary,Shackelford Elementary,100 School Avenue Modesto CA 95351-5398,9.4,ppb,TRUE,tested,Modesto,Stanislaus County,37.612079,-120.993499
+Sylvan Union Elementary,Sherwood Elementary,819 Rumble Road Modesto CA 95350-2414,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.68159,-120.963055
+Oakdale Joint Unified,Sierra View Elementary,1323 East J Street Oakdale CA 95361-8860,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.764604,-120.833026
+Ceres Unified,Sinclear Elementary,1211 Hackett Road Ceres CA 95307-7357,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.587906,-120.975619
+Salida Union Elementary,Sisk Elementary,5337 Sugar Creek Lane Salida CA 95368-9042,NA,NA,FALSE,tested,NA,Stanislaus County,37.7159,-121.080953
+Sylvan Union Elementary,Somerset Middle,1037 Floyd Avenue Modesto CA 95350-2426,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.678139,-120.978843
+Modesto City Elementary,Sonoma Elementary,1325 Sonoma Avenue Modesto CA 95355-3999,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.662628,-120.949447
+Sylvan Union Elementary,Standiford Elementary,605 Tokay Avenue Modesto CA 95350-3535,9.2,ppb,TRUE,tested,Modesto,Stanislaus County,37.672736,-120.985722
+Stanislaus Union Elementary,Stanislaus Elementary,1931 Kiernan Avenue Modesto CA 95356-9159,NA,NA,NA,not tested,Modesto,Stanislaus County,37.711394,-121.038414
+Sylvan Union Elementary,Stockard Coffee Elementary,3900 Northview Drive Modesto CA 95355-1244,5.4,ppb,TRUE,tested,Modesto,Stanislaus County,37.694755,-120.968402
+Ceres Unified,Summit Charter Academy,2036 E. Hatch Road Ceres CA 95340,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.609015,-120.957733
+Sylvan Union Elementary,Sylvan Elementary,2908 Coffee Road Modesto CA 95355-1757,6,ppb,TRUE,tested,Modesto,Stanislaus County,37.680777,-120.975805
+Modesto City High,Thomas Downey High,1000 Coffee Road Modesto CA 95355-4275,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.657317,-120.975493
+Modesto City Elementary,Tuolumne Elementary,707 Herndon Road Modesto CA 95351-4210,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.619721,-120.975423
+Turlock Unified,Turlock High,1600 East Canal Drive Turlock CA 95380-4221,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.500042,-120.831607
+Turlock Unified,Turlock Junior High,3951 North Walnut Road Turlock CA 95382-9542,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.528195,-120.868868
+Stanislaus County Office of Education,Valley Charter High,108 Campus Way Modesto CA 95350-5803,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.64764,-121.010832
+Ceres Unified,Virginia Parks Elementary,1021 Moffett Road Modesto CA 95351-4904,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.614077,-120.949504
+Newman-Crows Landing Unified,Von Renner Elementary,1388 Patchett Drive Newman CA 95360-1434,NA,NA,FALSE,tested,NA,Stanislaus County,37.309428,-121.026673
+Turlock Unified,Wakefield Elementary,400 South Avenue Turlock CA 95380-5646,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.485445,-120.851498
+Turlock Unified,Walnut Elementary Education Center,4219 North Walnut Road Turlock CA 95382-9678,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.532611,-120.866761
+Patterson Joint Unified,Walnut Grove Elementary,775 North Hartley Street Patterson CA 95363-2477,NA,NA,NA,not tested,NA,Stanislaus County,37.483553,-121.12627
+Turlock Unified,Walter M. Brown Elementary,1400 Georgetown Street Turlock CA 95382-0756,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.517403,-120.86389
+Ceres Unified,Walter White Elementary,2904 Sixth Street Ceres CA 95307-3336,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.591736,-120.950418
+Waterford Unified,Waterford Adult Education Center,12916 Bentley Street Waterford CA 95386,NA,NA,NA,not tested,Waterford,Stanislaus County,37.642831,-120.757464
+Private,Waterford Child Development,319 N Reinway Avenue  Waterford CA 95386,NA,NA,FALSE,tested,Waterford,Stanislaus County,37.642764,-120.77399
+Private,Waterford Elementary,319 North Reinway Ave Waterford CA 95386,NA,NA,NA,not tested,Waterford,Stanislaus County,37.642764,-120.77399
+Waterford Unified,Waterford Junior,12916 Bentley St Waterford CA 95386-9017,5.6,ppb,TRUE,tested,Waterford,Stanislaus County,37.642831,-120.757464
+Newman-Crows Landing Unified,West Side Valley High (Continuation),908 Main Street Newman CA 95360-1120,NA,NA,FALSE,tested,NA,Stanislaus County,37.320205,-121.024228
+Ceres Unified,Whitmore Charter School of Art & Technology,3435 Don Pedro  Ceres CA 95307-9436,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.584514,-120.933092
+Mountain View Elementary,Willard F. Payne Elementary,2850 North Mountain View Road El Monte CA 91732-3593,NA,NA,NA,not tested,Turlock,Stanislaus County,37.543972,-120.879111
+Modesto City Elementary,William Garrison Elementary,1811 Teresa Street Modesto CA 95350-3794,7.3,ppb,TRUE,tested,Modesto,Stanislaus County,37.665925,-121.025388
+Modesto City Elementary,Wilson Elementary,201 Wilson Avenue Modesto CA 95354-2789,8.1,ppb,TRUE,tested,Modesto,Stanislaus County,37.641227,-120.9778
+Sylvan Union Elementary,Woodrow Elementary,800 Woodrow Avenue Modesto CA 95350-1234,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.685518,-121.003547
+Newman-Crows Landing Unified,Yolo Junior High,901 Hoyer Road Newman CA 95360-1124,NA,NA,FALSE,tested,NA,Stanislaus County,37.31309,-121.03473

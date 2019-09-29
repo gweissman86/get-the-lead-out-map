@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Amador County Unified,Ione Elementary,415 South Ione Street Ione CA 95640-2020,NA,NA,FALSE,tested,Ione,Amador County,38.35116,-120.931998
+Amador County Unified,Ione Junior High,450 Mill Street Ione CA 95640,NA,NA,FALSE,tested,Ione,Amador County,38.347878,-120.935667
+Calaveras County Office of Education,Mountain Oaks Satellite Campus,217 West Jackson St Ione CA 95640,NA,NA,FALSE,tested,Ione,Amador County,38.351613,-120.935543

@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Claremont Unified,Chaparral Elementary,451 Chaparral Drive Claremont CA 91711-2643,NA,NA,FALSE,tested,Claremont,Los Angeles County,34.116175,-117.70825
+Claremont Unified,Claremont Adult,170 West San Jose Avenue Claremont CA 91711-2643,NA,NA,NA,not tested,Claremont,Los Angeles County,34.083086,-117.715818
+Claremont Unified,Claremont High,1601 North Indian Hill Boulevard Claremont CA 91711-2643,NA,NA,NA,not tested,Claremont,Los Angeles County,34.112808,-117.720267
+Claremont Unified,Community Day,125 West San Jose Avenue Claremont CA 91711-5205,NA,NA,NA,not tested,Claremont,Los Angeles County,34.083089,-117.71531
+Claremont Unified,Condit Elementary,1750 North Mountain Avenue Claremont CA 91711-2643,NA,NA,NA,not tested,Claremont,Los Angeles County,34.115964,-117.728884
+Claremont Unified,Danbury Special Education,1745 Lynoak Drive Claremont CA 91711-2421,NA,NA,NA,not tested,Claremont,Los Angeles County,34.115248,-117.740099
+Claremont Unified,El Roble Intermediate,665 North Mountain Avenue Claremont CA 91711-4253,NA,NA,NA,not tested,Claremont,Los Angeles County,34.100312,-117.729116
+Claremont Unified,Oakmont Elementary,120 West Green Street Claremont CA 91711-4912,NA,NA,NA,not tested,Claremont,Los Angeles County,34.092123,-117.715343
+Claremont Unified,San Antonio High (Continuation),125 West San Jose Ave Claremont CA 91711-5205,NA,NA,NA,not tested,Claremont,Los Angeles County,34.083089,-117.71531
+Claremont Unified,Sumner Elementary,1770 Sumner Avenue Claremont CA 91711-3031,NA,NA,NA,not tested,Claremont,Los Angeles County,34.115359,-117.741946
+Claremont Unified,Sycamore Elementary,225 West Eighth Street Claremont CA 91711-4317,NA,NA,NA,not tested,Claremont,Los Angeles County,34.101863,-117.717475
+Claremont Unified,Vista del Valle Elementary,550 Vista Drive Claremont CA 91711-5120,NA,NA,NA,not tested,Claremont,Los Angeles County,34.086664,-117.721672

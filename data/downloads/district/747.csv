@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Silver Valley Unified,Congressman Jerry Lewis Elementary,1800 Blackhawk Street Fort Irwin CA 92310-1700,NA,NA,NA,not tested,Fort Irwin,San Bernardino County,35.264555,-116.696423
+Silver Valley Unified,Fort Irwin Middle,1700 Pork Chop Hill Street Fort Irwin CA 92310-1532,NA,NA,FALSE,tested,Fort Irwin,San Bernardino County,35.258208,-116.697022
+Silver Valley Unified,Lewis Elementary School,1800 Black Hawk Fort Irwin CA 92310,NA,NA,FALSE,tested,Fort Irwin,San Bernardino County,35.264555,-116.696423
+Silver Valley Unified,Tiefort View Intermediate,8700 Anzio Street Fort Irwin CA 92310-2405,NA,NA,NA,not tested,NA,San Bernardino County,35.251941,-116.691489
+Silver Valley Unified,Tiefort View Intermediate School,8700 Anzio Fort Irwin CA 92310,NA,NA,FALSE,tested,NA,San Bernardino County,35.251941,-116.691489
+Silver Valley Unified,Yermo Elementary,38280 Gleason Street Yermo CA 92398-0847,NA,NA,FALSE,tested,NA,San Bernardino County,34.906108,-116.824942

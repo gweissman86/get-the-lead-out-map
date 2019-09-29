@@ -1,0 +1,52 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alta Loma Elementary,Alta Loma Elementary,7085 Amethyst Street Alta Loma CA 91701-5007,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.118705,-117.59793
+Chaffey Joint Union High,Alta Loma High,8880 Baseline Road Alta Loma CA 91701-5504,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.121641,-117.613836
+Chaffey Joint Union High,Alta Loma High School,"8880 Base Line Rd., Rancho Cucamonga, CA 91701",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.124044,-117.611858
+Alta Loma Elementary,Alta Loma Junior High,9000 Lemon Avenue Alta Loma CA 91701-3357,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.140972,-117.609596
+Alta Loma Elementary,Banyan Elementary,10900 Mirador Drive Alta Loma CA 91737-6993,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.142013,-117.56798
+Central Elementary,Bear Gulch Elementary,8355 Bear Gulch Place Rancho Cucamonga CA 91730-3469,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.10119,-117.607719
+Central Elementary,Bear Gulch Elementary,"8355 Bear Gulch Place, Rancho Cucamonga CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.10119,-117.607719
+Etiwanda Elementary,Carleton P. Lightfoot Elementary,6989 Kenyon Way Alta Loma CA 91701-8605,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1275,-117.550423
+Alta Loma Elementary,Carnelian Elementary,7105 Carnelian Street Alta Loma CA 91701-0370,9.8,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.12502,-117.614811
+Etiwanda Elementary,Caryn Elementary,6290 Sierra Crest View Loop Alta Loma CA 91737-7960,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.141107,-117.551064
+Central Elementary,Central Elementary,7955 Archibald Avenue Rancho Cucamonga CA 91730-2805,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.109406,-117.592302
+Central Elementary,Central Elementary,"7955 Archibald Ave  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.109406,-117.592302
+San Bernardino County Office of Education,Chaffey North Community School,7201 Archibald Ave. Suites 4 & 5 Rancho Cucamonga CA 91701,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.123306,-117.592913
+Central Elementary,Coyote Canyon Elementary,"7889 Elm Avenue  Rancho Cucamonga, California 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.111736,-117.564136
+Central Elementary,Coyote Canyon Elementary,7889 Elm Avenue Rancho Cucamonga CA 91730-6839,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.111736,-117.564136
+Cucamonga Elementary,Cucamonga Elementary,8677 Archibald Avenue Rancho Cucamonga CA 91730-4634,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.095222,-117.593345
+Central Elementary,Cucamonga Middle,7611 Hellman Avenue Rancho Cucamonga CA 91730-2204,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.115646,-117.602217
+Central Elementary,Cucamonga Middle School,"7611 Hellman Avenue  Rancho Cucamonga, CA  91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.115646,-117.602217
+Etiwanda Elementary,Day Creek Intermediate,12345 Coyote Drive Etiwanda CA 91739-9031,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.153947,-117.536385
+Alta Loma Elementary,Deer Canyon Elementary,10225 Hamilton Alta Loma CA 91701-0370,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.130314,-117.581542
+Central Elementary,Dona Merced Elementary,"10333 Palo Alto Street  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.116761,-117.579306
+Central Elementary,Dona Merced Elementary,10333 Palo Alto Rancho Cucamonga CA 91730-1744,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.117261,-117.579752
+Etiwanda Elementary,Etiwanda Colony Elementary,13144 Banyan Street Etiwanda CA 91739-9543,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.143323,-117.518858
+Chaffey Joint Union High,Etiwanda High,13500 Victoria Avenue Etiwanda CA 91739-0447,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.130549,-117.510691
+Chaffey Joint Union High School,Etiwanda High School,"13500 Victoria St., Rancho Cucamonga, CA 91739",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.128389,-117.511797
+Etiwanda Elementary,Etiwanda Intermediate,6925 Etiwanda Avenue Etiwanda CA 91739-8714,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.127947,-117.523406
+Alta Loma Elementary,Floyd M. Stork Elementary,5646 Jasper Street Alta Loma CA 91701-1924,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.15229,-117.620453
+San Bernardino County Office of Education,Frost Early Education Center,12860 Banyan Street Rancho Cucamonga CA 91739,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.143442,-117.558552
+San Bernardino County Office of Education,Frost Early Education Center,12860 Banyan Street Rancho Cucamonga  CA 91739,7.9,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.143879,-117.524308
+Etiwanda Elementary,Grapeland Elementary,7171 Etiwanda Avenue Etiwanda CA 91739-9714,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.123694,-117.522304
+Alta Loma Elementary,Hermosa Elementary,10133 Wilson Avenue Alta Loma CA 91737-2315,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.15064,-117.583508
+Alta Loma Elementary,Jasper Elementary,6881 Jasper Street Alta Loma CA 91701-4521,6.7,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.1298,-117.619504
+Etiwanda Elementary,John L. Golden Elementary,12400 Banyan Street Etiwanda CA 91739-9402,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.143317,-117.531532
+Cucamonga Elementary,Los Amigos Elementary,8496 Ninth Street Rancho Cucamonga CA 91730-5014,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.096264,-117.620439
+Chaffey Joint Union High,Los Osos High,6001 Milliken Avenue Rancho Cucamonga CA 91737-7709,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.14481,-117.558448
+Chaffey Joint Union High,Los Osos High School,"6001 Milliken Ave., Rancho Cucamonga, CA 91737",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.14481,-117.558448
+San Bernardino County Office of Education,Mulberry Early Education Center,8435 Archibald Ave Rancho Cucamonga CA 91730,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.10073,-117.593363
+San Bernardino County Office of Education,Mulberry Early Education Center,8435 Archibald Ave Rancho Cucamonga  CA 91730,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.100581,-117.592346
+Etiwanda Elementary,Perdew Elementary,13051 Miller Avenue Etiwanda CA 91739-9657,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.113227,-117.520562
+Chaffey Joint Union High,Rancho Cucamonga High,11801 Lark Drive Rancho Cucamonga CA 91701-8715,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.130584,-117.547611
+Chaffey Joint Union High School,Rancho Cucamonga High School,"11801 Lark Dr., Rancho Cucamonga, CA 91701",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.130584,-117.547611
+Cucamonga Elementary,Rancho Cucamonga Middle,10022 Feron Boulevard Rancho Cucamonga CA 91730-5233,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.093906,-117.585652
+Central Elementary,Ruth Musser Middle,10789 Terra Vista Parkway Rancho Cucamonga CA 91730-7324,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.115776,-117.569887
+Central Elementary,Ruth Musser Middle School,"10789 Terra Vista Parkway   Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.115776,-117.569887
+Etiwanda Elementary,Summit Intermediate,5959 East Avenue Etiwanda CA 91739-2217,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.135872,-117.514482
+Etiwanda Elementary,Terra Vista Elementary,7497 Mountain View Drive Rancho Cucamonga CA 91730-7274,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.117191,-117.55085
+Central Elementary,Valle Vista Elementary,"7727 Valle Vista Dr.  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.114221,-117.618441
+Central Elementary,Valle Vista Elementary,7727 Valle Vista Drive Rancho Cucamonga CA 91730-1837,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.114221,-117.618441
+Alta Loma Elementary,Victoria Groves Elementary,10950 Emerson Alta Loma CA 91701-7539,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.129476,-117.564984
+Alta Loma Elementary,Vineyard Junior High,6440 Mayberry Alta Loma CA 91737-4338,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.136834,-117.58259
+Etiwanda Elementary,Windrows Elementary,6855 Victoria Park Lane Etiwanda CA 91739-0248,5.2,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.127249,-117.530006

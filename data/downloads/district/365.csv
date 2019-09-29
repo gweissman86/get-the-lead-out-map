@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Konocti Unified,Burns Valley,3620 Pine Street Clearlake CA 95422-6420,NA,NA,FALSE,tested,Clearlake,Lake County,38.960014,-122.644656
+Konocti Unified,Carle (William C.) High (Continuation),9345 Winchester Street Lower Lake CA 95457-0309,NA,NA,FALSE,tested,NA,Lake County,38.914992,-122.603968
+Konocti Unified,East Lake,13050 High Valley Road Clearlake Oaks CA 95423-0577,NA,NA,NA,not tested,NA,Lake County,39.028546,-122.67223
+Konocti Unified,Highlands Academy,13050 High Valley Rd Clearlake Oaks CA 95423-0577,NA,NA,NA,not tested,NA,Lake County,39.028546,-122.67223
+Konocti Unified,Konocti Education Center,15850-A Dam Road Extention Clearlake CA 95422,NA,NA,FALSE,tested,Clearlake,Lake County,38.93383,-122.61547
+Konocti Unified,Lower Lake Elementary,9240 Lake Street Lower Lake CA 95457-0719,NA,NA,FALSE,tested,NA,Lake County,38.918346,-122.610154
+Konocti Unified,Lower Lake High,9430 A Lake Street Lower Lake CA 95457-0799,NA,NA,NA,not tested,Lower Lake,Lake County,38.914915,-122.607724
+Konocti Unified,Pomo,3350 Acacia Street Clearlake CA 95422-7110,NA,NA,NA,not tested,Clearlake,Lake County,38.972044,-122.649888

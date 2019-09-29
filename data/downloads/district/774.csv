@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Standard Elementary,Highland Elementary,2900 Barnett Street Bakersfield CA 93308-1439,36.55,ppb,TRUE,tested,Bakersfield,Kern County,35.431585,-119.014853
+Standard Elementary,Standard Elementary,115 East Minner Avenue Bakersfield CA 93308-3552,5.1,ppb,TRUE,tested,Bakersfield,Kern County,35.418281,-119.020564
+Standard Elementary,Standard Middle,1222 North Chester Avenue Bakersfield CA 93308-3521,NA,NA,FALSE,tested,NA,Kern County,35.444892,-119.023993
+Standard Elementary,Wingland Elementary,701 Douglas Street Bakersfield CA 93308-2385,7.2,ppb,TRUE,tested,NA,Kern County,35.426827,-119.040527

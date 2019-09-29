@@ -1,0 +1,604 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Colton Joint Unified,Abraham Lincoln Elementary,444 East Olive Street Colton CA 92324-2717,NA,NA,FALSE,tested,Colton,San Bernardino County,34.077493,-117.31787
+Adelanto Elementary,Adelanto Elementary,17931 Jonathan Street Adelanto CA 92301-1734,NA,NA,NA,not tested,NA,San Bernardino County,34.576866,-117.409614
+Victor Valley Union High,Adelanto High,15620 Joshua Street Adelanto CA 92392-5600,NA,NA,FALSE,tested,NA,San Bernardino County,34.600268,-117.448553
+Upland Unified,Adult Education,1558 West Ninth Street Upland CA 91786,NA,NA,NA,not tested,Upland,San Bernardino County,34.095737,-117.680105
+Fontana Unified,Alder Middle,7555 Alder Avenue Fontana CA 92336-2303,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.117668,-117.418333
+Colton Joint Unified,Alice Birney Elementary,1050 East Olive Street Colton CA 92324-2531,5.5,ppb,TRUE,tested,Colton,San Bernardino County,34.078401,-117.311043
+Chino Valley Unified,Alicia Cortez Elementary,12750 Carissa Avenue Chino CA 91710-3701,NA,NA,NA,not tested,Chino,San Bernardino County,34.022957,-117.669855
+San Bernardino City Unified,Allred Childcare,303 S K Street San Bernardino CA 92410,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.096338,-117.307558
+Fontana Unified,Almeria Middle,7723 Almeria Avenue Fontana CA 92336-8702,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.113648,-117.460173
+Fontana Unified,Almond Elementary,8172 Almond Avenue Fontana CA 92335-3020,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.105047,-117.493238
+Alta Loma Elementary,Alta Loma Elementary,7085 Amethyst Street Alta Loma CA 91701-5007,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.118705,-117.59793
+Chaffey Joint Union High,Alta Loma High,8880 Baseline Road Alta Loma CA 91701-5504,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.121641,-117.613836
+Chaffey Joint Union High,Alta Loma High School,"8880 Base Line Rd., Rancho Cucamonga, CA 91701",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.124044,-117.611858
+Alta Loma Elementary,Alta Loma Junior High,9000 Lemon Avenue Alta Loma CA 91701-3357,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.140972,-117.609596
+Chaffey Joint Union High School,Alternative Education Center Center,"1802 East 7th Street, Ontario, CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.088567,-117.613448
+San Bernardino City Unified,Anderson,24302 East Fourth Street San Bernardino CA 92410-4919,8.6,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.106999,-117.273398
+Chino Valley Unified,Anna A. Borba Fundamental Elementary,4980 Riverside Drive Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.01913,-117.696354
+Apple Valley Unified,Apple Valley Adult Education,21950 Nisqually Rd Apple Valley CA 92308,NA,NA,NA,not tested,NA,San Bernardino County,34.486146,-117.185135
+San Bernardino County Office of Education,Apple Valley County Early Education Center,18415 Nakash Rd. Apple Valley CA 92307,NA,NA,FALSE,tested,NA,San Bernardino County,34.543933,-117.263761
+Apple Valley Unified,Apple Valley High,11837 Navajo Road Apple Valley CA 92308-7653,NA,NA,FALSE,tested,NA,San Bernardino County,34.466883,-117.190075
+Private,Aquinas High School,2772 Sterling Avenue San Bernardino CA 92404,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.113483,-117.243679
+San Bernardino City Unified,Arrowhead Elementary,3825 Mountain View Avenue San Bernardino CA 92405-2329,8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.180245,-117.287315
+San Bernardino City Unified,Arrowview Middle,2299 North G Street San Bernardino CA 92405-3631,5.2,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.136844,-117.298557
+Ontario-Montclair,Arroyo Elementary,1700 East Seventh Street Ontario CA 91764-1204,NA,NA,NA,not tested,Ontario,San Bernardino County,34.088017,-117.616652
+Ontario-Montclair,Arroyo Elementary School,"1700 E. 7th Street, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.08841,-117.616091
+San Bernardino City Unified,Arroyo Valley High,1881 West Baseline Street San Bernardino CA 92411-1650,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.121269,-117.328464
+Redlands Unified,Arroyo Verde Elementary,7701 Church Street Highland CA 92346-3968,NA,NA,FALSE,tested,Highland,San Bernardino County,34.113287,-117.173653
+Private,ASA Charter,3512 North E Street San Bernardino CA 92405,6.25,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.155179,-117.294165
+Baker Valley Unified,Baker Valley Unified School District,72100 School House Lane Baker CA 92309,NA,NA,FALSE,tested,Baker,San Bernardino County,35.273968,-116.072302
+Bear Valley Unified,Baldwin Lane Elementary,44500 Baldwin Lane Big Bear City CA 92314,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.251074,-116.830062
+Snowline Joint Unified,Baldy Mesa Elementary,10376 Baldy Mesa Road Phelan CA 92329-6000,NA,NA,FALSE,tested,Phelan,San Bernardino County,34.438811,-117.452014
+Upland Unified,Baldy View Elementary,979 West 11th Street Upland CA 91786-3765,NA,NA,FALSE,tested,Upland,San Bernardino County,34.103411,-117.66557
+Baldy View ROP,Baldy View ROP,1501 South Bon View Avenue Ontario CA 91761-4408,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.046683,-117.637201
+Private,Ballington Academy,799 East Rialto Ave  San Bernardino CA 92408,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.100943,-117.268438
+Alta Loma Elementary,Banyan Elementary,10900 Mirador Drive Alta Loma CA 91737-6993,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.142013,-117.56798
+Redlands Unified,Barbara Phelps Community School,1812 West Park Ave. Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.059389,-117.216185
+Barstow Unified,Barstow Adult Evening High,430 South First Avenue Barstow CA 92311,NA,NA,NA,not tested,Barstow,San Bernardino County,34.894555,-117.028606
+Barstow Unified,Barstow High,430 South First Avenue Barstow CA 92311-2860,NA,NA,NA,not tested,Barstow,San Bernardino County,34.894555,-117.028606
+Barstow Unified,Barstow Junior High,1000 Armory Road Barstow CA 92311,NA,NA,NA,not tested,NA,San Bernardino County,34.882388,-117.009447
+Barstow Unified,Barstow STEM Academy,310 Mountain View Barstow CA 92311-2790,NA,NA,NA,not tested,Barstow,San Bernardino County,34.892854,-117.024368
+San Bernardino City Unified,Barton Elementary,2214 Pumalo Street San Bernardino CA 92404-3564,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.13919,-117.243095
+Central Elementary,Bear Gulch Elementary,"8355 Bear Gulch Place, Rancho Cucamonga CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.10119,-117.607719
+Central Elementary,Bear Gulch Elementary,8355 Bear Gulch Place Rancho Cucamonga CA 91730-3469,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.10119,-117.607719
+Redlands Unified,Beattie Middle,7800 Orange Street Highland CA 92346-5767,NA,NA,FALSE,tested,Highland,San Bernardino County,34.127065,-117.213127
+Fontana Unified,Beech Avenue Elementary,9206 Beech Avenue Fontana CA 92335-4309,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.086786,-117.471262
+San Bernardino City Unified,Belvedere Elementary,2501 East Marshall Boulevard Highland CA 92346-1638,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.149003,-117.244276
+Rialto Unified,Bemis Elementary,774 East Etiwanda Avenue Rialto CA 92376-4508,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.114172,-117.35601
+Ontario-Montclair,Berlyn Elementary,1320 North Berlyn Avenue Ontario CA 91764-1907,NA,NA,NA,not tested,Ontario,San Bernardino County,34.081999,-117.638928
+Ontario-Montclair,Berlyn Elementary School,"1320 N. Berlyn Ave, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.081999,-117.638928
+Bear Valley Unified,Big Bear Elementary,409040 Pennsylvania Big Bear Lake CA 92315-1627,NA,NA,FALSE,tested,Big Bear Lake,San Bernardino County,34.239182,-116.90627
+Bear Valley Unified,Big Bear High,351 Maple Lane Big Bear City CA 92314-9700,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.25581,-116.825138
+Bear Valley Unified,Big Bear Middle,41275 Big Bear Boulevard Big Bear Lake CA 92315-1607,NA,NA,FALSE,tested,Big Bear Lake,San Bernardino County,34.24298,-116.9018
+San Bernardino City Unified,Bing Wong Elementary,1250 East Ninth Street San Bernardino CA 92410-4097,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.11604,-117.257088
+Fontana Unified,Birch High (Continuation),7930 Locust Avenue Fontana CA 92336-2871,8.5,ppb,TRUE,tested,Rialto,San Bernardino County,34.109913,-117.409802
+Morongo Unified,Black Rock Alternative/Continuation,59273 Sunnyslope Yucca Valley CA 92284-5996,NA,NA,FALSE,tested,Yucca Valley,San Bernardino County,34.127417,-116.371026
+Rialto Unified,"Bloomington Christian School, East Campus",955 S. Bloomington Ave. Bloomington CA 92316,NA,NA,NA,not tested,Rialto,San Bernardino County,34.076908,-117.388617
+Colton Joint Unified,Bloomington High,10750 Laurel Avenue Bloomington CA 92316-2520,6.2,ppb,TRUE,tested,NA,San Bernardino County,34.05855,-117.413938
+San Bernardino City Unified,Bob Holcomb Elementary,1345 West 48th Street San Bernardino CA 92407-5004,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.171367,-117.316135
+San Bernardino County Office of Education,Bob Murphy Community School,149 N. Arrowhead Ave. Rialto CA 92376,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.099928,-117.386737
+Ontario-Montclair,Bon View Elementary,2121 South Bon View Avenue Ontario CA 91761-4408,NA,NA,NA,not tested,Ontario,San Bernardino County,34.034954,-117.6371
+Ontario-Montclair,Bon View Elementary School,"2121 S. Bon View Ave, Ontario CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.034954,-117.6371
+Rialto Unified,Boyd Elementary,310 East Merrill Street Rialto CA 92376-6536,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.092568,-117.364998
+Chino Valley Unified,Boys Republic High,3493 Grand Avenue Chino Hills CA 91709-5447,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,34.002312,-117.732713
+San Bernardino City Unified,Bradley Elementary,1300 Valencia Avenue San Bernardino CA 92404-5440,8.8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.123174,-117.272046
+Victor Elementary,Brentwood Elementary,13962 Hook Boulevard Victorville CA 92392-7300,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.521548,-117.359032
+Redlands Unified,Bryn Mawr Elementary,11680 Whittier Avenue Loma Linda CA 92354-4154,NA,NA,FALSE,tested,Loma Linda,San Bernardino County,34.04305,-117.230581
+Ontario-Montclair,Buena Vista Arts-Integrated,5685 San Bernardino Street Montclair CA 91763-2941,NA,NA,NA,not tested,Montclair,San Bernardino County,34.077606,-117.684478
+Chino Valley Unified,Buena Vista Continuation High,13509 Ramona Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.008179,-117.706523
+Ontario-Montclair,Buena Vista Elementary School,"5685 San Bernardino St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.077606,-117.684478
+Barstow Unified,BUSD School of Opportunity,405 North Second Avenue Barstow CA 92311-2226,NA,NA,NA,not tested,Barstow,San Bernardino County,34.901868,-117.025755
+Chino Valley Unified,Butterfield Ranch Elementary,6350 Mystic Canyon Drive Chino Hills CA 91709-4516,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.925817,-117.667206
+Upland Unified,Cabrillo Elementary,1562 West 11th Street Upland CA 91786-4149,NA,NA,FALSE,tested,Upland,San Bernardino County,34.103186,-117.680174
+San Bernardino City Unified,Cajon High,1200 Hill Drive San Bernardino CA 92407-2932,8.8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.175587,-117.311614
+Chino Valley Unified,Cal Aero Preserve Academy,15850 Main Street Chino CA 91708-9290,NA,NA,NA,not tested,Chino,San Bernardino County,33.965714,-117.62314
+Yucaipa-Calimesa Joint Unified,Calimesa Elementary,13523 Second Street Yucaipa CA 92399-5339,NA,NA,FALSE,tested,Yucaipa,San Bernardino County,34.007883,-117.042262
+Barstow Unified,Cameron Elementary,801 Muriel Drive Barstow CA 92311-3149,NA,NA,NA,not tested,NA,San Bernardino County,34.8968,-117.013594
+Fontana Unified,Canyon Crest Elementary,11851 Cherry Avenue Fontana CA 92337-2792,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.051203,-117.488924
+Chino Valley Unified,Canyon Hills Junior High,2500 Madrugada Drive Chino Hills CA 91709-4423,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,34.005383,-117.748417
+Hesperia Unified,Canyon Ridge High,12850 Muscatel Avenue Hesperia CA 92344-5566,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.412525,-117.381799
+San Bernardino City Unified,Captain Leland Norton Elementary,747 North Mountain View Avenue San Bernardino CA 92410-1121,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.112647,-117.286384
+Etiwanda Elementary,Carleton P. Lightfoot Elementary,6989 Kenyon Way Alta Loma CA 91701-8605,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1275,-117.550423
+San Bernardino City Unified,Carmack,4777 State Street San Bernardino CA 92407-3321,NA,NA,FALSE,tested,Montclair,San Bernardino County,34.059643,-117.702786
+Hesperia Unified,Carmel Elementary,9321 Glendale Avenue Hesperia CA 92345-5600,NA,NA,FALSE,tested,NA,San Bernardino County,34.42345,-117.2418
+Alta Loma Elementary,Carnelian Elementary,7105 Carnelian Street Alta Loma CA 91701-0370,9.8,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.12502,-117.614811
+Etiwanda Elementary,Caryn Elementary,6290 Sierra Crest View Loop Alta Loma CA 91737-7960,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.141107,-117.551064
+San Bernardino City Unified,"Casa Ramona Academy for Technology, Community, and Education",1524 West Seventh Street San Bernardino CA 92411-2508,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.112674,-117.318722
+Rialto Unified,Casey Elementary,219 North Eucalyptus Avenue Rialto CA 92376-6025,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.102145,-117.357181
+Etiwanda Elementary,Cecilia Lucero Solorio Elementary,15172 Walnut Street Fontana CA 92336-4450,8.3,ppb,TRUE,tested,Fontana,San Bernardino County,34.128676,-117.46984
+Hesperia Unified,Cedar Middle,13565 Cedar Street Hesperia CA 92345-0139,NA,NA,FALSE,tested,NA,San Bernardino County,34.404779,-117.367089
+Private,Center For Learning and Educational Success,1697 North Sierra Way San Bernardino CA 92405-4628,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.129904,-117.285071
+Central Elementary,Central Elementary,7955 Archibald Avenue Rancho Cucamonga CA 91730-2805,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.109406,-117.592302
+Central Elementary,Central Elementary,"7955 Archibald Ave  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.109406,-117.592302
+Barstow Unified,Central High (Continuation),405 North Second Avenue Barstow CA 92311-2226,NA,NA,NA,not tested,Barstow,San Bernardino County,34.901868,-117.025755
+Ontario-Montclair,Central Language Academy,415 East G Street Ontario CA 91764-3729,NA,NA,NA,not tested,Ontario,San Bernardino County,34.070761,-117.646996
+Ontario-Montclair,Central Language Academy,"415 East G St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.070761,-117.646996
+San Bernardino City Unified,Cesar E. Chavez Middle,6650 North Magnolia Avenue San Bernardino CA 92407-1914,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.204404,-117.363554
+Chaffey Joint Union High,Chaffey Adult,1802 East Seventh Street Ontario CA 91764,NA,NA,NA,not tested,Ontario,San Bernardino County,34.087959,-117.61317
+Chaffey Joint Union High School,Chaffey Adult School,"557 West 5th St, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.08163,-117.657583
+Chaffey Joint Union High,Chaffey Community Day,1802 East Seventh St Ontario CA 91764-1210,NA,NA,NA,not tested,Ontario,San Bernardino County,34.087959,-117.61317
+Chaffey Joint Union High,Chaffey High,1245 North Euclid Avenue Ontario CA 91762-1997,NA,NA,NA,not tested,Ontario,San Bernardino County,34.080576,-117.651043
+Chaffey Joint Union High School,Chaffey High School,"1245 North Euclid Avenue, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.080576,-117.651043
+San Bernardino County Office of Education,Chaffey North Community School,7201 Archibald Ave. Suites 4 & 5 Rancho Cucamonga CA 91701,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.123306,-117.592913
+Victor Elementary,Challenger School of Sports and Fitness,14777 Hopland Street Victorville CA 92392-1218,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.543065,-117.340548
+Barstow Unified,Challenges Community Day,34374 Ash Road Lenwood CA 92311,NA,NA,NA,not tested,NA,San Bernardino County,34.873163,-117.105779
+Chino Valley Unified,Chaparral Elementary,4849 Bird Farm Road Chino Hills CA 91709-3141,6.5,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.975405,-117.69988
+Fontana Unified,Chaparral Elementary,14000 Shadow Drive Fontana CA 92337-0640,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.044106,-117.498267
+Snowline Joint Unified,Chaparral High,9258 Malpaso Road Phelan CA 92329-6000,NA,NA,NA,not tested,NA,San Bernardino County,34.418322,-117.576919
+Yucaipa-Calimesa Joint Unified,Chapman Heights Elementary,33692 Cramer Road Yucaipa CA 92399-6978,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.040405,-117.071515
+Rim of the World Unified,Charles Hoffman Elementary,2851 Running Springs School Road Running Springs CA 92352-0430,16.5,ppb,TRUE,tested,Running Springs,San Bernardino County,34.201851,-117.09327
+Rialto Unified,Charlotte N. Werner Elementary,1050 West Rialto Avenue Rialto CA 92376-9007,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.099592,-117.391441
+Bear Valley Unified,Chautauqua High (Continuation),525 Maple LN Big Bear City CA 92314,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.251671,-116.825117
+San Bernardino County Superintendent of Schools,Child Development Preschool Center,2350 North E St. San Bernardino CA 92405,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.137573,-117.294385
+Chino Valley Unified,Chino High,5472 Park Place Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.021256,-117.685187
+Chino Valley Unified,Chino Hills High,16150 Pomona Rincon Road Chino Hills CA 91709-3101,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.957434,-117.682351
+Chino Valley Unified,Chino Valley Learning Academy,15650 Pipeline Avenue Chino Hills CA 91709-3331,8.35,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.968966,-117.715015
+Upland Unified,Citrus Elementary,925 West Seventh Street Upland CA 91786-6421,NA,NA,FALSE,tested,Upland,San Bernardino County,34.089754,-117.664299
+Fontana Unified,Citrus Elementary,16041 Randall Avenue Fontana CA 92335-2033,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.084706,-117.454938
+Fontana Unified,Citrus High (Continuation),10760 Cypress Fontana CA 92337-7422,NA,NA,NA,not tested,Fontana,San Bernardino County,34.058802,-117.445006
+Redlands Unified,Citrus Valley High,800 West Pioneer Avenue Redlands CA 92374-1509,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.082784,-117.194482
+Redlands Unified,Clement Middle,501 East Pennsylvania Avenue Redlands CA 92374-2496,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.07376,-117.176795
+Victor Valley Union High,Cobalt Institute of Math and Science Academy,13801 Cobalt Road Victorville CA 92392-9373,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.501041,-117.372981
+San Bernardino City Unified,Cole Elementary,1331 Cole Avenue Highland CA 92346-3119,NA,NA,FALSE,tested,Highland,San Bernardino County,34.124964,-117.212275
+San Bernardino City Unified,Colonel Joseph C. Rodriguez PREP Academy,1985 North Guthrie Street San Bernardino CA 92404-5927,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.132058,-117.239278
+Chaffey Joint Union High,Colony High,3850 East Riverside Drive Ontario CA 91761-2603,NA,NA,NA,not tested,Ontario,San Bernardino County,34.019365,-117.64802
+Chaffey Joint Union High School,Colony High School,"3850 East Riverside Dr., Ontario, CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.019365,-117.64802
+Colton Joint Unified,Colton High,777 West Valley Boulevard Colton CA 92324-2251,NA,NA,FALSE,tested,Colton,San Bernardino County,34.070791,-117.335065
+Colton Joint Unified,Colton Middle,670 West Laurel Street Colton CA 92324-1523,NA,NA,FALSE,tested,Colton,San Bernardino County,34.081224,-117.3337
+Colton-Redlands-Yucaipa ROP,Colton-Redlands-Yucaipa ROP,1214 Indiana Court Redlands CA 92374-2896,NA,NA,NA,not tested,Redlands,San Bernardino County,34.069867,-117.2057
+Adelanto Elementary,Columbia Middle,14409 Aster Street Adelanto CA 92301-3451,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.512255,-117.433856
+San Bernardino County Superintendent of Schools,Community Day School,24424 Monterrey Ave. San Bernardino CA 92410,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.10778,-117.270782
+San Bernardino County Office of Education,Community School/Independent Alternative Education,244 South D Street San Bernardino CA 92410-3093,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.096941,-117.292296
+Yucaipa-Calimesa Joint Unified,Competitive Edge Charter Academy (CECA),34450 Stonewood Drive Yucaipa CA 92399-6852,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.043959,-117.052389
+Morongo Unified,Condor Elementary,2551 Condor Road Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.205315,-116.045579
+Silver Valley Unified,Congressman Jerry Lewis Elementary,1800 Blackhawk Street Fort Irwin CA 92310-1700,NA,NA,NA,not tested,Fort Irwin,San Bernardino County,35.264555,-116.696423
+Colton Joint Unified,Cooley Ranch Elementary,1000 South Cooley Drive Colton CA 92324-4503,NA,NA,FALSE,tested,Colton,San Bernardino County,34.051931,-117.292525
+Redlands Unified,Cope Middle,1000 West Cypress Avenue Redlands CA 92373-5722,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.040675,-117.188833
+Ontario-Montclair,Corona Elementary,1140 North Corona Avenue Ontario CA 91764-2626,NA,NA,NA,not tested,Ontario,San Bernardino County,34.081399,-117.615417
+Ontario-Montclair,Corona Elementary School,"1140 N. Corona Ave, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.081399,-117.615417
+Hesperia Unified,Cottonwood Elementary,8850 Cottonwood Hesperia CA 92345-3702,NA,NA,FALSE,tested,NA,San Bernardino County,34.411424,-117.338351
+Chino Valley Unified,Country Springs Elementary,14145 Village Center Drive Chino Hills CA 91709-4892,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.996544,-117.752251
+Central Elementary,Coyote Canyon Elementary,7889 Elm Avenue Rancho Cucamonga CA 91730-6839,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.111736,-117.564136
+Central Elementary,Coyote Canyon Elementary,"7889 Elm Avenue  Rancho Cucamonga, California 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.111736,-117.564136
+Redlands Unified,Crafton Elementary,311 North Wabash Avenue Redlands CA 92374-4261,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.048992,-117.138859
+Redlands Unified,Cram Elementary,29700 Water Street Highland CA 92346-5923,NA,NA,FALSE,tested,Highland,San Bernardino County,34.11707,-117.157818
+Mountain View Elementary,Creek View Elementary,3742 Lytle Creek North Loop Ontario CA 91761-0242,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.024318,-117.569099
+Barstow Unified,Crestline Elementary,2020 Monterey Barstow CA 92311-6713,NA,NA,NA,not tested,NA,San Bernardino County,34.875042,-117.015401
+Colton Joint Unified,Crestmore Elementary,18870 Jurupa Avenue Bloomington CA 92316-3133,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.04861,-117.392744
+Cucamonga Elementary,Cucamonga Elementary,8677 Archibald Avenue Rancho Cucamonga CA 91730-4634,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.095222,-117.593345
+Central Elementary,Cucamonga Middle,7611 Hellman Avenue Rancho Cucamonga CA 91730-2204,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.115646,-117.602217
+Central Elementary,Cucamonga Middle School,"7611 Hellman Avenue  Rancho Cucamonga, CA  91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.115646,-117.602217
+San Bernardino City Unified,Curtis Middle,1050 North Delrosa Drive San Bernardino CA 92410-4112,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.11877,-117.253047
+San Bernardino City Unified,Cypress Elementary,26825 Cypress Street Highland CA 92346-3539,NA,NA,FALSE,tested,Highland,San Bernardino County,34.113915,-117.21917
+Fontana Unified,Cypress Elementary,9751 Cypress Avenue Fontana CA 92335-6500,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.076442,-117.444287
+Hesperia Unified,Cypress School of the Arts,10365 Cypress Hesperia CA 92345-2821,NA,NA,FALSE,tested,NA,San Bernardino County,34.438824,-117.325377
+Fontana Unified,Date Elementary,9011 Oleander Avenue Fontana CA 92335-4532,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.09012,-117.448708
+San Bernardino County Office of Education,David Stine Chaffey West County Community School,5033 Holt Blvd. Montclair CA 91763,NA,NA,FALSE,tested,Montclair,San Bernardino County,34.063109,-117.695369
+Etiwanda Elementary,David W. Long Elementary,5383 Bridlepath Drive Fontana CA 92236-0690,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.153477,-117.483701
+San Bernardino City Unified,Davidson Elementary,2844 Davidson Avenue San Bernardino CA 92405-1918,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.144186,-117.310369
+Etiwanda Elementary,Day Creek Intermediate,12345 Coyote Drive Etiwanda CA 91739-9031,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.153947,-117.536385
+Ontario-Montclair,De Anza Middle,1450 South Sultana Avenue Ontario CA 91761-4236,NA,NA,NA,not tested,Ontario,San Bernardino County,34.047397,-117.646134
+Ontario-Montclair,De Anza Middle School,"1450 S. Sultana Ave, Ontario CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.047397,-117.646134
+Alta Loma Elementary,Deer Canyon Elementary,10225 Hamilton Alta Loma CA 91701-0370,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.130314,-117.581542
+Ontario-Montclair,Del Norte Elementary,850 Del Norte Avenue Ontario CA 91764-3639,NA,NA,NA,not tested,Ontario,San Bernardino County,34.025332,-117.625795
+Ontario-Montclair,Del Norte Elementay School,"850 N. Del Norte, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.029311,-117.625967
+Victor Elementary,Del Rey Elementary,15332 Del Rey Drive Victorville CA 92395-7118,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.529654,-117.308706
+San Bernardino City Unified,Del Rosa Elementary,3395 North Mountain Avenue San Bernardino CA 92404-2768,5.8,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.150659,-117.256715
+San Bernardino City Unified,Del Vallejo Middle,1885 East Lynwood Drive San Bernardino CA 92404-3269,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.146723,-117.248899
+Apple Valley Unified,Desert Knolls Elementary,18213 Symeron Drive Apple Valley CA 92307-4537,NA,NA,FALSE,tested,Apple Valley,San Bernardino County,34.529047,-117.266854
+San Bernardino County Office of Education,Desert Mountain Community,15733 First Street Victorville CA 92392-2901,NA,NA,NA,not tested,Victorville,San Bernardino County,34.541442,-117.296704
+Adelanto Elementary,Desert Trails Preparatory Academy,14350 Bellflower Road Adelanto CA 92301-0070,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.511569,-117.417274
+Chino Valley Unified,Dickson Elementary,3930 Pamela Drive Chino CA 91710-4130,NA,NA,FALSE,tested,Chino,San Bernardino County,34.015273,-117.71937
+Victor Elementary,Discovery School of the Arts,13247 Amethyst Road Victorville CA 92392,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.490792,-117.364232
+Fontana Unified,Dolores Huerta International Academy,17777 Merrill Avenue Fontana CA 92335-8110,NA,NA,NA,not tested,Fontana,San Bernardino County,34.092094,-117.416605
+Chino Valley Unified,Don Antonio Lugo High,13400 Pipeline Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,33.994904,-117.715166
+Central Elementary,Dona Merced Elementary,"10333 Palo Alto Street  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.116761,-117.579306
+Central Elementary,Dona Merced Elementary,10333 Palo Alto Rancho Cucamonga CA 91730-1744,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.117261,-117.579752
+Adelanto Elementary,Donald F. Bradach Elementary,15550 Bellflower Road Adelanto CA 92301-3443,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.533038,-117.417521
+Fontana Unified,Dorothy Grant Elementary,7069 Isabel Lane Fontana CA 92336-5060,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.126003,-117.463315
+San Bernardino City Unified,Dr. Mildred Dalton Henry Elementary,1250 West 14th Street San Bernardino CA 92411-1810,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.125108,-117.311853
+Yucaipa-Calimesa Joint Unified,Dunlap Elementary,32870 Avenue E Yucaipa CA 92399-1903,5.8,ppb,TRUE,tested,Yucaipa (City of),San Bernardino County,34.02673,-117.085931
+Rialto Unified,Dunn Elementary,830 North Lilac Avenue Rialto CA 92376-4098,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.114712,-117.379265
+Chino Valley Unified,E. J. Marshall Elementary,12045 Telephone Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.034561,-117.693918
+San Bernardino City Unified,E. Neal Roberts Elementary,494 East Ninth Street San Bernardino CA 92410-3822,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.116198,-117.274723
+Chino Valley Unified,Eagle Canyon Elementary,13435 Eagle Canyon Drive Chino Hills CA 91709-1281,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,34.009083,-117.748513
+Adelanto Elementary,Eagle Ranch Elementary,12545 Eagle Ranch Parkway Adelanto CA 92301-0070,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.478744,-117.388733
+Snowline Joint Unified,Eagle Summit Community Day,3919 Nielson Road Phelan CA 92371-8675,NA,NA,NA,not tested,NA,San Bernardino County,34.418971,-117.57347
+Etiwanda Elementary,East Heritage Elementary,14250 East Constitution Way Fontana CA 92336-3785,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.111906,-117.497289
+Ontario-Montclair,Edison Academy,"515 E. 6th St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.0853,-117.645508
+Ontario-Montclair,Edison Elementary,515 East Sixth Street Ontario CA 91764-1818,NA,NA,NA,not tested,Ontario,San Bernardino County,34.085525,-117.64518
+Needles Unified,Educational Training Center,1600 Washington St. Needles CA 92363-2842,NA,NA,NA,not tested,Needles,San Bernardino County,34.840062,-114.615902
+Rialto Unified,Edward Fitzgerald Elementary,2568 West Terra Vista Drive Rialto CA 92377-3698,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.166617,-117.42569
+Chino Valley Unified,Edwin Rhodes Elementary,6655 Schaefer Avenue Chino CA 91710-9106,NA,NA,NA,not tested,Chino,San Bernardino County,34.00468,-117.659537
+Rialto Unified,Eisenhower Senior High,1321 North Lilac Avenue Rialto CA 92376-3201,6.050000000000001,ppb,TRUE,tested,Rialto,San Bernardino County,34.124665,-117.379089
+Ontario-Montclair,El Camino Elementary,1525 West Fifth Street Ontario CA 91762-1499,NA,NA,NA,not tested,Ontario,San Bernardino County,34.080981,-117.679372
+Ontario-Montclair,El Camino Elementary School,"1525 W. 5th St, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.081552,-117.67927
+Adelanto Elementary,El Mirage,19250 Street Anthony Avenue Adelanto CA 92301,NA,NA,NA,not tested,El Mirage,San Bernardino County,34.600347,-117.632401
+Ontario-Montclair,Elderberry Elementary,950 North Elderberry Avenue Ontario CA 91762-2014,NA,NA,NA,not tested,Ontario,San Bernardino County,34.075144,-117.674748
+Ontario-Montclair,Elderberry Elementary School,"950 N. Elderberry Ave, Ontario CA  91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.075144,-117.674748
+Rialto Unified,Elizabeth T. Hughbanks Elementary,2241 North Apple Avenue Rialto CA 92377-4615,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.141775,-117.378987
+San Bernardino City Unified,Emmerton Elementary,1888 Arden Avenue San Bernardino CA 92404-6715,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.143998,-117.234952
+Victor Elementary,Endeavour School of Exploration,12403 Ridgecrest Road Victorville CA 92395-7780,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.478491,-117.278185
+Rialto Unified,Ethel Kucera Middle,2140 West Buena Vista Drive Rialto CA 92377-4837,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.161398,-117.415232
+Etiwanda Elementary,Etiwanda Colony Elementary,13144 Banyan Street Etiwanda CA 91739-9543,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.143323,-117.518858
+Chaffey Joint Union High,Etiwanda High,13500 Victoria Avenue Etiwanda CA 91739-0447,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.130549,-117.510691
+Chaffey Joint Union High School,Etiwanda High School,"13500 Victoria St., Rancho Cucamonga, CA 91739",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.128389,-117.511797
+Etiwanda Elementary,Etiwanda Intermediate,6925 Etiwanda Avenue Etiwanda CA 91739-8714,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.127947,-117.523406
+Hesperia Unified,Eucalyptus Elementary,11224 Tenth Avenue Hesperia CA 92345-2302,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.454462,-117.318768
+Ontario-Montclair,Euclid Elementary,1120 South Euclid Avenue Ontario CA 91762-5119,NA,NA,NA,not tested,Ontario,San Bernardino County,34.052244,-117.650882
+Ontario-Montclair,Euclid Elementary School,"1120 S. Euclid Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.052244,-117.650882
+Victor Valley Union High,Excelsior Charter,18422 Bear Valley Road Building 11 Victorville CA 92395-5850,NA,NA,NA,not tested,Victorville,San Bernardino County,34.473508,-117.266969
+San Bernardino City Unified,Fairfax Elementary,1362 Pacific Street San Bernardino CA 92404-6226,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.128716,-117.258755
+Bear Valley Unified,Fallsvale School,40600 Valley of the Falls Drive Forest Falls CA 92339,NA,NA,NA,not tested,NA,San Bernardino County,34.085835,-116.912024
+Alta Loma Elementary,Floyd M. Stork Elementary,5646 Jasper Street Alta Loma CA 91701-1924,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.15229,-117.620453
+Fontana Unified,Fontana A. B. Miller High,6821 Oleander Avenue Fontana CA 92336-1400,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.130277,-117.448865
+Fontana Unified,Fontana Adult,10755 Oleander Avenue Fontana CA 92337,8.85,ppb,TRUE,tested,Fontana,San Bernardino County,34.058431,-117.448571
+Fontana Unified,Fontana High,9453 Citrus Avenue Fontana CA 92335-5510,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.082456,-117.453605
+Fontana Unified,Fontana Middle,8425 Mango Avenue Fontana CA 92335-3909,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.100521,-117.431329
+Upland Unified,Foothill Knolls Elementary,1245 Veterans Court Upland CA 91786-3450,NA,NA,FALSE,tested,Upland,San Bernardino County,34.108962,-117.634715
+Silver Valley Unified,Fort Irwin Middle,1700 Pork Chop Hill Street Fort Irwin CA 92310-1532,NA,NA,FALSE,tested,Fort Irwin,San Bernardino County,35.258208,-116.697022
+Redlands Unified,Franklin Elementary,850 East Colton Avenue Redlands CA 92374-3635,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.06281,-117.123786
+Morongo Unified,Friendly Hills Elementary,7252 Sunny Vista Road Joshua Tree CA 92252-2741,NA,NA,FALSE,tested,NA,San Bernardino County,34.125733,-116.334908
+Rialto Unified,Frisbie Middle,1442 North Eucalyptus Avenue Rialto CA 92376-2913,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.125884,-117.357451
+San Bernardino County Office of Education,Frost Early Education Center,12860 Banyan Street Rancho Cucamonga CA 91739,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.143442,-117.558552
+San Bernardino County Office of Education,Frost Early Education Center,12860 Banyan Street Rancho Cucamonga  CA 91739,7.9,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.143879,-117.524308
+San Bernardino City Unified,George Brown Jr. Elementary,2525 North G Street San Bernardino CA 92405-3637,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.138545,-117.298532
+Adelanto Elementary,George Visual and Performing Arts Magnet and Middle,10650 Bartlett Avenue Adelanto CA 92301-2122,NA,NA,NA,not tested,NA,San Bernardino County,34.579505,-117.43478
+Rialto Unified,Georgia Morris Elementary,1900 West Randall Avenue Colton CA 92324-6642,NA,NA,FALSE,tested,Colton,San Bernardino County,34.084928,-117.359718
+Colton Joint Unified,Gerald A. Smith Elementary,9551 Linden Avenue Bloomington CA 92316-1430,NA,NA,FALSE,tested,NA,San Bernardino County,34.081385,-117.400741
+Chino Valley Unified,Gerald F. Litel Elementary,3425 Eucalyptus Avenue Chino Hills CA 91709-1836,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.989762,-117.728935
+Chino Valley Unified,Glenmeade Elementary,15000 Whirlaway Lane Chino Hills CA 91709-2548,21,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.980389,-117.721205
+San Bernardino City Unified,Golden Valley Middle,3800 Waterman Avenue San Bernardino CA 92404-1739,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.128844,-117.278755
+Victor Valley Union High,Goodwill High,16350 Mojave Drive Victorville CA 92395-3655,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.52909,-117.306242
+Mountain View Elementary,Grace Yokley Middle,2947 South Turner Avenue Ontario CA 91761-8146,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.043036,-117.584557
+San Bernardino City Unified,Graciano Gomez Elementary,1480 West 11th Street San Bernardino CA 92411-2132,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.120416,-117.317137
+Colton Joint Unified,Grand Terrace Elementary,12066 Vivienda Avenue Grand Terrace CA 92313-5026,6.8,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.035358,-117.321013
+Colton Joint Unified,Grand Terrace High School at the Ray Abril Jr. Educational Complex,21810 Main Street Grand Terrace CA 92313-5810,NA,NA,FALSE,tested,Grand Terrace,San Bernardino County,34.021718,-117.328209
+Apple Valley Unified,Granite Hills High,22900 Esaws Road Apple Valley CA 92307-4305,NA,NA,FALSE,tested,Apple Valley,San Bernardino County,34.508467,-117.165265
+Etiwanda Elementary,Grapeland Elementary,7171 Etiwanda Avenue Etiwanda CA 91739-9714,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.123694,-117.522304
+Victor Elementary,Green Tree East Elementary,17246 Gibralter Drive Victorville CA 92395-3360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.50646,-117.286511
+Yucaipa-Calimesa Joint Unified,Green Valley High,35948 Susan St. Yucaipa CA 92399-5299,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.008522,-117.019723
+Redlands Unified,Grove,200 Nevada Street Redlands CA 92373-5385,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.053552,-117.216238
+Adelanto Elementary,Gus Franklin Jr. School,13125 Hopland Street Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.542967,-117.346744
+San Bernardino City Unified,H. Frank Dominguez Elementary,135 South Allen Street San Bernardino CA 92408-1503,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.100087,-117.28182
+San Bernardino City Unified,Hardy Brown College Prep,655 West 2nd Street San Bernardino CA 92410-3210,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.102662,-117.297648
+Fontana Unified,Harry S. Truman Middle,16224 Mallory Drive Fontana CA 92335-7844,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.074909,-117.450042
+Ontario-Montclair,Hawthorne Elementary,705 West Hawthorne Street Ontario CA 91762-1599,NA,NA,NA,not tested,Ontario,San Bernardino County,34.083265,-117.661904
+Ontario-Montclair,Hawthorne Elementary School,"705 W. Hawthorne St, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.083265,-117.661904
+Ontario-Montclair,Hawthorne Elementary School,"705 W. Hawthorne St, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.083265,-117.661904
+Ontario-Montclair,Haynes Elementary School,"715 W. Francis St, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.040955,-117.661865
+Rialto Unified,Helen L. Dollahan Elementary,1060 West Etiwanda Avenue Rialto CA 92376-4769,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.114127,-117.391432
+Helendale Elementary,Helendale Elementary,27274 Peach Tree Lane Helendale CA 92342,NA,NA,FALSE,tested,NA,San Bernardino County,34.747101,-117.335071
+Fontana Unified,Hemlock Elementary,15080 Miller Avenue Fontana CA 92336-2395,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.114145,-117.460228
+Barstow Unified,Henderson Elementary,400 South Avenue E Barstow CA 92311-2613,NA,NA,NA,not tested,NA,San Bernardino County,34.892895,-117.039788
+Rialto Unified,Henry Elementary,470 East Etiwanda Avenue Rialto CA 92376-4446,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.114164,-117.362261
+Fontana Unified,Henry J. Kaiser High,11155 Almond Avenue Fontana CA 92337-7113,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.052101,-117.493216
+Snowline Joint Unified,Heritage,9542 Wilson Ranch Road Phelan CA 92371-7298,NA,NA,FALSE,tested,Phelan,San Bernardino County,34.423819,-117.523104
+Etiwanda Elementary,Heritage Intermediate,13766 South Heritage Circle Fontana CA 92336-2959,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.121365,-117.496649
+Alta Loma Elementary,Hermosa Elementary,10133 Wilson Avenue Alta Loma CA 91737-2315,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.15064,-117.583508
+Hesperia Unified,Hesperia High,9898 Maple Avenue Hesperia CA 92345-3643,NA,NA,FALSE,tested,NA,San Bernardino County,34.430651,-117.346614
+Hesperia Unified,Hesperia Junior High,10275 Cypress Hesperia CA 92345-2819,NA,NA,FALSE,tested,NA,San Bernardino County,34.437499,-117.325674
+Chino Valley Unified,Hidden Trails Elementary,2250 Ridgeview Drive Chino Hills CA 91709-5177,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.984633,-117.754733
+Apple Valley Unified,High Desert Premier Academy,12555 Navajo Rd Apple Valley CA 92308-7256,NA,NA,FALSE,tested,NA,San Bernardino County,34.479892,-117.190103
+Redlands Unified,Highland Grove Elementary,7700 Orange Street Highland CA 92346-5384,NA,NA,FALSE,tested,Highland,San Bernardino County,34.113077,-117.182641
+San Bernardino City Unified,Highland Pacific Elementary,3340 Pacific Street Highland CA 92346-2410,NA,NA,FALSE,tested,Highland,San Bernardino County,34.128612,-117.21446
+San Bernardino City Unified,Hillside Elementary,4975 North Mayfield Avenue San Bernardino CA 92407-3130,6.6,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.17499,-117.290998
+Upland Unified,Hillside High,1558 West Ninth St. Upland CA 91786-5636,7.2,ppb,TRUE,tested,Upland,San Bernardino County,34.095737,-117.680105
+Hesperia Unified,Hollyvale Elementary,11645 Hollyvale Avenue Victorville CA 92392-9081,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.46183,-117.386272
+Chino Valley Unified,Howard Cattle Elementary,13590 Cypress Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.00667,-117.662944
+Ontario-Montclair,Howard Elementary,4650 West Howard Street Montclair CA 91763-6414,NA,NA,NA,not tested,Montclair,San Bernardino County,34.052583,-117.703722
+Ontario-Montclair,Howard Elementary School,"4650 Howard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.052286,-117.703087
+San Bernardino City Unified,Howard Inghram Elementary,1695 West 19th Street San Bernardino CA 92411-1154,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.13227,-117.327073
+San Bernardino City Unified,Hunt Elementary,1342 Pumalo Street San Bernardino CA 92404-4326,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.138682,-117.257768
+Victor Valley Union High,Imogene Garner Hook Junior High,15000 Hook Boulevard Victorville CA 92394-2121,NA,NA,NA,not tested,Victorville,San Bernardino County,34.521423,-117.339662
+San Bernardino City Unified,Indian Springs High,650 North Del Rosa Drive San Bernardino CA 92410-4669,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.111548,-117.254564
+San Bernardino City Unified,Inland Career Education Center,1200 North E Street San Bernardino CA 92405,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.158384,-117.294007
+Yucaipa-Calimesa Joint Unified,Inland Leaders Charter,12375 California Street Yucaipa CA 92399-4403,9.95,ppb,TRUE,tested,Yucaipa (City of),San Bernardino County,34.030044,-117.038727
+Yucaipa-Calimesa Joint Unified,Inland Leaders Charter (K - 2nd Grade Campus),13456 Bryant St Yucaipa CA 92399,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.009174,-117.034575
+Victor Elementary,Irwin Academy of Performing Arts,14907 South Mojave Drive Victorville CA 92395-3952,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.528659,-117.33822
+Alta Loma Elementary,Jasper Elementary,6881 Jasper Street Alta Loma CA 91701-4521,6.7,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.1298,-117.619504
+Colton Joint Unified,Joe Baca,1640 South Lilac Avenue Bloomington CA 92316-2123,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.070126,-117.379101
+Etiwanda Elementary,John L. Golden Elementary,12400 Banyan Street Etiwanda CA 91739-9402,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.143317,-117.531532
+Hesperia Unified,Joshua Circle Elementary,10140 Eighth Avenue Hesperia CA 92345-2801,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.434607,-117.316738
+Morongo Unified,Joshua Tree Elementary,4950 Sunburst Avenue Joshua Tree CA 92252-2053,NA,NA,FALSE,tested,NA,San Bernardino County,34.163361,-116.308492
+San Bernardino City Unified,Juanita Blakely Jones Elementary,700 North F Street San Bernardino CA 92410-3018,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.112178,-117.296528
+Redlands Unified,Judson & Brown Elementary,1401 East Pennsylvania Avenue Redlands CA 92374-4734,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.073607,-117.156175
+Hesperia Unified,Juniper Elementary,9400 I Avenue Hesperia CA 92345-6210,NA,NA,FALSE,tested,NA,San Bernardino County,34.422143,-117.282481
+Fontana Unified,Juniper Elementary,7655 Juniper Avenue Fontana CA 92336-2025,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.114755,-117.440123
+Fontana Unified,Jurupa Hills High,10700 Oleander Avenue Fontana CA 92337-7435,NA,NA,NA,not tested,Fontana,San Bernardino County,34.059376,-117.448769
+Colton Joint Unified,Jurupa Vista Elementary,15920 Village Drive East Fontana CA 92337-1014,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.0433,-117.458533
+Fontana Unified,Kathy Binks Elementary,7358 Cypress Avenue Fontana CA 92336-1975,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.120423,-117.444692
+Rialto Unified,Kelley Elementary,380 South Meridian Avenue Rialto CA 92376-6713,10.5,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.094492,-117.348637
+San Bernardino City Unified,Kendall Elementary,4951 State Street San Bernardino CA 92407-2857,5.2,ppb,TRUE,tested,Montclair,San Bernardino County,34.059675,-117.697063
+San Bernardino City Unified,Kimbark Elementary,18021 West Kenwood Avenue San Bernardino CA 92407-1113,6.3,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.235599,-117.411529
+Redlands Unified,Kimberly Elementary,301 West South Avenue Redlands CA 92373-7039,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.034002,-117.16657
+Redlands Unified,Kingsbury Elementary,600 Cajon Street Redlands CA 92373-5938,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.047246,-117.176464
+Ontario-Montclair,Kingsley Elementary,5625 Kingsley Street Montclair CA 91763-3999,NA,NA,NA,not tested,Montclair,San Bernardino County,34.066694,-117.684197
+Ontario-Montclair,Kingsley Elementary School,"5625 Kingsley St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.066694,-117.684197
+Hesperia Unified,Kingston Elementary,7473 Kingston Avenue Hesperia CA 92345-7316,12,ppb,TRUE,tested,NA,San Bernardino County,34.387466,-117.274896
+Rialto Unified,Kolb Middle,2351 North Spruce Street Rialto CA 92377-4505,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.142062,-117.387474
+Hesperia Unified,"Krystal School of Science, Math & Technology",17160 Krystal Drive Hesperia CA 92345-7214,NA,NA,FALSE,tested,NA,San Bernardino County,34.378291,-117.288688
+Morongo Unified,La Contenta Middle,7050 La Contenta Road Yucca Valley CA 92284-7303,NA,NA,FALSE,tested,NA,San Bernardino County,34.105155,-116.370364
+Rim of the World Unified,Lake Arrowhead Elementary,1300 Golden Rule Lane Lake Arrowhead CA 92352-0430,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.273381,-117.178756
+Victor Valley Union High,Lakeview Leadership Academy,12484 Tamarisk Road Victorville CA 92395-5101,NA,NA,NA,not tested,Victorville,San Bernardino County,34.477938,-117.272897
+Victor Valley Union High,Lakeview Leadership Academy,12484 Tamarisk Rd. Victorville CA 92395-5101,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.477733,-117.271883
+Morongo Unified,Landers Elementary,56450 Reche Road Landers CA 92285-2660,NA,NA,FALSE,tested,NA,San Bernardino County,34.266781,-116.431956
+San Bernardino City Unified,Lankershim Elementary,7499 Lankershim Avenue Highland CA 92346-3459,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.118728,-117.234858
+Ontario-Montclair,Lehigh Elementary,10200 Lehigh Street Montclair CA 91763-3550,NA,NA,NA,not tested,Montclair,San Bernardino County,34.067735,-117.709273
+Ontario-Montclair,Lehigh Elementary School,"10200 Lehigh St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.068197,-117.709202
+Barstow Unified,Lenwood Elementary,34374 Ash Rd Lenwood CA 92311,NA,NA,NA,not tested,NA,San Bernardino County,34.873163,-117.105779
+Chino Valley Unified,Levi H. Dickey Elementary,2840 Parco Avenue Ontario CA 91761-7037,NA,NA,NA,not tested,Ontario,San Bernardino County,34.021764,-117.624909
+Silver Valley Unified,Lewis Elementary School,1800 Black Hawk Fort Irwin CA 92310,NA,NA,FALSE,tested,Fort Irwin,San Bernardino County,35.264555,-116.696423
+Victor Elementary,Liberty Elementary,12900 Amethyst Road Victorville CA 92395-3360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.486957,-117.364431
+Hesperia Unified,Lime Street Elementary,16852 Lime Street Hesperia CA 92345-5934,NA,NA,FALSE,tested,NA,San Bernardino County,34.405272,-117.297173
+San Bernardino City Unified,Lincoln Elementary,255 West 13th Street San Bernardino CA 92405-4801,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.12324,-117.288658
+Ontario-Montclair,Lincoln Elementary School,"440 N. Allyn Ave, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.067581,-117.637153
+Ontario-Montclair,Linda Vista,"1556 S. Sultana, Ontario CA  91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.0449,-117.646739
+Fontana Unified,Live Oak Elementary,9522 Live Oak Avenue Fontana CA 92335-5313,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.042877,-117.482479
+Fontana Unified,Locust Elementary,7420 Locust Avenue Fontana CA 92336-2307,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.11929,-117.409795
+Private,Loma Linda Academy,10656 Anderson Street Loma Linda CA 92354,NA,NA,FALSE,tested,Loma Linda,San Bernardino County,34.060195,-117.263284
+Victor Elementary,Lomitas Elementary,12571 First Avenue Victorville CA 92395-7810,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.479479,-117.294684
+Cucamonga Elementary,Los Amigos Elementary,8496 Ninth Street Rancho Cucamonga CA 91730-5014,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.096264,-117.620439
+Chaffey Joint Union High,Los Osos High,6001 Milliken Avenue Rancho Cucamonga CA 91737-7709,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.14481,-117.558448
+Chaffey Joint Union High,Los Osos High School,"6001 Milliken Ave., Rancho Cucamonga, CA 91737",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.14481,-117.558448
+Redlands Unified,Lugonia Elementary,202 East Pennsylvania Avenue Redlands CA 92374-2344,5.7,ppb,TRUE,tested,Redlands,San Bernardino County,34.073584,-117.180614
+Chino Valley Unified,Lyle S. Briggs Fundamental,11880 Roswell Avenue Chino CA 91710-4130,NA,NA,FALSE,tested,Chino,San Bernardino County,34.037094,-117.720086
+San Bernardino City Unified,Lytle Creek Elementary,275 South K Street San Bernardino CA 92410-2441,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.097046,-117.307559
+Upland Unified,Magnolia Elementary,465 West 15th Street Upland CA 91786-2282,NA,NA,FALSE,tested,Upland,San Bernardino County,34.11781,-117.656956
+Chino Valley Unified,Magnolia Junior High,13150 Mountain Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.018088,-117.667627
+Fontana Unified,Mango Elementary,7450 Mango Avenue Fontana CA 92336-2105,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.118647,-117.431629
+San Bernardino City Unified,Manuel A. Salinas Creative Arts Elementary,2699 North California Street San Bernardino CA 92407-6714,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.142525,-117.331089
+Fontana Unified,Maple Elementary,751 South Maple Avenue Fontana CA 92335-6076,5.4,ppb,TRUE,tested,Rialto,San Bernardino County,34.090221,-117.405128
+Hesperia Unified,Maple Elementary,10616 Maple Street Hesperia CA 92345-2436,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.443833,-117.347666
+Apple Valley Unified,Mariana Academy,10601 Manhasset Road Apple Valley CA 92308-8048,NA,NA,FALSE,tested,NA,San Bernardino County,34.444379,-117.187821
+Ontario-Montclair,Mariposa Elementary,1605 East D Street Ontario CA 91764-4405,NA,NA,NA,not tested,Ontario,San Bernardino County,34.067199,-117.61793
+Ontario-Montclair,Mariposa Elementary School,"1605 East D St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.067199,-117.61793
+San Bernardino City Unified,Marshall Elementary,3288 North G Street San Bernardino CA 92405-2712,11,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.151082,-117.298651
+San Bernardino City Unified,Martin Luther King Jr. Middle,1250 North Medical Center Drive San Bernardino CA 92411-1605,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.122856,-117.322974
+Colton Joint Unified,Mary B. Lewis Elementary,18040 San Bernardino Avenue Bloomington CA 92316-1643,NA,NA,FALSE,tested,NA,San Bernardino County,34.077764,-117.410827
+Rim of the World Unified,Mary P. Henck Intermediate,730 Rhine Road Lake Arrowhead CA 92352-0000,6.5,ppb,TRUE,tested,Twin Peaks,San Bernardino County,34.263321,-117.212881
+Redlands Unified,McKinley Elementary,645 West Olive Avenue Redlands CA 92373-5167,8.4,ppb,TRUE,tested,Redlands,San Bernardino County,34.049719,-117.187832
+Adelanto Elementary,Melva Davis Academy of Excellence,15831 Diamond Rd Victorville CA 92394,NA,NA,FALSE,tested,NA,San Bernardino County,34.676276,-117.380827
+Redlands Unified,Mentone Elementary,1320 Crafton Avenue Mentone CA 92359-1318,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.070581,-117.121742
+Hesperia Unified,Mesa Grande Elementary,9172 Third Street Hesperia CA 92345-3643,8.2,ppb,TRUE,tested,Hesperia,San Bernardino County,34.419108,-117.308737
+Adelanto Elementary,Mesa Linda Middle,13001 Mesa Linda Road Victorville CA 92392-8086,NA,NA,FALSE,tested,NA,San Bernardino County,34.61924,-117.389383
+Hesperia Unified,Mesquite Trails Elementary,13884 Mesquite Hesperia CA 92345-8485,NA,NA,FALSE,tested,NA,San Bernardino County,34.397784,-117.359824
+Colton Joint Unified,Michael D'Arcy Elementary,11645 Elm Avenue Fontana CA 92337-0974,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.040757,-117.466724
+Chino Valley Unified,Michael G. Wickman Elementary,16250 Pinehurst Drive Chino Hills CA 91709-7915,6.5,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.958547,-117.710954
+San Bernardino City Unified,Middle College High,1260 West Esperanza Street San Bernardino CA 92410-2704,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.090154,-117.312621
+Rialto Unified,Milor Continuation High,266 West Randall Rialto CA 92376-6926,5.6,ppb,TRUE,tested,Rialto,San Bernardino County,34.085021,-117.374007
+Hesperia Unified,Mission Crest Elementary,13065 Muscatel Street Hesperia CA 92345-5572,NA,NA,FALSE,tested,NA,San Bernardino County,34.410362,-117.318503
+Ontario-Montclair,Mission Elementary,5555 Howard Street Ontario CA 91762-4612,NA,NA,NA,not tested,Ontario,San Bernardino County,34.051696,-117.683867
+Redlands Unified,Mission Elementary,10568 California Street Redlands CA 92373-6239,NA,NA,NA,not tested,Redlands,San Bernardino County,34.068553,-117.226309
+Ontario-Montclair,Mission Elementary School,"5555 Howard St, Ontario CA  91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.051696,-117.683867
+Redlands Unified,Mission School,10568 California St Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.068553,-117.226309
+Hesperia Unified,Mojave High,16633 Lemon Hesperia CA 92345-2133,NA,NA,NA,not tested,NA,San Bernardino County,34.445066,-117.302125
+Oro Grande Elementary,Mojave River Academy,16519 Victor Street Suite 404 Victorville CA 92395-3968,NA,NA,NA,not tested,Victorville,San Bernardino County,34.521162,-117.303947
+Victor Elementary,Mojave Vista Elementary,16100 Burwood Avenue Victorville CA 92395-9677,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.479872,-117.310746
+Barstow Unified,Montara Elementary,700 Montara Road Barstow CA 92311-5729,NA,NA,NA,not tested,NA,San Bernardino County,34.881055,-116.993881
+Chaffey Joint Union High,Montclair High,4725 Benito Street Montclair CA 91763-2705,NA,NA,NA,not tested,Montclair,San Bernardino County,34.074016,-117.70217
+Ontario-Montclair,Monte Vista Elementary,4900 Orchard Avenue Montclair CA 91763-3298,NA,NA,NA,not tested,Montclair,San Bernardino County,34.070786,-117.697657
+Ontario-Montclair,Monte Vista Elementary School,"4900 Orchard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.070486,-117.698149
+Ontario-Montclair,Monte Vista Elementary School,"4900 Orchard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.070486,-117.698149
+Ontario-Montclair,Montera Elementary,4825 Bandera Street Montclair CA 91762-4337,NA,NA,NA,not tested,Montclair,San Bernardino County,34.064868,-117.700151
+Ontario-Montclair,Montera Elementary School,"4825 Bandera, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.064868,-117.700151
+San Bernardino City Unified,Monterey Elementary,794 East Monterey Avenue San Bernardino CA 92410-6416,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.107381,-117.266819
+Morongo Unified,Monument High School,72770 Hatch Road Twentynine Palms CA 92277,NA,NA,FALSE,tested,Twentynine Palms,San Bernardino County,34.128851,-116.074496
+Redlands Unified,Moore Middle,1550 East Highland Avenue Redlands CA 92374-5518,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.051948,-117.150851
+Ontario-Montclair,Moreno Elementary,4825 Moreno Street Montclair CA 91763-1419,NA,NA,NA,not tested,Montclair,San Bernardino County,34.088638,-117.699483
+Ontario-Montclair,Moreno Elementary School,"4825 Moreno St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.088638,-117.699483
+Ontario-Montclair,Moreno Elementary School,"4825 Moreno St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.088638,-117.699483
+Rialto Unified,Morgan Elementary,1571 North Sycamore Avenue Rialto CA 92376-3665,5.7,ppb,TRUE,tested,Rialto,San Bernardino County,34.128203,-117.365994
+Adelanto Elementary,Morgan Kincaid Preparatory,13257 Mesa Linda Avenue Victorville CA 92392-7915,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.491272,-117.390503
+Morongo Unified,Morongo Valley Elementary,10951 Hess Boulevard Morongo Valley CA 92256-9727,NA,NA,FALSE,tested,NA,San Bernardino County,34.048745,-116.585254
+Rim of the World Unified,Mountain High,27614 HWY 18 Lake Arrowhead CA 92325,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.230829,-117.209695
+Mountain View Elementary,Mountain View Elementary,2825 Walnut Street Ontario CA 91761-7428,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.025808,-117.588312
+Victor Elementary,Mountain View Montessori Charter,12900 Amethyst Rd Victorville CA 92392-6393,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.486957,-117.364431
+Mt. Baldy Joint Elementary,Mt. Baldy Joint Elementary,1 Mount Baldy Road Mt. Baldy CA 91759-0489,NA,NA,FALSE,tested,NA,San Bernardino County,34.257525,-117.638579
+San Bernardino City Unified,Mt. Vernon Elementary,1271 West Tenth Street San Bernardino CA 92411-2217,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.117403,-117.313258
+San Bernardino County Office of Education,Mulberry Early Education Center,8435 Archibald Ave Rancho Cucamonga CA 91730,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.10073,-117.593363
+San Bernardino County Office of Education,Mulberry Early Education Center,8435 Archibald Ave Rancho Cucamonga  CA 91730,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.100581,-117.592346
+San Bernardino City Unified,Muscoy Elementary,2119 West Blake Street San Bernardino CA 92407-6341,NA,NA,FALSE,tested,NA,San Bernardino County,34.150618,-117.355106
+Rialto Unified,Myers Elementary,975 North Meridian Avenue Rialto CA 92376-3771,6.4,ppb,TRUE,tested,Rialto,San Bernardino County,34.11792,-117.348495
+Rialto Unified,Nancy R. Kordyak Elementary,4580 Mango Avenue Fontana CA 92336-4700,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.170555,-117.435117
+Needles Unified,Needles Community Day,109 F Street Needles CA 92363-2738,NA,NA,NA,not tested,NA,San Bernardino County,34.839349,-114.605694
+Needles Unified,Needles High,1600 Washington Street Needles CA 92363-2842,NA,NA,NA,not tested,Needles,San Bernardino County,34.840062,-114.615902
+Needles Unified,Needles Middle,720 Bailey Avenue Needles CA 92363,NA,NA,NA,not tested,NA,San Bernardino County,34.8393,-114.61786
+Chino Valley Unified,Newman Elementary,4150 Walnut Avenue Chino CA 91710-4130,NA,NA,FALSE,tested,Chino,San Bernardino County,34.026267,-117.714654
+San Bernardino County Office of Education,Norma Covert County Education Center,14079 Meadow Grove Dr. Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.505162,-117.288368
+San Bernardino City Unified,North Park Elementary,5378 North H Street San Bernardino CA 92407-2561,10.5,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.179296,-117.30132
+Bear Valley Unified,North Shore Elementary,765 North Stanfield Cutoff Big Bear Lake CA 92315-1887,NA,NA,FALSE,tested,Big Bear Lake,San Bernardino County,34.257287,-116.883266
+Fontana Unified,North Tamarind Elementary,7961 Tamarind Avenue Fontana CA 92336-2753,5.1,ppb,TRUE,tested,Fontana,San Bernardino County,34.109313,-117.422663
+San Bernardino City Unified,North Verdemont Elementary,3555 West Meyers Road San Bernardino CA 92407-1911,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.205558,-117.36647
+San Bernardino County Office of Education,Norton Space and Aeronautics Academy,503 East Central Avenue San Bernardino CA 92408-2313,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.086014,-117.275795
+Hesperia Unified,Oak Hills High,7625 Cataba Road Oak Hills CA 92344-8713,NA,NA,NA,not tested,Oak Hills,San Bernardino County,34.388503,-117.384621
+Fontana Unified,Oak Park Elementary,14200 Live Oak Avenue Fontana CA 92337-8387,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.035056,-117.497689
+Chino Valley Unified,Oak Ridge Elementary,15452 Valle Vista Drive Chino Hills CA 91709-3871,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.972986,-117.710615
+Yucaipa-Calimesa Joint Unified,Oak View High School & Education Center,12358 Sixth Street Yucaipa CA 92399-2423,6.2,ppb,TRUE,tested,Yucaipa,San Bernardino County,34.029098,-117.062169
+Ontario-Montclair,Oaks Middle,1221 South Oaks Avenue Ontario CA 91762-4742,NA,NA,NA,not tested,Ontario,San Bernardino County,34.049542,-117.676235
+Ontario-Montclair,Oaks Middle School,"1221 S. Oaks Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.049542,-117.676235
+Ontario-Montclair,Oaks Middle School,"1221 S. Oaks Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.049542,-117.676235
+Morongo Unified,Oasis Elementary,73175 El Paseo Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.135692,-116.054351
+San Bernardino City Unified,Oehl Elementary,2525 Palm Avenue Highland CA 92346-2248,NA,NA,FALSE,tested,Highland,San Bernardino County,34.106164,-117.208813
+Fontana Unified,Oleander Elementary,8650 Oleander Avenue Fontana CA 92335-7753,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.096637,-117.448968
+Morongo Unified,Onaga Elementary,58001 Onaga Yucca Valley CA 92284-6199,NA,NA,FALSE,tested,NA,San Bernardino County,34.112189,-116.404356
+Chaffey Joint Union High,Ontario High,901 West Francis Street Ontario CA 91762-6214,NA,NA,NA,not tested,Ontario,San Bernardino County,34.040913,-117.665599
+Chaffey Joint Union High School,Ontario High School,"901 West Francis St, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.040913,-117.665599
+Private,Options for Youth II,1148 East Highland Ave San Bernardino CA 92404,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.136263,-117.263249
+Private,Options for Youth-San Bernardino,985-A South E Street San Bernardino CA 92408,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.082941,-117.293375
+Victor Valley Union High,Options for Youth-Victorville Charter,15048 Bear Valley Road Victorville CA 92392-9235,NA,NA,NA,not tested,Victorville,San Bernardino County,34.470733,-117.312324
+Redlands Unified,Orangewood High (Continuation),515 Texas Street Redlands CA 92374-3071,9.4,ppb,TRUE,tested,Redlands,San Bernardino County,34.059892,-117.191475
+Oro Grande Elementary,Oro Grande Elementary,19175 Third Street Oro Grande CA 92368-0386,NA,NA,FALSE,tested,Oro Grande,San Bernardino County,34.598429,-117.332307
+San Bernardino City Unified,Paakuma K-8,17875 Sycamore Creek Loop Parkway San Bernardino CA 92407,NA,NA,FALSE,tested,NA,San Bernardino County,34.184755,-117.416523
+San Bernardino City Unified,Pacific High,1020 Pacific Street San Bernardino CA 92404-6228,8.85,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.128713,-117.265441
+San Bernardino City Unified,Palm Avenue Elementary,6565 Palm Avenue San Bernardino CA 92407-5145,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.199628,-117.354434
+Morongo Unified,Palm Vista Elementary,74350 Baseline Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.121395,-116.042372
+Fontana Unified,Palmetto Elementary,9325 Palmetto Avenue Fontana CA 92335-5904,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.084407,-117.4269
+Victor Elementary,Park View Elementary,13427 Cahuenga Road Victorville CA 92392-9706,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.494498,-117.33866
+Yucaipa-Calimesa Joint Unified,Park View Middle,34875 Tahoe Drive Yucaipa CA 92399-3334,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.053437,-117.042589
+Walnut Creek Elementary,Parkmead Elementary,1920 Magnolia Way Walnut Creek CA 94595-1715,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.145559,-117.449986
+San Bernardino City Unified,Parkside Elementary,3775 North Waterman Avenue San Bernardino CA 92404-1738,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.159764,-117.27821
+Colton Joint Unified,Paul Rogers Elementary,955 West Laurel Street Colton CA 92324-1527,5.550000000000001,ppb,TRUE,tested,Colton,San Bernardino County,34.081224,-117.3337
+Upland Unified,Pepper Tree Elementary,1045 West 18th Street Upland CA 91784-1551,NA,NA,FALSE,tested,Upland,San Bernardino County,34.128998,-117.666806
+Etiwanda Elementary,Perdew Elementary,13051 Miller Avenue Etiwanda CA 91739-9657,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.113227,-117.520562
+Snowline Joint Unified,Phelan Elementary,4167 Phelan Road Phelan CA 92371-3902,NA,NA,FALSE,tested,NA,San Bernardino County,34.42625,-117.571433
+Apple Valley Unified,Phoenix Academy,20700 Thunderbird Road Apple Valley CA 92307-3322,NA,NA,FALSE,tested,NA,San Bernardino County,34.531597,-117.215273
+Snowline Joint Unified,Pinon Hills Elementary,878 Mono Road Pinon Hills CA 92372,NA,NA,FALSE,tested,NA,San Bernardino County,34.449852,-117.627455
+Snowline Joint Unified,Pinon Mesa Middle,9298 Sheep Creek Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,San Bernardino County,34.418928,-117.572535
+Upland Unified,Pioneer Junior High,245 West 18th Street Upland CA 91784-1682,NA,NA,FALSE,tested,Upland,San Bernardino County,34.129312,-117.653981
+Fontana Unified,Poplar Elementary,9937 Poplar Avenue Fontana CA 92335-0004,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.073613,-117.462346
+Rialto Unified,Preston Elementary,1750 North Willow Avenue Rialto CA 92376-2758,5.5,ppb,TRUE,tested,Rialto,San Bernardino County,34.131779,-117.37497
+San Bernardino City Unified,Provisional Accelerated Learning Academy,2450 Blake Street San Bernardino CA 92407-6104,NA,NA,FALSE,tested,NA,San Bernardino County,34.150747,-117.355016
+Private,Public Safety Academy,1482 East Enterprise Drive San Bernardino CA 92408-0161,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.099929,-117.254338
+Victor Elementary,Puesta del Sol Elementary,15887 Academy Street Victorville CA 92392-3348,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.544418,-117.315447
+Snowline Joint Unified,Quail Valley Middle,10058 Arrowhead Road Phelan CA 92371-5506,NA,NA,FALSE,tested,NA,San Bernardino County,34.409155,-117.555049
+Ontario-Montclair,Ramona Elementary,4225 Howard Street Montclair CA 91763-6325,NA,NA,NA,not tested,Montclair,San Bernardino County,34.052144,-117.712819
+Ontario-Montclair,Ramona Elementary School,"4225 Howard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.052144,-117.712819
+Ontario-Montclair,Ramona Elementary School,"4225 Howard St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.052144,-117.712819
+Chino Valley Unified,Ramona Junior High,4575 Walnut Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.026154,-117.706123
+San Bernardino City Unified,Ramona-Alessandro Elementary,670 Ramona Avenue San Bernardino CA 92411-2526,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.111058,-117.322089
+Mountain View Elementary,Ranch View Elementary,3300 Old Archibald Road Ontario CA 91761-9165,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.012989,-117.588952
+Hesperia Unified,Ranchero Middle,17607 Ranchero Road Hesperia CA 92345-7336,NA,NA,FALSE,tested,NA,San Bernardino County,34.383185,-117.308529
+Chaffey Joint Union High,Rancho Cucamonga High,11801 Lark Drive Rancho Cucamonga CA 91701-8715,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.130584,-117.547611
+Chaffey Joint Union High School,Rancho Cucamonga High School,"11801 Lark Dr., Rancho Cucamonga, CA 91701",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.130584,-117.547611
+Cucamonga Elementary,Rancho Cucamonga Middle,10022 Feron Boulevard Rancho Cucamonga CA 91730-5233,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.093906,-117.585652
+Apple Valley Unified,Rancho Verde Elementary,14334 Pioneer Road Apple Valley CA 92307-4122,NA,NA,FALSE,tested,NA,San Bernardino County,34.512568,-117.179397
+Fontana Unified,Randall Pepper Elementary,16613 Randall Avenue Fontana CA 92335-5638,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.084768,-117.441881
+Ontario-Montclair,Ray Wiltsey Middle,1450 East G Street Ontario CA 91764-4410,NA,NA,NA,not tested,Ontario,San Bernardino County,34.070634,-117.620613
+Colton Joint Unified,Reche Canyon Elementary,3101 Canyon Vista Drive Colton CA 92324-9540,NA,NA,FALSE,tested,Colton,San Bernardino County,34.039184,-117.274485
+Redlands Unified,Redlands eAcademy,820 West Stuart Avenue Redlands CA 92374,NA,NA,NA,not tested,Redlands,San Bernardino County,34.060144,-117.192324
+Redlands Unified,Redlands East Valley High,31000 East Colton Avenue Redlands CA 92374-8290,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0628,-117.1287
+Redlands Unified,Redlands Senior High,840 East Citrus Avenue Redlands CA 92374-5399,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.055456,-117.172735
+Fontana Unified,Redwood Elementary,8570 Redwood Avenue Fontana CA 92335-3117,6.2,ppb,TRUE,tested,Fontana,San Bernardino County,34.108457,-117.484267
+Rialto Unified,Rialto Alternative (Adult) Education,324 North Palm Avenue Unit G-1 Rialto CA 92376-5828,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.105119,-117.373117
+Rialto Unified,Rialto High,595 South Eucalyptus Avenue Rialto CA 92376-7207,11,ppb,TRUE,tested,Rialto,San Bernardino County,34.09555,-117.357289
+Rialto Unified,Rialto Middle,1262 West Rialto Avenue Rialto CA 92376-5828,9.95,ppb,TRUE,tested,Rialto,San Bernardino County,34.099585,-117.395748
+Ontario-Montclair,Richard Haynes Elementary,715 West Francis Street Ontario CA 91762-6311,NA,NA,NA,not tested,Ontario,San Bernardino County,34.040955,-117.661865
+San Bernardino City Unified,Richardson Prep Hi,455 South K Street San Bernardino CA 92410-2607,6.300000000000001,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.092721,-117.307561
+Yucaipa-Calimesa Joint Unified,Ridgeview Elementary,11021 Sunnyside Drive Yucaipa CA 92399-3332,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.055956,-117.040741
+San Bernardino City Unified,Riley Elementary,1266 North G Street San Bernardino CA 92405-5011,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.122682,-117.298772
+Rim of the World Unified,Rim of the World Senior High,27400 Highway 18 Lake Arrowhead CA 92352-0430,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.231698,-117.210775
+San Bernardino City Unified,Rio Vista Elementary,1451 North California Street San Bernardino CA 92411-1558,5.1,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.125783,-117.33108
+Apple Valley Unified,Rio Vista School of Applied Learning,13590 Havasu Road Apple Valley CA 92308-6037,NA,NA,FALSE,tested,NA,San Bernardino County,34.498617,-117.250651
+Oro Grande Elementary,Riverside Preparatory,19900 National Trial HWY Oro Grande CA 92368,NA,NA,FALSE,tested,Oro Grande,San Bernardino County,34.595649,-117.336536
+Helendale Elementary,Riverview Middle School/Ace High School,13943 Rivers Edge Rd. Helendale CA 92342,NA,NA,FALSE,tested,NA,San Bernardino County,34.735052,-117.359287
+Chino Valley Unified,Robert O. Townsend Junior High,15359 Ilex Drive Chino Hills CA 91709-2524,6.5,ppb,TRUE,tested,Chino Hills,San Bernardino County,33.974259,-117.728338
+San Bernardino City Unified,Roger Anton Elementary,1501 Anton Court San Bernardino CA 92404-5400,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.12694,-117.26886
+Chino Valley Unified,Rolling Ridge Elementary,13677 Calle San Marcos Chino Hills CA 91709-4426,13,ppb,TRUE,tested,Chino Hills,San Bernardino County,34.006594,-117.746524
+San Bernardino City Unified,Roosevelt Elementary,1554 Garner Avenue San Bernardino CA 92411-1823,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.127976,-117.311255
+Chino Valley Unified,Ruben S. Ayala High,14255 Peyton Avenue Chino Hills CA 91709-1607,NA,NA,FALSE,tested,Chino Hills,San Bernardino County,33.993482,-117.731244
+Colton Joint Unified,Ruth Grimes Elementary,1609 Spruce Avenue Bloomington CA 92316-2120,5.3,ppb,TRUE,tested,Rialto,San Bernardino County,34.072306,-117.387764
+Central Elementary,Ruth Musser Middle,10789 Terra Vista Parkway Rancho Cucamonga CA 91730-7324,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.115776,-117.569887
+Central Elementary,Ruth Musser Middle School,"10789 Terra Vista Parkway   Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.115776,-117.569887
+Colton Joint Unified,Ruth O. Harris Middle,11150 Alder Avenue Bloomington CA 92316-3006,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.051532,-117.418289
+Private,Sacred Heart Academy,215 South Eureka Street Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.052196,-117.182769
+Rialto Unified,Sam V. Curtis Elementary,451 South Lilac Avenue Rialto CA 92376-2016,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.093382,-117.378968
+Rialto Unified,Samuel W. Simpson Elementary,1050 South Lilac Avenue Rialto CA 92376-7826,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.082368,-117.379125
+San Bernardino City Unified,San Andreas High,3232 East Pacific St Highland CA 92346-2499,10.1,ppb,TRUE,tested,Highland,San Bernardino County,34.12856,-117.217393
+San Bernardino County Office of Education,San Bernardino County Special Education,601 North E St San Bernardino CA 92415-0020,NA,NA,NA,not tested,San Bernardino,San Bernardino County,34.158384,-117.294007
+San Bernardino City Unified,San Bernardino High,1850 North E Street San Bernardino CA 92405,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.158384,-117.294007
+San Bernardino County Superintendent of Schools,San Bernardino Nutrition Services,1257 Northpark Blvd. W San Bernardino CA 92407,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.178366,-117.309217
+San Bernardino City Unified,San Gorgonio High,2299 East Pacific Avenue San Bernardino CA 92404-6172,5.7,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.128005,-117.23706
+Colton Joint Unified,San Salvador Preschool,471 Agua Mansa Road Colton CA 92324-3325,NA,NA,FALSE,tested,Colton,San Bernardino County,34.052444,-117.346065
+Apple Valley Unified,Sandia Elementary,21331 Sandia Road Apple Valley CA 92308-7722,NA,NA,FALSE,tested,NA,San Bernardino County,34.464228,-117.199053
+Fontana Unified,Sequoia Middle,9452 Hemlock Avenue Fontana CA 92335-5352,9.1,ppb,TRUE,tested,Fontana,San Bernardino County,34.081407,-117.475673
+Snowline Joint Unified,Serrano High,9292 Sheep Creek Road Phelan CA 92329-6000,NA,NA,FALSE,tested,NA,San Bernardino County,34.418811,-117.572535
+San Bernardino City Unified,Serrano Middle,3131 Piedmont Drive Highland CA 92346-1836,NA,NA,FALSE,tested,Highland,San Bernardino County,34.144818,-117.218375
+Ontario-Montclair,Serrano Middle School,"4725 San Jose St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.085101,-117.704224
+Ontario-Montclair,Serrano Middle School,"4725 San Jose St, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.085101,-117.704224
+Fontana Unified,Shadow Hills Elementary,14300 Shadow Drive Fontana CA 92337-0100,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.044257,-117.495082
+San Bernardino City Unified,Shandin Hills Middle,4301 Little Mountain Drive San Bernardino CA 92407-5899,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.17465,-117.314795
+San Bernardino City Unified,Sierra High,570 East Ninth Street San Bernardino CA 92410-3898,11,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.116198,-117.273679
+Fontana Unified,Sierra Lakes Elementary,5740 Avenal Place Fontana CA 92336-5673,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.148139,-117.451508
+Upland Unified,Sierra Vista Elementary,253 East 14th Street Upland CA 91786-3249,NA,NA,FALSE,tested,Upland,San Bernardino County,34.114362,-117.647994
+Victor Valley Union High,Silverado High,14048 Cobalt Road Victorville CA 92392-9316,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.506007,-117.373222
+Apple Valley Unified,Sitting Bull Academy,19445 Sitting Bull Road Apple Valley CA 92308-5002,NA,NA,FALSE,tested,NA,San Bernardino County,34.485718,-117.240942
+Victor Elementary,Sixth Street Prep,15476 Sixth Street Victorville CA 92392-3546,8,ppb,TRUE,tested,Victorville,San Bernardino County,34.465013,-117.471071
+Barstow Unified,Skyline North Elementary,36968 Camarillo Avenue Barstow CA 92311-1726,NA,NA,NA,not tested,NA,San Bernardino County,34.920374,-117.017772
+Colton Joint Unified,Slover Mountain High (Continuation),325 Hermosa Street Colton CA 92324-1901,6.9,ppb,TRUE,tested,Colton,San Bernardino County,34.070869,-117.345075
+Redlands Unified,Smiley Elementary,1210 West Cypress Avenue Redlands CA 92373-5726,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.038863,-117.192093
+Snowline Joint Unified,Snowline Adult,4075 Nielson Road Phelan CA 92371,NA,NA,NA,not tested,NA,San Bernardino County,34.418969,-117.57264
+Snowline Joint Unified,Snowline Virtual,9298 Sheep Creek Road Phelan CA 92371-8588,NA,NA,NA,not tested,NA,San Bernardino County,34.418928,-117.572535
+San Bernardino City Unified,SOAR Charter Academy,198 West Mill Street San Bernardino CA 92408-1402,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.092232,-117.287267
+Fontana Unified,South Tamarind Elementary,8561 Tamarind Avenue Fontana CA 92335-3976,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.098356,-117.422612
+Fontana Unified,Southridge Middle,14500 Live Oak Avenue Fontana CA 92337-2871,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.037646,-117.492241
+Private,St. Adelaide,27487 East Base Line Road Highland CA 92346,NA,NA,FALSE,tested,Highland,San Bernardino County,34.121274,-117.226201
+Ontario-Montclair,Sultana Elementary,1845 South Sultana Avenue Ontario CA 91761-5326,NA,NA,NA,not tested,Ontario,San Bernardino County,34.039787,-117.646037
+Ontario-Montclair,Sultana Elementary School,"1845 S. Sultana Ave, Ontario CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.039787,-117.646037
+Ontario-Montclair,Sultana Elementary School,"1845 S. Sultana Ave, Ontario CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.039787,-117.646037
+Hesperia Unified,Sultana High,17311 Sultana Avenue Hesperia CA 92345-6567,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.41046,-117.286874
+Fontana Unified,Summit High,15551 Summit Avenue Fontana CA 92336-4605,NA,NA,NA,not tested,Fontana,San Bernardino County,34.15047,-117.465367
+Etiwanda Elementary,Summit Intermediate,5959 East Avenue Etiwanda CA 91739-2217,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.135872,-117.514482
+Upland Unified,Sycamore Elementary,1075 West 13th Street Upland CA 91786-2643,NA,NA,FALSE,tested,Upland,San Bernardino County,34.111367,-117.66686
+Colton Joint Unified,Sycamore Hills Elementary,11036 Mahogany Drive Fontana CA 92337-6836,6.7,ppb,TRUE,tested,Fontana,San Bernardino County,34.053249,-117.425977
+Apple Valley Unified,Sycamore Rocks Elementary,23450 South Rd. Apple Valley CA 923072075,NA,NA,NA,not tested,Apple Valley,San Bernardino County,34.552357,-117.151843
+Fontana Unified,Ted Porter Elementary,8330 Locust Avenue Fontana CA 92335-3712,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.102467,-117.409756
+Etiwanda Elementary,Terra Vista Elementary,7497 Mountain View Drive Rancho Cucamonga CA 91730-7274,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.117191,-117.55085
+Colton Joint Unified,Terrace Hills Middle,22579 DeBerry Street Grand Terrace CA 92313-5515,6.75,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.029686,-117.312056
+Colton Joint Unified,Terrace View Elementary,22731 Grand Terrace Road Grand Terrace CA 92313-4921,10.4,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.042728,-117.308629
+Cucamonga Elementary,The Ontario Center,835 North Center Avenue Ontario CA 91764-4841,NA,NA,NA,not tested,Ontario,San Bernardino County,34.073118,-117.580885
+Adelanto Elementary,Theodore Vick Elementary,10575 Seneca Adelanto CA 92301-4221,NA,NA,NA,not tested,NA,San Bernardino County,34.513959,-117.419963
+San Bernardino City Unified,Thompson Elementary,7401 Church Avenue Highland CA 92346-3709,NA,NA,FALSE,tested,Highland,San Bernardino County,34.118597,-117.204313
+Silver Valley Unified,Tiefort View Intermediate,8700 Anzio Street Fort Irwin CA 92310-2405,NA,NA,NA,not tested,NA,San Bernardino County,35.251941,-116.691489
+Silver Valley Unified,Tiefort View Intermediate School,8700 Anzio Fort Irwin CA 92310,NA,NA,FALSE,tested,NA,San Bernardino County,35.251941,-116.691489
+Fontana Unified,Tokay Elementary,7846 Tokay Avenue Fontana CA 92336-1827,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.11244,-117.456015
+Hesperia Unified,Topaz Preparatory Academy,14110 Beech Street Hesperia CA 92345-8003,NA,NA,FALSE,tested,NA,San Bernardino County,34.432627,-117.355299
+Rialto Unified,Trapp Elementary,2750 North Riverside Avenue Rialto CA 92377-3983,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.142399,-117.376981
+Trona Joint Unified,Trona Elementary,83600 Trona Road. Trona CA 93562-2101,NA,NA,FALSE,tested,Searles Valley,San Bernardino County,35.771567,-117.369283
+Trona Joint Unified,Trona High,83600 Trona Rd Trona CA 93562-2101,NA,NA,FALSE,tested,Searles Valley,San Bernardino County,35.771567,-117.369283
+Trona Joint Unified,Trona High,83600 Trona Rd. Trona CA 93562-2101,NA,NA,NA,not tested,NA,San Bernardino County,35.770694,-117.369153
+Morongo Unified,Twentynine Palms Elementary,74350 Playa Vista Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,Twentynine Palms,San Bernardino County,34.153315,-116.039794
+Morongo Unified,Twentynine Palms High,72750 Wildcat Way Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.141834,-116.075094
+Morongo Unified,Twentynine Palms Junior High,5798 Utah Trail Twentynine Palms CA 92277-0980,NA,NA,FALSE,tested,29 Palms,San Bernardino County,34.153743,-116.036645
+Colton Joint Unified,Ulysses Grant Elementary,550 West Olive Street Colton CA 92324-1769,NA,NA,FALSE,tested,Colton,San Bernardino County,34.077527,-117.329513
+Victor Valley Union High,University Preparatory,13853 Seneca Rd Victorville CA 92392-9339,6.7,ppb,TRUE,tested,Victorville,San Bernardino County,34.51398,-117.360712
+Upland Unified,Upland Elementary,444 East 11th Street Upland CA 91786-4860,NA,NA,FALSE,tested,Upland,San Bernardino County,34.103322,-117.645723
+Upland Unified,Upland High,565 West 11th Street Upland CA 91786-4660,10,ppb,TRUE,tested,Upland,San Bernardino County,34.105288,-117.659845
+Upland Unified,Upland Junior High,444 East 11th St. Upland CA 91785-1239,NA,NA,FALSE,tested,Upland,San Bernardino County,34.103322,-117.645723
+San Bernardino City Unified,Urbita Elementary,771 South J Street San Bernardino CA 92410-2725,10,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.085615,-117.305309
+Upland Unified,Valencia Elementary,541 West 22nd Street Upland CA 91784-8914,NA,NA,FALSE,tested,Upland,San Bernardino County,34.143389,-117.657743
+Central Elementary,Valle Vista Elementary,7727 Valle Vista Drive Rancho Cucamonga CA 91730-1837,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.114221,-117.618441
+Central Elementary,Valle Vista Elementary,"7727 Valle Vista Dr.  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.114221,-117.618441
+Yucaipa-Calimesa Joint Unified,Valley Elementary,12333 Eighth Street Yucaipa CA 92399-2157,NA,NA,FALSE,tested,Yucaipa,San Bernardino County,34.029798,-117.069091
+Rim of the World Unified,Valley of Enchantment Elementary,22836 Fir Lane Crestline CA 92325,NA,NA,FALSE,tested,Crestline,San Bernardino County,34.247226,-117.305108
+Chaffey Joint Union High,Valley View High (Continuation),1801 East Sixth Street Ontario CA 91764-1599,NA,NA,NA,not tested,Ontario,San Bernardino County,34.085408,-117.614421
+Chaffey Joint Union High School,Valley View High School,"1801 east 6th St, Ontario, CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.084974,-117.613362
+Apple Valley Unified,Vanguard Preparatory,12951 Mesquite Road Apple Valley CA 92308-5433,NA,NA,FALSE,tested,NA,San Bernardino County,34.489614,-117.163836
+San Bernardino City Unified,Vermont Elementary,3695 Vermont Street San Bernardino CA 92407-6947,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.163018,-117.352858
+Ontario-Montclair,Vernon Middle,9775 Vernon Avenue Montclair CA 91763-2947,NA,NA,NA,not tested,Montclair,San Bernardino County,34.077054,-117.685086
+Ontario-Montclair,Vernon Middle School,"9775 Vernon Ave, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.077054,-117.685086
+Ontario-Montclair,Vernon Middle School,"9775 Vernon Ave, Montclair CA 91763",NA,NA,NA,exempt,Montclair,San Bernardino County,34.077054,-117.685086
+Victor Valley Union High,Victor Valley High,16500 Mojave Drive Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.529103,-117.303687
+Private,Victor Valley SDA,17137 Crestview Victorville CA 92392,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.512364,-117.290254
+Victor Valley Union High,Victor Valley Union High,12484 Tamarisk Victorville CA 92395,NA,NA,NA,not tested,Victorville,San Bernardino County,34.477938,-117.272897
+Redlands Unified,Victoria Elementary,9963 Richardson Street San Bernardino CA 92408-2965,5.65,ppb,TRUE,tested,Loma Linda,San Bernardino County,34.049327,-117.258735
+Alta Loma Elementary,Victoria Groves Elementary,10950 Emerson Alta Loma CA 91701-7539,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.129476,-117.564984
+Adelanto Elementary,Victoria Magathan Elementary,11411 Holly Road Adelanto CA 92301,NA,NA,NA,not tested,NA,San Bernardino County,34.542951,-117.415008
+San Bernardino County Office of Education,Victorville Education Center,12421 Hesperia Road Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.476797,-117.291134
+Victor Elementary,Village Elementary,14711 Mojave Drive Victorville CA 92392-4174,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.528491,-117.340539
+Ontario-Montclair,Vina Danks Middle,1020 North Vine Avenue Ontario CA 91762-1999,NA,NA,NA,not tested,Ontario,San Bernardino County,34.076497,-117.655882
+Ontario-Montclair,Vina Danks Middle School,"1020 N. Vine Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.076497,-117.655882
+Ontario-Montclair,Vina Danks Middle School,"1020 N. Vine Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.076497,-117.655882
+Ontario-Montclair,Vineyard Elementary,1500 East Sixth Street Ontario CA 91764-2113,NA,NA,NA,not tested,Ontario,San Bernardino County,34.084231,-117.623057
+Alta Loma Elementary,Vineyard Junior High,6440 Mayberry Alta Loma CA 91737-4338,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.136834,-117.58259
+Ontario-Montclair,Vineyard STEM,"1500 E. 6th St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.084818,-117.62083
+Ontario-Montclair,Vineyard STEM,"1500 E. 6th St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.084818,-117.62083
+Fontana Unified,Virginia Primrose Elementary,751 North Maple Avenue Fontana CA 92336-4802,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.109549,-117.405211
+Needles Unified,Vista Colorado Elementary,700 Bailey Avenue Needles CA 92363-2802,NA,NA,NA,not tested,NA,San Bernardino County,34.839213,-114.61786
+Ontario-Montclair,Vista Grande Elementary,1390 West Francis Street Ontario CA 91762-6014,NA,NA,NA,not tested,Ontario,San Bernardino County,34.041008,-117.67613
+Ontario-Montclair,Vista Grande Elementary School,"1390 W. Francis, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.042409,-117.675883
+Ontario-Montclair,Vista Grande Elementary School,"1390 W. Francis, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.042409,-117.675883
+Snowline Joint Unified,Vista Verde Elementary,13403 Vista Verde Drive Victorville CA 92393-1218,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.495668,-117.402941
+Chino Valley Unified,Walnut Avenue Elementary,5550 Walnut Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.026273,-117.68335
+Colton Joint Unified,Walter Zimmerman Elementary,11050 Linden Avenue Bloomington CA 92316-3118,NA,NA,FALSE,tested,NA,San Bernardino County,34.053643,-117.400852
+San Bernardino City Unified,Warm Springs Elementary,7497 Sterling Avenue San Bernardino CA 92410-4219,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.118972,-117.243565
+Colton Joint Unified,Washington High,900 East C Street Colton CA 92324-2600,6.9,ppb,TRUE,tested,Colton,San Bernardino County,34.071703,-117.312446
+Fontana Unified,Wayne Ruble Middle,6762 Juniper Avenue Fontana CA 92336-1404,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.130854,-117.440335
+Adelanto Elementary,West Creek Elementary,15763 Colbalt Road Victorville CA 92395,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.537751,-117.372687
+Etiwanda Elementary,West Heritage Elementary,13690 West Constitution Way Fontana CA 92336-3884,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.112473,-117.506208
+Victor Elementary,West Palms Conservatory,14375 Del Gado Road Victorville CA 92392-9360,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.499507,-117.342662
+Fontana Unified,West Randall Elementary,15620 Randall Avenue Fontana CA 92335-4443,12,ppb,TRUE,tested,Fontana,San Bernardino County,34.084864,-117.464133
+Adelanto Elementary,Westside Park Elementary,18270 Casaba Road Adelanto CA 92301-0070,NA,NA,NA,not tested,NA,San Bernardino County,34.580712,-117.421827
+Private,Wildwood Christian Academy,351445 Oak Glen Road Yucaipa CA 92399,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.048407,-117.038007
+Yucaipa-Calimesa Joint Unified,Wildwood Elementary,35972 Susan Street C Yucaipa CA 92399-6300,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.008874,-117.020359
+Rialto Unified,William G. Jehue Middle,1500 North Eucalyptus Avenue Colton CA 92324-6650,21,ppb,TRUE,tested,Colton,San Bernardino County,34.084759,-117.357142
+Colton Joint Unified,William McKinley Elementary,600 West Johnston Street Colton CA 92324-1322,NA,NA,FALSE,tested,Colton,San Bernardino County,34.088454,-117.331081
+Rialto Unified,Wilmer Amina Carter High,2630 North Linden Avenue Rialto CA 92377-8446,NA,NA,FALSE,tested,Rialto,San Bernardino County,34.146574,-117.403232
+San Bernardino City Unified,Wilson Elementary,2894 North Belle Street San Bernardino CA 92404-3915,8.1,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.143903,-117.279864
+Ontario-Montclair,Wiltsey Middle School,"1450 East G St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.070634,-117.620613
+Ontario-Montclair,Wiltsey Middle School,"1450 East G St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.070634,-117.620613
+Etiwanda Elementary,Windrows Elementary,6855 Victoria Park Lane Etiwanda CA 91739-0248,5.2,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.127249,-117.530006
+Chino Valley Unified,Woodcrest Junior High,2725 South Campus Avenue Ontario CA 91761-6714,NA,NA,NA,not tested,Ontario,San Bernardino County,34.022054,-117.641334
+Colton Joint Unified,Woodrow Wilson Elementary,750 South Eighth Street Colton CA 92324-3573,NA,NA,FALSE,tested,Colton,San Bernardino County,34.057989,-117.325712
+Private,Woodward Leadership Academy,1777 West Baseline Street San Bernardino CA 92411-1648,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.121271,-117.326366
+Snowline Joint Unified,Wrightwood Elementary,1175 State Highway 2 Wrightwood CA 92397,NA,NA,FALSE,tested,Wrightwood,San Bernardino County,34.361514,-117.635723
+Silver Valley Unified,Yermo Elementary,38280 Gleason Street Yermo CA 92398-0847,NA,NA,FALSE,tested,NA,San Bernardino County,34.906108,-116.824942
+Yucaipa-Calimesa Joint Unified,Yucaipa Early Childhood Education Center,35912 Avenue H Yucaipa CA 92399-5206,NA,NA,FALSE,tested,Yucaipa (City of),San Bernardino County,34.010389,-117.021448
+Yucaipa-Calimesa Joint Unified,Yucaipa High,33000 Yucaipa Boulevard Yucaipa CA 92399-1951,5.5,ppb,TRUE,tested,Yucaipa (City of),San Bernardino County,34.033977,-117.084498
+Apple Valley Unified,Yucca Loma Elementary,21351 Yucca Loma Road Apple Valley CA 92307-5844,NA,NA,FALSE,tested,NA,San Bernardino County,34.500396,-117.198589
+Morongo Unified,Yucca Mesa Elementary,3380 Avalon Avenue Yucca Valley CA 92277-9154,NA,NA,FALSE,tested,NA,San Bernardino County,34.19083,-116.387082
+Morongo Unified,Yucca Valley Elementary,7601 Hopi Trail Yucca Valley CA 92284-3394,NA,NA,FALSE,tested,NA,San Bernardino County,34.115185,-116.451168
+Morongo Unified,Yucca Valley High,7600 Sage Avenue Yucca Valley CA 92284-3624,5.7,ppb,TRUE,tested,NA,San Bernardino County,34.113093,-116.422955
+San Bernardino City Unified,Yvonne Harmon,4865 North State Street San Bernardino CA 92407-3328,12,ppb,TRUE,tested,San Bernardino,San Bernardino County,34.172716,-117.330994
+Rialto Unified,Zupanic High,266 West Randall Avenue Rialto CA 92376-6926,NA,NA,NA,not tested,Rialto,San Bernardino County,34.085121,-117.366682

@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Oro Grande Elementary,Oro Grande Elementary,19175 Third Street Oro Grande CA 92368-0386,NA,NA,FALSE,tested,Oro Grande,San Bernardino County,34.598429,-117.332307
+Oro Grande Elementary,Riverside Preparatory,19900 National Trial HWY Oro Grande CA 92368,NA,NA,FALSE,tested,Oro Grande,San Bernardino County,34.595649,-117.336536

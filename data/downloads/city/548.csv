@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Newhall,Oak Hills Elementary,26730 Old Rock Road Valencia CA 91381-0775,NA,NA,NA,not tested,Stevenson Ranch,Los Angeles County,34.404591,-118.591438
+Newhall,Stevenson Ranch Elementary,25820 North Carroll Lane Stevenson Ranch CA 91381-1100,NA,NA,NA,not tested,Stevenson Ranch,Los Angeles County,34.391157,-118.595784
+William S. Hart Union High,West Ranch High,26255 West Valencia Boulevard Valencia CA 91381-0664,NA,NA,FALSE,tested,Stevenson Ranch,Los Angeles County,34.403887,-118.596456

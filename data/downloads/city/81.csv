@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Campbell Union,Campbell Middle,295 West Cherry Lane Campbell CA 95008-3417,NA,NA,FALSE,tested,Campbell,Santa Clara County,37.283434,-121.955564
+Campbell Union,Capri Elementary,850 Chapman Avenue Campbell CA 95008-6807,NA,NA,FALSE,tested,Campbell,Santa Clara County,37.265372,-121.964893
+Campbell Union,Capri Elementary (Capri Preschool),850 Chapman Ave Campbell CA 95008-6807,NA,NA,FALSE,tested,Campbell,Santa Clara County,37.265372,-121.964893

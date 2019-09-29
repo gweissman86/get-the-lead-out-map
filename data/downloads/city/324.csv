@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Maricopa Unified,Inspire Charter School - Kern,955 Stanislaus Maricopa CA 93252-9779,NA,NA,NA,not tested,Maricopa,Kern County,35.054285,-119.403763
+Maricopa Unified,Maricopa Elementary,955 Stanislaus St Maricopa CA 93252-8231,NA,NA,FALSE,tested,Maricopa,Kern County,35.055434,-119.402739
+Maricopa Unified,Maricopa High,955 Stanislaus Street Maricopa CA 93252-8231,5.08,ppb,TRUE,tested,Maricopa,Kern County,35.055434,-119.402739
+Maricopa Unified,Maricopa Middle,955 Stanislaus Str Maricopa CA 93252-9779,NA,NA,FALSE,tested,Maricopa,Kern County,35.055434,-119.402739

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Brisbane Elementary,Brisbane Elementary,500 San Bruno Avenue Brisbane CA 94005-1671,NA,NA,FALSE,tested,NA,San Mateo County,37.680727,-122.399733
+Brisbane Elementary,Lipman Middle,1 Solano Street Brisbane CA 94005-1342,8.4,ppb,TRUE,tested,NA,San Mateo County,37.682929,-122.405222
+Brisbane Elementary,Panorama Elementary,25 Bellevue Avenue Daly City CA 94014-1423,NA,NA,FALSE,tested,Daly City,San Mateo County,37.706929,-122.437252

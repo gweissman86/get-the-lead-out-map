@@ -1,0 +1,11 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Taft Union High,Buena Vista High (Continuation),900 North 10th Street Taft CA 93268-2202,NA,NA,NA,not tested,Taft,Kern County,35.146019,-119.465042
+Taft City,Conley Elementary,623 Rose Avenue Taft CA 93268-4127,NA,NA,FALSE,tested,Taft,Kern County,35.129926,-119.458696
+Taft City,Jefferson Elementary,318 Taylor Street Taft CA 93268-1714,6.65,ppb,TRUE,tested,Taft,Kern County,35.154866,-119.46
+Taft City,Lincoln Junior High,810 Sixth Street Taft CA 93268-2306,NA,NA,FALSE,tested,Taft,Kern County,35.147695,-119.456013
+Taft City,Parkview Elementary,520 A Street Taft CA 93268-3734,NA,NA,FALSE,tested,Taft,Kern County,35.136804,-119.472424
+Taft City,Roosevelt Elementary,811 Sixth Street Taft CA 93268-2305,NA,NA,FALSE,tested,Taft,Kern County,35.147696,-119.457601
+Taft City,Taft Primary,212 Lucard Street Taft CA 93268-3214,NA,NA,FALSE,tested,Taft,Kern County,35.142386,-119.453631
+Taft Union High,Taft Union High,701 Wildcat Way Taft CA 93268-2319,NA,NA,NA,not tested,Taft,Kern County,35.146338,-119.460482
+Kern County Office of Education,West Kern Community School,301 North Street Taft CA 93268,NA,NA,NA,not tested,Taft,Kern County,35.140832,-119.455869
+West Park Elementary,West Side ROP,515 9th Street Taft CA 93268-2715,NA,NA,NA,not tested,Taft,Kern County,35.145547,-119.46411

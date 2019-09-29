@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Manteca Unified,"Joseph Widmer, Jr., Elementary",751 Stonebridge Lane Lathrop CA 95330-8928,NA,NA,FALSE,tested,Lathrop,San Joaquin County,37.83762,-121.280408
+Manteca Unified,Lathrop Elementary,15851 South Fifth Street Lathrop CA 95330-0160,NA,NA,FALSE,tested,Lathrop,San Joaquin County,37.817609,-121.279261
+Manteca Unified,Lathrop High,647 West Lathrop Road Lathrop CA 95330-9770,NA,NA,FALSE,tested,Lathrop,San Joaquin County,37.826309,-121.285733
+Manteca Unified,Mossdale Elementary,455 Brookhurst Boulevard Lathrop CA 95330-8688,NA,NA,FALSE,tested,Lathrop,San Joaquin County,37.801953,-121.306307
+Banta Elementary,NextGeneration STEAM Academy,18001 Commercial Street Lathrop CA 95330-8543,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.796726,-121.319138
+San Joaquin County Office of Education,River Islands Technology Academy II,1175 Marina Drive Lathrop CA 95330-8543,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.799546,-121.318831

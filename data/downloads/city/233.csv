@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hesperia Unified,Canyon Ridge High,12850 Muscatel Avenue Hesperia CA 92344-5566,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.412525,-117.381799
+Hesperia Unified,Eucalyptus Elementary,11224 Tenth Avenue Hesperia CA 92345-2302,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.454462,-117.318768
+Hesperia Unified,Joshua Circle Elementary,10140 Eighth Avenue Hesperia CA 92345-2801,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.434607,-117.316738
+Hesperia Unified,Maple Elementary,10616 Maple Street Hesperia CA 92345-2436,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.443833,-117.347666
+Hesperia Unified,Mesa Grande Elementary,9172 Third Street Hesperia CA 92345-3643,8.2,ppb,TRUE,tested,Hesperia,San Bernardino County,34.419108,-117.308737
+Hesperia Unified,Sultana High,17311 Sultana Avenue Hesperia CA 92345-6567,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.41046,-117.286874

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Bear Valley Unified,Baldwin Lane Elementary,44500 Baldwin Lane Big Bear City CA 92314,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.251074,-116.830062
+Bear Valley Unified,Big Bear High,351 Maple Lane Big Bear City CA 92314-9700,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.25581,-116.825138
+Bear Valley Unified,Chautauqua High (Continuation),525 Maple LN Big Bear City CA 92314,NA,NA,FALSE,tested,Big Bear,San Bernardino County,34.251671,-116.825117

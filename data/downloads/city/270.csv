@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Norwalk-La Mirada Unified,Arlie F. Hutchinson Middle,13900 Estero Road La Mirada CA 90638-3615,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.904473,-118.024705
+Norwalk-La Mirada Unified,Eastwood Elementary,15730 Pescados Drive La Mirada CA 90638-4999,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.89745,-117.995794
+Norwalk-La Mirada Unified,Escalona Elementary,15135 Escalona Road La Mirada CA 90638-4601,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.894213,-118.011724
+Norwalk-La Mirada Unified,Foster Road Elementary,13930 East Foster Road La Mirada CA 90638-2820,NA,NA,NA,not tested,La Mirada,Los Angeles County,33.909125,-118.034115
+Norwalk-La Mirada Unified,Gardenhill Elementary,14607 East Gardenhill Drive La Mirada CA 90638-2099,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.911132,-118.022972
+East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.923397,-118.002488
+Norwalk-La Mirada Unified,Grow & Learn Center,14540 San Cristobal Road La Mirada CA 90638,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.898036,-118.022902
+Private,"Heights Christian Schools, Bluefield Campus",12900 Bluefield Avenue La Mirada CA 90638,7.7,ppb,TRUE,tested,La Mirada,Los Angeles County,33.914311,-118.007616
+Norwalk-La Mirada Unified,John Foster Dulles Elementary,12726 Meadowgreen Road La Mirada CA 90638-2637,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.915194,-117.989778
+Norwalk-La Mirada Unified,La Mirada High,13520 Adelfa Drive La Mirada CA 90638-3103,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9085,-118.004163
+Norwalk-La Mirada Unified,La Pluma Elementary,14420 La Pluma Drive La Mirada CA 90638-4029,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.901864,-118.001139
+Norwalk-La Mirada Unified,Los Coyotes Middle,14640 Mercado Avenue La Mirada CA 90638-4210,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.898577,-117.990351
+Norwalk-La Mirada Unified,Reginald M. Benton Middle,15709 East Olive Branch Road La Mirada CA 90638-2435,NA,NA,NA,not tested,La Mirada,Los Angeles County,33.913366,-117.996758

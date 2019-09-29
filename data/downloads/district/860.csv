@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Weaver Union,Farmdale Elementary,100 Winder Avenue Merced CA 95341-8855,NA,NA,FALSE,tested,Merced,Merced County,37.277164,-120.477899
+Weaver Union,Pioneer Elementary,2950 Gerard Avenue Merced CA 95341-5433,NA,NA,FALSE,tested,NA,Merced County,37.388127,-120.614124
+Weaver Union,Weaver Middle,3076 East Childs Avenue Merced CA 95341-9583,NA,NA,FALSE,tested,Merced,Merced County,37.289773,-120.43124

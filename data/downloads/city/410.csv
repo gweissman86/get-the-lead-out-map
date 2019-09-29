@@ -1,0 +1,32 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,AGBU Vatche and Tamar Manoukian High School,2495 East Mountain Street Pasadena CA 91104,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.161623,-118.100106
+Pasadena Unified,Blair High,1201 South Marengo Avenue Pasadena CA 91106-4265,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.126458,-118.146174
+Pasadena Unified,Blair Middle School,1201 S Marengo Ave Pasadena CA 91106,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.126458,-118.146174
+Private,Chandler School,1005 Armada Drive Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.159451,-118.162849
+Pasadena Unified,Cleveland Elementary,524 Palisade Street Pasadena CA 91103-2056,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.171212,-118.162918
+Pasadena Unified,Daniel Webster,2101 East Washington Boulevard Pasadena CA 91104-1899,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.168946,-118.137123
+Pasadena Unified,Don Benito Fundamental,3700 Denair Street Pasadena CA 91107-1303,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.171178,-118.072203
+LAUSD,EAST LA REGIONAL SCIENCE CENTER,"961 S EUCLID AVE, LOS ANGELES,    CA 90023",NA,NA,NA,exempt,Pasadena,Los Angeles County,34.129092,-118.142859
+Pasadena Unified,Field (Eugene) Elementary,3600 Sierra Madre Boulevard Pasadena CA 91107-1969,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.161613,-118.075703
+Pasadena Unified,Hamilton Elementary,2089 Rose Villa Street Pasadena CA 91107-5078,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.140888,-118.108228
+Pasadena Unified,Jefferson Elementary,1500 East Villa Street Pasadena CA 91106-1322,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.154264,-118.119481
+Pasadena Unified,Learning Works,90 North Daisy Avenue Pasadena CA 91107-3704,NA,NA,NA,not tested,Pasadena,Los Angeles County,34.147758,-118.092908
+LAUSD,LOGAN ELEMENTARY,"1711 W MONTANA ST, LOS ANGELES,    CA 90026",NA,NA,NA,exempt,Pasadena,Los Angeles County,34.180826,-118.162987
+Los Angeles Unified,Logan Street Elementary,1711 West Montana Street Los Angeles CA 90026-3311,NA,NA,NA,not tested,Pasadena,Los Angeles County,34.180826,-118.162987
+Pasadena Unified,Longfellow (Henry W.) Elementary,1065 East Washington Boulevard Pasadena CA 91104-2498,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.169856,-118.128437
+Pasadena Unified,Madison Elementary,515 Ashtabula Street Pasadena CA 91104-4306,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.159083,-118.143786
+Pasadena Unified,Marshall Fundamental,990 North Allen Avenue Pasadena CA 91104-4025,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.163105,-118.113
+Pasadena Unified,McKinley,325 South Oak Knoll Avenue Pasadena CA 91101-3418,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.141237,-118.135271
+Private,New Horizon School Pasadena,651 North Orange Grove Boulevard Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.154713,-118.156366
+Pasadena Unified,Norma Coombs Elementary,2600 Paloma Street Pasadena CA 91107-2642,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.159225,-118.098312
+William S. Hart Union High,Opportunities for Learning - Santa Clarita,320 North Halstead Strt Suite 200 Pasadena CA 91107-3151,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.152229,-118.078661
+Pasadena Unified,Pasadena High,2925 East Sierra Madre Blvd Pasadena CA 91107-1846,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.16354,-118.092256
+Private,Polytechnic School,1030 East California Boulevard Pasadena CA 91106,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.135828,-118.12904
+Pasadena Unified,Roosevelt,315 North Pasadena Avenue Pasadena CA 91103-3567,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.151486,-118.157323
+Pasadena Unified,Rose City High (Continuation),351 Hudson Avenue Pasadena CA 91109-3507,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.13963,-118.134121
+Pasadena Unified,San Rafael Elementary,1090 Nithsdale Road Pasadena CA 91105-1499,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.137119,-118.172975
+Private,St. Andrew Elementary,42 Chestnut Street Pasadena CA 91103,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.150325,-118.14982
+Pasadena Unified,Washington Accelerated Elementary,1520 North Raymond Avenue Pasadena CA 91103-1819,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.171637,-118.149022
+Pasadena Unified,Washington Middle,1505 North Marengo Avenue Pasadena CA 91103-1813,8.1,ppb,TRUE,tested,Pasadena,Los Angeles County,34.171181,-118.146257
+Pasadena Unified,Willard Elementary,301 South Madre Street Pasadena CA 91107-4635,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.14211,-118.08165
+Pasadena Unified,Woodrow Wilson Middle,300 South Madre Avenue Pasadena CA 91107-4634,NA,NA,FALSE,tested,Pasadena,Los Angeles County,34.141307,-118.080964

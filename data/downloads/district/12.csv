@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alpaugh Unified,Alpaugh Elementary,5313 Rd 39 Alpaugh CA 93201-0009,NA,NA,FALSE,tested,Alpaugh,Tulare County,35.887343,-119.486357
+Alpaugh Unified,Alpaugh Junior-Senior High,5313 Road 39 Alpaugh CA 93201-0009,NA,NA,NA,not tested,Alpaugh,Tulare County,35.887343,-119.486357
+Alpaugh Unified,Tule Continuation High,Avenue 52 and Boswell Avenue Alpaugh CA 93201-0009,NA,NA,FALSE,tested,Alpaugh,Tulare County,35.884149,-119.487351

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Rowland Unified,John A. Rowland High,2000 South Otterbein Street Rowland Heights CA 91748-3949,NA,NA,FALSE,tested,Rowland Heights,Los Angeles County,33.981874,-117.884849
+Rowland Unified,Killian Elementary,19100 East Killian Street Rowland Heights CA 91748-3941,NA,NA,FALSE,tested,Rowland Heights,Los Angeles County,33.981012,-117.886993
+Rowland Unified,Shelyn Elementary,19500 East Nacora Street Rowland Heights CA 91748-3133,5.02,ppb,TRUE,tested,Rowland Heights,Los Angeles County,33.981641,-117.875728

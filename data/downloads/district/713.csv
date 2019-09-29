@@ -1,0 +1,13 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Rosa Elementary,Abraham Lincoln Elementary,850 West Ninth Street Santa Rosa CA 95401-5349,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.441288,-122.737188
+Santa Rosa Elementary,Albert F. Biella Elementary,2140 Jennings Avenue Santa Rosa CA 95401-9528,11.7,ppb,TRUE,tested,Santa Rosa,Sonoma County,38.449804,-122.755566
+Santa Rosa Elementary,Brook Hill Elementary,1850 Vallejo Street Santa Rosa CA 95404-5399,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.437554,-122.692451
+Santa Rosa Elementary,Cesar Chavez Language Academy,2750 West Steele Lane Santa Rosa CA 95403-3236,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.459653,-122.747006
+Santa Rosa Elementary,Helen M. Lehman Elementary,1700 Jennings Avenue Santa Rosa CA 95401-4556,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.449675,-122.745082
+Santa Rosa Elementary,Hidden Valley Elementary,3435 Bonita Vista Drive Santa Rosa CA 95404-1573,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.473291,-122.700396
+Santa Rosa Elementary,James Monroe Elementary,2567 Marlow Road Santa Rosa CA 95403-2473,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.456877,-122.752207
+Santa Rosa Elementary,Kid Street Learning Center Charter,709 Davis Street Santa Rosa CA 95401-4767,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.440998,-122.722068
+Santa Rosa Elementary,Luther Burbank Elementary,203 South A Street Santa Rosa CA 95401-6302,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.43493,-122.715418
+Santa Rosa Elementary,Proctor Terrace Elementary,1711 Bryden Lane Santa Rosa CA 95404-3646,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.451668,-122.698978
+Santa Rosa Elementary,Santa Rosa French-American Charter (SRFACS),1350 Sonoma Avenue Santa Rosa CA 95405-6623,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.441743,-122.697472
+Santa Rosa Elementary,Steele Lane Elementary,301 Steele Lane Santa Rosa CA 95403-3148,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.460548,-122.720485

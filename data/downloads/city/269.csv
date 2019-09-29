@@ -1,0 +1,26 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Cajon Valley Union,Avocado Elementary,3845 Avocado School Road La Mesa CA 91941-7319,NA,NA,FALSE,tested,La Mesa,San Diego County,32.750637,-116.959827
+San Diego Unified,Benchley/Weinberger Elementary,6269 Twin Lake Drive San Diego CA 92119-3051,NA,NA,FALSE,tested,La Mesa,San Diego County,32.794213,-117.03119
+Private,Christ Lutheran Elementary,7929 La Mesa Boulevard La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.764886,-117.026574
+San Diego Unified,Clay Elementary,6506 Solita Avenue San Diego CA 92115-4244,10.5,ppb,TRUE,tested,La Mesa,San Diego County,32.763605,-117.057842
+Mountain Empire Unified,College Preparatory Middle,5150 Jackson Drive La Mesa CA 91942-9001,NA,NA,NA,not tested,La Mesa,San Diego County,32.777802,-117.018335
+Grossmont Union High,Grossmont High,1100 Murray Drive La Mesa CA 91944-1043,NA,NA,FALSE,tested,La Mesa,San Diego County,32.780012,-116.99982
+Grossmont Union High,Helix High,7323 University Avenue La Mesa CA 91941-6055,NA,NA,FALSE,tested,La Mesa,San Diego County,32.768476,-117.014566
+Julian Union Elementary,"Julian charter School, Innovation Centre La Mesa",5300 Jackson Drive La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.775649,-117.013906
+La Mesa-Spring Valley,La Mesa Arts Academy,4200 Parks Avenue La Mesa CA 91942-6212,10,ppb,TRUE,tested,La Mesa,San Diego County,32.755398,-117.030379
+La Mesa-Spring Valley,La Mesa Dale Elementary,4370 Parks Avenue La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.757715,-117.032242
+La Mesa-Spring Valley,La Mesa-Spring Valley Home Independent Study,4811 Glen Street La Mesa CA 91942-5474,NA,NA,FALSE,tested,La Mesa,San Diego County,32.766466,-117.008799
+San Diego Unified,Learning Choice Academy,4215 Spring Street Suite A-104 La Mesa CA 91941-7983,NA,NA,FALSE,tested,La Mesa,San Diego County,32.755668,-117.013547
+La Mesa-Spring Valley,Lemon Avenue Elementary,8787 Lemon Avenue La Mesa CA 91941-5214,10,ppb,TRUE,tested,La Mesa,San Diego County,32.768121,-117.008403
+La Mesa-Spring Valley,Maryland Avenue Elementary,5400 Maryland Avenue La Mesa CA 91941-5214,13,ppb,TRUE,tested,La Mesa,San Diego County,32.777703,-117.03826
+Private,Mt. Helix Academy,5955 Severin Drive La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.786784,-116.998738
+La Mesa-Spring Valley,Murdock Elementary,4354 Conrad Drive La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.759278,-116.985668
+La Mesa-Spring Valley,Murray Manor Elementary,8305 El Paso Street La Mesa CA 91942-2704,NA,NA,FALSE,tested,La Mesa,San Diego County,32.788322,-117.019807
+La Mesa-Spring Valley,Northmont Elementary,9405 Gregory Street La Mesa CA 91942-3811,NA,NA,FALSE,tested,La Mesa,San Diego County,32.790843,-116.993913
+La Mesa-Spring Valley,Parkway Middle,9009 Park Plaza Drive La Mesa CA 91942-3400,NA,NA,FALSE,tested,La Mesa,San Diego County,32.79096,-117.004905
+La Mesa-Spring Valley,Rolando Elementary,6925 Tower Street La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.763159,-117.048704
+Private,Shepherd of the Hills Lutheran,9191 Fletcher Parkway La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.794061,-117.00157
+Private,St. Martin of Tours Academy,7708 El Cajon Boulevard La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.768524,-117.031682
+Private,Trinity Christian School,3902 Kenwood Drive Spring Valley CA 91977,NA,NA,FALSE,tested,La Mesa,San Diego County,32.74977,-117.007455
+Lemon Grove,Vista La Mesa Academy,3900 Violet Street La Mesa CA 91941-7542,NA,NA,FALSE,tested,La Mesa,San Diego County,32.748522,-117.045
+Private,Warren-Walker School/La Mesa,5150 Wilson Street La Mesa CA 91941,NA,NA,FALSE,tested,La Mesa,San Diego County,32.773075,-117.007159

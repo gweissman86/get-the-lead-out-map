@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Vineland Elementary,Sunset Middle School,8001 WeedPatch Hwy Bakersfield CA 93307,NA,NA,FALSE,tested,NA,Kern County,35.238017,-118.9151
+Vineland Elementary,Vineland Elementary,14327 S. Vineland Road Bakersfield CA 93307-9463,NA,NA,FALSE,tested,Bakersfield,Kern County,35.22454,-118.894978

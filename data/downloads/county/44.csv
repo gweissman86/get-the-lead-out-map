@@ -1,0 +1,80 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Santa Cruz City High,Alternative Family Education,840 North Branciforte Avenue Santa Cruz CA 95062-1028,6.6,ppb,TRUE,tested,Santa Cruz,Santa Cruz County,36.980568,-122.014299
+Pajaro Valley Unified,Amesti Elementary,25 Amesti Road Watsonville CA 95076-1121,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.945805,-121.76882
+Pajaro Valley Unified,Ann Soldo Elementary,1140 Menasco Drive Watsonville CA 95076-3454,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.925743,-121.743482
+Pajaro Valley Unified,Aptos Junior High,1001 Huntington Drive Aptos CA 95003-4104,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.977334,-121.882588
+Santa Cruz City High,Ark Independent Studies,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.980568,-122.014299
+Santa Cruz City Elementary,Bay View Elementary,1231 Bay Street Santa Cruz CA 95060-4708,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.965623,-122.039005
+San Lorenzo Valley Unified,Boulder Creek Elementary,400 Lomond Street Boulder Creek CA 95006-9274,NA,NA,FALSE,tested,NA,Santa Cruz County,37.123334,-122.121782
+Pajaro Valley Unified,Bradley Elementary,321 Corralitos Road Watsonville CA 95076-0522,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.976029,-121.807852
+Santa Cruz City High,Branciforte Middle,315 Poplar Street Santa Cruz CA 95062-1131,NA,NA,FALSE,tested,NA,Santa Cruz County,36.977863,-121.918524
+Scotts Valley Unified,Brook Knoll Elementary,151 Brook Knoll Drive Santa Cruz CA 95060-1342,NA,NA,FALSE,tested,NA,Santa Cruz County,37.017663,-122.030286
+Pajaro Valley Unified,Calabasas Elementary,202 Calabasas Road Watsonville CA 95076-1039,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.944161,-121.792828
+Pajaro Valley Unified,Ceiba College Preparatory Academy,260 West Riverside Drive Watsonville CA 95076,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.904626,-121.760579
+Pajaro Valley Unified,Cesar E. Chavez Middle,440 Arthur Road Watsonville CA 95076-3701,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.92259,-121.770178
+Santa Cruz City High,Costanoa Continuation High,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.980568,-122.014299
+Live Oak Elementary,Cypress Charter High,2039 Merrill Street Santa Cruz CA 95062-4176,NA,NA,FALSE,tested,NA,Santa Cruz County,36.965,-121.983116
+Santa Cruz City Elementary,De Laveaga Elementary,1145 Morrissey Boulevard Santa Cruz CA 95065-1498,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.989743,-121.994825
+Live Oak Elementary,Del Mar Elementary,1959 Merrill Street Santa Cruz CA 95062-4102,NA,NA,FALSE,tested,NA,Santa Cruz County,36.965059,-121.985736
+Santa Cruz City High,Delta Charter,6500 Soquel Drive Building 1190 Aptos CA 95003-3119,NA,NA,NA,not tested,Aptos,Santa Cruz County,36.987611,-121.925901
+Pajaro Valley Unified,Diamond Technology Institute,112 Diamond Drive Watsonville CA 95076-3184,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.923888,-121.772392
+Pajaro Valley Unified,E. A. Hall Middle,201 Brewington Avenue Watsonville CA 95076-4022,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.919409,-121.75241
+Pajaro Valley Unified,Freedom Elementary,25 Holly Drive Freedom CA 95019-2606,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.931182,-121.782182
+Santa Cruz City Elementary,Gault Elementary,1320 Seabright Avenue Santa Cruz CA 95062-2525,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.975645,-122.008589
+Private,Good Shepherd Catholic School,2727 Mattison Lane Santa Cruz CA 95605,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.985017,-121.974286
+Live Oak Elementary,Green Acres Elementary,966 Bostwick Lane Santa Cruz CA 95062-1700,NA,NA,FALSE,tested,NA,Santa Cruz County,36.984176,-121.987261
+Pajaro Valley Unified,H. A. Hyde Elementary,125 Alta Vista Street Watsonville CA 95076-3117,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.926092,-121.768786
+Santa Cruz City High,Harbor High,300 La Fonda Avenue Santa Cruz CA 95062-1431,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.986869,-121.994697
+Pajaro Valley Unified,Lakeview Middle,2350 East Lake Avenue Watsonville CA 95076-1427,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.922399,-121.746922
+Pajaro Valley Unified,Landmark Elementary,235 Ohlone Parkway Watsonville CA 95076-6684,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.914222,-121.778399
+Pajaro Valley Unified,Linscott Charter,220 Elm Street Watsonville CA 95076-5025,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.910331,-121.750647
+Live Oak Elementary,Live Oak Elementary,1916 Capitola Road Santa Cruz CA 95062-3011,7.45,ppb,TRUE,tested,NA,Santa Cruz County,36.975588,-121.981372
+San Lorenzo Valley Unified,Ludlow Preschool,7101 Highway 9 Felton CA 95018-9718,NA,NA,NA,not tested,NA,Santa Cruz County,37.040112,-122.07108
+Soquel Union Elementary,Main Street Elementary,3400 North Main Street Soquel CA 95073-2212,NA,NA,FALSE,tested,Soquel,Santa Cruz County,36.992859,-121.952467
+Pajaro Valley Unified,Mar Vista Elementary,6860 Soquel Drive Aptos CA 95003-3225,5.6,ppb,TRUE,tested,NA,Santa Cruz County,36.986773,-121.919744
+Pajaro Valley Unified,Mintie White Elementary,515 Palm Avenue Watsonville CA 95076-3942,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.919255,-121.753858
+Santa Cruz City High,Mission Hill Middle,425 King Street Santa Cruz CA 95060-3411,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.974836,-122.036135
+Soquel Union Elementary,New Brighton Middle,250 Washburn Avenue Capitola CA 95010-3799,13,ppb,TRUE,tested,Capitola,Santa Cruz County,36.977381,-121.947293
+Pajaro Valley Unified,New School Community Day,165 Harkins Slough Road Watsonville CA 95076-4124,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.913872,-121.773305
+Live Oak Elementary,Ocean Alternative Education Center,"984 Bostwick Lane, Suite 6 Santa Cruz CA 95062-1775",NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.983933,-121.985772
+San Lorenzo Valley Unified,Ocean Grove Charter,16900 North Highway Nine Boulder Creek CA 95006,6.4,ppb,TRUE,tested,Boulder Creek,Santa Cruz County,37.168378,-122.135039
+Soquel Union Elementary,Opal Cliffs,4510 Jade Street Capitola CA 95010-3957,NA,NA,FALSE,tested,Capitola,Santa Cruz County,36.970289,-121.962612
+Pajaro Valley Unified,Pacific Coast Charter,294 Green Valley Road Watsonville CA 95076-1300,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.939625,-121.770015
+Santa Cruz County Office of Education,Pacific Collegiate Charter,255 Swift Street Santa Cruz CA 95060-6225,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.952633,-122.048088
+Pacific Elementary,Pacific Elementary,50 Ocean Street Davenport CA 95017,NA,NA,NA,not tested,NA,Santa Cruz County,37.01176,-122.194613
+Pajaro Valley Unified,Pajaro Valley High,500 Harkins Slough Road Watsonville CA 95076-9453,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.914566,-121.786553
+Pajaro Valley Unified,Radcliff Elementary,550 Rodriguez Street Watsonville CA 95076-4210,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.910907,-121.761165
+Pajaro Valley Unified,Rio del Mar Elementary,819 Pinehurst Drive Aptos CA 95003-5737,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.959623,-121.876631
+Pajaro Valley Unified,Rolling Hills Middle,130 Herman Avenue Watsonville CA 95076-2920,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.924595,-121.784717
+San Lorenzo Valley Unified,San Lorenzo Valley Elementary,7155 Highway 9 Felton CA 95018-9718,NA,NA,FALSE,tested,NA,Santa Cruz County,37.040112,-122.07108
+San Lorenzo Valley Unified,San Lorenzo Valley High,7105 Highway 9 Felton CA 95018-9718,NA,NA,FALSE,tested,NA,Santa Cruz County,37.040112,-122.07108
+San Lorenzo Valley Unified,San Lorenzo Valley Middle,7179 Hacienda Way Felton CA 95018-9340,NA,NA,FALSE,tested,Felton,Santa Cruz County,37.064047,-122.082202
+Santa Cruz City High,Santa Cruz Adult,319 La Fonda Avenue Santa Cruz CA 95062,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987064,-121.994644
+Santa Cruz City Elementary,Santa Cruz City Elementary Alternative Education-Monarch,840 North Branciforte Avenue Santa Cruz CA 95062-1028,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.980568,-122.014299
+Santa Cruz County Office of Education,Santa Cruz County Community,400 Encinal Street Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073,-122.035516
+Santa Cruz County Office of Education,Santa Cruz County Court,400 Encinal Street Santa Cruz CA 95060,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073,-122.035516
+Santa Cruz County ROP,Santa Cruz County ROP,400 Encinal Street B Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073,-122.035516
+Santa Cruz County Office of Education,Santa Cruz County Special Education,400 Encinal St. Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073,-122.035516
+Soquel Union Elementary,Santa Cruz Gardens Elementary,8005 Winkle Avenue Santa Cruz CA 95065-1149,NA,NA,FALSE,tested,NA,Santa Cruz County,37.003251,-121.976591
+Santa Cruz City High,Santa Cruz High,415 Walnut Avenue Santa Cruz CA 95060-3633,24,ppb,TRUE,tested,Santa Cruz,Santa Cruz County,36.97184,-122.03334
+Private,Santa Cruz Montessori,6230 Soquel Drive Aptos CA 95003,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.989349,-121.932129
+Scotts Valley Unified,Scotts Valley High,555 Glenwood Drive Scotts Valley CA 95066-3262,NA,NA,FALSE,tested,Scotts Valley,Santa Cruz County,37.071045,-122.004829
+Scotts Valley Unified,Scotts Valley Middle,8 Bean Creek Road Scotts Valley CA 95066-4109,NA,NA,FALSE,tested,Scotts Valley,Santa Cruz County,37.062215,-122.017835
+Live Oak Elementary,Shoreline Middle,855 17th Avenue Santa Cruz CA 95062-4169,NA,NA,FALSE,tested,NA,Santa Cruz County,36.967128,-121.985495
+San Lorenzo Valley Unified,SLVUSD Charter,7101 Highway Nine Felton CA 95018-9718,NA,NA,FALSE,tested,Felton,Santa Cruz County,37.061681,-122.080122
+San Lorenzo Valley Unified,SLVUSD Home and Hospital,325 Marion Avenue Ben Lomond CA 95005-9403,NA,NA,FALSE,tested,NA,Santa Cruz County,37.084,-122.074165
+Soquel Union Elementary,Soquel Elementary,2700 Porter Street Soquel CA 95073-2421,NA,NA,FALSE,tested,NA,Santa Cruz County,36.985174,-121.957221
+Santa Cruz City High,Soquel High,401 Old San Jose Road Soquel CA 95073-2213,NA,NA,FALSE,tested,NA,Santa Cruz County,36.992659,-121.957341
+Live Oak Elementary,Special Education Preschool,"984 Bostwick Lane, Suite 1 Santa Cruz CA 95062-1775",NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.983644,-121.985578
+Private,St. Abraham's Classical Christian Academy,1940 Bonita Drive Aptos CA 95003,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.958113,-121.864667
+Pajaro Valley Unified,Starlight Elementary,225 Hammer Drive Watsonville CA 95076-3160,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.921259,-121.771542
+Pajaro Valley Unified,T. S. MacQuiddy Elementary,330 Martinelli Street Watsonville CA 95076-2810,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.926143,-121.751209
+Private,Tara Redwood School,4746 Soquel Avenue Soquel CA 95073,NA,NA,FALSE,tested,Soquel,Santa Cruz County,36.988208,-121.956421
+Live Oak Elementary,Tierra Pacifica Charter,986 Bostwick Lane Santa Cruz CA 95062-1756,NA,NA,FALSE,tested,NA,Santa Cruz County,36.983465,-121.985846
+Private,Twin Lakes Christian,2701 Cabrillo College Drive Aptos CA 95003,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.985145,-121.928582
+Pajaro Valley Unified,Valencia Elementary,250 Aptos School Road Aptos CA 95003-4078,NA,NA,FALSE,tested,NA,Santa Cruz County,36.977007,-121.894175
+Scotts Valley Unified,Vine Hill Elementary,151 Vine Hill School Road Scotts Valley CA 95066-3211,NA,NA,FALSE,tested,Scotts Valley,Santa Cruz County,37.067817,-121.998805
+Pajaro Valley Unified,Watsonville Child Care Center,32 Madison Street Watsonville CA 95076,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.916448,-121.75325
+Pajaro Valley Unified,Watsonville High,250 East Beach Street Watsonville CA 95076-4831,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.91344,-121.752648
+Pajaro Valley Unified,Watsonville/Aptos Adult Education,294 Green Valley Rd Watsonville CA 95076-4210,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.939625,-121.770015
+Santa Cruz City Elementary,Westlake Elementary,1000 High Street Santa Cruz CA 95060-2596,NA,NA,FALSE,tested,Santa Cruz,Santa Cruz County,36.977915,-122.047988

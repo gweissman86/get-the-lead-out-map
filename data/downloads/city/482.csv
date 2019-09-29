@@ -1,0 +1,15 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Los Angeles Unified,Cesar E. Chavez Learning Academies-Teacher Preparation Academy,1001 Arroyo Ave B San Fernando CA 91340-1817,NA,NA,NA,not tested,San Fernando,Los Angeles County,34.288673,-118.420839
+LAUSD,CESAR E. CHAVEZ LEARNING ACADEMY (FRM: VRHS #5),"1001 ARROYO AVE, SAN FERNANDO, CA 91340",NA,NA,NA,exempt,San Fernando,Los Angeles County,34.288514,-118.421011
+Los Angeles Unified,Cesar E. Chavez Learning Academy - Arts/Theatre/Entertain Mag,1001 Arroyo Ave C San Fernando CA 91340-1817,NA,NA,NA,not tested,San Fernando,Los Angeles County,34.288673,-118.420839
+LAUSD,GRIDLEY ELEMENTARY,"1907 EIGHTH ST, SAN FERNANDO,   CA 91340",NA,NA,NA,exempt,San Fernando,Los Angeles County,34.302597,-118.429123
+Los Angeles Unified,Gridley Street Elementary,1907 Eighth Street San Fernando CA 91340-1009,NA,NA,NA,not tested,San Fernando,Los Angeles County,34.302597,-118.429123
+LAUSD,MORNINGSIDE ELEMENTARY,"576 N MACLAY AVE, SAN FERNANDO,   CA 91340",NA,NA,NA,exempt,San Fernando,Los Angeles County,34.288222,-118.43388
+Los Angeles Unified,Morningside Elementary,576 North Maclay Avenue San Fernando CA 91340-2497,NA,NA,NA,not tested,San Fernando,Los Angeles County,34.288222,-118.43388
+Los Angeles Unified,PUC Early College Academy for Leaders and Scholars (ECALS),2050 San Fernando Los Angeles CA 90065-1267,NA,NA,NA,not tested,San Fernando,Los Angeles County,34.281946,-118.438972
+Los Angeles Unified,PUC Inspire Charter Academy,919 Eighth Street San Fernando CA 91340-1312,NA,NA,FALSE,tested,San Fernando,Los Angeles County,34.295469,-118.422564
+Los Angeles Unified,PUC Nueva Esperanza Charter Academy,1218 North Fourth Street San Fernando CA 91340-2314,NA,NA,NA,not tested,San Fernando,Los Angeles County,34.287767,-118.438535
+LAUSD,VAUGHN NEXT CENTURY LEARNING CENTER,"13330 VAUGHN ST, SAN FERNANDO, CA 91340",NA,NA,NA,exempt,San Fernando,Los Angeles County,34.280478,-118.422589
+Los Angeles Unified,Vaughn Next Century Learning Center,13330 Vaughn Street San Fernando CA 91340-2216,NA,NA,NA,not tested,San Fernando,Los Angeles County,34.280478,-118.422589
+Los Angeles Unified,Vista del Valle Dual Language Academy,12441 Bromont Avenue San Fernando CA 91340-1306,NA,NA,NA,not tested,San Fernando,Los Angeles County,34.295765,-118.421513
+LAUSD,VISTA DEL VALLE DUAL LANGUAGE ACADEMY (FMR: VRES #8),"12441 BROMONT AVE, SAN FERNANDO, CA 91340",NA,NA,NA,exempt,San Fernando,Los Angeles County,34.295765,-118.421513

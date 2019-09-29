@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,Cambridge International Preparatory School,501 Cambridge St. San Francisco CA 94134,NA,NA,FALSE,tested,SF,San Francisco County,37.7249,-122.417305
+San Francisco Unified,Carmichael (Bessie)/FEC,375 Seventh Street San Francisco CA 94103-4020,NA,NA,FALSE,tested,SF,San Francisco County,37.776238,-122.406369
+San Francisco Unified,Drew (Charles) College Preparatory Academy,50 Pomona Avenue San Francisco CA 94124-2344,NA,NA,FALSE,tested,SF,San Francisco County,37.731756,-122.393896
+Private,"Hamlin, The",2120 Broadway San Francisco CA 94115,7.1,ppb,TRUE,tested,SF,San Francisco County,37.794904,-122.432524
+SF Unified School District,Las Americas ES,801 Treat St. San Francisco CA 94110,NA,NA,NA,not tested,SF,San Francisco County,37.757183,-122.413323
+San Francisco Unified,Life Learning Academy Charter,651 Eighth Street Building 229 Treasure Island San Francisco CA 94130-1901,45,ppb,TRUE,tested,SF,San Francisco County,37.82496,-122.36914
+Private,Lycee Francais de San Francisco,1201 Ortega Street San Francisco CA 94122,NA,NA,FALSE,tested,SF,San Francisco County,37.751987,-122.476828
+Private,Lycee Francais de San Francisco,755 Asbury St. San Francisco CA 94117,NA,NA,FALSE,tested,SF,San Francisco County,37.768068,-122.446746
+San Francisco Unified,McCoppin (Frank) Elementary,651 Sixth Avenue San Francisco CA 94118-3804,NA,NA,FALSE,tested,SF,San Francisco County,37.776174,-122.46432
+San Francisco Unified,Peabody (George) Elementary,251 Sixth Avenue San Francisco CA 94118-2311,8.17,ppb,TRUE,tested,SF,San Francisco County,37.783921,-122.464814
+San Francisco Unified,Presidio Children Center,"Bldg 387, Presidio San Francisco CA 94129",NA,NA,NA,not tested,SF,San Francisco County,37.797954,-122.460856
+Private,Presidio Hill School,3839 Washington Street San Francisco CA 94118,NA,NA,FALSE,tested,SF,San Francisco County,37.788654,-122.455968
+Private,Rise University Preparatory,1224 Fairfax Avenue San Francisco CA 94124,NA,NA,FALSE,tested,SF,San Francisco County,37.738923,-122.382079
+San Francisco Unified,Rooftop School,500 Corbett Street San Francisco CA 94114,NA,NA,FALSE,tested,SF,San Francisco County,37.757576,-122.444733
+Private,Saint Brigid School,2250 Franklin Sreet San Francisco CA 94109,NA,NA,FALSE,tested,SF,San Francisco County,37.795337,-122.424826
+Private,San Francisco Day School,350 Masonic Avenue San Francisco CA 94118,NA,NA,FALSE,tested,SF,San Francisco County,37.778011,-122.44606
+Private,Stuart Hall High School,1715 Octavia Street San Francisco CA 94109,NA,NA,FALSE,tested,SF,San Francisco County,37.788445,-122.427392
+San Francisco Unified,Tule Elk Park Children Center,2110 Greenwich Street San Francisco CA 94123,5.5,ppb,TRUE,tested,SF,San Francisco County,37.799407,-122.434534

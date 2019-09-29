@@ -1,0 +1,27 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Alvord Unified,Allan Orrenmaa Elementary,3350 Fillmore Street Riverside CA 92503-5135,NA,NA,FALSE,tested,Riverside,Riverside County,33.892855,-117.478252
+Alvord Unified,Alvord Adult Education,3606 Pierce St. Riverside CA 92503-4925,NA,NA,NA,not tested,Riverside,Riverside County,33.891633,-117.488358
+Alvord Unified,Alvord Alternative Continuation High,10368 Campbell Avenue Riverside CA 92505-1308,NA,NA,FALSE,tested,Riverside,Riverside County,33.935938,-117.481256
+Alvord Unified,Alvord Continuation High,3606 Pierce Street Riverside CA 92503-4925,NA,NA,NA,not tested,Riverside,Riverside County,33.891633,-117.488358
+Alvord Unified,Arizona Middle,11045 Arizona Avenue Riverside CA 92503-5903,NA,NA,FALSE,tested,Riverside,Riverside County,33.891354,-117.465702
+Alvord Unified,Arlanza Elementary,5891 Rutland Avenue Riverside CA 92503-1741,9,ppb,TRUE,tested,Riverside,Riverside County,33.941676,-117.468642
+Alvord Unified,Collett Elementary,10850 Collett Avenue Riverside CA 92505-2926,NA,NA,FALSE,tested,Riverside,Riverside County,33.913945,-117.479154
+Alvord Unified,Foothill Elementary,8230 Wells Avenue Riverside CA 92503-2559,NA,NA,FALSE,tested,Riverside,Riverside County,33.935259,-117.461944
+Alvord Unified,Hillcrest High,11800 Indiana Avenue Riverside CA 92503-5172,NA,NA,FALSE,tested,Riverside,Riverside County,33.913545,-117.442454
+Alvord Unified,La Granada Elementary,10346 Keller Avenue Riverside CA 92505-1350,NA,NA,FALSE,tested,Riverside,Riverside County,33.933472,-117.479246
+Alvord Unified,La Sierra High,4145 La Sierra Avenue Riverside CA 92505-2938,NA,NA,FALSE,tested,Riverside,Riverside County,33.921537,-117.490132
+Alvord Unified,Lake Hills Elementary,16346 Village Meadow Drive Riverside CA 92503-0229,NA,NA,FALSE,tested,NA,Riverside County,33.872065,-117.484023
+Alvord Unified,Loma Vista Middle,11050 Arlington Avenue Riverside CA 92505-2204,NA,NA,FALSE,tested,Riverside,Riverside County,33.944743,-117.49992
+Alvord Unified,Myra Linn Elementary,10435 Branigan Way Riverside CA 92505-1515,NA,NA,FALSE,tested,Riverside,Riverside County,33.919531,-117.472273
+Alvord Unified,Norte Vista High,6585 Crest Avenue Riverside CA 92503-1102,NA,NA,FALSE,tested,Riverside,Riverside County,33.95001,-117.47253
+Alvord Unified,Phillip M. Stokoe Elementary,4501 Ambs Drive Riverside CA 92505-3758,NA,NA,FALSE,tested,Riverside,Riverside County,33.907106,-117.500237
+Alvord Unified,Promenade Elementary,550 Hamilton Drive Corona CA 91719-5851,NA,NA,FALSE,tested,Corona,Riverside County,33.894519,-117.514533
+Alvord Unified,Rosemary Kennedy Elementary,6411 Mitchell Avenue Riverside CA 92505-2055,NA,NA,FALSE,tested,Riverside,Riverside County,33.944964,-117.491447
+Alvord Unified,S. Christa McAuliffe Elementary,4100 Golden Avenue Riverside CA 92505-3403,NA,NA,FALSE,tested,Riverside,Riverside County,33.905706,-117.484801
+Alvord Unified,Summit Elementary,10368 Campbell Ave Riverside CA 92505-1308,NA,NA,NA,not tested,Riverside,Riverside County,33.935938,-117.481256
+Alvord Unified,Summit Secondary,10368 Campbell Ave B Riverside CA 92505-1308,NA,NA,NA,not tested,Riverside,Riverside County,33.935938,-117.481256
+Alvord Unified,Terrace Elementary,6601 Rutland Street Riverside CA 92503-1299,11,ppb,TRUE,tested,Indio,Riverside County,33.777306,-116.2684
+Alvord Unified,Twinhill Elementary,11000 Campbell Avenue Riverside CA 92505-2499,NA,NA,FALSE,tested,Riverside,Riverside County,33.932911,-117.493799
+Alvord Unified,Valley View Elementary,11750 Gramercy Place Riverside CA 92505-3128,NA,NA,FALSE,tested,Riverside,Riverside County,33.921804,-117.505872
+Alvord Unified,Wells Middle,10000 Wells Avenue Riverside CA 92503-2373,NA,NA,FALSE,tested,Riverside,Riverside County,33.932694,-117.469923
+Alvord Unified,Ysmael Villegas Middle,3754 Harvill Lane Riverside CA 92503-4680,NA,NA,FALSE,tested,NA,Riverside County,33.884566,-117.507176

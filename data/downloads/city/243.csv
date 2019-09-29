@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Coalinga-Huron Unified,Chestnut High (Continuation) School,16673 Palmer Avenue Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.210305,-120.097265
+Coalinga-Huron Unified,Huron Elementary,36131 N Street Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.201307,-120.096658
+Coalinga-Huron Unified,Huron Middle,16875 Fourth Street Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.197697,-120.100681

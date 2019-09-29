@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Walnut Creek Elementary,Buena Vista Elementary,2355 San Juan Avenue Walnut Creek CA 94597-3099,NA,NA,FALSE,tested,NA,Contra Costa County,37.911512,-122.068627
+Walnut Creek Elementary,Indian Valley Elementary,551 Marshall Drive Walnut Creek CA 94598-4908,NA,NA,FALSE,tested,NA,Contra Costa County,37.902121,-122.033482
+Walnut Creek Elementary,Murwood Elementary,2050 Vanderslice Avenue Walnut Creek CA 94596-5923,NA,NA,FALSE,tested,NA,Contra Costa County,37.882798,-122.046501
+Walnut Creek Elementary,Parkmead Elementary,1920 Magnolia Way Walnut Creek CA 94595-1715,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.145559,-117.449986
+Walnut Creek Elementary,Tice Creek,1847 Newell Avenue Walnut Creek CA 94595-1452,NA,NA,FALSE,tested,NA,Contra Costa County,37.893229,-122.056959
+Walnut Creek Elementary,Walnut Creek Intermediate,2425 Walnut Boulevard Walnut Creek CA 94597-3836,NA,NA,FALSE,tested,NA,Contra Costa County,37.911232,-122.059062
+Walnut Creek Elementary,Walnut Heights Elementary,4064 Walnut Boulevard Walnut Creek CA 94596-5463,NA,NA,FALSE,tested,NA,Contra Costa County,37.894696,-122.038519

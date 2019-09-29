@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Live Oak Elementary,Cypress Charter High,2039 Merrill Street Santa Cruz CA 95062-4176,NA,NA,FALSE,tested,NA,Santa Cruz County,36.965,-121.983116
+Live Oak Elementary,Del Mar Elementary,1959 Merrill Street Santa Cruz CA 95062-4102,NA,NA,FALSE,tested,NA,Santa Cruz County,36.965059,-121.985736
+Live Oak Elementary,Green Acres Elementary,966 Bostwick Lane Santa Cruz CA 95062-1700,NA,NA,FALSE,tested,NA,Santa Cruz County,36.984176,-121.987261
+Live Oak Elementary,Live Oak Elementary,1916 Capitola Road Santa Cruz CA 95062-3011,7.45,ppb,TRUE,tested,NA,Santa Cruz County,36.975588,-121.981372
+Live Oak Elementary,Ocean Alternative Education Center,"984 Bostwick Lane, Suite 6 Santa Cruz CA 95062-1775",NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.983933,-121.985772
+Live Oak Elementary,Shoreline Middle,855 17th Avenue Santa Cruz CA 95062-4169,NA,NA,FALSE,tested,NA,Santa Cruz County,36.967128,-121.985495
+Live Oak Elementary,Special Education Preschool,"984 Bostwick Lane, Suite 1 Santa Cruz CA 95062-1775",NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.983644,-121.985578
+Live Oak Elementary,Tierra Pacifica Charter,986 Bostwick Lane Santa Cruz CA 95062-1756,NA,NA,FALSE,tested,NA,Santa Cruz County,36.983465,-121.985846

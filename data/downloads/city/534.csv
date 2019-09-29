@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Belleview Elementary,Belleview Elementary,22736 Kuien Mill Road Sonora CA 95370-8331,NA,NA,FALSE,tested,Sonora,Tuolumne County,38.034987,-120.271604
+Calaveras County Office of Education,Calaveras County Office of Education Mountain Oaks Satellite Cammpus,518 South Washington St Sonora CA 95370,NA,NA,FALSE,tested,Sonora,Tuolumne County,37.978184,-120.381026
+Sonora Union High,Dario Cassina High,251-South A Baretta Street Sonora CA 95370-5042,NA,NA,NA,not tested,Sonora,Tuolumne County,37.98295,-120.382172
+Tuolumne County Superintendent of Schools,Foothill Leadership Academy,19401 Susan Way Sonora CA 95370-9266,NA,NA,NA,not tested,Sonora,Tuolumne County,37.974785,-120.321613
+Sonora Elementary,Sonora Elementary,830 Greenley Road Sonora CA 95370-5203,NA,NA,NA,not tested,Sonora,Tuolumne County,37.980278,-120.37006
+Sonora Union High,Sonora High,430 North Washington Street Sonora CA 95370-5526,NA,NA,NA,not tested,Sonora,Tuolumne County,37.991386,-120.38652
+Sonora Union High,Theodore Bird High,251-A South Baretta Street Sonora CA 95370-5042,NA,NA,NA,not tested,Sonora,Tuolumne County,37.981383,-120.379647
+Tuolumne County Superintendent of Schools,Tuolumne County Cal-SAFE Program,21125 School Road Sonora CA 95370-4859,NA,NA,NA,not tested,Sonora,Tuolumne County,37.989272,-120.385666
+Tuolumne County Superintendent of Schools,Tuolumne County Community/ISP,175 South Fairview Ln. Sonora CA 95370-4809,NA,NA,NA,not tested,Sonora,Tuolumne County,37.979468,-120.391968
+Tuolumne County Superintendent of Schools,Tuolumne County Special Education,175 South Fairview Lane B Sonora CA 95370-4809,NA,NA,FALSE,tested,Sonora,Tuolumne County,37.978794,-120.390799
+Sonora Elementary,Tuolumne Learning Center (TLC),610 South Washington St Sonora CA 95370,NA,NA,FALSE,tested,Sonora,Tuolumne County,37.976753,-120.380459

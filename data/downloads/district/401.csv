@@ -1,0 +1,7 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Liberty Union High,Freedom High,1050 Neroly Road Oakley CA 94561-3843,NA,NA,NA,not tested,NA,Contra Costa County,37.983484,-121.743151
+Liberty Union High,Heritage High,101 American Ave Brentwood CA 94513-4604,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.918004,-121.758874
+Liberty Union High,Independence High,929 Second Street Brentwood CA 94513-1137,7.7,ppb,TRUE,tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Liberty Union High,La Paloma High (Continuation),400 Ghiggeri Way Brentwood CA 94513-5314,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.920421,-121.6809
+Liberty Union High,Liberty Adult Education,929 Second Street Brentwood CA 94513-1137,NA,NA,NA,not tested,Brentwood,Contra Costa County,37.938588,-121.699617
+Liberty Union High,Liberty High,850 Second Street Brentwood CA 94513-1132,5.5,ppb,TRUE,tested,Brentwood,Contra Costa County,37.938588,-121.699617

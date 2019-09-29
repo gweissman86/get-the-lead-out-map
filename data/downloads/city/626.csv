@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Yreka Union High,Discovery High,504 West Lennox St Yreka CA 96097-2359,NA,NA,NA,not tested,Yreka,Siskiyou County,41.736887,-122.638642
+Yreka Union Elementary,Evergreen Elementary,416 Evergreen Lane Yreka CA 96097-3204,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.725142,-122.643907
+Siskiyou County Office of Education,J. Everett Barr Court,269 Sharps Lane Yreka CA 96097,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.709345,-122.639355
+Yreka Union Elementary,Jackson Street Elementary,405 Jackson Street Yreka CA 96097-2898,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.727645,-122.640827
+Siskiyou County Office of Education,Siskiyou County Special Education,609 South Gold Street Yreka CA 96097-3110,NA,NA,NA,not tested,Yreka,Siskiyou County,41.729101,-122.642647
+Yreka Union Elementary,Yreka Community Day,309 Jackson Street Yreka CA 96097-3369,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.728012,-122.639064
+Yreka Union High,Yreka High,400 Preece Way Yreka CA 96097-2456,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.741123,-122.63765
+Yreka Union High,Yreka Union High Adult,431 Knapp St. Yreka CA 96097-2365,NA,NA,NA,not tested,Yreka,Siskiyou County,41.738514,-122.636394
+Yreka Union High,Yreka Union High Community Day,504 West Lennox Street Yreka CA 96097-2359,NA,NA,NA,not tested,Yreka,Siskiyou County,41.736887,-122.638642

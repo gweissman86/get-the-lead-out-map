@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Colfax Elementary,Colfax Elementary,24825 Ben Taylor Road Colfax CA 95713-9553,NA,NA,FALSE,tested,Colfax,Placer County,39.104417,-120.962892
+Placer Union High,Colfax High,24995 Ben Taylor Road Colfax CA 95713-9556,5.98,ppb,TRUE,tested,Colfax,Placer County,39.107284,-120.965928
+Placer Hills Union Elementary,Weimar Hills,200 West Weimar Crossroad Weimar CA 95736-0255,5.42,ppb,TRUE,tested,Colfax,Placer County,39.044044,-120.977798

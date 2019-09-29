@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Hawthorne,Bud Carson Middle,13838 South Yukon Avenue Hawthorne CA 90250-7716,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.932901,-118.334893
+Hawthorne,Eucalyptus,12044 South Eucalyptus Avenue Hawthorne CA 90250-3602,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.922435,-118.358595
+Hawthorne,Hawthorne Math and Science Academy,4467 West Broadway Hawthorne CA 90250-3819,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.920347,-118.354139
+Hawthorne,Hawthorne Middle,4366 West 129th Street Hawthorne CA 90250-5211,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.915223,-118.351339
+Hawthorne,Jefferson,4091 West 139th Street Hawthorne CA 90250-7303,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.905168,-118.34633
+Hawthorne,Kornblum,3620 West El Segundo Boulevard Hawthorne CA 90250-4819,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.916407,-118.354295
+Hawthorne,Prairie Vista Middle,13600 South Prairie Avenue Hawthorne CA 90250-7306,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.931463,-118.343901
+Hawthorne,Ramona,4617 West 136th Street Hawthorne CA 90250-5735,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.908622,-118.364189
+Hawthorne,Washington,4339 West 129th Street Hawthorne CA 90250-5210,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.915393,-118.350625
+Hawthorne,York,11838 South York Avenue Hawthorne CA 90250-3125,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.926334,-118.344488
+Hawthorne,Zela Davis,13435 South Yukon Avenue Hawthorne CA 90250-6228,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.932901,-118.334893

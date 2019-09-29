@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Wheatland,Bear River,100 Wheatland Park Drive Wheatland CA 95692-9286,NA,NA,FALSE,tested,Wheatland,Yuba County,39.009094,-121.435496
+Wheatland,Lone Tree Elementary,123 Beale Highway Beale Air Force Base CA 95903,NA,NA,FALSE,tested,Beale AFB,Yuba County,39.102394,-121.334553
+Wheatland,Wheatland Child Development Center,711 West Olive St Wheatland CA 95692,NA,NA,FALSE,tested,Wheatland,Yuba County,39.011239,-121.428877
+Wheatland,Wheatland Elementary,111 Hooper Street Wheatland CA 95692-8215,5.4,ppb,TRUE,tested,NA,Yuba County,39.01105,-121.428225

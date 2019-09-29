@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Goleta Union Elementary,Goleta Union School District cafeteria,401 N. Fairview  Goleta CA 93110,NA,NA,FALSE,tested,Goleta,Santa Barbara County,34.447178,-119.832137
+Goleta Union Elementary,Isla Vista Elementary,6875 El Colegio Road Goleta CA 93117-4317,NA,NA,FALSE,tested,Goleta,Santa Barbara County,34.417012,-119.868654
+Goleta Union Elementary,Kellogg Elementary,475 Cambridge Avenue Goleta CA 93117-2141,NA,NA,FALSE,tested,Goleta,Santa Barbara County,34.447209,-119.821293

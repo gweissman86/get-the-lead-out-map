@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Sierra Sands Unified,Burroughs High,500 East French Street Ridgecrest CA 93555-3832,NA,NA,NA,not tested,Ridgecrest,Kern County,35.635936,-117.659454
+Sierra Sands Unified,Faller Elementary,1500 West Upjohn Street Ridgecrest CA 93555-4760,9.8,ppb,TRUE,tested,Ridgecrest,Kern County,35.615181,-117.701173
+Sierra Sands Unified,Gateway Elementary,501 South Gateway Ridgecrest CA 93555-8245,NA,NA,FALSE,tested,Ridgecrest,Kern County,35.614995,-117.65237
+Sierra Sands Unified,James Monroe Middle,340 West Church Street Ridgecrest CA 93555-4605,NA,NA,FALSE,tested,Ridgecrest,Kern County,35.619253,-117.676017
+Sierra Sands Unified,Las Flores Elementary,720 West Las Flores Ridgecrest CA 93555-3405,NA,NA,FALSE,tested,Ridgecrest,Kern County,35.630147,-117.684327
+Sierra Sands Unified,Mesquite Continuation High,140 West Drummond Ridgecrest CA 93555-3118,NA,NA,FALSE,tested,Ridgecrest,Kern County,35.63715,-117.670718
+Sierra Sands Unified,Murray Middle,200 E Drummond Ave Ridgecrest CA 93555-2875,NA,NA,NA,not tested,Ridgecrest,Kern County,35.63728,-117.672255
+Private,Opportunities for Learning,900 N Norma Ridgecrest CA 93555,NA,NA,FALSE,tested,Ridgecrest,Kern County,35.637393,-117.678397
+Sierra Sands Unified,Pierce Elementary,674 North Gold Canyon Ridgecrest CA 93555-5797,9.15,ppb,TRUE,tested,Ridgecrest,Kern County,35.628886,-117.658358
+Sierra Sands Unified,Richmond Elementary,1206 Kearsarge Street Ridgecrest CA 93555-2755,NA,NA,NA,not tested,Ridgecrest,Kern County,35.65877,-117.64353
+SBE - Ridgecrest Charter,Ridgecrest Charter,325 South Downs Street Ridgecrest CA 93555-4531,NA,NA,FALSE,tested,Ridgecrest,Kern County,35.605243,-117.688129
+Sierra Sands Unified,Sierra Sands Adult,348 Rowe Street Ridgecrest CA 93555-2508,NA,NA,NA,not tested,Ridgecrest,Kern County,35.63986,-117.664102
+Sierra Sands Unified,Vieweg Elementary,348 Rowe St Ridgecrest CA 93555,NA,NA,NA,not tested,Ridgecrest,Kern County,35.63986,-117.664102

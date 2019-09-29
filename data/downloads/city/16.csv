@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Private,Pacific Union College Elementary,135 Neilsen Court Angwin CA 94508,100,ppb,TRUE,tested,Angwin,Napa County,38.565776,-122.439956
+Private,Pacific Union College Preparatory,1 Angwin Avenue Angwin CA 94508,NA,NA,FALSE,tested,Angwin,Napa County,38.569878,-122.439483

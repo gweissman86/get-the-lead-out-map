@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fallbrook Union High,Ivy High (Continuation),1056 Winterhaven Road Fallbrook CA 92028-4500,NA,NA,NA,not tested,Fallbrook,San Diego County,33.347613,-117.236796
+Fallbrook Union High,Oasis High (Alternative),1056 Winterhaven Rd Fallbrook CA 92028-4500,NA,NA,NA,not tested,Fallbrook,San Diego County,33.347613,-117.236796
+Vallecitos Elementary,Vallecitos Elementary,5211 Fifth Street Rainbow CA 92028-9795,NA,NA,FALSE,tested,Fallbrook,San Diego County,33.413488,-117.149212
+Fallbrook Union Elementary,William H. Frazier Elementary,1835 Gum Tree Lane Fallbrook CA 92028-2108,NA,NA,NA,not tested,Fallbrook,San Diego County,33.387021,-117.224757

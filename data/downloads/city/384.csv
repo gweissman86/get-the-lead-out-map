@@ -1,0 +1,50 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Vista Unified,Alamosa Park Elementary,5130 Alamosa Park Drive Oceanside CA 92057-6301,NA,NA,FALSE,tested,Oceanside,San Diego County,33.239075,-117.282005
+Bonsall Unified,Bonsall West Elementary,5050 El Mirlo Drive Oceanside CA 92057-2704,NA,NA,NA,not tested,Oceanside,San Diego County,33.264143,-117.292342
+Oceanside Unified,Cesar Chavez Middle,202 Oleander Dr Oceanside CA 92057-6122,12,ppb,TRUE,tested,Oceanside,San Diego County,33.241429,-117.302909
+Oceanside Unified,Challenges Community Day,707 Carey Road Oceanside CA 92058,NA,NA,NA,not tested,Oceanside,San Diego County,33.204617,-117.359413
+Oceanside Unified,Christa McAuliffe Elementary,3701 Kelton Drive Oceanside CA 92056-6311,NA,NA,FALSE,tested,Oceanside,San Diego County,33.199722,-117.306954
+Oceanside Unified,Clair Burgener Academy,707 Carey Rd Oceanside CA 92058,8.55,ppb,TRUE,tested,Oceanside,San Diego County,33.204617,-117.359413
+Oceanside Unified,Coastal Academy,4096 Calle Platino Oceanside CA 92056-5805,NA,NA,NA,not tested,Oceanside,San Diego County,33.207338,-117.29282
+San Diego Community College,Community Schools North,2037 Mission Avenue B Oceanside CA 92054,NA,NA,NA,not tested,Oceanside,San Diego County,33.204718,-117.363571
+Oceanside Unified,Del Rio Elementary,5200 North River Road Oceanside CA 92057-3811,NA,NA,FALSE,tested,Oceanside,San Diego County,33.254669,-117.297823
+Oceanside Unified,Ditmar Elementary School,1125 South Ditmar St. Oceanside CA 92054,NA,NA,FALSE,tested,Oceanside,San Diego County,33.186065,-117.36847
+Oceanside Unified,E. G. Garrison Elementary,333 Garrison Drive Oceanside CA 92054-4733,NA,NA,FALSE,tested,Oceanside,San Diego County,33.205348,-117.336903
+Oceanside Unified,El Camino High,400 Rancho del Oro Drive Oceanside CA 92057-8316,NA,NA,FALSE,tested,Oceanside,San Diego County,33.221202,-117.319613
+Vista Unified,Empresa Elementary,4850 Avenida Empresa Oceanside CA 92056-6541,NA,NA,FALSE,tested,Oceanside,San Diego County,33.224102,-117.287756
+Oceanside Unified,Foussat Elementary School,3800 Pala Road Oceanside CA 92058,NA,NA,FALSE,tested,Oceanside,San Diego County,33.238121,-117.328829
+Oceanside Unified,Ivey Ranch Elementary,4275 Via Rancho Road Oceanside CA 92057-8534,NA,NA,FALSE,tested,Oceanside,San Diego County,33.220397,-117.306682
+Oceanside Unified,Jefferson Middle,823 Acacia Street Oceanside CA 92058-2305,NA,NA,FALSE,tested,Oceanside,San Diego County,33.210039,-117.363346
+Vista Unified,Lake Elementary,4950 Lake Boulevard Oceanside CA 92056-4749,NA,NA,FALSE,tested,Oceanside,San Diego County,33.173625,-117.259967
+Oceanside Unified,Laurel Elementary,1410 Laurel Street Oceanside CA 92058-2217,NA,NA,FALSE,tested,Oceanside,San Diego County,33.208361,-117.374996
+Oceanside Unified,Libby Elementary,423 West Redondo Drive Oceanside CA 92057-4316,NA,NA,FALSE,tested,Oceanside,San Diego County,33.252057,-117.304966
+Oceanside Unified,Lincoln Middle,2000 California Street Oceanside CA 92054-5683,NA,NA,FALSE,tested,Oceanside,San Diego County,33.188804,-117.35346
+Oceanside Unified,Louise Foussat Elementary,3800 Pala Road Oceanside CA 92058-0678,NA,NA,NA,not tested,Oceanside,San Diego County,33.238121,-117.328829
+Vista Unified,Madison Middle,4930 Lake Boulevard Oceanside CA 92056-4749,NA,NA,FALSE,tested,Oceanside,San Diego County,33.175027,-117.258284
+Oceanside Unified,Martin Luther King Jr. Middle,1290 Ivey Ranch Road Oceanside CA 92057-8535,NA,NA,FALSE,tested,Oceanside,San Diego County,33.219742,-117.309783
+Fallbrook Union Elementary,Mary Fay Pendleton Elementary,110 Marine Drive Oceanside CA 92058-8234,6.18,ppb,TRUE,tested,Oceanside,San Diego County,33.321569,-117.301439
+Oceanside Unified,Mission Elementary,2100 Mission Avenue Oceanside CA 92058-2327,NA,NA,FALSE,tested,Oceanside,San Diego County,33.205632,-117.362999
+Vista Unified,Mission Meadows Elementary,5657 Spur Avenue Oceanside CA 92056-5714,NA,NA,FALSE,tested,Oceanside,San Diego County,33.246419,-117.256493
+Escondido Union,Mission Middle,939 East Mission Avenue Escondido CA 92026-2216,NA,NA,FALSE,tested,Oceanside,San Diego County,33.197808,-117.37612
+Vista Unified,Mission Vista High,1306 Melrose Drive Oceanside CA 92057-4649,NA,NA,FALSE,tested,Oceanside,San Diego County,33.25482,-117.263553
+Oceanside Unified,Nichols Elementary,4250 Old Grove Road Oceanside CA 92057-6539,NA,NA,FALSE,tested,Oceanside,San Diego County,33.238136,-117.315986
+Oceanside Unified,Ocean Shores High (Continuation),3131 Oceanside Boulevard Oceanside CA 92056-2799,NA,NA,FALSE,tested,Oceanside,San Diego County,33.201129,-117.330387
+Oceanside Unified,Oceanside High,1 Pirates Cove Way Oceanside CA 92054-3066,NA,NA,FALSE,tested,Oceanside,San Diego County,33.197067,-117.374143
+Oceanside Unified,Oceanside School of Business and Technology,1831 Mission Avenue Oceanside CA 92054,NA,NA,NA,not tested,Oceanside,San Diego County,33.203722,-117.365002
+Oceanside Unified,Oceanside Unified School District,2111 Mission Avenue Oceanside CA 92058-2326,NA,NA,NA,not tested,Oceanside,San Diego County,33.205748,-117.36265
+Oceanside Unified,Pacific View Charter,3670 Ocean Ranch Boulevard Oceanside CA 92056-2669,NA,NA,NA,not tested,Oceanside,San Diego County,33.217954,-117.297271
+Oceanside Unified,Pacifica Elementary,4991 Macario Drive Oceanside CA 92057-4302,NA,NA,NA,not tested,Oceanside,San Diego County,33.25713,-117.302585
+Oceanside Unified,Palmquist Elementary,1999 California Street Oceanside CA 92054-5685,NA,NA,FALSE,tested,Oceanside,San Diego County,33.188603,-117.351094
+Oceanside Unified,Plato High Indep. St.,2111 Mission Avenue Annex Oceanside CA 92054,NA,NA,NA,not tested,Oceanside,San Diego County,33.206266,-117.361871
+Oceanside Unified,Reynolds Elementary,4575 Douglas Drive Oceanside CA 92057-4228,NA,NA,FALSE,tested,Oceanside,San Diego County,33.262833,-117.308148
+Vista Unified,Roosevelt Middle,850 Sagewood Drive Oceanside CA 92057-6937,NA,NA,FALSE,tested,Oceanside,San Diego County,33.236679,-117.281431
+Mountain Empire Unified,San Diego Neighborhood Homeschools,3548 Seagate Way Suite 140 Oceanside CA 92056-2676,NA,NA,NA,not tested,Oceanside,San Diego County,33.208002,-117.303038
+Oceanside Unified,San Luis Rey Elementary,3535 Hacienda Drive Oceanside CA 92054-3854,NA,NA,FALSE,tested,Oceanside,San Diego County,33.219179,-117.33685
+Oceanside Unified,San Rafael Elementary,1616 San Rafael Drive Oceanside CA 92054-1198,NA,NA,NA,not tested,Oceanside,San Diego County,33.209643,-117.385003
+Private,Scholarship Prep Charter School,4070 Mission Ave Oceanside CA 92057,6.9,ppb,TRUE,tested,Oceanside,San Diego County,33.22761,-117.326669
+Oceanside Unified,School of Business and Technology,320 North Horne Oceanside CA 92054,NA,NA,NA,not tested,Oceanside,San Diego County,33.199585,-117.37693
+Vista Unified,SIATech,2611 Temple Heights Drive Suite A Oceanside CA 92056-3582,NA,NA,NA,not tested,Oceanside,San Diego County,33.215865,-117.270138
+Oceanside Unified,South Oceanside Elementary,1806 South Horne Street Oceanside CA 92054-6017,NA,NA,FALSE,tested,Oceanside,San Diego County,33.177449,-117.358013
+Oceanside Unified,Stuart Mesa Elementary,100 Yamanaka Way Oceanside CA 92058-8016,NA,NA,FALSE,tested,Oceanside,San Diego County,33.254084,-117.408292
+Vista Unified,Temple Heights Elementary,1550 Temple Heights Drive Oceanside CA 92056-3066,NA,NA,FALSE,tested,Oceanside,San Diego County,33.218499,-117.269648
+Vista Unified,Vista Literacy Academy Charter,4225 Oceanside Boulevard Suite M109 Oceanside CA 92056,NA,NA,NA,not tested,Oceanside,San Diego County,33.206738,-117.283502

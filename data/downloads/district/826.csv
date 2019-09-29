@@ -1,0 +1,30 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Tustin Unified,A. G. Currie Middle,1402 Sycamore Ave. Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
+Tustin Unified,Arnold O. Beckman High,3588 Bryan Avenue Irvine CA 92602-1347,NA,NA,FALSE,tested,Irvine,Orange County,33.718948,-117.780752
+Tustin Unified,Arroyo Elementary,11112 Coronel Road Santa Ana CA 92705-2492,NA,NA,FALSE,tested,Santa Ana,Orange County,33.766596,-117.785666
+Tustin Unified,Barbara Benson Elementary,12712 Elizabeth Way Tustin CA 92780-2811,NA,NA,FALSE,tested,Tustin,Orange County,33.75139,-117.805291
+Tustin Unified,Benjamin F. Beswick Elementary,1362 Mitchell Avenue Tustin CA 92780-5746,NA,NA,FALSE,tested,Tustin,Orange County,33.731186,-117.820591
+Tustin Unified,C. E. Utt Middle,13601 Browning Avenue Tustin CA 92780-5212,NA,NA,FALSE,tested,Tustin,Orange County,33.733753,-117.805558
+Tustin Unified,Columbus Tustin Middle,17952 Beneta Way Tustin CA 92780-2659,NA,NA,FALSE,tested,Tustin,Orange County,33.751018,-117.81941
+Tustin Unified,Foothill High,19251 Dodge Avenue Santa Ana CA 92705-2236,NA,NA,FALSE,tested,Santa Ana,Orange County,33.766807,-117.797529
+Tustin Unified,Guin Foss Elementary,18492 Vanderlip Avenue Santa Ana CA 92705-3242,NA,NA,FALSE,tested,Santa Ana,Orange County,33.75588,-117.81105
+Tustin Unified,Helen Estock Elementary,14741 North B Street Tustin CA 92780-2529,NA,NA,FALSE,tested,Tustin,Orange County,33.750111,-117.825714
+Tustin Unified,Heritage Elementary,15400 Lansdowne Rd. Tustin CA 92782,NA,NA,FALSE,tested,Tustin,Orange County,33.718208,-117.828946
+Tustin Unified,Hewes Middle,13232 Hewes Avenue Santa Ana CA 92705-2246,5.6,ppb,TRUE,tested,Santa Ana,Orange County,33.77049,-117.804993
+Tustin Unified,Hicks Canyon Elementary,3817 Viewpark Irvine CA 92602-2036,7.52,ppb,TRUE,tested,Irvine,Orange County,33.728221,-117.773502
+Tustin Unified,Hillview High (Continuation),1151 San Juan Street Tustin CA 92780-4629,NA,NA,FALSE,tested,Tustin,Orange County,33.739984,-117.816118
+Tustin Unified,Jeane Thorman Elementary,1402 Sycamore Avenue Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
+Tustin Unified,Ladera Elementary,2515 Rawlings Way Tustin CA 92782-5111,NA,NA,FALSE,tested,Tustin,Orange County,33.743449,-117.779345
+Tustin Unified,Loma Vista Elementary,13822 Prospect Avenue Santa Ana CA 92705-2690,5.8,ppb,TRUE,tested,Santa Ana,Orange County,33.76216,-117.819079
+Tustin Unified,Marjorie Veeh Elementary,1701 San Juan Street Tustin CA 92780-5204,NA,NA,FALSE,tested,Tustin,Orange County,33.735317,-117.809395
+Tustin Unified,Myford Elementary,3181 Trevino Drive Irvine CA 92602-0795,NA,NA,FALSE,tested,Tustin,Orange County,33.735679,-117.775899
+Tustin Unified,Orange County Department of Education Foothill HS Annex,19061 Foothill Blvd Santa Ana CA 92705,NA,NA,NA,not tested,North Tustin,Orange County,33.76942,-117.800437
+Tustin Unified,Orchard Hills,11555 Culver Drive Irvine CA 92602-0835,NA,NA,FALSE,tested,Irvine,Orange County,33.727937,-117.764314
+Tustin Unified,Peters Canyon Elementary,26900 Peters Canyon Road Tustin CA 92782-3300,NA,NA,FALSE,tested,Irvine,Orange County,33.711015,-117.798729
+Tustin Unified,Pioneer Middle,2700 Pioneer Rd. Irvine CA 92782,NA,NA,FALSE,tested,Tustin,Orange County,33.749951,-117.773231
+Tustin Unified,Red Hill Elementary,11911 Red Hill Avenue Santa Ana CA 92705-3105,NA,NA,FALSE,tested,Santa Ana,Orange County,33.704698,-117.844315
+Tustin Unified,Robert Heideman Elementary,15571 Williams Street Tustin CA 92780-4146,5.9,ppb,TRUE,tested,Tustin,Orange County,33.737406,-117.840872
+Tustin Unified,Tustin High,1171 El Camino Real Tustin CA 92780-4660,NA,NA,FALSE,tested,Tustin,Orange County,33.737469,-117.817308
+Tustin Unified,Tustin Memorial Elementary,12712 Browning Avenue Santa Ana CA 92705-3465,NA,NA,FALSE,tested,Santa Ana,Orange County,33.743971,-117.793483
+Tustin Unified,Tustin Ranch Elementary,12950 Robinson Drive Tustin CA 92782-0921,NA,NA,FALSE,tested,Tustin,Orange County,33.73499,-117.789421
+Tustin Unified,W. R. Nelson Elementary,14392 Browning Avenue Tustin CA 92780-6338,NA,NA,FALSE,tested,Tustin,Orange County,33.723443,-117.812668

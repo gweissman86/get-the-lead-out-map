@@ -1,0 +1,43 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Moreno Valley Unified,Alessandro,23311 Dracaea Avenue Moreno Valley CA 92553-3201,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.928065,-117.256035
+Moreno Valley Unified,Armada Elementary,25201 John F. Kennedy Drive Moreno Valley CA 92551-7138,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.902243,-117.223629
+Moreno Valley Unified,Badger Springs Middle,24750 Delphinium Avenue Moreno Valley CA 92553-5812,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.906509,-117.232249
+Moreno Valley Unified,Bayside Community Day,24501 Cactus Avenue Moreno Valley CA 92553,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.909958,-117.23486
+Moreno Valley Unified,Bear Valley Elementary,26125 Fir Avenue Moreno Valley CA 92553-2203,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.935397,-117.206727
+Moreno Valley Unified,Box Springs Elementary,11900 Athens Drive Moreno Valley CA 92557-5934,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.948739,-117.276343
+Moreno Valley Unified,Butterfield Elementary,13400 Kitching Street Moreno Valley CA 92553-6807,5.93,ppb,TRUE,tested,Moreno Valley,Riverside County,33.926033,-117.217536
+Moreno Valley Unified,Canyon Springs High,23100 Cougar Canyon Drive Moreno Valley CA 92557-3801,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.961199,-117.260701
+Moreno Valley Unified,Chaparral Hills Elementary,24850 Delphinium  Avenue Moreno Valley CA 92553-5876,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.906509,-117.229222
+Moreno Valley Unified,Cloverdale Elementary,12050 Kitching Street Moreno Valley CA 92557-7623,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.945497,-117.217577
+Moreno Valley Unified,Cornerstone Fellowship Academy,12407 Yuma Court Moreno Valley CA 92557,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.940687,-117.214142
+Moreno Valley Unified,Creekside Elementary,13563 Heacock Street Moreno Valley CA 92553-3300,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.923622,-117.243842
+Moreno Valley Unified,Edgemont Elementary,21790 Eucalyptus Avenue Moreno Valley CA 92553-8141,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.931472,-117.282665
+Moreno Valley Unified,Hendrick Ranch Elementary,25570 Brodiaea Avenue Moreno Valley CA 92553-2902,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.913786,-117.216434
+Moreno Valley Unified,Hidden Springs Elementary,9801 Hidden Springs Drive Moreno Valley CA 92557-1825,6.57,ppb,TRUE,tested,Moreno Valley,Riverside County,33.976871,-117.266847
+Moreno Valley Unified,Honey Hollow Elementary,11765 Honey Hollow Drive Moreno Valley CA 92557-6104,7.755,ppb,TRUE,tested,Moreno Valley,Riverside County,33.949151,-117.255246
+Moreno Valley Unified,La Jolla Elementary,14745 Willowgrove Place Moreno Valley CA 92555-5746,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.905964,-117.181297
+Moreno Valley Unified,Landmark Middle,15261 Legendary Drive Moreno Valley CA 92555-5801,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.899,-117.181043
+Moreno Valley Unified,March Mountain High,24551 Dracaea Avenue Moreno Valley CA 92553-3745,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.928114,-117.234001
+Moreno Valley Unified,March Valley,24551 Dracaea Ave Moreno Valley CA 92553-3745,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.928114,-117.234001
+Moreno Valley Unified,Midland Elementary,11440 Davis Street Moreno Valley CA 92557-5524,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.956297,-117.239479
+Moreno Valley Unified,Moreno Elementary,26700 Cottonwood Avenue Moreno Valley CA 92555-3802,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.92471,-117.196766
+Moreno Valley Unified,Moreno Valley Adult Education,24551 Dracaea Moreno Valley CA 92553-3745,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.928114,-117.234001
+Moreno Valley Unified,Moreno Valley Community Learning Center,24511 Cactus Avenue Moreno Valley CA 92553,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.909959,-117.234719
+Moreno Valley Unified,Moreno Valley High,23300 Cottonwood Avenue Moreno Valley CA 92553-3437,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.924617,-117.25548
+Moreno Valley Unified,Moreno Valley Online Academy,24521 Cactus Avenue Moreno Valley CA 92553,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.909961,-117.234578
+Moreno Valley Unified,Mountain View Middle,13130 Morrison Street Moreno Valley CA 92555-3700,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.930569,-117.200139
+Moreno Valley Unified,North Ridge Elementary,25101 Kalmia Avenue Moreno Valley CA 92557-5731,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.953894,-117.224513
+Moreno Valley Unified,Palm Middle,11900 Slawson Avenue Moreno Valley CA 92557-6642,5.58,ppb,TRUE,tested,Moreno Valley,Riverside County,33.953813,-117.21324
+Moreno Valley Unified,Rainbow Springs,23990 Eucalyptus Avenue Moreno Valley CA 92553-5504,7.71,ppb,TRUE,tested,Moreno Valley,Riverside County,33.931873,-117.244057
+Moreno Valley Unified,Ramona Elementary,24801 Bay Avenue Moreno Valley CA 92553-3861,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.920865,-117.230038
+Moreno Valley Unified,Ridge Crest Elementary,28500 John F Kennedy Drive Moreno Valley CA 92555-6308,9.2,ppb,TRUE,tested,Moreno Valley,Riverside County,33.905472,-117.166207
+Moreno Valley Unified,Seneca Elementary,11615 Wordsworth Road Moreno Valley CA 92557-8451,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.952681,-117.294902
+Moreno Valley Unified,Serrano Elementary,24100 Delphinium Avenue Moreno Valley CA 92553-3521,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.906496,-117.242039
+Moreno Valley Unified,Sugar Hill Elementary,24455 Old Country Road Moreno Valley CA 92557-4011,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.965475,-117.236972
+Moreno Valley Unified,Sunnymead Elementary,24050 Dracaea Avenue Moreno Valley CA 92553-2813,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.928264,-117.24243
+Moreno Valley Unified,Sunnymead Middle,23996 Eucalyptus Ave Moreno Valley CA 92553-5509,NA,NA,NA,not tested,Moreno Valley,Riverside County,33.931873,-117.243949
+Moreno Valley Unified,Sunnymeadows Elementary,23200 Eucalyptus Avenue Moreno Valley CA 92553-5937,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.931687,-117.258683
+Moreno Valley Unified,TownGate Elementary,22480 Dracaea Avenue Moreno Valley CA 92553-6992,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.928531,-117.273813
+Moreno Valley Unified,Valley View High,13135 Nason Street Moreno Valley CA 92555-4504,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.930041,-117.191619
+Moreno Valley Unified,Vista del Lago High,15150 Lasselle Street Moreno Valley CA 92551-1460,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.87953,-117.209333
+Moreno Valley Unified,Vista Heights Middle,23049 Old Lake Drive Moreno Valley CA 92557-2710,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.968075,-117.259753

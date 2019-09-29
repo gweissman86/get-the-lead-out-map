@@ -1,0 +1,20 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+ABC Unified,Aloha Elementary,11737 East 214th Street Lakewood CA 90715-2101,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.835128,-118.084126
+ABC Unified,Artesia High,12108 East Del Amo Boulevard Lakewood CA 90715-1516,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.845985,-118.074159
+Paramount Unified,Buena Vista High,3717 Michelson Street Lakewood CA 90712-1402,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.857246,-118.14714
+Long Beach Unified,Cleveland Elementary,4760 Hackett Avenue Lakewood CA 90713-2424,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.844091,-118.106688
+Bellflower Unified,Craig Williams Elementary,6144 North Clark Avenue Lakewood CA 90712-1211,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.867124,-118.132841
+Bellflower Unified,Esther Lindstrom Elementary,5900 North Canehill Street Lakewood CA 90713-1251,7.6899999999999995,ppb,TRUE,tested,Lakewood,Los Angeles County,33.862952,-118.11123
+Long Beach Unified,Gompers K-8,5206 Briercrest Avenue Lakewood CA 90713-1822,6.1,ppb,TRUE,tested,Lakewood,Los Angeles County,33.852289,-118.123041
+Long Beach Unified,Holmes Elementary,5020 Barlin Avenue Lakewood CA 90712-3033,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.8495,-118.147895
+Long Beach Unified,Hoover Middle,3501 Country Club Dr. Lakewood CA 90712-3429,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.839806,-118.151464
+Bellflower Unified,Intensive Learning Center,4718 East Michelson Street Lakewood CA 90712-1851,5.74,ppb,TRUE,tested,Lakewood,Los Angeles County,33.857174,-118.136976
+Long Beach Unified,Lakewood High,4400 Briercrest Avenue Lakewood CA 90713-2512,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.837834,-118.123149
+Long Beach Unified,MacArthur Elementary,6011 Centralia St Lakewood CA 90713-2902,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.839528,-118.108429
+Long Beach Unified,Madison Elementary,2801 Bomberry Street Lakewood CA 90712-3724,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.838557,-118.15891
+Bellflower Unified,Mayfair High,6000 North Woodruff Avenue Lakewood CA 90713-1124,5.36,ppb,TRUE,tested,Lakewood,Los Angeles County,33.863314,-118.116437
+Long Beach Unified,Monroe K-8,4400 Ladoga Ave. Lakewood CA 90713-2749,7.5,ppb,TRUE,tested,Lakewood,Los Angeles County,33.837415,-118.103292
+Paramount Unified,Odyssey STEM Academy,3701 Michelson St Lakewood CA 90712,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.857027,-118.147679
+ABC Unified,Palms Elementary,12445 East 207th Street Lakewood CA 90715-1619,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.842414,-118.066275
+Long Beach Unified,Riley Elementary,3319 Sandwood Street Lakewood CA 90712-3423,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.843944,-118.152908
+Bellflower Unified,Stephen Foster Elementary,5223 East Bigelow Street Lakewood CA 90712-2023,11.6,ppb,TRUE,tested,Lakewood,Los Angeles County,33.857658,-118.130735

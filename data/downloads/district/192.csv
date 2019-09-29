@@ -1,0 +1,8 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Dinuba Unified,Dinuba High,340 East Kern Street Dinuba CA 93618-1825,NA,NA,FALSE,tested,NA,Tulare County,36.539594,-119.384239
+Dinuba Unified,Jefferson Elementary,1660 East Sierra Way Dinuba CA 93618-1825,NA,NA,FALSE,tested,NA,Tulare County,36.53832,-119.377404
+Dinuba Unified,John F. Kennedy Elementary,999 North Crawford Dinuba CA 93618-8700,NA,NA,NA,not tested,Dinuba,Tulare County,36.553231,-119.376925
+Dinuba Unified,Lincoln Elementary,850 North Eaton Avenue Dinuba CA 93618-1825,NA,NA,FALSE,tested,Dinuba,Tulare County,36.552104,-119.389289
+Dinuba Unified,Roosevelt Elementary,1311 Euclid Avenue Dinuba CA 93618-1825,NA,NA,FALSE,tested,Dinuba,Tulare County,36.557684,-119.400968
+Dinuba Unified,Sierra Vista High (Continuation),8470 Avenue 406 Dinuba CA 93618-1825,NA,NA,FALSE,tested,NA,Tulare County,36.528475,-119.384178
+Dinuba Unified,Washington Intermediate,1150 North Hayes Avenue Dinuba CA 93618-1825,6.15,ppb,TRUE,tested,NA,Tulare County,36.555322,-119.379247

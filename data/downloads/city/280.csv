@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Rim of the World Unified,Lake Arrowhead Elementary,1300 Golden Rule Lane Lake Arrowhead CA 92352-0430,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.273381,-117.178756
+Rim of the World Unified,Mountain High,27614 HWY 18 Lake Arrowhead CA 92325,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.230829,-117.209695
+Rim of the World Unified,Rim of the World Senior High,27400 Highway 18 Lake Arrowhead CA 92352-0430,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.231698,-117.210775

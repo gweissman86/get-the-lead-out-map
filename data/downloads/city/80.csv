@@ -1,0 +1,3 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Camino Union Elementary,Camino Science and Natural Resources Charter,3060 Snows Rd school B Camino CA 95709-9578,6.5,ppb,TRUE,tested,Camino,El Dorado County,38.732425,-120.676383
+El Dorado Office of Education,El Dorado High School East Campus,3440 Pondorado Road Camino  CA 95709,NA,NA,FALSE,tested,Camino,El Dorado County,38.735721,-120.705619

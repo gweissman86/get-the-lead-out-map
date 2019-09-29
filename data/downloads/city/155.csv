@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Dublin Unified,Cottonwood Creek School,2400 Central Parkway Dublin CA 94568,NA,NA,FALSE,tested,Dublin,Alameda County,37.709588,-121.847396
+Dublin Unified,Dublin Elementary,7997 Vomac Road Dublin CA 94568-1599,6.3,ppb,TRUE,tested,Dublin,Alameda County,37.714409,-121.936042
+Dublin Unified,Dublin High,8151 Village Parkway Dublin CA 94568-1656,NA,NA,FALSE,tested,Dublin,Alameda County,37.720307,-121.924156
+Dublin Unified,Eleanor Murray Fallon,3601 Kohnen Way Dublin CA 94568-8751,10.8,ppb,TRUE,tested,Dublin,Alameda County,37.715849,-121.866205
+Dublin Unified,Frederiksen Elementary,7243 Tamarack Drive Dublin CA 94568-1746,NA,NA,FALSE,tested,Dublin,Alameda County,37.715207,-121.922866
+Dublin Unified,Harold William Kolb,3150 Palermo Way Dublin CA 94568-7326,NA,NA,FALSE,tested,Dublin,Alameda County,37.712049,-121.858841
+Dublin Unified,J. M. Amador Elementary,2100 East Cantara Drive Dublin CA 94568-6700,NA,NA,FALSE,tested,Dublin,Alameda County,37.718769,-121.84274
+Dublin Unified,James Dougherty Elementary,5301 Hibernia Drive Dublin CA 94568-3164,NA,NA,FALSE,tested,Dublin,Alameda County,37.709867,-121.884617
+Dublin Unified,John Green Elementary,3300 Antone Way Dublin CA 94568-7550,NA,NA,FALSE,tested,Dublin,Alameda County,37.718409,-121.862443
+Dublin Unified,Murray Elementary,8435 Davona Drive Dublin CA 94568-1107,NA,NA,FALSE,tested,Dublin,Alameda County,37.721804,-121.932601
+Private,St. Raymond,11557 Shannon Avenue Dublin CA 94568,NA,NA,FALSE,tested,Dublin,Alameda County,37.713829,-121.940978
+Dublin Unified,Valley High (Continuation),6901 York Drive Dublin CA 94568-2100,NA,NA,FALSE,tested,Dublin,Alameda County,37.709609,-121.921222
+Dublin Unified,Wells Middle,6800 Penn Drive Dublin CA 94568-2118,NA,NA,FALSE,tested,Dublin,Alameda County,37.711733,-121.918883

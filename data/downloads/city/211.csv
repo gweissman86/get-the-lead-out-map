@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Pleasant Ridge Union Elementary,Alta Sierra Elementary,16607 Annie Drive Grass Valley CA 95949-7147,10.1,ppb,TRUE,tested,Grass Valley,Nevada County,39.118737,-121.041713
+Nevada Joint Union High,Bear River High,11130 Magnolia Road Grass Valley CA 95949-8366,NA,NA,FALSE,tested,Grass Valley,Nevada County,39.046881,-121.074798
+Nevada County Office of Education,Bitney College Preparatory High,135 Joerschke Drive Grass Valley CA 95945-5249,9.1,ppb,TRUE,tested,Grass Valley,Nevada County,39.232951,-121.041902
+Chicago Park Elementary,Chicago Park Community Charter,15725 Mount Olive Road Grass Valley CA 95945-7906,NA,NA,NA,not tested,Grass Valley,Nevada County,39.144464,-120.97759
+Chicago Park Elementary,Chicago Park Elementary,15725 Mount Olive Rd. Grass Valley CA 95945-7906,5.3,ppb,TRUE,tested,Grass Valley,Nevada County,39.144464,-120.97759
+Pleasant Ridge Union Elementary,Cottage Hill Elementary,22600 Kingston Lane Grass Valley CA 95949-7706,NA,NA,FALSE,tested,Grass Valley,Nevada County,39.050983,-121.067056
+Grass Valley Elementary,Grass Valley Preschool,10840 Gilmore Way Grass Valley CA 95945-5409,NA,NA,FALSE,tested,Grass Valley,Nevada County,39.221654,-121.073681
+Grass Valley Elementary,Lyman Gilmore Middle,10837 Rough and Ready Highway Grass Valley CA 95945-8522,NA,NA,FALSE,tested,Grass Valley,Nevada County,39.22272,-121.073628
+Pleasant Ridge Union Elementary,Magnolia Intermediate,22431 Kingston Lane Grass Valley CA 95949-7706,9.95,ppb,TRUE,tested,Grass Valley,Nevada County,39.051179,-121.070438
+Grass Valley Elementary,Margaret G. Scotten Elementary,10821 Squirrel Creek Road Grass Valley CA 95945-5414,NA,NA,FALSE,tested,Grass Valley,Nevada County,39.22228,-121.076868
+Nevada Joint Union High,William & Marian Ghidotti High,250 Sierra College Drive Grass Valley CA 95945-5726,NA,NA,NA,not tested,Grass Valley,Nevada County,39.235833,-121.047511

@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Marysville Joint Unified,Anna McKenney Intermediate,1904 Huston Marysville CA 95901-3932,NA,NA,FALSE,tested,NA,Yuba County,39.157644,-121.571542
+Marysville Joint Unified,Arboga Elementary,1686 Broadway Olivehurst CA 95961-4230,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.05026,-121.55631
+Marysville Joint Unified,Cedar Lane Elementary,841 Cedar Lane Olivehurst CA 95961-4230,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.123448,-121.584715
+Marysville Joint Unified,Covillaud Elementary,628 F Street Marysville CA 95901-5405,NA,NA,NA,not tested,NA,Yuba County,39.141548,-121.592392
+Marysville Joint Unified,Edgewater Elementary,5715 Oakwood Drive Marysville CA 95901-7343,NA,NA,FALSE,tested,Marysville,Yuba County,39.119801,-121.549427
+Marysville Joint Unified,Ella Elementary,4850 Olivehurst Avenue Olivehurst CA 95961-4230,NA,NA,FALSE,tested,NA,Yuba County,39.094002,-121.552575
+Marysville Joint Unified,Johnson Park Elementary,4364 Lever Avenue Olivehurst CA 95961-4230,8.1,ppb,TRUE,tested,NA,Yuba County,39.080984,-121.535672
+Marysville Joint Unified,Kynoch Elementary,1905 Ahern Street Marysville CA 95901-3322,NA,NA,FALSE,tested,NA,Yuba County,39.157259,-121.576312
+Marysville Joint Unified,Linda Elementary,6180 Dunning Avenue Marysville CA 95901-6505,NA,NA,FALSE,tested,Marysville,Yuba County,39.133226,-121.54543
+Marysville Joint Unified,Lindhurst High,4446 Olive Drive Olivehurst CA 95961-4738,9.9,ppb,TRUE,tested,Olivehurst,Yuba County,39.083625,-121.535402
+Marysville Joint Unified,Marysville Charter Academy for the Arts,1917 B Street Marysville CA 95901-3731,NA,NA,FALSE,tested,NA,Yuba County,39.158552,-121.589486
+Marysville Joint Unified,Marysville Community Day,1919 B Street Marysville CA 95901-3731,NA,NA,NA,not tested,NA,Yuba County,39.158552,-121.589486
+Marysville Joint Unified,Marysville High,12 East 18th Street Marysville CA 95901-3751,NA,NA,FALSE,tested,NA,Yuba County,39.155201,-121.58559
+Marysville Joint Unified,Olivehurst Elementary,1778 McGowan Parkway Olivehurst CA 95961-4799,NA,NA,FALSE,tested,NA,Yuba County,39.076152,-121.550812
+Marysville Joint Unified,Paragon Collegiate Academy,1608 Sampson Street Marysville CA 95901-4314,NA,NA,NA,not tested,NA,Yuba County,39.153663,-121.580368
+Marysville Joint Unified,South Lindhurst Continuation High,4446 Olive Dr. Olivehurst CA 95961-4738,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.083625,-121.535402
+Marysville Joint Unified,Yuba Feather Elementary,18008 Oregon Hill Road Challenge CA 95925,NA,NA,FALSE,tested,NA,Yuba County,39.481979,-121.220222
+Marysville Joint Unified,Yuba Gardens Intermediate,1964 11th Avenue Olivehurst CA 95961-4532,NA,NA,FALSE,tested,NA,Yuba County,39.086159,-121.543855

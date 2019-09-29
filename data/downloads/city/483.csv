@@ -1,0 +1,14 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+San Gabriel Unified,Coolidge Elementary,421 North Mission Drive San Gabriel CA 91775-2731,11.6,ppb,TRUE,tested,San Gabriel,Los Angeles County,34.108737,-118.112565
+San Gabriel Unified,Del Mar High,312 South Del Mar Avenue San Gabriel CA 91776-1356,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.098485,-118.099169
+Temple City Unified,Emperor Elementary,6415 Muscatel Avenue San Gabriel CA 91775-1845,8.1,ppb,TRUE,tested,San Gabriel,Los Angeles County,34.116197,-118.079482
+San Gabriel Unified,Gabrielino High,1327 South San Gabriel Boulevard San Gabriel CA 91776-3308,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.084018,-118.090862
+San Gabriel Unified,Jefferson Middle,1372 East Las Tunas Drive San Gabriel CA 91776-1791,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.103469,-118.081271
+Los Angeles County Ooffice of Education,Lincoln (PAU),600 E. Grand Ave San Gabriel CA 91776,5.3,ppb,TRUE,tested,San Gabriel,Los Angeles County,34.091623,-118.09319
+San Gabriel Unified,McKinley Elementary,1425 Manley Drive San Gabriel CA 91776-3211,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.082713,-118.101409
+Rosemead Elementary,Mildred B. Janson Elementary,8628 East Marshall Rosemead CA 91770-1814,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.074875,-118.088645
+San Gabriel Unified,Options for Youth San Gabriel,405 South San Gabriel Boulevard Suite A San Gabriel CA 91776-1966,NA,NA,NA,not tested,San Gabriel,Los Angeles County,34.097642,-118.091277
+San Gabriel Unified,Roosevelt Elementary,401 South Walnut Grove Avenue San Gabriel CA 91776-2029,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.097254,-118.085147
+Alhambra Unified,San Gabriel High,801 Ramona Street San Gabriel CA 91776-2342,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.095669,-118.107815
+San Gabriel Unified,Washington Elementary,300 North San Marino Avenue San Gabriel CA 91775-2998,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.106799,-118.10381
+San Gabriel Unified,Wilson Elementary,8317 East Sheffield Road San Gabriel CA 91775-1799,NA,NA,FALSE,tested,San Gabriel,Los Angeles County,34.117613,-118.088608

@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Fortuna Elementary,Fortuna Middle,843 L Street Fortuna CA 95540-1921,NA,NA,NA,not tested,NA,Humboldt County,40.597082,-124.1583
+Fortuna Elementary,Norman G. Ambrosini Elementary,3850 Rohnerville Road Fortuna CA 95540-3122,NA,NA,FALSE,tested,NA,Humboldt County,40.580491,-124.132674
+Fortuna Elementary,Redwood Preparatory Charter,1355 Ross Hill Road Fortuna CA 95540-3463,NA,NA,NA,not tested,NA,Humboldt County,40.576254,-124.145723
+Fortuna Elementary,South Fortuna Elementary,2089 Newburg Road Fortuna CA 95540-2706,NA,NA,FALSE,tested,NA,Humboldt County,40.588691,-124.145489
+Fortuna Elementary,Toddy Thomas Elementary,2800 Thomas Street Fortuna CA 95540-3539,NA,NA,FALSE,tested,NA,Humboldt County,40.568525,-124.136316

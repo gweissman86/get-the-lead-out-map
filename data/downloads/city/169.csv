@@ -1,0 +1,6 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+El Segundo Unified,Arena High (Continuation),630 Arena Street El Segundo CA 90245-3036,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.923921,-118.412269
+El Segundo Unified,Center Street Elementary,700 Center Street El Segundo CA 90245-3207,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.926161,-118.404748
+El Segundo Unified,El Segundo High,640 Main Street El Segundo CA 90245-3057,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.924739,-118.414153
+El Segundo Unified,El Segundo Middle,332 Center Street El Segundo CA 90245-4047,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.920689,-118.403671
+El Segundo Unified,Richmond Street Elementary,615 Richmond Street El Segundo CA 90245-2283,NA,NA,FALSE,tested,El Segundo,Los Angeles County,33.924055,-118.418333

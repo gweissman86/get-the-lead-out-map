@@ -1,0 +1,35 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+LAUSD,135TH STREET ELEMENTARY SCHOOL,"801 W 135TH ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.909166,-118.291905
+LAUSD,153RD STREET ELEMENTARY,"1605 W 153RD ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.892942,-118.304985
+LAUSD,156TH STREET ELEMENTARY,"2100 W 156TH ST, GARDENA,        CA 90249",NA,NA,NA,exempt,Gardena,Los Angeles County,33.889199,-118.316135
+LAUSD,186TH ST SCI CNTR,"1621 W 186TH ST, GARDENA, CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.862557,-118.306601
+LAUSD,186TH STREET ELEMENTARY,"1581 W 186TH ST, GARDENA,        CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.863714,-118.305562
+LAUSD,ADMINISTRATIVE SITE - ESC-SOUTH (FMR: LOCAL DISTRICT #8),"1208 MAGNOLIA AVE, GARDENA,     CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.88862,-118.296855
+Los Angeles Unified,Amestoy Elementary,1048 West 149th Street Gardena CA 90247-3008,NA,NA,NA,not tested,Gardena,Los Angeles County,33.896367,-118.292907
+LAUSD,AMESTOY ELEMENTARY,"1048 W 149TH ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.896367,-118.292907
+LAUSD,AMESTOY STATE PRESCHOOL,"1048 W 149TH ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.896367,-118.292907
+LAUSD,CHAPMAN ELEMENTARY,"1947 MARINE AVE, GARDENA,        CA 90249",NA,NA,NA,exempt,Gardena,Los Angeles County,33.894765,-118.312388
+Los Angeles Unified,Chapman Elementary,1947 Marine Avenue Gardena CA 90249-3803,NA,NA,NA,not tested,Gardena,Los Angeles County,33.894765,-118.312388
+Los Angeles Unified,Denker Avenue Elementary,1620 West 162nd Street Gardena CA 90247-3734,NA,NA,NA,not tested,Gardena,Los Angeles County,33.883695,-118.304775
+LAUSD,DENKER ELEMENTARY,"1620 W 162ND ST, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.883695,-118.304775
+LAUSD,DOYLE CAREER & TRANSITION CENTER (FRM: SELLERY SPECIAL EDUCATION CENTER),"15805 S BUDLONG AVE, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.887673,-118.295979
+Los Angeles County Office of Education,Environmental Charter Middle,812 West 165th Place Gardena CA 90247-5105,NA,NA,FALSE,tested,Gardena,Los Angeles County,33.880807,-118.309161
+LAUSD,GARDENA BUS GAR,"18421 S HOOVER ST, GARDENA,        CA 90428",NA,NA,NA,exempt,Gardena,Los Angeles County,33.866286,-118.28619
+LAUSD,GARDENA EARLY EDUCATION CENTER,"1350 WEST 177TH STREET, GARDENA, CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.870461,-118.294799
+LAUSD,GARDENA ELEMENTARY,"647 W GARDENA BLVD, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.881969,-118.309164
+Los Angeles Unified,Gardena Elementary,647 West Gardena Boulevard Gardena CA 90247-5021,NA,NA,NA,not tested,Gardena,Los Angeles County,33.881969,-118.309164
+Los Angeles Unified,Gardena Senior High,1301 West 182nd Street Gardena CA 90248-3322,NA,NA,NA,not tested,Gardena,Los Angeles County,33.866286,-118.296903
+LAUSD,GARDENA SENIOR HIGH,"1301 W 182ND ST, GARDENA,        CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.866286,-118.296903
+LAUSD,GEORGE KIRIYAMA CAS (FRM: GARDENA-CARSON CAS),"18120 S NORMANDIE AVE, GARDENA, CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.873037,-118.298894
+Private,Junipero Serra High School,14830 South Van Ness Avenue Gardena CA 90249,5.5,ppb,TRUE,tested,Gardena,Los Angeles County,33.916454,-118.317808
+Los Angeles Unified,Moneta Continuation,1230 West 177th Street Gardena CA 90248-3317,NA,NA,NA,not tested,Gardena,Los Angeles County,33.87045,-118.294569
+LAUSD,MONETA CONTINUATION HIGH,"1230 W 177TH ST, GARDENA,        CA 90248",NA,NA,NA,exempt,Gardena,Los Angeles County,33.87045,-118.294569
+Los Angeles Unified,New Millennium Secondary,"1301 WeStreet 182nd Street, Suite B Gardena CA 90248-3322",NA,NA,NA,not tested,Gardena,Los Angeles County,33.867246,-118.294731
+Los Angeles Unified,One Hundred Eighty-Sixth Street Elementary,1581 West 186th Street Gardena CA 90248-3951,NA,NA,NA,not tested,Gardena,Los Angeles County,33.863714,-118.305562
+Los Angeles Unified,One Hundred Fifty-Sixth Street Elementary,2100 West 156th Street Gardena CA 90249-4703,NA,NA,NA,not tested,Gardena,Los Angeles County,33.889199,-118.316135
+Los Angeles Unified,One Hundred Fifty-Third Street,1605 West 153rd Street Gardena CA 90247-3135,NA,NA,NA,not tested,Gardena,Los Angeles County,33.892942,-118.304985
+Los Angeles Unified,One Hundred Thirty-Fifth Street Elementary,801 West 135th Street Gardena CA 90247-2154,NA,NA,NA,not tested,Gardena,Los Angeles County,33.909166,-118.291905
+LAUSD,PEARY MIDDLE SCHOOL,"1415 W GARDENA BLVD, GARDENA,        CA 90247",NA,NA,NA,exempt,Gardena,Los Angeles County,33.881876,-118.300407
+Los Angeles Unified,Purche Avenue Elementary,13210 Purche Avenue Gardena CA 90249-1653,NA,NA,FALSE,tested,Gardena,Los Angeles County,33.912462,-118.32031
+Private,St. Anthony of Padua,1003 West 163rd Street Gardena CA 90247,5.65,ppb,TRUE,tested,Gardena,Los Angeles County,33.88347,-118.291859
+LAUSD,YOUTH SRVS - SOUTH,"2100 W 156TH ST, GARDENA,        CA 90249",NA,NA,NA,exempt,Gardena,Los Angeles County,33.889199,-118.316135

@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Mendota Unified,McCabe Elementary,250 South Derrick Street Mendota CA 93640-2049,NA,NA,FALSE,tested,Mendota,Fresno County,36.759651,-120.386697
+Mendota Unified,Mendota Junior High,1258 East Belmont Avenue Mendota CA 93640-2049,NA,NA,NA,not tested,Mendota,Fresno County,36.748086,-120.382679
+Mendota Unified,Washington Elementary,1599 Fifth Street Mendota CA 93640-2359,NA,NA,FALSE,tested,Mendota,Fresno County,36.755838,-120.382788

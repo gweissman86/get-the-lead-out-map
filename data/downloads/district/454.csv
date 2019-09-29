@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+McKinleyville Union Elementary,Dow's Prairie Elementary,3940 Dows Prairie Road McKinleyville CA 95519-9444,NA,NA,FALSE,tested,NA,Humboldt County,40.976905,-124.095949
+McKinleyville Union Elementary,McKinleyville Middle,2285 Central Avenue McKinleyville CA 95519-3685,NA,NA,FALSE,tested,NA,Humboldt County,40.951671,-124.100936
+McKinleyville Union Elementary,Morris Elementary,2395 McKinleyville Avenue McKinleyville CA 95519-3479,NA,NA,FALSE,tested,NA,Humboldt County,40.948754,-124.110492

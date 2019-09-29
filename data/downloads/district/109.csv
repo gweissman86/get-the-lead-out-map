@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Calistoga Joint Unified,Calistoga Elementary,1327 Berry Street Calistoga CA 94515-1605,NA,NA,FALSE,tested,Calistoga,Napa County,38.579344,-122.583487
+Calistoga Joint Unified,Calistoga Junior-Senior High,1608 Lake Street Calistoga CA 94515-1359,NA,NA,FALSE,tested,Calistoga,Napa County,38.583372,-122.579924
+Calistoga Joint Unified,Palisades High (Continuation),1507 Grant Street Calistoga CA 94515-1315,NA,NA,FALSE,tested,Calistoga,Napa County,38.583103,-122.57795

@@ -1,0 +1,10 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Los Banos Unified,Charleston Elementary,18463 West Charleston Road Los Banos CA 93635-9540,NA,NA,NA,not tested,Los Banos,Merced County,36.983868,-120.827765
+Los Banos Unified,Crossroads Alternative Education Center,265 Mercy Springs Road Suite C Los Banos CA 93635-3875,NA,NA,FALSE,tested,Los Banos,Merced County,37.065341,-120.837467
+Los Banos Unified,Green Valley Charter,1149 East B Street Los Banos CA 93635-3705,NA,NA,FALSE,tested,Los Banos,Merced County,37.06615,-120.837826
+Los Banos Unified,Los Banos Elementary,1260 Seventh Street Los Banos CA 93635-4378,NA,NA,FALSE,tested,Los Banos,Merced County,37.057824,-120.846666
+Los Banos Unified,Los Banos High,1966 11th Street Los Banos CA 93635-4812,6,ppb,TRUE,tested,Los Banos,Merced County,37.051085,-120.841605
+Los Banos Unified,Pacheco High,200 North Ward Road Los Banos CA 93635-8831,NA,NA,FALSE,tested,Los Banos,Merced County,37.068421,-120.816652
+Los Banos Unified,R. M. Miano Elementary,1129 B Street Los Banos CA 93635-3705,NA,NA,FALSE,tested,Los Banos,Merced County,37.059225,-120.850534
+Los Banos Unified,San Luis High (Continuation),125 Seventh Street Los Banos CA 93635-3262,NA,NA,FALSE,tested,Los Banos,Merced County,37.067545,-120.842559
+Los Banos Unified,Volta Elementary,24307 West Ingomar Grade Los Banos CA 93635-9783,NA,NA,NA,not tested,Los Banos,Merced County,37.099225,-120.93165

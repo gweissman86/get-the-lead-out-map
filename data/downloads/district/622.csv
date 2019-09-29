@@ -1,0 +1,19 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Redwood City Elementary,Adelante Spanish Immersion,3150 Granger Way Redwood City CA 94061-2457,NA,NA,NA,not tested,Redwood City,San Mateo County,37.454034,-122.244109
+Redwood City Elementary,Clifford Elementary,225 Clifford Avenue Redwood City CA 94062-3205,NA,NA,NA,not tested,Redwood City,San Mateo County,37.482264,-122.263472
+Redwood City Elementary,Connect Community Charter,635 Oakside Avenue                    Redwood City  CA 94063,12,ppb,TRUE,tested,Redwood City,San Mateo County,37.478261,-122.20571
+Redwood City Elementary,Fair Oaks Elementary,2950 Fair Oaks Avenue Redwood City CA 94063-3828,9.3,ppb,TRUE,tested,Redwood City,San Mateo County,37.478913,-122.206062
+Redwood City Elementary,Garfield Elementary,3600 Middlefield Road Menlo Park CA 94025-3010,NA,NA,FALSE,tested,Menlo Park,San Mateo County,37.469855,-122.202761
+Redwood City Elementary,Hawes Elementary,909 Roosevelt Avenue Redwood City CA 94061-1513,NA,NA,NA,not tested,Redwood City,San Mateo County,37.473045,-122.233048
+Redwood City Elementary,Henry Ford Elementary,2498 Massachusetts Avenue Redwood City CA 94061-3263,NA,NA,NA,not tested,Redwood City,San Mateo County,37.456154,-122.233613
+Redwood City Elementary,Hoover Elementary,701 Charter St Redwood City CA 94063-2960,NA,NA,NA,not tested,NA,San Mateo County,37.481783,-122.214946
+Redwood City Elementary,John F. Kennedy Middle,2521 Goodwin Avenue Redwood City CA 93239-2518,NA,NA,NA,not tested,Redwood City,San Mateo County,37.460247,-122.238908
+Redwood City Elementary,John Gill Elementary,555 Avenue Del Ora Redwood City CA 94062-2259,NA,NA,NA,not tested,Redwood City,San Mateo County,37.474492,-122.240797
+Redwood City Elementary,KIPP Excelencia Community Preparatory,2521 Goodwin Ave Redwood City CA 94061-2518,NA,NA,NA,not tested,Redwood City,San Mateo County,37.460247,-122.238908
+Redwood City Elementary,McKinley Institute of Technology,400 Duane Street Redwood City CA 94062-1011,NA,NA,NA,not tested,Redwood City,San Mateo County,37.480808,-122.234995
+Redwood City Elementary,North Star Academy,400 Duane St. Redwood City CA 94062-1011,NA,NA,NA,not tested,Redwood City,San Mateo County,37.480808,-122.234995
+Redwood City Elementary,Orion Alternative,815 Allerton Street Redwood City CA 94063-1360,NA,NA,NA,not tested,Redwood City,San Mateo County,37.490116,-122.234205
+Redwood City Elementary,Rocketship Redwood City,701 Charter Street Redwood City CA 94063-2960,NA,NA,NA,not tested,NA,San Mateo County,37.481783,-122.214946
+Redwood City Elementary,Roy Cloud Elementary,3790 Red Oak Way Redwood City CA 94061-1133,NA,NA,NA,not tested,Redwood City,San Mateo County,37.458943,-122.256052
+Redwood City Elementary,Selby Lane Elementary,170 Selby Lane Atherton CA 94027-3960,17.65,ppb,TRUE,tested,Atherton,San Mateo County,37.458115,-122.22021
+Redwood City Elementary,Taft Elementary,Tenth Avenue and Bay Road Redwood City CA 94063,NA,NA,NA,not tested,Redwood City,San Mateo County,37.480015,-122.194396

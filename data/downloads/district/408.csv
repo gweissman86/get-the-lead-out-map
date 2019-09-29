@@ -1,0 +1,5 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Live Oak Unified,Live Oak High,2351 Pennington Road Live Oak CA 95953-2402,NA,NA,FALSE,tested,NA,Sutter County,39.276155,-121.657562
+Live Oak Unified,Live Oak Middle,2082 Pennington Road Live Oak CA 95953-2516,NA,NA,FALSE,tested,NA,Sutter County,39.275977,-121.65283
+Live Oak Unified,Luther Elementary,10123 Connecticut Avenue Live Oak CA 95953-2001,6.4,ppb,TRUE,tested,NA,Sutter County,39.27732,-121.667976
+Live Oak Unified,Valley Oak Continuation High,2207 Pennington Rd Live Oak CA 95953-2402,NA,NA,FALSE,tested,NA,Sutter County,39.276146,-121.654371

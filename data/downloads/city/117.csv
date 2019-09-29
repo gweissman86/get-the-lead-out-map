@@ -1,0 +1,33 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Compton Unified,Bursch Elementary,2505 West 156th Street Compton CA 90220-2640,NA,NA,FALSE,tested,Compton,Los Angeles County,33.891295,-118.255883
+Compton Unified,Centennial High,2606 North Central Avenue Compton CA 90222-1640,NA,NA,FALSE,tested,Compton,Los Angeles County,33.916064,-118.254305
+Compton Unified,Cesar Chavez Continuation High,12501 North Wilmington Compton CA 90222,5.2,ppb,TRUE,tested,Compton,Los Angeles County,33.909455,-118.239159
+Compton Unified,"Clinton, William Jefferson",6500 Compton Boulevard Compton CA 90221-3181,NA,NA,FALSE,tested,Compton,Los Angeles County,33.895396,-118.183576
+Compton Unified,Compton Community Day High,2300 West Caldwell St Compton CA 90220-4116,NA,NA,FALSE,tested,Compton,Los Angeles County,33.883167,-118.24976
+Compton Unified,Compton Community Day Middle,2300 West Caldwell Street Compton CA 90220-4116,NA,NA,FALSE,tested,Compton,Los Angeles County,33.883167,-118.24976
+Compton Unified,Compton High,601 South Acacia Street Compton CA 90220-3702,NA,NA,FALSE,tested,Compton,Los Angeles County,33.890944,-118.227079
+Compton Unified,Compton Middle Opportunity,2300 West Caldwell Street Building A Compton CA 90220-4116,NA,NA,FALSE,tested,Compton,Los Angeles County,33.882911,-118.249247
+Compton Unified,Davis Middle,621 West Poplar Street Compton CA 90220-1927,NA,NA,FALSE,tested,Compton,Los Angeles County,33.900104,-118.234568
+Compton Unified,Dickison Elementary,905 North Aranbe Street Compton CA 90220-2023,NA,NA,FALSE,tested,Compton,Los Angeles County,33.902137,-118.232335
+Compton Unified,El Segundo School,1480 W El Segundo Blvd Compton CA 90249,NA,NA,FALSE,tested,Compton,Los Angeles County,33.916339,-118.247322
+Compton Unified,Emerson Elementary,1011 East Caldwell Street Compton CA 90221-4340,NA,NA,FALSE,tested,Compton,Los Angeles County,33.884603,-118.211914
+Compton Unified,Enterprise Middle,2600 West Compton Boulevard Compton CA 90220-1324,9.9,ppb,TRUE,tested,Compton,Los Angeles County,33.895346,-118.258007
+Compton Unified,Foster Elementary,1620 North Pannes Street Compton CA 90221-1734,NA,NA,FALSE,tested,Compton,Los Angeles County,33.90626,-118.202543
+Long Beach Unified,Jordan Plus High,171 W. Bort Street Long Beach CA 90805,NA,NA,NA,not tested,Compton,Los Angeles County,33.870362,-118.204871
+Long Beach Unified,Jordan Plus High School,171 W. Bort St. Long Beach CA 90805,6.7,ppb,TRUE,tested,Compton,Los Angeles County,33.870362,-118.204871
+Compton Unified,Kelly Elementary,2320 East Alondra Boulevard Compton CA 90221-4202,NA,NA,FALSE,tested,Compton,Los Angeles County,33.888689,-118.205535
+Compton Unified,Laurel Street Elementary,1321 West Laurel Street Compton CA 90220-2801,NA,NA,FALSE,tested,Compton,Los Angeles County,33.892803,-118.238486
+Compton Unified,Longfellow Elementary,1101 South Dwight Street Compton CA 90220-4496,NA,NA,FALSE,tested,Compton,Los Angeles County,33.885425,-118.241013
+Compton Unified,Mayo Elementary,915 North Mayo Avenue Compton CA 90221-2112,NA,NA,FALSE,tested,Compton,Los Angeles County,33.902191,-118.213077
+Compton Unified,McKinley Elementary,14431 Stanford Avenue Compton CA 90220-1128,NA,NA,FALSE,tested,Compton,Los Angeles County,33.907314,-118.263101
+Los Angeles Unified,Ninety-Ninth Street Elementary,9900 South Wadsworth Avenue Los Angeles CA 90002-2746,NA,NA,NA,not tested,Compton,Los Angeles County,33.882638,-118.254403
+Los Angeles Unified,One Hundred Ninth Street Elementary,10915 South McKinley Avenue Los Angeles CA 90059-1523,NA,NA,NA,not tested,Compton,Los Angeles County,33.882524,-118.25874
+Compton Unified,Ralph Bunche Elementary,16223 South Haskins Lane Carson CA 90746-1021,NA,NA,FALSE,tested,Compton,Los Angeles County,33.884536,-118.261096
+Compton Unified,Robert F. Kennedy Elementary,1305 South Oleander Street Compton CA 90220-4646,NA,NA,FALSE,tested,Compton,Los Angeles County,33.88376,-118.228429
+Compton Unified,Roosevelt Elementary,700 North Bradfield Avenue Compton CA 90221-2307,NA,NA,FALSE,tested,Compton,Los Angeles County,33.900356,-118.203969
+Compton Unified,Roosevelt Middle,1200 East Alondra Boulevard Compton CA 90221-4306,NA,NA,FALSE,tested,Compton,Los Angeles County,33.888558,-118.209784
+Compton Unified,Rosecrans Elementary,1301 North Acacia Avenue Compton CA 90227-4001,NA,NA,FALSE,tested,Compton,Los Angeles County,33.904743,-118.228413
+Compton Unified,Tibby Elementary,1400 West Poplar Street Compton CA 90220-1537,NA,NA,FALSE,tested,Compton,Los Angeles County,33.899852,-118.246736
+LA County Office of Education,Tri Community,12721 S. Willowbrook Ave Compton CA 90222,NA,NA,FALSE,tested,Compton,Los Angeles County,33.916718,-118.232265
+Compton Unified,Washington Elementary,1421 North Wilmington Avenue Compton CA 90222-3406,NA,NA,FALSE,tested,Compton,Los Angeles County,33.905692,-118.238495
+Compton Unified,Willowbrook Middle,2601 North Wilmington Avenue Compton CA 90222-2004,7.3,ppb,TRUE,tested,Compton,Los Angeles County,33.915585,-118.239159

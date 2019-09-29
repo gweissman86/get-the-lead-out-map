@@ -1,0 +1,4 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lawndale Elementary,Jane Addams Middle,4535 West 153rd Place Lawndale CA 90260-1957,NA,NA,FALSE,tested,Lawndale,Los Angeles County,33.892096,-118.356741
+Centinela Valley Union High,Lawndale High,14901 South Inglewood Avenue Lawndale CA 90260-1251,NA,NA,FALSE,tested,Lawndale,Los Angeles County,33.895733,-118.362154
+Lawndale Elementary,William Green Elementary,4520 West 168th Street Lawndale CA 90260-3246,NA,NA,FALSE,tested,Lawndale,Los Angeles County,33.877504,-118.356023

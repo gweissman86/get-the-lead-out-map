@@ -1,0 +1,9 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Los Angeles Unified,Larchmont Charter,1265 North Fairfax Avenue Los Angeles CA 90046-5205,NA,NA,NA,not tested,West Hollywood,Los Angeles County,34.093506,-118.361632
+LAUSD,LAUREL EARLY EDUCATION CENTER,"8023 WILLOUGHBY AVE, LOS ANGELES,    CA 90046",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.087253,-118.364094
+LAUSD,LAUREL ELEMENTARY,"925 N HAYWORTH AVE, LOS ANGELES,    CA 90046",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.087644,-118.362803
+Los Angeles Unified,Rosewood Avenue Elementary,503 North Croft Avenue Los Angeles CA 90048-2510,NA,NA,NA,not tested,West Hollywood,Los Angeles County,34.080318,-118.374307
+LAUSD,ROSEWOOD EARLY EDUCATION CENTER,"510 N ALFRED ST, LOS ANGELES,    CA 90048",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.080445,-118.375158
+LAUSD,ROSEWOOD ELEMENTARY,"503 N CROFT AVE, LOS ANGELES,    CA 90048",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.080318,-118.374307
+LAUSD,WEST HOLLYWOOD COMMUNITY DAY SCHOOL,"1049 NORTH FAIRFAX AVE, WEST HOLLYWOOD, CA 90046",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.089555,-118.361455
+LAUSD,WEST HOLLYWOOD ELEMENTARY,"670 N HAMMOND ST, W HOLLYWOOD, CA 90069",NA,NA,NA,exempt,West Hollywood,Los Angeles County,34.088724,-118.387665

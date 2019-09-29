@@ -1,0 +1,42 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Lammersville Joint Unified,Altamont Elementary,452 West Saint Francis Avenue Mountain House CA 95391-1190,NA,NA,NA,not tested,Tracy,San Joaquin County,37.782274,-121.55067
+Jefferson Elementary,Anthony C. Traina Elementary,4256 Windsong Drive Tracy CA 95377-8739,NA,NA,NA,not tested,Tracy,San Joaquin County,37.700297,-121.443223
+Tracy Joint Unified,Art Freiler,2421 West Lowell Avenue Tracy CA 95376-7300,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.747026,-121.452133
+Banta Elementary,Banta Elementary,22345 South El Rancho Road Tracy CA 95304-9413,NA,NA,NA,not tested,Tracy,San Joaquin County,37.756175,-121.375045
+Private,Bella Vista Christian Academy,1635 Chester Drive Tracy CA 95376,9.9,ppb,TRUE,tested,Tracy,San Joaquin County,37.74797,-121.440708
+Tracy Joint Unified,Central Elementary,1370 Parker Avenue Tracy CA 95376-3522,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.742783,-121.429753
+New Jerusalem Elementary,Delta Charter,31400B South Koster Road Tracy CA 95304-8824,NA,NA,NA,not tested,Tracy,San Joaquin County,37.668039,-121.324129
+New Jerusalem Elementary,Delta Charter Online,31400 S. Koster Road Tracy CA 95304-8824,NA,NA,NA,not tested,Tracy,San Joaquin County,37.668039,-121.324129
+New Jerusalem Elementary,Delta Home Charter,1301 Durham Ferry Road Tracy CA 95304-8798,NA,NA,NA,not tested,Tracy,San Joaquin County,37.6677,-121.322217
+New Jerusalem Elementary,Delta Keys Charter,31400 S. Koster Rd Tracy CA 95304-8824,NA,NA,NA,not tested,Tracy,San Joaquin County,37.668039,-121.324129
+New Jerusalem Elementary,Delta Launch Charter,31400 South Koster Rd Tracy CA 95304-8824,NA,NA,NA,not tested,Tracy,San Joaquin County,37.668039,-121.324129
+Tracy Joint Unified,Discovery Charter,51 East Beverly PL Tracy CA 95376-3191,NA,NA,NA,not tested,Tracy,San Joaquin County,37.745064,-121.42656
+Tracy Joint Unified,Duncan-Russell Continuation,164 West Grantline Road Tracy CA 95376-2614,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.753804,-121.427559
+Tracy Joint Unified,Earle E. Williams Middle,1600 Tennis Lane Tracy CA 95376-4017,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.731615,-121.445136
+Tracy Joint Unified,George and Evelyn Stein Continuation,650 West 10th Street Tracy CA 95376,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.738104,-121.435529
+Tracy Joint Unified,George Kelly Elementary,535 Mabel Josephine Drive Tracy CA 95377-6645,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.728061,-121.462476
+Tracy Joint Unified,Gladys Poet-Christian Elementary,1701 South Central Avenue Tracy CA 95376-4017,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.718311,-121.428828
+Jefferson Elementary,Jefferson,7500 West Linne Road Tracy CA 95304-9278,NA,NA,NA,not tested,Tracy,San Joaquin County,37.695034,-121.396679
+Tracy Joint Unified,John C. Kimball High,3200 Jaguar Run Tracy CA 95377-7216,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.733773,-121.474193
+Lammersville Joint Unified,Lammersville Elementary,16555 West Von Sosten Road Tracy CA 95304-7220,12,ppb,TRUE,tested,Tracy,San Joaquin County,37.751592,-121.514817
+Tracy Joint Unified,Louis A. Bohn Elementary,350 East Mount Diablo Tracy CA 95376-4017,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.728644,-121.420439
+Tracy Joint Unified,Louis J. Villalovoz Elementary,1550 Cypress Drive Tracy CA 95376-4017,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.735099,-121.45146
+Tracy Joint Unified,McKinley Elementary,800 West Carlton Avenue Tracy CA 95376-2909,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.746189,-121.438283
+Tracy Joint Unified,Melville S. Jacobson Elementary,1750 West Kavanagh Avenue Tracy CA 95376-0315,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.757402,-121.447404
+Tracy Joint Unified,Merrill F. West High,1775 West Lowell Avenue Tracy CA 95376-2200,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.749329,-121.448512
+Tracy Joint Unified,Millennium Charter,51 East Beverly Place Tracy CA 95376-3191,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.745064,-121.42656
+Tracy Joint Unified,Monte Vista Middle,751 West Lowell Avenue Tracy CA 95376-2935,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.748025,-121.436612
+Jefferson Elementary,Monticello Elementary,1001 Cambridge Place Tracy CA 95377-7500,NA,NA,NA,not tested,Tracy,San Joaquin County,37.707201,-121.437799
+Lammersville Joint Unified,Mountain House High,1090 South Central Parkway Mountain House CA 95391-1353,NA,NA,NA,not tested,Tracy,San Joaquin County,37.764984,-121.545703
+New Jerusalem Elementary,New Jerusalem,31400 South Koster Road Tracy CA 95304-8824,NA,NA,NA,not tested,Tracy,San Joaquin County,37.668039,-121.324129
+New Jerusalem Elementary,New Jerusalem Elementary,31400C South Koster Road Tracy CA 95304-8824,NA,NA,NA,not tested,Tracy,San Joaquin County,37.668039,-121.324129
+Tracy Joint Unified,North Elementary,2875 Holly Drive Tracy CA 95376-2134,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.757403,-121.426057
+Tracy Joint Unified,Primary Charter,51 East Beverly Place 2 Tracy CA 95376-3191,NA,NA,NA,not tested,Tracy,San Joaquin County,37.74616,-121.424435
+Tracy Joint Unified,South/West Park Elementary,500 West Mount Diablo Road Tracy CA 95376-4625,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.727879,-121.432826
+Private,St. Bernard's Catholic Elementary,165 West Eaton Avenue Tracy CA 95376,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.743709,-121.428877
+Jefferson Elementary,Tom Hawkins Elementary,475 Darlene Lane Tracy CA 95377-7039,NA,NA,NA,not tested,Tracy,San Joaquin County,37.705326,-121.419475
+Tracy Joint Unified,Tracy Adult,1902 Corral Hollow Road Tracy CA 95376-4017,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.749549,-121.453105
+Tracy Joint Unified,Tracy High,315 East 11th Street Tracy CA 95376-4017,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.73971,-121.423838
+Tracy Joint Unified,Wanda Hirsch Elementary,1280 Dove Drive Tracy CA 95376-8362,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.715305,-121.44111
+Lammersville Joint Unified,Wicklund Elementary,300 East Legacy Drive Mountain House CA 95391-1016,NA,NA,FALSE,tested,Tracy,San Joaquin County,37.772057,-121.539543
+Tracy Joint Unified,Willow Community Day,164 West Grant Line Road Tracy CA 95376-2614,NA,NA,NA,not tested,Tracy,San Joaquin County,37.754174,-121.426651

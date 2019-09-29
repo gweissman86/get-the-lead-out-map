@@ -1,0 +1,12 @@
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
+Dos Palos Oro Loma Joint Unified,Bryant Middle,16695 North Bryant Road Dos Palos CA 93620-9405,NA,NA,FALSE,tested,NA,NA,NA,NA
+El Dorado Union High,EDUHSD Virtual Academy at Shenandoah,6540 Koki Lane El Dorado CA 95623-4328,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fort Sage Unified,Fort Sage Middle,200 DS Hall Herlong CA 96113,NA,NA,NA,not tested,NA,NA,NA,NA
+Sonora Elementary,Gold Ridge Education Center,12784 Justice Center Dr Sonora CA 95370,NA,NA,NA,not tested,NA,NA,NA,NA
+Folsom-Cordova Unified,Mather Heights Elementary,4370 Mather School Road Mather CA 95655-2902,7.05,ppb,TRUE,tested,NA,NA,NA,NA
+Calaveras County Office of Education,Mountain Oaks,150 Old Oak Road B San Andreas CA 95249,NA,NA,NA,not tested,NA,NA,NA,NA
+San Bernardino City Unified,Newmark Elementary,4121 North Third Avenue San Bernardino CA 92407-3428,7.05,ppb,TRUE,tested,NA,NA,NA,NA
+Private,Opportunity for Learning,27616 Newhall Ranch Rd Suite #A15 Valencia CA 91355,NA,NA,FALSE,tested,NA,NA,NA,NA
+Fort Sage Unified,Sierra Primary,100 DS Hall Street Herlong CA 96113,NA,NA,NA,not tested,NA,NA,NA,NA
+Sweetwater Union High,Sweetwater Community Day,505 1/2 Elm Avenue Imperial Beach CA 91932-2027,NA,NA,FALSE,tested,NA,NA,NA,NA
+Ventura County Office of Education,Vista Real Charter High,401 South A Street Suite 3 Oxnard CA 93030-5278,NA,NA,NA,not tested,NA,NA,NA,NA
