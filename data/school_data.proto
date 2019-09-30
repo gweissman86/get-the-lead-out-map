@@ -15,8 +15,8 @@ message District {
   
         message Lead {
   
-        float medianResult = 1
-        bool lead = 2
+            float medianResult = 1
+            bool lead = 2
         }
   
         enum status {
