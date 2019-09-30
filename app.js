@@ -326,7 +326,7 @@ function getCategory(properties) {
     return "exempt";
   } else if (status == "1") {
     return "untested";
-  } else if (medianResult == "NA") {
+  } else if (medianResult == "" || medianResult == "NA") {
     return "low";
   } else if (medianResult >= 5) {
     return "high";

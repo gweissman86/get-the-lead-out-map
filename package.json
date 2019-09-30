@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Online Interactive Map of Levels of Lead in Water in California Schools ",
   "scripts": {
+    "clean": "cd data && rm -fr compressed.csv cooccurrences downloads indices",
     "install-python-dependencies": "pip install -U -r requirements.txt",
     "setup": "npm install && cd data && bash setup.sh"
   },
@@ -17,7 +18,10 @@
   },
   "homepage": "https://github.com/GeoSurge/get-the-lead-out-map#readme",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "jquery-csv": "^1.0.5",
+    "protobufjs": "^6.8.8"
+  },
   "devDependencies": {
     "google-protobuf": "^3.9.2"
   }

@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package school_data;
+
+message State {
+    message County {
+        message District {
+            message School {
+                string schoolAddress = 2;
+                string city = 3;
+                float latitude = 5;
+                float longitude = 6;
+                float medianResult = 7;
+                bool lead = 8;
+
+                enum Status {
+                    unknown = 0;
+                    not_tested = 1;
+                    tested = 2;
+                    exempt = 3;
+                }
+                Status status = 9;
+            }
+
+            map<string, School> schools = 2;
+
+        }
+        map<string, District> districts = 1;
+    }
+    map<string, County> counties = 1;
+}
