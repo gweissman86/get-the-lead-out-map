@@ -4,10 +4,9 @@ Online Interactive Map of Levels of Lead in Water in California Schools
 # demo
 https://geosurge.github.io/get-the-lead-out-map/
 
-# setup
-This command installs the protobuf compiler
+# run
 ```bash
-npm run setup
+http-server
 ```
 
 # extra compression steps
