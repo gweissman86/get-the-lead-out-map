@@ -24,7 +24,7 @@ tabs.forEach(function(tab) {
         //show map
         document.getElementById('one').style.display = 'none';
         document.getElementById('two').style.display = 'none';
-        document.getElementById('credits').style.display = 'none'; 
+        document.getElementById('credits').style.display = 'none';
       }
     } else  {
       console.log("you clicked a closed tab");
@@ -61,7 +61,7 @@ function populateDropdown(id, defaultName, optionArray) {
 }
 
 function fillDropdown(dropdownID, options) {
-  var dropdown = document.getElementById(dropdownID);  
+  var dropdown = document.getElementById(dropdownID);
   var innerHTML = '';
   options.forEach(function(option) {
     var selectedText = option.selected ? 'selected' : false;
@@ -142,7 +142,7 @@ function populateCityDropdown() {
             }
           });
           fillDropdown('cityDropdown', options);
-        });        
+        });
       }
     });
   }
@@ -178,13 +178,13 @@ populateDistrictDropdown();
 function fillSchoolDropdown(schoolIDs, selectedSchoolID) {
   if (schoolIDs != undefined) { //undefined when page is loading
     loadIndex("schoolName", function(schoolIndex) {
-      var options = [{ val: -1, txt: 'School'}];  
+      var options = [{ val: -1, txt: 'School'}];
       schoolIDs.forEach(function(schoolID) {
         var schoolName = schoolIndex[schoolID];
         var selected = schoolID == selectedSchoolID;
         options.push({ val: schoolID, txt: schoolName, selected: selected});
       });
-      fillDropdown('schoolDropdown', options);  
+      fillDropdown('schoolDropdown', options);
     });
   }
 }
@@ -193,7 +193,7 @@ function fillSchoolDropdownBySelection(cooccurrencesName, selectionID, selectedS
   loadCooccurrences(cooccurrencesName, function(cooccurrences) {
       var idsOfSchools = cooccurrences[selectionID];
       fillSchoolDropdown(idsOfSchools, selectedSchoolID);
-  });  
+  });
 }
 
 function populateSchoolDropdown() {
@@ -212,7 +212,7 @@ function populateSchoolDropdown() {
   } else if (userHasSelectedCounty) {
     fillSchoolDropdownBySelection("county-to-schoolName", selectedCounty, null);
   } else {
-    populateDropdown("schoolDropdown", "School", []);      
+    populateDropdown("schoolDropdown", "School", []);
   }
 }
 
@@ -237,13 +237,13 @@ function bakeThePie(options) {
         pieClass = options.pieClass?options.pieClass:'marker-cluster-pie', //Class for the whole pie
         pieLabel = options.pieLabel?options.pieLabel:d3.sum(data,valueFunc), //Label for the whole pie
         pieLabelClass = options.pieLabelClass?options.pieLabelClass:'marker-cluster-pie-label',//Class for the pie label
-        
+
         origo = (r+strokeWidth), //Center coordinate
         w = origo*2, //width and height of the svg element
         h = w,
         donut = d3.pie(),
         arc = d3.arc().innerRadius(rInner).outerRadius(r);
-        
+
     //Create an svg element
     var svg = document.createElementNS(d3.namespaces.svg, 'svg');
     //Create the pie chart
@@ -252,20 +252,20 @@ function bakeThePie(options) {
         .attr('class', pieClass)
         .attr('width', w)
         .attr('height', h);
-        
+
     var arcs = vis.selectAll('g.arc')
         .data(donut.value(valueFunc))
         .enter().append('svg:g')
         .attr('class', 'arc')
         .attr('transform', 'translate(' + origo + ',' + origo + ')');
-    
+
     arcs.append('svg:path')
         .attr('class', pathClassFunc)
         .attr('stroke-width', strokeWidth)
         .attr('d', arc)
         .append('svg:title')
           .text(pathTitleFunc);
-                
+
     vis.append('text')
         .attr('x',origo)
         .attr('y',origo)
@@ -318,12 +318,13 @@ function defineClusterIcon(cluster) {
   return myIcon;
 }
 
+// check status-index.txt for number to status mapping
 function getCategory(properties) {
   var medianResult = properties.medianResult;
   var status = properties.status;
-  if (status == "exempt") {
-    return "exempt"; 
-  } else if (status == "not tested") {
+  if (status == "0") {
+    return "exempt";
+  } else if (status == "1") {
     return "untested";
   } else if (medianResult == "NA") {
     return "low";
@@ -334,7 +335,7 @@ function getCategory(properties) {
 
 function getTitle(category) {
   if (category == "exempt") {
-    return "Exempt"; 
+    return "Exempt";
   } else if (category == "untested") {
     return "Untested";
   } else if (category == "low" ) {
@@ -470,9 +471,9 @@ function getLeadLevelDisplay(row) {
     return medianResult + " ppb";
   } else if (row.lead === "FALSE") {
     return "< 5 ppb";
-  } else if (row.status === "not tested") {
+  } else if (row.status === "1") {
     return "Not Tested";
-  } else if (row.status === 'exempt') {
+  } else if (row.status === "0") {
     return "Exempt";
   } else {
     return "NA";
@@ -508,7 +509,7 @@ function loadCSVFromURL(url, callback) {
         cache.downloads[url] = rows;
         callback(cache.downloads[url]);
       });
-    });    
+    });
   }
 }
 
@@ -591,7 +592,7 @@ function onChangeCountyDropdown() {
 function onChangeCityDropdown() {
   getValue('districtDropdown').value = -1;
   populateSchoolDropdown();
-  filterMapAndTable();   
+  filterMapAndTable();
 }
 
 function onChangeDistrictDropdown() {
