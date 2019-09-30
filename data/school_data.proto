@@ -6,23 +6,23 @@ message District {
 
     message School {
 
-    string schoolName = 1
-    string SchoolAddress = 2;
-    string city = 3
-    string county = 4
-    float latitude = 5;
-    float longitude = 6
+        string schoolName = 1
+        string SchoolAddress = 2;
+        string city = 3
+        string county = 4
+        float latitude = 5;
+        float longitude = 6
   
-    message Lead {
+        message Lead {
   
-      float medianResult = 1
-      bool lead = 2
+        float medianResult = 1
+        bool lead = 2
+        }
+  
+        enum status {
+            not_tested = 0;
+            tested = 1;
+            exempt = 2;
+        }
     }
-  
-     enum status {
-        not_tested = 0;
-        tested = 1;
-        exempt = 2;
-     }
-   }
 }
