@@ -5,7 +5,8 @@
   "scripts": {
     "clean": "cd data && rm -fr compressed.csv cooccurrences downloads indices",
     "install-python-dependencies": "pip install -U -r requirements.txt",
-    "setup": "npm install && cd data && bash setup.sh"
+    "setup": "npm install && cd data && bash setup.sh",
+    "zip": "zip -r get-the-lead-out-map.zip app.js csv2geojson.js index.html style.css tabs.css utils.js data/compressed.csv data/cooccurrences data/downloads data/indices"
   },
   "repository": {
     "type": "git",
