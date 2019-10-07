@@ -137,6 +137,39 @@ body {
   right: 0;
 }
 
+a.leaflet-control-zoom-in, a.leaflet-control-zoom-out {
+  text-decoration: none !important;
+}
+
+.leaflet-control.leaflet-control-custom.toggler {
+  background: white;
+  height: 30px;
+  width: 200px;
+}
+
+.toggle-option {
+  background: #545f60;
+  color: #6edeef;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  height: 30px;
+  width: 50%;
+}
+
+.toggler.median .toggle-option.max,
+.toggler.max .toggle-option.median {
+  background: #545f60;
+  color: #6edeef;
+}
+
+.toggler.median .toggle-option.median,
+.toggler.max .toggle-option.max {
+  background: #6edeef;
+  color: #545f60;
+}
+
 .icon-credit {
   position: absolute;
   right: 280px;

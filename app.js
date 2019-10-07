@@ -14,6 +14,7 @@ var appState = {
 /* tab switching */
 var tabs =  Array.prototype.slice.call(document.querySelectorAll("#sub-panel .tabs li a"));
 
+
 tabs.forEach(function(tab) {
   tab.addEventListener('click', function(event) {
     const target = event.target;
@@ -406,25 +407,45 @@ var NWcoordinates = L.latLng(43.617188, -131.661213),
 SEcoordinates = L.latLng(30.847858, -109.286723),
 calBounds = L.latLngBounds(NWcoordinates, SEcoordinates);
 
-var calLead = L.map('map', {
+
+var Toggler = L.Control.extend({
+  options: {
+    position: 'topright'
+  },
+  onAdd: function(map) {
+    var container = L.DomUtil.create('div', 'leaflet-control leaflet-control-custom toggler median');
+    container.innerHTML = '<div class="toggle-option median">Median</div><div class="toggle-option max">Max</div>';
+    container.onclick = function(event) {
+      var className = container.className;
+      var newState = className.indexOf('median') > -1 ? 'max' : 'median';
+      var newClassName = (className.replace('median', '').replace('max', '').trim() + ' ' + newState).trim();
+      container.className = newClassName;
+    };
+		return container;
+	}
+});
+
+var map = L.map('map', {
   maxBounds: calBounds,
   minZoom: 6
 });
 
-calLead.setView([36.778259, -119.417931], 8);
+map.addControl(new Toggler());
+
+map.setView([36.778259, -119.417931], 8);
 
 // Basemaps
 L.tileLayer('https://api.mapbox.com/styles/v1/viymak/cjt7h2y9q01eq1frqxcqfptqh/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1Ijoidml5bWFrIiwiYSI6ImNqdDdndWQ2dTAyc2Y0NHF1djgwY3FqYjYifQ.G_2fY2hb7vQSDHybmMXpbw', {
   maxZoom: 18,
   attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>'
-}).addTo(calLead);
+}).addTo(map);
 
 var markerclusters = L.markerClusterGroup({
   maxClusterRadius: 2*rmax,
   iconCreateFunction: defineClusterIcon //aggregates points into pie according to zoom
 });
 //add the empty markercluster layer
-calLead.addLayer(markerclusters);
+map.addLayer(markerclusters);
 
 // initially loading the data
 loadText(csvPath, function(text) {
@@ -454,7 +475,7 @@ function filterMapByPropertyValue(property, value) {
   markerclusters.addLayer(markers);
 
   // zoom to filtered data
-  calLead.fitBounds(markerclusters.getBounds());
+  map.fitBounds(markerclusters.getBounds());
 }
 
 function toNumber(inpt) {
@@ -609,7 +630,7 @@ function onChangeSchoolDropdown() {
   for (var i = 0; i < layers.length; i++) {
     var layer = layers[i];
     if (layer.feature.properties.schoolName == selectedSchool) {
-      calLead.flyTo(layer._latlng, 15);
+      map.flyTo(layer._latlng, 15);
       break;
     }
   }
