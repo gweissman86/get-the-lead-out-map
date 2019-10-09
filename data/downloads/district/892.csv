@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Yolo County Office of Education,Cesar Chavez Community School,255 West Beamer Street Woodland CA 95695-2510,NA,NA,FALSE,tested,Woodland,Yolo County,38.684783,-121.795748
-Yolo County Office of Education,Greengate Center for Exception,285 W. Beamer St. Woodland CA 95695,9.6,ppb,TRUE,tested,Woodland,Yolo County,38.684788,-121.797057
-Yolo County Office of Education,Yolo County Special Education,1280 Santa Anita Ct. Woodland CA 95776-6127,41,ppb,TRUE,tested,Woodland,Yolo County,38.696024,-121.757964
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Yolo County Office of Education,Cesar Chavez Community School,255 West Beamer Street Woodland CA 95695-2510,,,False,tested,Woodland,Yolo County,38.684783,-121.795748,
+Yolo County Office of Education,Greengate Center for Exception,285 W. Beamer St. Woodland CA 95695,9.6,ppb,True,tested,Woodland,Yolo County,38.684788,-121.79705700000001,9.6
+Yolo County Office of Education,Yolo County Special Education,1280 Santa Anita Ct. Woodland CA 95776-6127,41.0,ppb,True,tested,Woodland,Yolo County,38.696024,-121.75796399999999,41.0

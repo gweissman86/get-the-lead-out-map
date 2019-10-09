@@ -1,2 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Long Beach Unified,Avalon K-12,200 Falls Canyon Road Santa Catalina CA 90704-0557,NA,NA,FALSE,tested,Avalon,Los Angeles County,33.338403,-118.33193
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Auburn Union Elementary,Alta Vista Community Charter,173 Oak Street Auburn CA 95603-4318,,,False,tested,Auburn,Placer County,38.908487,-121.063474,
+Ackerman Charter,Bowman Charter,13777 Bowman Road Auburn CA 95603-3147,,,False,tested,Auburn,Placer County,38.935346,-121.05608899999999,
+Auburn Union Elementary,EV Cain 21st Century STEM Charter,150 Palm Avenue Auburn CA 95603-3712,,,False,tested,Auburn,Placer County,38.906804,-121.07845800000001,
+Placer Union High,Lynn MacDonald Center,3775 Richardson Dr. Auburn CA 95602-9350,,,False,tested,Auburn,Placer County,38.952328,-121.10781399999999,
+Private,Pine Hills Adventist Academy,13500 Richards Lane Auburn CA 95603,,,False,tested,Auburn,Placer County,38.941694,-121.06351799999999,
+Placer Union High,Placer High,275 Orange Street Auburn CA 95603-5115,,,False,tested,Auburn,Placer County,38.895195,-121.07003300000001,
+Placer Union High,Placer School for Adults,390 Finley Street Auburn CA 95603-5217,,,,not tested,Auburn,Placer County,38.89608,-121.068027,
+Auburn Union Elementary,Skyridge Elementary,800 Perkins Way Auburn CA 95603-5709,,,False,tested,Auburn,Placer County,38.875067,-121.072992,

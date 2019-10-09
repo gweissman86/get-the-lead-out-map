@@ -1,7 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Farmersville Unified,Deep Creek Academy,281 South Farmersville Boulevard Farmersville CA 93223-1833,NA,NA,FALSE,tested,Farmersville,Tulare County,36.297482,-119.207342
-Farmersville Unified,Farmersville High,631 East Walnut Avenue Farmersville CA 93223-2203,NA,NA,FALSE,tested,Farmersville,Tulare County,36.310687,-119.200769
-Farmersville Unified,Farmersville Junior High,650 North Virginia Street Farmersville CA 93223-1120,NA,NA,FALSE,tested,Farmersville,Tulare County,36.303191,-119.21464
-Farmersville Unified,Freedom Elementary,575 East Citrus Farmersville CA 93223-1274,NA,NA,FALSE,tested,Farmersville,Tulare County,36.30755,-119.201795
-Farmersville Unified,George L. Snowden Elementary,301 South Farmersville Boulevard Farmersville CA 93223-1835,NA,NA,FALSE,tested,Farmersville,Tulare County,36.295424,-119.208136
-Farmersville Unified,J. E. Hester Elementary,477 East Ash Street Farmersville CA 93223-1209,53.2,ppb,TRUE,tested,Farmersville,Tulare County,36.300973,-119.202155
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fallbrook Union High,Ivy High (Continuation),1056 Winterhaven Road Fallbrook CA 92028-4500,,,,not tested,Fallbrook,San Diego County,33.347613,-117.236796,
+Fallbrook Union High,Oasis High (Alternative),1056 Winterhaven Rd Fallbrook CA 92028-4500,,,,not tested,Fallbrook,San Diego County,33.347613,-117.236796,
+Vallecitos Elementary,Vallecitos Elementary,5211 Fifth Street Rainbow CA 92028-9795,,,False,tested,Fallbrook,San Diego County,33.413488,-117.149212,
+Fallbrook Union Elementary,William H. Frazier Elementary,1835 Gum Tree Lane Fallbrook CA 92028-2108,,,,not tested,Fallbrook,San Diego County,33.387021000000004,-117.22475700000001,

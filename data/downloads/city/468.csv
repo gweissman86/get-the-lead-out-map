@@ -1,34 +1,34 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Roseville Joint Union High,Adelante High (Continuation),350 Atlantic Street Roseville CA 95678-1849,NA,NA,FALSE,tested,Roseville,Placer County,38.75286,-121.280166
-Roseville City Elementary,Barbara Chilton Middle,4501 Bob Doyle Drive Roseville CA 95747-9048,NA,NA,FALSE,tested,Roseville,Placer County,38.777173,-121.372057
-Roseville City Elementary,Blue Oaks Elementary,8150 Horncastle Avenue Roseville CA 95747-6773,NA,NA,FALSE,tested,Roseville,Placer County,38.783825,-121.331171
-Roseville City Elementary,Bradford Woodbridge Fundamental Elementary,515 Niles Avenue Roseville CA 95678-1543,NA,NA,FALSE,tested,Roseville,Placer County,38.756233,-121.289834
-Roseville City Elementary,Catheryn Gates Elementary,1051 Trehowell Drive Roseville CA 95678-6108,NA,NA,FALSE,tested,Roseville,Placer County,38.775849,-121.28085
-Dry Creek Joint Elementary,Coyote Ridge Elementary,1751 Morning Star Drive Roseville CA 95747-4975,NA,NA,NA,not tested,Roseville,Placer County,38.759318,-121.353934
-Dry Creek Joint Elementary,Creekview Ranch,8779 Cook Riolo Road Roseville CA 95747-9258,NA,NA,FALSE,tested,Roseville,Placer County,38.750423,-121.337023
-Roseville City Elementary,Crestmont Elementary,1501 Sheridan Avenue Roseville CA 95661-5724,NA,NA,FALSE,tested,Roseville,Placer County,38.721979,-121.254155
-Roseville City Elementary,Diamond Creek Elementary,3151 Hopscotch Way Roseville CA 95747-7163,NA,NA,FALSE,tested,Roseville,Placer County,38.807446,-121.334166
-Eureka Union,Excelsior Elementary,2701 Eureka Road Roseville CA 95661-6447,NA,NA,FALSE,tested,Roseville,Placer County,38.737266,-121.238138
-Roseville City Elementary,Ferris Spanger Elementary,699 Shasta Street Roseville CA 95678-1634,NA,NA,FALSE,tested,Roseville,Placer County,38.758228,-121.284331
-Roseville City Elementary,Fiddyment Farm,4001 Brick Mason Circle Roseville CA 95747-4218,NA,NA,FALSE,tested,Roseville,Placer County,38.806211,-121.357605
-Roseville City Elementary,George A. Buljan Middle,100 Hallissy Drive Roseville CA 95678-5922,NA,NA,FALSE,tested,Roseville,Placer County,38.778811,-121.301087
-Roseville City Elementary,George Cirby Elementary,814 Darling Way Roseville CA 95678-4419,NA,NA,FALSE,tested,Roseville,Placer County,38.736551,-121.280685
-Roseville City Elementary,George Sargeant Elementary,1200 Ridgecrest Way Roseville CA 95661-7308,NA,NA,FALSE,tested,Roseville,Placer County,38.728778,-121.23776
-Dry Creek Joint Elementary,Heritage Oak Elementary,2271 Americana Drive Roseville CA 95747-7688,NA,NA,NA,not tested,Roseville,Placer County,38.757743,-121.314099
-Roseville Joint Union High,Independence High (Alternative),125 Berry Street Roseville CA 95678-1310,NA,NA,FALSE,tested,Roseville,Placer County,38.757944,-121.275097
-Roseville City Elementary,Junction Elementary,2150 Ellison Drive Roseville CA 95747-8898,NA,NA,FALSE,tested,Roseville,Placer County,38.777366,-121.365152
-Eureka Union,Maidu Elementary,1950 Johnson Ranch Drive Roseville CA 95661-3749,NA,NA,FALSE,tested,Roseville,Placer County,38.738603,-121.247271
-Roseville Joint Union High,Oakmont High,1710 Cirby Way Roseville CA 95661-5520,NA,NA,FALSE,tested,Roseville,Placer County,38.727676,-121.260288
-Eureka Union,Olympus Junior High,2625 La Croix Drive Roseville CA 95661-3959,NA,NA,FALSE,tested,Roseville,Placer County,38.748001,-121.233866
-Roseville City Elementary,Orchard Ranch Elementary,4375 Brookstone Dr Roseville CA 95747,NA,NA,FALSE,tested,Roseville,Placer County,38.787647,-121.392368
-Dry Creek Joint Elementary,Quail Glen Elementary,1250 Canevari Drive Roseville CA 95747-6833,NA,NA,NA,not tested,Roseville,Placer County,38.773471,-121.334964
-Roseville City Elementary,Robert C. Cooley Middle,9300 Prairie Woods Way Roseville CA 95747-7129,NA,NA,FALSE,tested,Roseville,Placer County,38.79522,-121.334106
-Roseville Joint Union High,Roseville High,1 Tiger Way Roseville CA 95678-1706,NA,NA,FALSE,tested,Roseville,Placer County,38.756372,-121.275839
-Dry Creek Joint Elementary,Silverado Middle,2525 Country Club Drive Roseville CA 95747-6009,NA,NA,NA,not tested,Roseville,Placer County,38.757803,-121.326357
-Roseville City Elementary,Stoneridge Elementary,2501 Alexandra Drive Roseville CA 95661-4087,NA,NA,FALSE,tested,Roseville,Placer County,38.7583,-121.234265
-Roseville City Elementary,Thomas Jefferson Elementary,750 Central Park Drive Roseville CA 95678-3513,NA,NA,FALSE,tested,Roseville,Placer County,38.787235,-121.276642
-Roseville City Elementary,Vencil Brown Elementary,250 Trestle Drive Roseville CA 95678-5923,NA,NA,FALSE,tested,Roseville,Placer County,38.780524,-121.296263
-Roseville City Elementary,Warren T. Eich Middle,1509 Sierra Gardens Drive Roseville CA 95661-4804,NA,NA,FALSE,tested,Roseville,Placer County,38.737333,-121.261418
-Roseville City Elementary,William Kaseberg Elementary,1040 Main Street Roseville CA 95678-2067,NA,NA,FALSE,tested,Roseville,Placer County,38.752721,-121.304023
-Center Joint Unified,Wilson C. Riles Middle,4747 PFE Road Roseville CA 95747-9776,NA,NA,FALSE,tested,Roseville,Placer County,38.729233,-121.32159
-Roseville Joint Union High,Woodcreek High,2551 Woodcreek Oaks Boulevard Roseville CA 95747-6074,NA,NA,FALSE,tested,Roseville,Placer County,38.762233,-121.333884
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Roseville Joint Union High,Adelante High (Continuation),350 Atlantic Street Roseville CA 95678-1849,,,False,tested,Roseville,Placer County,38.75286,-121.280166,
+Roseville City Elementary,Barbara Chilton Middle,4501 Bob Doyle Drive Roseville CA 95747-9048,,,False,tested,Roseville,Placer County,38.777173,-121.37205700000001,
+Roseville City Elementary,Blue Oaks Elementary,8150 Horncastle Avenue Roseville CA 95747-6773,,,False,tested,Roseville,Placer County,38.783825,-121.331171,
+Roseville City Elementary,Bradford Woodbridge Fundamental Elementary,515 Niles Avenue Roseville CA 95678-1543,,,False,tested,Roseville,Placer County,38.756233,-121.28983400000001,
+Roseville City Elementary,Catheryn Gates Elementary,1051 Trehowell Drive Roseville CA 95678-6108,,,False,tested,Roseville,Placer County,38.775849,-121.28085,
+Dry Creek Joint Elementary,Coyote Ridge Elementary,1751 Morning Star Drive Roseville CA 95747-4975,,,,not tested,Roseville,Placer County,38.759318,-121.35393400000001,
+Dry Creek Joint Elementary,Creekview Ranch,8779 Cook Riolo Road Roseville CA 95747-9258,,,False,tested,Roseville,Placer County,38.750423,-121.337023,
+Roseville City Elementary,Crestmont Elementary,1501 Sheridan Avenue Roseville CA 95661-5724,,,False,tested,Roseville,Placer County,38.721979,-121.25415500000001,
+Roseville City Elementary,Diamond Creek Elementary,3151 Hopscotch Way Roseville CA 95747-7163,,,False,tested,Roseville,Placer County,38.807446,-121.334166,
+Eureka Union,Excelsior Elementary,2701 Eureka Road Roseville CA 95661-6447,,,False,tested,Roseville,Placer County,38.737266,-121.23813799999999,
+Roseville City Elementary,Ferris Spanger Elementary,699 Shasta Street Roseville CA 95678-1634,,,False,tested,Roseville,Placer County,38.758228,-121.28433100000001,
+Roseville City Elementary,Fiddyment Farm,4001 Brick Mason Circle Roseville CA 95747-4218,,,False,tested,Roseville,Placer County,38.806211,-121.357605,
+Roseville City Elementary,George A. Buljan Middle,100 Hallissy Drive Roseville CA 95678-5922,,,False,tested,Roseville,Placer County,38.778811,-121.30108700000001,
+Roseville City Elementary,George Cirby Elementary,814 Darling Way Roseville CA 95678-4419,,,False,tested,Roseville,Placer County,38.736551,-121.280685,
+Roseville City Elementary,George Sargeant Elementary,1200 Ridgecrest Way Roseville CA 95661-7308,,,False,tested,Roseville,Placer County,38.728778000000005,-121.23776000000001,
+Dry Creek Joint Elementary,Heritage Oak Elementary,2271 Americana Drive Roseville CA 95747-7688,,,,not tested,Roseville,Placer County,38.757743,-121.314099,
+Roseville Joint Union High,Independence High (Alternative),125 Berry Street Roseville CA 95678-1310,,,False,tested,Roseville,Placer County,38.757944,-121.275097,
+Roseville City Elementary,Junction Elementary,2150 Ellison Drive Roseville CA 95747-8898,,,False,tested,Roseville,Placer County,38.777366,-121.365152,
+Eureka Union,Maidu Elementary,1950 Johnson Ranch Drive Roseville CA 95661-3749,,,False,tested,Roseville,Placer County,38.738603000000005,-121.247271,
+Roseville Joint Union High,Oakmont High,1710 Cirby Way Roseville CA 95661-5520,,,False,tested,Roseville,Placer County,38.727676,-121.26028799999999,
+Eureka Union,Olympus Junior High,2625 La Croix Drive Roseville CA 95661-3959,,,False,tested,Roseville,Placer County,38.748001,-121.23386599999999,
+Roseville City Elementary,Orchard Ranch Elementary,4375 Brookstone Dr Roseville CA 95747,,,False,tested,Roseville,Placer County,38.787647,-121.39236799999999,
+Dry Creek Joint Elementary,Quail Glen Elementary,1250 Canevari Drive Roseville CA 95747-6833,,,,not tested,Roseville,Placer County,38.773471,-121.33496399999999,
+Roseville City Elementary,Robert C. Cooley Middle,9300 Prairie Woods Way Roseville CA 95747-7129,,,False,tested,Roseville,Placer County,38.79522,-121.334106,
+Roseville Joint Union High,Roseville High,1 Tiger Way Roseville CA 95678-1706,,,False,tested,Roseville,Placer County,38.756372,-121.27583899999999,
+Dry Creek Joint Elementary,Silverado Middle,2525 Country Club Drive Roseville CA 95747-6009,,,,not tested,Roseville,Placer County,38.757803,-121.326357,
+Roseville City Elementary,Stoneridge Elementary,2501 Alexandra Drive Roseville CA 95661-4087,,,False,tested,Roseville,Placer County,38.7583,-121.234265,
+Roseville City Elementary,Thomas Jefferson Elementary,750 Central Park Drive Roseville CA 95678-3513,,,False,tested,Roseville,Placer County,38.787234999999995,-121.276642,
+Roseville City Elementary,Vencil Brown Elementary,250 Trestle Drive Roseville CA 95678-5923,,,False,tested,Roseville,Placer County,38.780524,-121.29626299999998,
+Roseville City Elementary,Warren T. Eich Middle,1509 Sierra Gardens Drive Roseville CA 95661-4804,,,False,tested,Roseville,Placer County,38.737333,-121.26141799999999,
+Roseville City Elementary,William Kaseberg Elementary,1040 Main Street Roseville CA 95678-2067,,,False,tested,Roseville,Placer County,38.752721,-121.304023,
+Center Joint Unified,Wilson C. Riles Middle,4747 PFE Road Roseville CA 95747-9776,,,False,tested,Roseville,Placer County,38.729233,-121.32158999999999,
+Roseville Joint Union High,Woodcreek High,2551 Woodcreek Oaks Boulevard Roseville CA 95747-6074,,,False,tested,Roseville,Placer County,38.762233,-121.33388400000001,

@@ -1,7 +1,23 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paso Robles Joint Unified,George H. Flamson Middle,655 24th Street Paso Robles CA 93446-1444,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.639125,-120.693219
-Paso Robles Joint Unified,Georgia Brown Elementary,525 36th Street Paso Robles CA 93447-7010,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.651413,-120.695617
-Paso Robles Joint Unified,Marie Bauer/Glen Speck School,401 17th St Paso Robles CA 93446,7.5,ppb,TRUE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.632638,-120.6946
-Paso Robles Joint Unified,Pat Butler Elementary,700 Nicklaus Street Paso Robles CA 93446-3415,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.610783,-120.673847
-Private,Saint Rose Catholic School,900 Tucker Avenue Paso Robles CA 93446,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.625461,-120.672626
-Paso Robles Joint Unified,Virginia Peterson Elementary,2501 Beechwood Drive Paso Robles CA 93446-4730,NA,NA,FALSE,tested,El Paso de Robles (Paso Robles),San Luis Obispo County,35.60037,-120.655644
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Mountain View Elementary,Baker Elementary,12043 Exline Street El Monte CA 91732-2797,,,,not tested,El Monte,Los Angeles County,34.066151,-118.01626599999999,
+Mountain View Elementary,Charles T. Kranz Intermediate,12460 Fineview Street El Monte CA 91732-3930,,,,not tested,El Monte,Los Angeles County,34.045413,-118.023527,
+El Monte City,Cherrylee Elementary,5025 Buffington Road El Monte CA 91732-1499,,,,not tested,El Monte,Los Angeles County,34.092756,-118.00855700000001,
+El Monte City,Columbia Elementary,3400 North California El Monte CA 91731-3136,,,,not tested,El Monte,Los Angeles County,34.083577000000005,-118.036174,
+El Monte City,Cortada Elementary,3111 North Potrero Avenue El Monte CA 91733-1213,,,,not tested,El Monte,Los Angeles County,34.065312,-118.05624099999999,
+El Monte Union High,El Monte Union High School Community Day,5050 Kings Row El Monte CA 91731-5405,,,False,tested,El Monte,Los Angeles County,34.093686,-118.026156,
+El Monte Union High,El Monte/Rosemead Adult,10807 Ramona Boulevard El Monte CA 91731-2627,,,,not tested,El Monte,Los Angeles County,34.072067,-118.039276,
+El Monte Union High,Fernando R. Ledesma Continuation High,12347 Ramona Boulevard El Monte CA 91732-2569,,,False,tested,El Monte,Los Angeles County,34.076309,-118.00378,
+Mountain View Elementary,Jerry Voorhis Elementary,3501 North Durfee Avenue El Monte CA 91732-2911,,,,not tested,El Monte,Los Angeles County,34.067002,-118.009901,
+Mountain View Elementary,La Primaria Elementary,4220 Gilman Road El Monte CA 91732-2597,,,,not tested,El Monte,Los Angeles County,34.075555,-118.00284099999999,
+El Monte City,Legore Elementary,11121 Bryant Road El Monte CA 91731-2053,,,,not tested,El Monte,Los Angeles County,34.080419,-118.028704,
+Mountain View Elementary,Maxson Elementary,12380 Felipe Street El Monte CA 91732-3656,,,,not tested,El Monte,Los Angeles County,34.050470000000004,-118.020325,
+Mountain View Elementary,Miramonte Elementary,10620 Schmidt Road El Monte CA 91732-2702,,,,not tested,El Monte,Los Angeles County,34.049239,-118.020178,
+El Monte Union High,Mountain View High,2900 Parkway Drive El Monte CA 91732-3695,,,False,tested,El Monte,Los Angeles County,34.052307,-118.01324199999999,
+El Monte City,New Lexington Elementary,10410 East Bodger Street El Monte CA 91733-1314,,,,not tested,El Monte,Los Angeles County,34.063699,-118.04461599999999,
+Mountain View Elementary,Parkview Elementary,12044 EaStreet Elliott Avenue El Monte CA 91732-3743,,,,not tested,El Monte,Los Angeles County,34.054173,-118.021498,
+El Monte City,Potrero Elementary,2611 North Potrero Avenue El Monte CA 91733-1803,,,,not tested,El Monte,Los Angeles County,34.059611,-118.05641899999999,
+El Monte City,Shirpser Elementary,4020 North Gibson Road El Monte CA 91731-1816,,,,not tested,El Monte,Los Angeles County,34.079324,-118.04973500000001,
+El Monte City,Thompson Elementary,4544 Maxson Road El Monte CA 91732-1798,,,,not tested,El Monte,Los Angeles County,34.082395,-118.00461000000001,
+Mountain View Elementary,Twin Lakes Elementary,3900 Gilman Road El Monte CA 91732-2515,,,,not tested,El Monte,Los Angeles County,34.071026,-118.00523999999999,
+El Monte City,Wilkerson Elementary,2700 North Doreen Avenue El Monte CA 91733-2235,,,,not tested,El Monte,Los Angeles County,34.061479,-118.04453400000001,
+El Monte City,Wright Elementary,11317 East McGirk Road El Monte CA 91732-1899,,,,not tested,El Monte,Los Angeles County,34.085403,-118.02253200000001,

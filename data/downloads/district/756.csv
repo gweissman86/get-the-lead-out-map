@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Somis Union,Somis Elementary,5268 North Street Somis CA 93066-9531,8.8,ppb,TRUE,tested,NA,Ventura County,34.25879,-118.997607
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Somis Union,Somis Elementary,5268 North Street Somis CA 93066-9531,8.8,ppb,True,tested,,Ventura County,34.258790000000005,-118.997607,10.5

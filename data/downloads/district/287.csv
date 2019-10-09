@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Gonzales Unified,Fairview Middle,401 Fourth Street Gonzales CA 93926,NA,NA,NA,not tested,Soledad,Monterey County,36.509276,-121.442033
-Gonzales Unified,Gonzales Evening High,650 Elko St Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
-Gonzales Unified,Gonzales High,501 Fifth Street Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511566,-121.441522
-Gonzales Unified,La Gloria Elementary,220 Elko Street Gonzales CA 93926-0238,NA,NA,NA,not tested,Gonzales,Monterey County,36.50804,-121.439667
-Gonzales Unified,Somavia High,650 Elko Street Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Gonzales Unified,Fairview Middle,401 Fourth Street Gonzales CA 93926,,,,not tested,Soledad,Monterey County,36.509276,-121.44203300000001,
+Gonzales Unified,Gonzales Evening High,650 Elko St Gonzales CA 93926,,,,not tested,Gonzales,Monterey County,36.511435,-121.44341599999998,
+Gonzales Unified,Gonzales High,501 Fifth Street Gonzales CA 93926,,,,not tested,Gonzales,Monterey County,36.511565999999995,-121.44152199999999,
+Gonzales Unified,La Gloria Elementary,220 Elko Street Gonzales CA 93926-0238,,,,not tested,Gonzales,Monterey County,36.50804,-121.43966699999999,
+Gonzales Unified,Somavia High,650 Elko Street Gonzales CA 93926,,,,not tested,Gonzales,Monterey County,36.511435,-121.44341599999998,

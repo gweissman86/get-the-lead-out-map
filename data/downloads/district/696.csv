@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Ysidro Elementary,La Mirada Elementary,222 Avenida de la Madrid San Ysidro CA 92173-1508,NA,NA,NA,not tested,San Diego,San Diego County,32.562946,-117.046105
-San Ysidro Elementary,Ocean View Hills,4919 Del Sol Boulevard San Diego CA 92154-8488,NA,NA,NA,not tested,San Diego,San Diego County,32.571483,-117.024412
-San Ysidro Elementary,San Ysidro Middle,4345 Otay Mesa Road San Ysidro CA 92173-1623,NA,NA,NA,not tested,San Diego,San Diego County,32.560113,-117.039141
-San Ysidro Elementary,Smythe Elementary,1880 Smythe Avenue San Ysidro CA 92173-1599,NA,NA,NA,not tested,San Diego,San Diego County,32.563896,-117.050209
-San Ysidro Elementary,Sunset Elementary,3825 Sunset Lane San Ysidro CA 92173-3334,NA,NA,NA,not tested,San Diego,San Diego County,32.55756,-117.050499
-San Ysidro Elementary,Vista Del Mar,4885 Del Sol Blvd San Diego CA 92154-8401,NA,NA,NA,not tested,San Diego,San Diego County,32.57428,-117.064583
-San Ysidro Elementary,Willow Elementary,226 Willow Road San Ysidro CA 92173-3096,NA,NA,NA,not tested,San Diego,San Diego County,32.543702,-117.042015
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Ysidro Elementary,La Mirada Elementary,222 Avenida de la Madrid San Ysidro CA 92173-1508,,,,not tested,San Diego,San Diego County,32.562946000000004,-117.04610500000001,
+San Ysidro Elementary,Ocean View Hills,4919 Del Sol Boulevard San Diego CA 92154-8488,,,,not tested,San Diego,San Diego County,32.571483,-117.02441200000001,
+San Ysidro Elementary,San Ysidro Middle,4345 Otay Mesa Road San Ysidro CA 92173-1623,,,,not tested,San Diego,San Diego County,32.560113,-117.03914099999999,
+San Ysidro Elementary,Smythe Elementary,1880 Smythe Avenue San Ysidro CA 92173-1599,,,,not tested,San Diego,San Diego County,32.563896,-117.05020900000001,
+San Ysidro Elementary,Sunset Elementary,3825 Sunset Lane San Ysidro CA 92173-3334,,,,not tested,San Diego,San Diego County,32.557559999999995,-117.050499,
+San Ysidro Elementary,Vista Del Mar,4885 Del Sol Blvd San Diego CA 92154-8401,,,,not tested,San Diego,San Diego County,32.57428,-117.06458300000001,
+San Ysidro Elementary,Willow Elementary,226 Willow Road San Ysidro CA 92173-3096,,,,not tested,San Diego,San Diego County,32.543702,-117.04201499999999,

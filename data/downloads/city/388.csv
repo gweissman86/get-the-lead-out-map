@@ -1,33 +1,33 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Tustin Unified,A. G. Currie Middle,1402 Sycamore Ave. Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
-Orange Unified,California Elementary,1080 North California Street Orange CA 92867-5810,NA,NA,FALSE,tested,Orange,Orange County,33.805702,-117.842699
-Orange Unified,Cambridge Elementary,425 North Cambridge Orange CA 92866-1149,8.86,ppb,TRUE,tested,Orange,Orange County,33.793781,-117.844269
-Orange Unified,Cerro Villa Middle,17852 East Serrano Avenue Villa Park CA 92861-1214,NA,NA,FALSE,tested,Orange,Orange County,33.821101,-117.825013
-Orange Unified,Esplanade Elementary,381 North Esplanade Street Orange CA 92869-2909,NA,NA,FALSE,tested,Orange,Orange County,33.794114,-117.808437
-Orange Unified,Fletcher Elementary,515 West Fletcher Street Orange CA 92865-2521,8.22,ppb,TRUE,tested,Orange,Orange County,33.829874,-117.857388
-Orange Unified,Handy Elementary,860 North Handy Street Orange CA 92867-7243,7.59,ppb,TRUE,tested,Orange,Orange County,33.801262,-117.828621
-Garden Grove Unified,James Irvine Intermediate,10552 Hazard Avenue Garden Grove CA 92843-5109,NA,NA,FALSE,tested,Orange,Orange County,33.752225,-117.945297
-Tustin Unified,Jeane Thorman Elementary,1402 Sycamore Avenue Tustin CA 92780-6233,NA,NA,FALSE,tested,Orange,Orange County,33.727177,-117.826807
-Garden Grove Unified,John Marshall Elementary,15791 Bushard Street Westminster CA 92683-7455,NA,NA,FALSE,tested,Orange,Orange County,33.73326,-117.963512
-Orange Unified,Jordan Elementary,4319 East Jordan Avenue Orange CA 92869-5431,NA,NA,FALSE,tested,Orange,Orange County,33.780219,-117.807289
-Orange Unified,La Veta Elementary,2800 East La Veta Avenue Orange CA 92869-5111,8.04,ppb,TRUE,tested,Orange,Orange County,33.779589,-117.823814
-Garden Grove Unified,Leo Carrillo Elementary,15270 Bushard Street Westminster CA 92683-6502,NA,NA,FALSE,tested,Orange,Orange County,33.740781,-117.963413
-Orange Unified,Linda Vista Elementary,1200 North Cannon Street Orange CA 92869-1303,6.15,ppb,TRUE,tested,Orange,Orange County,33.808544,-117.795963
-Orange Unified,McPherson Magnet,333 South Prospect Street Orange CA 92869-4825,NA,NA,FALSE,tested,Orange,Orange County,33.783685,-117.817169
-Orange Unified,Olive Elementary,3038 North Magnolia Orange CA 92865-1631,NA,NA,FALSE,tested,Orange,Orange County,33.84005,-117.844185
-Orange Unified,Orange High,525 North Shaffer Street Orange CA 92867-6824,5.84,ppb,TRUE,tested,Orange,Orange County,33.79802,-117.846793
-Orange Unified,OUSD Community Day,250 South Yorba St Orange CA 92869-3609,NA,NA,NA,not tested,Orange,Orange County,33.78519,-117.827162
-Orange Unified,OUSD Home Sch,250 S Yorba Street Orange CA 92869-3609,NA,NA,NA,not tested,Orange,Orange County,33.78519,-117.827162
-Orange Unified,Palmyra Elementary,1325 East Palmyra Avenue Orange CA 92866-2428,6.425000000000001,ppb,TRUE,tested,Orange,Orange County,33.784691,-117.839036
-Orange Unified,Portola Middle,270 North Palm Drive Orange CA 92868-2428,NA,NA,FALSE,tested,Orange,Orange County,33.791056,-117.869775
-Orange Unified,Prospect Elementary,379 North Virage Street Orange CA 92869-2856,7.53,ppb,TRUE,tested,Orange,Orange County,33.792504,-117.81612
-Orange Unified,Richland Continuation High,615 North Lemon Street Orange CA 92867-6611,NA,NA,FALSE,tested,Orange,Orange County,33.797016,-117.854811
-Orange Unified,ROP-Career Education,250 South Yorba Street Orange CA 92869,NA,NA,NA,not tested,Orange,Orange County,33.78519,-117.827162
-Garden Grove Unified,Rosita Elementary,4726 Hazard Avenue Santa Ana CA 92703-2537,NA,NA,FALSE,tested,Orange,Orange County,33.752347,-117.932063
-Private,Salem Lutheran,6411 East Frank Lane Orange CA 92869,5.05,ppb,TRUE,tested,Orange,Orange County,33.812261,-117.784848
-Orange Unified,Santiago Middle,515 North Rancho Santiago Boulevard Orange CA 92869-2724,5.5649999999999995,ppb,TRUE,tested,Orange,Orange County,33.795547,-117.798896
-Orange Unified,Sycamore Elementary,340 North Main Street Orange CA 92868-2408,NA,NA,FALSE,tested,Orange,Orange County,33.792399,-117.868104
-Orange Unified,Taft Elementary,1829 North Cambridge Orange CA 92865-4409,NA,NA,FALSE,tested,Orange,Orange County,33.818298,-117.842656
-Westminster,Warner Middle,14171 Newland Street Westminster CA 92683-4503,NA,NA,FALSE,tested,Orange,Orange County,33.756253,-117.981142
-Orange Unified,West Orange Elementary,243 South Bush Orange CA 92868-3802,NA,NA,FALSE,tested,Orange,Orange County,33.785281,-117.865804
-Orange Unified,Yorba Middle,935 North Cambridge Orange CA 92867-5720,NA,NA,FALSE,tested,Orange,Orange County,33.802811,-117.844231
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Tustin Unified,A. G. Currie Middle,1402 Sycamore Ave. Tustin CA 92780-6233,,,False,tested,Orange,Orange County,33.727177000000005,-117.826807,
+Orange Unified,California Elementary,1080 North California Street Orange CA 92867-5810,,,False,tested,Orange,Orange County,33.805702000000004,-117.842699,
+Orange Unified,Cambridge Elementary,425 North Cambridge Orange CA 92866-1149,8.86,ppb,True,tested,Orange,Orange County,33.793781,-117.844269,8.86
+Orange Unified,Cerro Villa Middle,17852 East Serrano Avenue Villa Park CA 92861-1214,,,False,tested,Orange,Orange County,33.821101,-117.82501299999998,
+Orange Unified,Esplanade Elementary,381 North Esplanade Street Orange CA 92869-2909,,,False,tested,Orange,Orange County,33.794114,-117.80843700000001,
+Orange Unified,Fletcher Elementary,515 West Fletcher Street Orange CA 92865-2521,8.22,ppb,True,tested,Orange,Orange County,33.829874,-117.85738799999999,9.59
+Orange Unified,Handy Elementary,860 North Handy Street Orange CA 92867-7243,7.59,ppb,True,tested,Orange,Orange County,33.801262,-117.828621,7.59
+Garden Grove Unified,James Irvine Intermediate,10552 Hazard Avenue Garden Grove CA 92843-5109,,,False,tested,Orange,Orange County,33.752225,-117.945297,
+Tustin Unified,Jeane Thorman Elementary,1402 Sycamore Avenue Tustin CA 92780-6233,,,False,tested,Orange,Orange County,33.727177000000005,-117.826807,
+Garden Grove Unified,John Marshall Elementary,15791 Bushard Street Westminster CA 92683-7455,,,False,tested,Orange,Orange County,33.733259999999994,-117.96351200000001,
+Orange Unified,Jordan Elementary,4319 East Jordan Avenue Orange CA 92869-5431,,,False,tested,Orange,Orange County,33.780219,-117.80728899999998,
+Orange Unified,La Veta Elementary,2800 East La Veta Avenue Orange CA 92869-5111,8.04,ppb,True,tested,Orange,Orange County,33.779589,-117.82381399999998,8.04
+Garden Grove Unified,Leo Carrillo Elementary,15270 Bushard Street Westminster CA 92683-6502,,,False,tested,Orange,Orange County,33.740781,-117.96341299999999,
+Orange Unified,Linda Vista Elementary,1200 North Cannon Street Orange CA 92869-1303,6.15,ppb,True,tested,Orange,Orange County,33.808544,-117.79596299999999,6.17
+Orange Unified,McPherson Magnet,333 South Prospect Street Orange CA 92869-4825,,,False,tested,Orange,Orange County,33.783685,-117.81716899999999,
+Orange Unified,Olive Elementary,3038 North Magnolia Orange CA 92865-1631,,,False,tested,Orange,Orange County,33.84005,-117.84418500000001,
+Orange Unified,Orange High,525 North Shaffer Street Orange CA 92867-6824,5.84,ppb,True,tested,Orange,Orange County,33.79802,-117.84679299999999,6.0
+Orange Unified,OUSD Community Day,250 South Yorba St Orange CA 92869-3609,,,,not tested,Orange,Orange County,33.78519,-117.82716200000002,
+Orange Unified,OUSD Home Sch,250 S Yorba Street Orange CA 92869-3609,,,,not tested,Orange,Orange County,33.78519,-117.82716200000002,
+Orange Unified,Palmyra Elementary,1325 East Palmyra Avenue Orange CA 92866-2428,6.425000000000002,ppb,True,tested,Orange,Orange County,33.784690999999995,-117.83903600000001,16.2
+Orange Unified,Portola Middle,270 North Palm Drive Orange CA 92868-2428,,,False,tested,Orange,Orange County,33.791056,-117.869775,
+Orange Unified,Prospect Elementary,379 North Virage Street Orange CA 92869-2856,7.53,ppb,True,tested,Orange,Orange County,33.792504,-117.81612,7.53
+Orange Unified,Richland Continuation High,615 North Lemon Street Orange CA 92867-6611,,,False,tested,Orange,Orange County,33.797016,-117.85481100000001,
+Orange Unified,ROP-Career Education,250 South Yorba Street Orange CA 92869,,,,not tested,Orange,Orange County,33.78519,-117.82716200000002,
+Garden Grove Unified,Rosita Elementary,4726 Hazard Avenue Santa Ana CA 92703-2537,,,False,tested,Orange,Orange County,33.752347,-117.93206299999999,
+Private,Salem Lutheran,6411 East Frank Lane Orange CA 92869,5.05,ppb,True,tested,Orange,Orange County,33.812261,-117.784848,5.05
+Orange Unified,Santiago Middle,515 North Rancho Santiago Boulevard Orange CA 92869-2724,5.565,ppb,True,tested,Orange,Orange County,33.795547,-117.798896,5.67
+Orange Unified,Sycamore Elementary,340 North Main Street Orange CA 92868-2408,,,False,tested,Orange,Orange County,33.792398999999996,-117.868104,
+Orange Unified,Taft Elementary,1829 North Cambridge Orange CA 92865-4409,,,False,tested,Orange,Orange County,33.818298,-117.842656,
+Westminster,Warner Middle,14171 Newland Street Westminster CA 92683-4503,,,False,tested,Orange,Orange County,33.756253,-117.98114199999999,
+Orange Unified,West Orange Elementary,243 South Bush Orange CA 92868-3802,,,False,tested,Orange,Orange County,33.785281,-117.865804,
+Orange Unified,Yorba Middle,935 North Cambridge Orange CA 92867-5720,,,False,tested,Orange,Orange County,33.802811,-117.84423100000001,

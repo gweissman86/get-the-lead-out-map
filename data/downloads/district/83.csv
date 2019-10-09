@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Brawley Union High,Brawley High,480 North Imperial Avenue Brawley CA 92227-1625,NA,NA,NA,not tested,Brawley,Imperial County,32.982799,-115.534861
-Brawley Union High,Desert Valley High (Continuation),104 West Magnolia Street Brawley CA 92227-1583,NA,NA,NA,not tested,Brawley,Imperial County,32.984724,-115.550618
-Brawley Union High,Renaissance,104 Magnolia Avenue Brawley CA 92227-1583,NA,NA,NA,not tested,Brawley,Imperial County,32.984718,-115.547975
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Brawley Union High,Brawley High,480 North Imperial Avenue Brawley CA 92227-1625,,,,not tested,Brawley,Imperial County,32.982799,-115.534861,
+Brawley Union High,Desert Valley High (Continuation),104 West Magnolia Street Brawley CA 92227-1583,,,,not tested,Brawley,Imperial County,32.984724,-115.550618,
+Brawley Union High,Renaissance,104 Magnolia Avenue Brawley CA 92227-1583,,,,not tested,Brawley,Imperial County,32.984718,-115.547975,

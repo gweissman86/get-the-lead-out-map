@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cayucos Elementary,Cayucos Elementary,301 Cayucos Drive Cayucos CA 93430-1036,NA,NA,NA,not tested,NA,San Luis Obispo County,35.451744,-120.904324
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Cayucos Elementary,Cayucos Elementary,301 Cayucos Drive Cayucos CA 93430-1036,,,,not tested,,San Luis Obispo County,35.451744,-120.904324,

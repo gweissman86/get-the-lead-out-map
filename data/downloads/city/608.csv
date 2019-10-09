@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Plumas Unified,Chester Junior/Senior High,612 First Street Chester CA 96020-0797,NA,NA,NA,not tested,Westwood,Plumas County,40.302566,-121.231101
-Westwood Unified,Westwood High,Fourth and Greenwood Streets Westwood CA 96137-1510,NA,NA,FALSE,tested,Westwood,Lassen County,40.301195,-121.00817
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Plumas Unified,Chester Junior/Senior High,612 First Street Chester CA 96020-0797,,,,not tested,Westwood,Plumas County,40.302566,-121.231101,
+Westwood Unified,Westwood High,Fourth and Greenwood Streets Westwood CA 96137-1510,,,False,tested,Westwood,Lassen County,40.301195,-121.00816999999999,

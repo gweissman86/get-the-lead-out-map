@@ -1,4 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-El Dorado County Office of Education,Charles F. Brown Elementary,6520 Oak Dell Road El Dorado CA 95623,NA,NA,FALSE,tested,Diamond Springs,El Dorado County,38.680607,-120.835351
-El Dorado Union High,Independence Continuation,385 Pleasant Valley Rd. Diamond Springs CA 95619-1450,NA,NA,FALSE,tested,Diamond Springs,El Dorado County,38.693385,-120.822212
-El Dorado Union High,Union Mine High,6530 Koki Lane El Dorado CA 95623-4328,NA,NA,FALSE,tested,Diamond Springs,El Dorado County,38.676663,-120.838753
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pomona Unified,Armstrong Elementary,22750 Beaverhead Drive Diamond Bar CA 91765-1566,,,,not tested,Diamond Bar,Los Angeles County,34.021402,-117.818467,
+Walnut Valley Unified,Castle Rock Elementary,2975 Castle Rock Road Diamond Bar CA 91765-3420,,,,not tested,Diamond Bar,Los Angeles County,33.972052000000005,-117.844052,
+Walnut Valley Unified,Chaparral Middle,1408 South Spruce Tree Drive Diamond Bar CA 91765-2571,,,,not tested,Diamond Bar,Los Angeles County,33.996586,-117.81690400000001,
+Walnut Valley Unified,Diamond Bar High,21400 Pathfinder Road Diamond Bar CA 91765-2747,,,,not tested,Diamond Bar,Los Angeles County,33.981287,-117.83891799999999,
+Pomona Unified,Diamond Point Elementary,24150 Sunset Crossing Road Diamond Bar CA 91765-1454,,,,not tested,Diamond Bar,Los Angeles County,34.033054,-117.797028,
+Pomona Unified,Golden Springs Elementary,245 South Ballena Drive Diamond Bar CA 91765-1758,,,,not tested,Diamond Bar,Los Angeles County,34.024664,-117.801441,
+Pomona Unified,Lorbeer Middle,501 Diamond Bar Boulevard Diamond Bar CA 91765-2002,,,,not tested,Diamond Bar,Los Angeles County,33.98688,-117.82433200000001,
+Walnut Valley Unified,Maple Hill Elementary,1350 Maple Hill Road Diamond Bar CA 91765-2436,,,,not tested,Diamond Bar,Los Angeles County,33.996775,-117.824794,
+Pomona Unified,Pantera Elementary,801 Pantera Drive Diamond Bar CA 91765-4637,,,,not tested,Diamond Bar,Los Angeles County,34.010807,-117.79096399999999,
+Walnut Valley Unified,Quail Summit Elementary,23330 East Quail Summit Drive Diamond Bar CA 91765-3031,,,,not tested,Diamond Bar,Los Angeles County,33.995744,-117.81108200000001,

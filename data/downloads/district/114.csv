@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Camptonville Elementary,Camptonville Elementary,16585 School Street Camptonville CA 95922-0278,NA,NA,FALSE,tested,Camptonville,Yuba County,39.452922,-121.048917
-Camptonville Elementary,CORE Charter School,321 16th Street Marysville CA 95901,NA,NA,NA,not tested,NA,Yuba County,39.152795,-121.588505
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Camptonville Elementary,Camptonville Elementary,16585 School Street Camptonville CA 95922-0278,,,False,tested,Camptonville,Yuba County,39.452921999999994,-121.04891699999999,
+Camptonville Elementary,CORE Charter School,321 16th Street Marysville CA 95901,,,,not tested,,Yuba County,39.152795000000005,-121.588505,

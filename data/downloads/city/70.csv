@@ -1,15 +1,28 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Mateo Union High,Burlingame High,1 Mangini Way Burlingame CA 94010-2708,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.582181,-122.347167
-Burlingame Elementary,Burlingame Intermediate,1715 Quesada Way Burlingame CA 94010-5701,9,ppb,TRUE,tested,Burlingame,San Mateo County,37.58802,-122.384723
-San Mateo Union High,Design Tech High,1800 Rollins Road Burlingame CA 94010-2205,NA,NA,NA,not tested,Burlingame,San Mateo County,37.597827,-122.379961
-Burlingame Elementary,Franklin Elementary,2385 Trousdale Drive Burlingame CA 94010-5704,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.588631,-122.389058
-Burlingame Elementary,Hoover Elementary School,2220 Summit Drive Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.577211,-122.380622
-Burlingame Elementary,Lincoln Elementary,1801 Devereux Drive Burlingame CA 94010-4641,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.587964,-122.378317
-Burlingame Elementary,McKinley Elementary,701 Paloma Avenue Burlingame CA 94010-3728,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.579094,-122.355961
-Private,Mercy High,2750 Adeline Drive Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.582652,-122.383064
-Private,Our Lady of Angels Elementary,1328 Cabrillo Avenue Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.584735,-122.372164
-Private,Pacific Rim International School,454 Peninsula Avenue San Mateo CA 94401,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580678,-122.334247
-Private,Palcare,945 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.585342,-122.358519
-Burlingame Elementary,Roosevelt Elementary,1151 Vancouver Avenue Burlingame CA 94010-5674,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.57906,-122.368119
-Private,Village Park Preschool,1535 California Dr Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.591861,-122.374094
-Burlingame Elementary,Washington Elementary,801 Howard Avenue Burlingame CA 94010-3006,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580858,-122.340351
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+LAUSD,1ST STREET ELEMENTARY,"2820 E FIRST ST, LOS ANGELES,    CA 90033",,,,exempt,Burbank,Los Angeles County,34.180983000000005,-118.311746,
+Glendale Unified,Balboa Elementary,1844 Bel Aire Drive Glendale CA 91201-1173,,,False,tested,Burbank,Los Angeles County,34.18046,-118.28550200000001,
+Burbank Unified,Bret Harte Elementary,3200 West Jeffries Avenue Burbank CA 91505-1945,,,False,tested,Burbank,Los Angeles County,34.180772,-118.34624,
+Burbank Unified,Burbank Adult,3811 Allan Avenue Burbank CA 91505-1809,6.4,ppb,True,tested,Burbank,Los Angeles County,34.177777,-118.35308899999998,6.4
+Burbank Unified,Burbank High,902 North Third Street Burbank CA 91502-1018,,,False,tested,Burbank,Los Angeles County,34.188186,-118.314357,
+Burbank Unified,Burbank Unified Independent Learning Academy (BUILA),3715 Allan Avenue Burbank CA 91505,,,False,tested,Burbank,Los Angeles County,34.177715,-118.3511,
+Burbank Unified,Burbank USD Community Day,223 East Santa Anita Avenue Burbank CA 91502-1447,,,False,tested,Burbank,Los Angeles County,34.178277,-118.304573,
+Burbank Unified,Burroughs High,1920 Clark Avenue Burbank CA 91506-1918,,,False,tested,Burbank,Los Angeles County,34.168531,-118.327126,
+Burbank Unified,David Starr Jordan Middle,420 South Mariposa Street Burbank CA 91506-2812,,,False,tested,Burbank,Los Angeles County,34.16548,-118.31701699999999,
+Burbank Unified,George Washington Elementary,2322 North Lincoln Street Burbank CA 91504-2625,,,False,tested,Burbank,Los Angeles County,34.198175,-118.335574,
+Los Angeles Unified,Hollenbeck Middle,2510 East Sixth Street Los Angeles CA 90023-1420,,,,not tested,Burbank,Los Angeles County,34.188749,-118.308225,
+LAUSD,HOLLENBECK MIDDLE SCHOOL (MEDIA ARTS),"2510 E SIXTH ST, LOS ANGELES,    CA 90023",,,,exempt,Burbank,Los Angeles County,34.188749,-118.308225,
+Burbank Unified,Horace Mann,3401 Scott Road Burbank CA 91504-1736,,,False,tested,Burbank,Los Angeles County,34.209936,-118.333518,
+Los Angeles Unified,James A. Garfield Senior High,5101 East Sixth Street Los Angeles CA 90022-3209,,,,not tested,Burbank,Los Angeles County,34.188749,-118.308225,
+Burbank Unified,Joaquin Miller Elementary,720 East Providencia Avenue Burbank CA 91501-2409,,,False,tested,Burbank,Los Angeles County,34.183295,-118.29736000000001,
+Burbank Unified,John Muir Middle,1111 North Kenneth Road Burbank CA 91504-4011,,,False,tested,Burbank,Los Angeles County,34.196085,-118.31281299999999,
+Burbank Unified,Luther Burbank Middle,3700 West Jeffries Avenue Burbank CA 91505-1849,,,False,tested,Burbank,Los Angeles County,34.179694,-118.353525,
+Burbank Unified,Magnolia Park,827 Avon Street Burbank CA 91505-2916,,,False,tested,Burbank,Los Angeles County,34.166086,-118.344026,
+Burbank Unified,Monterey High (Continuation),1915 Monterey Avenue Burbank CA 91506-1107,,,False,tested,Burbank,Los Angeles County,34.186315,-118.33153700000001,
+Burbank Unified,Providencia Elementary,1919 North Ontario Street Burbank CA 91505-1231,,,False,tested,Burbank,Los Angeles County,34.188752,-118.34472,
+Burbank Unified,R. L. Stevenson Elementary,3333 Oak Street Burbank CA 91505-3514,,,False,tested,Burbank,Los Angeles County,34.158949,-118.339265,
+Burbank Unified,Ralph Emerson Elementary,720 East Cypress Avenue Burbank CA 91501-1812,,,False,tested,Burbank,Los Angeles County,34.190294,-118.3073,
+Burbank Unified,Theodore Roosevelt Elementary,850 North Cordova Street Burbank CA 91505-2923,,,False,tested,Burbank,Los Angeles County,34.165669,-118.34463600000001,
+Burbank Unified,Thomas Edison Elementary,2110 West Chestnut Street Burbank CA 91506-1520,,,False,tested,Burbank,Los Angeles County,34.178638,-118.333425,
+Burbank Unified,Thomas Jefferson Elementary,1900 North Sixth Street Burbank CA 91504-2932,,,False,tested,Burbank,Los Angeles County,34.19907,-118.320835,
+Burbank Unified,Walt Disney Elementary,1220 West Orange Grove Avenue Burbank CA 91506-2016,,,False,tested,Burbank,Los Angeles County,34.173707,-118.320348,
+Burbank Unified,William McKinley Elementary,349 West Valencia Avenue Burbank CA 91506-3309,,,False,tested,Burbank,Los Angeles County,34.16649,-118.31008700000001,

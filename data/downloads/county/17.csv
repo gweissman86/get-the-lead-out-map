@@ -1,13 +1,34 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Big Valley Joint Unified,Big Valley Elementary,90 First Street Bieber CA 96009-0157,NA,NA,NA,not tested,Bieber,Lassen County,41.120889,-121.141574
-Big Valley Joint Unified,Big Valley Jr. Sr. High,400 Bridge Street Bieber CA 96009-0157,NA,NA,NA,not tested,NA,Lassen County,41.121393,-121.138745
-Susanville Elementary,Diamond View Middle,850 Richmond Road Susanville CA 96130-4823,NA,NA,NA,not tested,Susanville,Lassen County,40.407632,-120.661499
-Fort Sage Unified,Herlong High,200 DS HL Herlong CA 96113,NA,NA,NA,not tested,Herlong,Lassen County,40.143939,-120.134653
-Lassen County Office of Education,Lassen County Juvenile Court,1415B Chestnut Street Susanville CA 96130-8752,NA,NA,NA,not tested,Susanville,Lassen County,40.423992,-120.650682
-Lassen Union High,Lassen High,1110 Main Street Susanville CA 96130-4421,NA,NA,NA,not tested,Susanville,Lassen County,40.416762,-120.65467
-Ravendale-Termo Elementary,Long Valley Charter,436-965 Susan Drive Doyle CA 96109-0007,NA,NA,NA,not tested,Doyle,Lassen County,40.045298,-120.123635
-Susanville Elementary,McKinley Elementary,2005 Fourth Street Susanville CA 96130-4105,NA,NA,FALSE,tested,Susanville,Lassen County,40.418718,-120.643467
-Susanville Elementary,Meadow View,1200 Paiute Lane Susanville CA 96130-4105,NA,NA,NA,not tested,Susanville,Lassen County,40.433938,-120.663944
-Fort Sage Unified,Mt. Lassen Charter,100 David S Hall Street Herlong CA 96113,NA,NA,NA,not tested,Herlong,Lassen County,40.141665,-120.13378
-Westwood Unified,Westwood Charter,313 Birch Street Westwood CA 96137,NA,NA,NA,not tested,NA,Lassen County,40.302505,-121.00198
-Westwood Unified,Westwood High,Fourth and Greenwood Streets Westwood CA 96137-1510,NA,NA,FALSE,tested,Westwood,Lassen County,40.301195,-121.00817
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Middletown Unified,Alphabet Soup Co op Preschool,21075 Bush St Middletown CA 95461,,,False,tested,,Lake County,38.754016,-122.615443,
+Konocti Unified,Burns Valley,3620 Pine Street Clearlake CA 95422-6420,,,False,tested,Clearlake,Lake County,38.960014,-122.64465600000001,
+Konocti Unified,Carle (William C.) High (Continuation),9345 Winchester Street Lower Lake CA 95457-0309,,,False,tested,,Lake County,38.914992,-122.603968,
+Lakeport Unified,Clear Lake High,350 Lange Street Lakeport CA 95453-3247,,,False,tested,Lakeport,Lake County,39.059339,-122.91531,
+Lake County Office of Education,Clearlake Creativity,6945 Old Highway 53 Clearlake CA 95422-9381,5.5,ppb,True,tested,Clearlake,Lake County,38.932679,-122.62465,5.5
+Middletown Unified,Cobb Mountain Elementary,15895 Highway 175 Middletown CA 95461-0338,,,,not tested,Middletown,Lake County,38.830394,-122.72188799999999,
+Middletown Unified,Coyote Valley Elementary,18950 Coyote Valley Road Middletown CA 95461-0338,,,,not tested,Hidden Valley Lake,Lake County,38.795163,-122.558819,
+Middletown Unified,Early Connection Preschool,15846 Wardlaw ST Middletown CA 95461,,,False,tested,,Lake County,38.755097,-122.61592399999999,
+Konocti Unified,East Lake,13050 High Valley Road Clearlake Oaks CA 95423-0577,,,,not tested,,Lake County,39.028546,-122.67223,
+Kelseyville Unified,Ed Donaldson Education Center,4500 Konocti Road Kelseyville CA 95451-9320,,,False,tested,Kelseyville,Lake County,38.977961,-122.827816,
+Konocti Unified,Highlands Academy,13050 High Valley Rd Clearlake Oaks CA 95423-0577,,,,not tested,,Lake County,39.028546,-122.67223,
+Kelseyville Unified,Kelseyville Elementary,5065 Konocti Road Kelseyville CA 95451-0308,,,False,tested,Kelseyville,Lake County,38.974086,-122.821122,
+Kelseyville Unified,Kelseyville High,5480 Main Street Kelseyville CA 95451-8943,,,False,tested,Kelseyville,Lake County,38.974475,-122.83009299999999,
+Konocti Unified,Konocti Education Center,15850-A Dam Road Extention Clearlake CA 95422,,,False,tested,Clearlake,Lake County,38.93383,-122.61547,
+Middletown Unified,Lake County International Charter,15850 Armstrong Street Middletown CA 95461,,,False,tested,,Lake County,38.751383000000004,-122.614554,
+Lake County ROP,Lake County ROP,1152 South Main Street Lakeport CA 95453-5517,,,,not tested,Lakeport,Lake County,39.034504999999996,-122.915594,
+Lakeport Unified,Lakeport Alternative (Home School),100 Lange Street Lakeport CA 95453-3297,,,,not tested,Lakeport,Lake County,39.059348,-122.91583500000002,
+Lakeport Unified,Lakeport Community Day,100 Lange Street B Lakeport CA 95453-3297,,,,not tested,Lakeport,Lake County,39.059348,-122.91583500000002,
+Lakeport Unified,Lakeport Elementary,150 Lange Street Lakeport CA 95453-3297,,,False,tested,Lakeport,Lake County,39.059345,-122.91573000000001,
+Konocti Unified,Lower Lake Elementary,9240 Lake Street Lower Lake CA 95457-0719,,,False,tested,,Lake County,38.918346,-122.61015400000001,
+Konocti Unified,Lower Lake High,9430 A Lake Street Lower Lake CA 95457-0799,,,,not tested,Lower Lake,Lake County,38.914915,-122.607724,
+Lucerne Elementary,Lucerne Elementary,3351 Country Club Drive Lucerne CA 95458-1083,,,False,tested,,Lake County,39.083296000000004,-122.78910800000001,
+Private,Middletown Christian School,20800 Highway 29 Middletown CA 95461,,,False,tested,Middletown,Lake County,38.760529,-122.60249099999999,
+Middletown Unified,Middletown High,20932 Big Canyon Road B Middletown CA 95461-0338,,,False,tested,Middletown,Lake County,38.755814,-122.615067,
+Middletown Unified,Minnie Cannon Elementary,15846 Wardlaw St. Middletown CA 95461-0338,,,False,tested,,Lake County,38.755097,-122.61592399999999,
+Kelseyville Unified,Mountain Vista Middle,5081 Konocti Road Kelseyville CA 95451-0308,,,False,tested,Kelseyville,Lake County,38.974317,-122.81893799999999,
+Lakeport Unified,Natural High (Continuation),100 Lange Street C Lakeport CA 95453-3297,,,,not tested,Lakeport,Lake County,39.059348,-122.91583500000002,
+Konocti Unified,Pomo,3350 Acacia Street Clearlake CA 95422-7110,,,,not tested,Clearlake,Lake County,38.972044,-122.64988799999999,
+Kelseyville Unified,Riviera Elementary,10505 Fairway Drive Kelseyville CA 95451-9576,,,False,tested,Kelseyville,Lake County,38.949349,-122.71240700000001,
+Lakeport Unified,Terrace Middle,250 Lange Street Lakeport CA 95453-3230,,,False,tested,Lakeport,Lake County,39.059346000000005,-122.91552,
+Upper Lake Unified,Upper Lake Elementary,679 Second Street Upper Lake CA 95485-0036,,,False,tested,Upper Lake,Lake County,39.165507,-122.903398,
+Upper Lake Unified,Upper Lake High,675 Clover Valley Road B Upper Lake CA 95485-9220,18.0,ppb,True,tested,Upper Lake,Lake County,39.166164,-122.901147,18.0
+Upper Lake Unified,Upper Lake Middle,725 Old Lucerne Road Upper Lake CA 95485-0036,8.4,ppb,True,tested,,Lake County,39.163936,-122.89810200000001,8.4

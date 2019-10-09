@@ -1,12 +1,12 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Contra Costa County Office of Education,Acton Academy Blackhawk,3860 Blackhawk Rd Danville CA 94506,NA,NA,NA,not tested,NA,Contra Costa County,37.799487,-121.921584
-Contra Costa County Office of Education,Caliber: Beta Academy,4301 Berk Avenue Richmond CA 94804-4355,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.922857,-122.328978
-Contra Costa County Office of Education,Central County Special Education Programs,2964 Miranda Avenue Alamo CA 94507-1614,6.3,ppb,TRUE,tested,NA,Contra Costa County,37.857959,-122.019906
-Contra Costa County Office of Education,Clayton Valley Charter High,1101 Alberta Way Concord CA 94521-3799,NA,NA,FALSE,tested,Concord,Contra Costa County,37.947562,-121.968368
-Contra Costa County Office of Education,Contra Costa Adult,5555 Giant Highway Richmond CA 94806-6002,NA,NA,NA,not tested,Richmond,Contra Costa County,37.994269,-122.352143
-Contra Costa County Office of Education,Contra Costa School of Performing Arts,2730 Mitchell Ln Walnut Creek CA 94598-1602,NA,NA,FALSE,tested,Walnut Creek,Contra Costa County,37.930349,-122.024609
-Contra Costa County Office of Education,East County Elementary Special Education,4207 Delta Fair Blvd. Antioch CA 94509-3944,NA,NA,FALSE,tested,Antioch,Contra Costa County,38.003566,-121.849845
-Contra Costa County Office of Education,Floyd I. Marchus,2900 Avon Avenue Concord CA 94520-5404,NA,NA,FALSE,tested,Concord,Contra Costa County,37.994848,-122.047667
-Contra Costa County Office of Education,J.A. Ovick School,120 Middlefield Court Brentwood CA 94513,NA,NA,FALSE,tested,Brentwood,Contra Costa County,37.923902,-121.685781
-Contra Costa County Office of Education,Making Waves Academy,4123 Lakeside Drive Richmond CA 94806-1942,NA,NA,FALSE,tested,Richmond,Contra Costa County,37.986568,-122.332862
-Contra Costa County Office of Education,Summit Public School K2,1800 Elm Street El Cerrito CA 94530-1925,NA,NA,FALSE,tested,NA,Contra Costa County,37.925914,-122.313378
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Contra Costa County Office of Education,Acton Academy Blackhawk,3860 Blackhawk Rd Danville CA 94506,,,,not tested,,Contra Costa County,37.799487,-121.92158400000001,
+Contra Costa County Office of Education,Caliber: Beta Academy,4301 Berk Avenue Richmond CA 94804-4355,,,False,tested,Richmond,Contra Costa County,37.922857,-122.328978,
+Contra Costa County Office of Education,Central County Special Education Programs,2964 Miranda Avenue Alamo CA 94507-1614,6.3,ppb,True,tested,,Contra Costa County,37.857959,-122.019906,6.3
+Contra Costa County Office of Education,Clayton Valley Charter High,1101 Alberta Way Concord CA 94521-3799,,,False,tested,Concord,Contra Costa County,37.947562,-121.968368,
+Contra Costa County Office of Education,Contra Costa Adult,5555 Giant Highway Richmond CA 94806-6002,,,,not tested,Richmond,Contra Costa County,37.994269,-122.352143,
+Contra Costa County Office of Education,Contra Costa School of Performing Arts,2730 Mitchell Ln Walnut Creek CA 94598-1602,,,False,tested,Walnut Creek,Contra Costa County,37.930349,-122.02460900000001,
+Contra Costa County Office of Education,East County Elementary Special Education,4207 Delta Fair Blvd. Antioch CA 94509-3944,,,False,tested,Antioch,Contra Costa County,38.003566,-121.849845,
+Contra Costa County Office of Education,Floyd I. Marchus,2900 Avon Avenue Concord CA 94520-5404,,,False,tested,Concord,Contra Costa County,37.994848,-122.04766699999999,
+Contra Costa County Office of Education,J.A. Ovick School,120 Middlefield Court Brentwood CA 94513,,,False,tested,Brentwood,Contra Costa County,37.923902000000005,-121.685781,
+Contra Costa County Office of Education,Making Waves Academy,4123 Lakeside Drive Richmond CA 94806-1942,,,False,tested,Richmond,Contra Costa County,37.986568,-122.332862,
+Contra Costa County Office of Education,Summit Public School K2,1800 Elm Street El Cerrito CA 94530-1925,,,False,tested,,Contra Costa County,37.925914,-122.313378,

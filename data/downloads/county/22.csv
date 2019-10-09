@@ -1,42 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ukiah Unified,Accelerated Achievement Academy,1031 North State Street Ukiah CA 95482-3413,NA,NA,FALSE,tested,NA,Mendocino County,39.162756,-123.210065
-Private,Adventist Christian School,22751 Bray Rd Willits CA 95490,NA,NA,FALSE,tested,Willits,Mendocino County,39.41003,-123.335647
-Arena Union Elementary,Arena Elementary,20 School Street Point Arena CA 95468-0020,NA,NA,NA,not tested,Point Arena,Mendocino County,38.911795,-123.69283
-Willits Unified,Baechtel Grove Middle,1150 Magnolia Street Willits CA 95490-4209,NA,NA,FALSE,tested,Willits,Mendocino County,39.400369,-123.353048
-Willits Unified,Blosser Lane Elementary,1275 Blosser Lane Willits CA 95490-4163,6.3,ppb,TRUE,tested,Willits,Mendocino County,39.399339,-123.359573
-Willits Unified,Brookside Elementary,Spruce and Lincoln Way Willits CA 95490,5.1,ppb,TRUE,tested,Willits,Mendocino County,39.411958,-123.361987
-Ukiah Unified,Calpella Elementary,151 Moore Street Ukiah CA 95482-9547,NA,NA,FALSE,tested,Ukiah,Mendocino County,39.233857,-123.205838
-Fort Bragg Unified,Dana Gray Elementary,1197 East Chestnut Street Fort Bragg CA 95437-4503,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.43643,-123.79078
-Ukiah Unified,Eagle Peak Middle,8601 West Road Redwood Valley CA 95470-9584,NA,NA,FALSE,tested,Redwood Valley,Mendocino County,39.267553,-123.21925
-Fort Bragg Unified,Fort Bragg High,300 Dana Street Fort Bragg CA 95437-4522,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.438027,-123.788531
-Fort Bragg Unified,Fort Bragg Middle,500 Harold Street Fort Bragg CA 95437-3308,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.448296,-123.797945
-Ukiah Unified,Frank Zeek Elementary,1060 North Bush Street Ukiah CA 95482-3865,5.3,ppb,TRUE,tested,NA,Mendocino County,39.161391,-123.214681
-Ukiah Unified,Grace Hudson Elementary,251 Jefferson Lane Ukiah CA 95482-6617,NA,NA,FALSE,tested,NA,Mendocino County,39.12365,-123.209002
-Willits Unified,La Vida Charter,16201 North Highway 101 Willits CA 95490-8724,NA,NA,FALSE,tested,Willits,Mendocino County,39.337569,-123.305765
-Laytonville Unified,Laytonville Elementary and Middle School,150 Ramsey Road Laytonville CA 95454-0325,NA,NA,NA,not tested,NA,Mendocino County,39.685221,-123.483583
-Laytonville Unified,Laytonville High,250 Branscomb Road Laytonville CA 95454-0325,NA,NA,FALSE,tested,NA,Mendocino County,39.674906,-123.531264
-Ukiah Unified,Nokomis Elementary,495 Washington Street Ukiah CA 95482-6324,8.4,ppb,TRUE,tested,Ukiah,Mendocino County,39.133976,-123.213885
-Fort Bragg Unified,Noyo High (Continuation),250 South Sanderson Way Fort Bragg CA 95437-4532,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.43966,-123.790859
-Ukiah Unified,Oak Manor Elementary,400 Oak Manor Drive Ukiah CA 95482-5120,9.3,ppb,TRUE,tested,NA,Mendocino County,39.148326,-123.192402
-Mendocino County Office of Education,Orr Creek,1011 Low Gap Road Ukiah CA 95482,NA,NA,NA,not tested,NA,Mendocino County,39.161654,-123.222145
-Arena Union Elementary,Pacific Community Charter,10 Lake Street Point Arena CA 95468,NA,NA,NA,not tested,Point Arena,Mendocino County,38.913176,-123.692897
-Point Arena Joint Union High,Point Arena High,270 Lake Street Point Arena CA 95468-0007,NA,NA,NA,not tested,Point Arena,Mendocino County,38.914403,-123.699893
-Ukiah Unified,Pomolita Middle,740 North Spring Street Ukiah CA 95482-3937,NA,NA,FALSE,tested,NA,Mendocino County,39.155012,-123.21605
-Ukiah Unified,Preschool Village,1100 North Bush St. Ukiah CA 95482,NA,NA,NA,not tested,NA,Mendocino County,39.16453,-123.215176
-Ukiah Unified,Redwood Academy of Ukiah,1059 North State Street Ukiah CA 95482-3413,NA,NA,FALSE,tested,NA,Mendocino County,39.163613,-123.210315
-Fort Bragg Unified,Redwood Elementary,324 South Lincoln Street Fort Bragg CA 95437-4416,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.436616,-123.79542
-Ukiah Unified,River Oak Charter,555 Leslie Street Ukiah CA 95482-5507,NA,NA,FALSE,tested,NA,Mendocino County,39.146852,-123.201263
-Willits Unified,Sanhedrin High,120 North Main St Willits CA 95490-3109,7,ppb,TRUE,tested,Willits,Mendocino County,39.415051,-123.354737
-Point Arena Joint Union High,South Coast Continuation,185 Lake Street Point Arena CA 95468-0087,NA,NA,NA,not tested,Point Arena,Mendocino County,38.913757,-123.696997
-Ukiah Unified,South Valley High (Continuation),445 South Dora Street Ukiah CA 95482-4753,5.9,ppb,TRUE,tested,NA,Mendocino County,39.146888,-123.211715
-Private,St. Mary of the Angels,991 South Dora Ukiah CA 95482,NA,NA,FALSE,tested,Ukiah,Mendocino County,39.139267,-123.209335
-Fort Bragg Unified,Three Rivers Charter,1211 Del Mar Drive Fort Bragg CA 95437-9533,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.421927,-123.811306
-Ukiah Unified,Tree of Life Charter,241 Ford Road Ukiah CA 95482-3440,9.65,ppb,TRUE,tested,NA,Mendocino County,39.167254,-123.201734
-Ukiah Unified,Ukiah Adult,1056 North Bush Street Ukiah CA 95482-3737,7.45,ppb,TRUE,tested,NA,Mendocino County,39.16129,-123.214657
-Ukiah Unified,Ukiah High,1000 Low Gap Road Ukiah CA 95482-3737,NA,NA,FALSE,tested,NA,Mendocino County,39.160668,-123.217925
-Ukiah Unified,Ukiah Independent Study Academy,1000 Low Gap Road B Ukiah CA 95482-3737,NA,NA,FALSE,tested,NA,Mendocino County,39.160668,-123.217925
-Mendocino County Office of Education,West Hills Juvenile Hall Court,585 Low Gap Road Ukiah CA 95482,NA,NA,NA,not tested,NA,Mendocino County,39.160157,-123.21551
-Willits Unified,Willits Charter,1431 South Main Street Willits CA 95490-4309,NA,NA,FALSE,tested,Willits,Mendocino County,39.393725,-123.348232
-Willits Unified,Willits Elementary Charter,405 East Commercial Street Willits CA 95490-3007,6.1,ppb,TRUE,tested,Willits,Mendocino County,39.412431,-123.350078
-Willits Unified,Willits High,299 North Main Street Willits CA 95490-3110,NA,NA,FALSE,tested,Willits,Mendocino County,39.417139,-123.354665
-Ukiah Unified,Yokayo Elementary,790 South Dora Street Ukiah CA 95482-5348,9,ppb,TRUE,tested,NA,Mendocino County,39.144524,-123.211097
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Mariposa County Unified,Lake Don Pedro Elementary,2411 Hildago La Grange CA 95329,,,,not tested,La Grange,Mariposa County,37.672315000000005,-120.35768799999998,
+Mariposa County Unified,Mariposa County High,5074 Old Highway Mariposa CA 95338-0127,,,False,tested,,Mariposa County,37.459455,-119.956572,
+Mariposa County Unified,Mariposa Elementary,5044 Jones Street Mariposa CA 95338-5002,,,False,tested,,Mariposa County,37.487159999999996,-119.96433999999999,
+Mariposa County Office of Education,Monarch Academy,5082 Old Highway North Mariposa CA 95338,,,False,tested,,Mariposa County,37.490439,-119.966173,
+Private,Victory Baptist Christian School,5005 Frank Wilson Road Mariposa CA 95338,5.7,ppb,True,tested,Mariposa,Mariposa County,37.503840999999994,-119.98391000000001,5.7

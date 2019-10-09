@@ -1,35 +1,35 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Torrance Unified,Anza Elementary,21400 Ellinwood Drive Torrance CA 90503-5410,NA,NA,NA,not tested,Torrance,Los Angeles County,33.835094,-118.365659
-Torrance Unified,Arlington Elementary,17800 Van Ness Avenue Torrance CA 90504-4330,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.869084,-118.317687
-Torrance Unified,Bert M. Lynn Middle,5038 Halison Street Torrance CA 90503-1920,NA,NA,NA,not tested,Torrance,Los Angeles County,33.851207,-118.363233
-Torrance Unified,Calle Mayor Middle,4800 Calle Mayor Torrance CA 90505-4401,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.815766,-118.364101
-Torrance Unified,Casimir Middle,17220 Casimir Avenue Torrance CA 90504-2936,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.874185,-118.322025
-Torrance Unified,Edison Elementary,3800 182Nd St Torrance CA 90504-4837,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.864822,-118.339985
-Torrance Unified,Edward J. Richardson Middle,23751 Nancy Lee Lane Torrance CA 90505-5416,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.810564,-118.367193
-Torrance Unified,Evelyn Carr Elementary,3404 West 168th Street Torrance CA 90504-1752,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.877997,-118.33229
-Torrance Unified,Fern Elementary,1314 Fern Avenue Torrance CA 90503-6125,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.83522,-118.332113
-Torrance Unified,Hamilton Adult Education Center,2606 182nd Street Torrance CA 90504-5227,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.864838,-118.322406
-Torrance Unified,Hickory Elementary,2800 West 227th Street Torrance CA 90505-2912,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.819985,-118.33499
-Torrance Unified,Howard Wood Elementary,2250 West 235th Street Torrance CA 90501-5705,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.812676,-118.321867
-Torrance Unified,J. H. Hull Middle,2080 West 231st Street Torrance CA 90501-5448,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.815544,-118.312416
-Torrance Unified,Jefferson Middle,21717 Talisman Street Torrance CA 90503-6441,NA,NA,NA,not tested,Torrance,Los Angeles County,33.83207,-118.357264
-Torrance Unified,John Adams Elementary,2121 238Th St Torrance CA 90501-6116,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.808477,-118.318094
-Torrance Unified,Joseph Arnold Elementary,4100 227th Street Torrance CA 90505-2246,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.821917,-118.355976
-Torrance Unified,Launch Preschool,4000 West 227th Street Torrance CA 90505-2208,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.822315,-118.357179
-Torrance Unified,Lincoln Elementary,2418 West 166th Street Torrance CA 90504-1813,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.879727,-118.320272
-Torrance Unified,Madrona Middle,21364 Madrona Avenue Torrance CA 90503-5948,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.834675,-118.344757
-Torrance Unified,North High,3620 West 182nd Street Torrance CA 90504-3935,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.86549,-118.33616
-Torrance Unified,Owen H. Griffith Adult,2291 West Washington Avenue Torrance CA 90501,NA,NA,NA,not tested,Torrance,Los Angeles County,33.825791,-118.321264
-Torrance Unified,Philip Magruder Middle,4100 West 185th Street Torrance CA 90504-4706,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.862574,-118.345755
-Torrance Unified,Riviera Elementary,365 Paseo de Arena Torrance CA 90505-6226,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.806657,-118.374226
-Torrance Unified,Seaside Elementary,4651 Sharynne Lane Torrance CA 90505-3355,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.820471,-118.363343
-Torrance Unified,Shery (Kurt T.) High (Continuation),2600 Vine Street Torrance CA 90501-4330,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.823112,-118.32389
-Torrance Unified,South High,4801 Pacific Coast Highway Torrance CA 90505-5544,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.812208,-118.364135
-Torrance Unified,Torrance Aquatic Center,2320 Crenshaw Blvd. Torrance CA 90501,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.824466,-118.328479
-Torrance Unified,Torrance Elementary,2125 Lincoln Avenue Torrance CA 90501-4437,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.823539,-118.319705
-Torrance Unified,Torrance High,2200 Carson Street Torrance CA 90501-3135,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.830607,-118.358419
-Torrance Unified,Towers Elementary,5600 Towers Street Torrance CA 90503-1161,NA,NA,NA,not tested,Torrance,Los Angeles County,33.854996,-118.376067
-Torrance Unified,Victor Elementary,4820 Spencer Street Torrance CA 90503-2254,NA,NA,NA,not tested,Torrance,Los Angeles County,33.844892,-118.36459
-Torrance Unified,Walteria Elementary,24456 Madison Street Torrance CA 90505-6653,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.800274,-118.346556
-Torrance Unified,West High,20401 Victor Street Torrance CA 90503-2255,NA,NA,NA,not tested,Torrance,Los Angeles County,33.84752,-118.366797
-Torrance Unified,Yukon Elementary,17815 Yukon Avenue Torrance CA 90504-3927,NA,NA,FALSE,tested,Torrance,Los Angeles County,33.869144,-118.335229
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Torrance Unified,Anza Elementary,21400 Ellinwood Drive Torrance CA 90503-5410,,,,not tested,Torrance,Los Angeles County,33.835094,-118.36565900000001,
+Torrance Unified,Arlington Elementary,17800 Van Ness Avenue Torrance CA 90504-4330,,,False,tested,Torrance,Los Angeles County,33.869084,-118.317687,
+Torrance Unified,Bert M. Lynn Middle,5038 Halison Street Torrance CA 90503-1920,,,,not tested,Torrance,Los Angeles County,33.851207,-118.36323300000001,
+Torrance Unified,Calle Mayor Middle,4800 Calle Mayor Torrance CA 90505-4401,,,False,tested,Torrance,Los Angeles County,33.815765999999996,-118.364101,
+Torrance Unified,Casimir Middle,17220 Casimir Avenue Torrance CA 90504-2936,,,False,tested,Torrance,Los Angeles County,33.874185,-118.322025,
+Torrance Unified,Edison Elementary,3800 182Nd St Torrance CA 90504-4837,,,False,tested,Torrance,Los Angeles County,33.864822,-118.33998500000001,
+Torrance Unified,Edward J. Richardson Middle,23751 Nancy Lee Lane Torrance CA 90505-5416,,,False,tested,Torrance,Los Angeles County,33.810564,-118.367193,
+Torrance Unified,Evelyn Carr Elementary,3404 West 168th Street Torrance CA 90504-1752,,,False,tested,Torrance,Los Angeles County,33.877997,-118.33228999999999,
+Torrance Unified,Fern Elementary,1314 Fern Avenue Torrance CA 90503-6125,,,False,tested,Torrance,Los Angeles County,33.83522,-118.33211299999999,
+Torrance Unified,Hamilton Adult Education Center,2606 182nd Street Torrance CA 90504-5227,,,False,tested,Torrance,Los Angeles County,33.864838,-118.322406,
+Torrance Unified,Hickory Elementary,2800 West 227th Street Torrance CA 90505-2912,,,False,tested,Torrance,Los Angeles County,33.819984999999996,-118.33498999999999,
+Torrance Unified,Howard Wood Elementary,2250 West 235th Street Torrance CA 90501-5705,,,False,tested,Torrance,Los Angeles County,33.812676,-118.321867,
+Torrance Unified,J. H. Hull Middle,2080 West 231st Street Torrance CA 90501-5448,,,False,tested,Torrance,Los Angeles County,33.815544,-118.31241599999998,
+Torrance Unified,Jefferson Middle,21717 Talisman Street Torrance CA 90503-6441,,,,not tested,Torrance,Los Angeles County,33.83207,-118.35726399999999,
+Torrance Unified,John Adams Elementary,2121 238Th St Torrance CA 90501-6116,,,False,tested,Torrance,Los Angeles County,33.808477,-118.31809399999999,
+Torrance Unified,Joseph Arnold Elementary,4100 227th Street Torrance CA 90505-2246,,,False,tested,Torrance,Los Angeles County,33.821917,-118.355976,
+Torrance Unified,Launch Preschool,4000 West 227th Street Torrance CA 90505-2208,,,False,tested,Torrance,Los Angeles County,33.822315,-118.357179,
+Torrance Unified,Lincoln Elementary,2418 West 166th Street Torrance CA 90504-1813,,,False,tested,Torrance,Los Angeles County,33.879727,-118.320272,
+Torrance Unified,Madrona Middle,21364 Madrona Avenue Torrance CA 90503-5948,,,False,tested,Torrance,Los Angeles County,33.834675,-118.344757,
+Torrance Unified,North High,3620 West 182nd Street Torrance CA 90504-3935,,,False,tested,Torrance,Los Angeles County,33.86549,-118.33616,
+Torrance Unified,Owen H. Griffith Adult,2291 West Washington Avenue Torrance CA 90501,,,,not tested,Torrance,Los Angeles County,33.825790999999995,-118.32126399999999,
+Torrance Unified,Philip Magruder Middle,4100 West 185th Street Torrance CA 90504-4706,,,False,tested,Torrance,Los Angeles County,33.862574,-118.34575500000001,
+Torrance Unified,Riviera Elementary,365 Paseo de Arena Torrance CA 90505-6226,,,False,tested,Torrance,Los Angeles County,33.806657,-118.37422600000001,
+Torrance Unified,Seaside Elementary,4651 Sharynne Lane Torrance CA 90505-3355,,,False,tested,Torrance,Los Angeles County,33.820471000000005,-118.363343,
+Torrance Unified,Shery (Kurt T.) High (Continuation),2600 Vine Street Torrance CA 90501-4330,,,False,tested,Torrance,Los Angeles County,33.823112,-118.32388999999999,
+Torrance Unified,South High,4801 Pacific Coast Highway Torrance CA 90505-5544,,,False,tested,Torrance,Los Angeles County,33.812208,-118.364135,
+Torrance Unified,Torrance Aquatic Center,2320 Crenshaw Blvd. Torrance CA 90501,,,False,tested,Torrance,Los Angeles County,33.824465999999994,-118.328479,
+Torrance Unified,Torrance Elementary,2125 Lincoln Avenue Torrance CA 90501-4437,,,False,tested,Torrance,Los Angeles County,33.823539000000004,-118.319705,
+Torrance Unified,Torrance High,2200 Carson Street Torrance CA 90501-3135,,,False,tested,Torrance,Los Angeles County,33.830607,-118.358419,
+Torrance Unified,Towers Elementary,5600 Towers Street Torrance CA 90503-1161,,,,not tested,Torrance,Los Angeles County,33.854996,-118.37606699999999,
+Torrance Unified,Victor Elementary,4820 Spencer Street Torrance CA 90503-2254,,,,not tested,Torrance,Los Angeles County,33.844892,-118.36458999999999,
+Torrance Unified,Walteria Elementary,24456 Madison Street Torrance CA 90505-6653,,,False,tested,Torrance,Los Angeles County,33.800274,-118.346556,
+Torrance Unified,West High,20401 Victor Street Torrance CA 90503-2255,,,,not tested,Torrance,Los Angeles County,33.84752,-118.36679699999999,
+Torrance Unified,Yukon Elementary,17815 Yukon Avenue Torrance CA 90504-3927,,,False,tested,Torrance,Los Angeles County,33.869144,-118.335229,

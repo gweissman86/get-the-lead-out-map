@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-El Tejon Unified,El Tejon Middle,4337 Lebec Road Lebec CA 93243-0876,NA,NA,NA,not tested,NA,Kern County,34.873675,-118.888168
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+El Tejon Unified,El Tejon Middle,4337 Lebec Road Lebec CA 93243-0876,,,,not tested,,Kern County,34.873675,-118.888168,

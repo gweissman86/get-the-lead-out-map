@@ -1,2 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Calaveras County Office of Education,Calaveras COE Main Offices,185 South Main St Angels Camp CA  95221,NA,NA,FALSE,tested,Angels,Calaveras County,38.049037,-120.523289
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Cascade Union Elementary,Anderson Heights Elementary,1530 Spruce Street Anderson CA 96007-4369,,,False,tested,Anderson,Shasta County,40.436784,-122.29310100000001,
+Anderson Union High,Anderson High,1471 Ferry Street Anderson CA 96007-3313,,,,not tested,Anderson,Shasta County,40.444368,-122.305756,
+Cascade Union Elementary,Anderson Middle,1646 West Ferry Street Anderson CA 96007-3314,6.34,ppb,True,tested,Anderson,Shasta County,40.446405,-122.304974,6.34
+Anderson Union High,Anderson New Technology High,2098 North Street Anderson CA 96007-3477,,,False,tested,Anderson,Shasta County,40.451721,-122.299701,
+Happy Valley Union Elementary,Happy Valley Elementary,17480 Palm Avenue Anderson CA 96007-8241,,,False,tested,Anderson,Shasta County,40.446968,-122.408331,
+Happy Valley Union Elementary,Happy Valley Primary,16300 Cloverdale Road Anderson CA 96007-8209,,,False,tested,Anderson,Shasta County,40.474378,-122.45393,
+Cascade Union Elementary,Meadow Lane Elementary,2770 Balls Ferry Road Anderson CA 96007-3537,,,False,tested,Anderson,Shasta County,40.453032,-122.270547,
+Anderson Union High,North Valley High,20083 Olinda Road Anderson CA 96007-8291,,,,not tested,Anderson,Shasta County,40.441389,-122.323959,

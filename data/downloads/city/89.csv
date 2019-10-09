@@ -1,7 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Carpinteria Unified,Aliso Elementary,4545 Carpinteria Avenue Carpinteria CA 93013-1811,NA,NA,FALSE,tested,Carpinteria,Santa Barbara County,34.401226,-119.526644
-Carpinteria Unified,Canalino Elementary,1480 Linden Ave. Carpinteria CA 93013-1414,NA,NA,FALSE,tested,Carpinteria,Santa Barbara County,34.404589,-119.515742
-Carpinteria Unified,Carpinteria Family,1480 Linden Avenue Carpinteria CA 93013-1414,NA,NA,NA,not tested,Carpinteria,Santa Barbara County,34.404589,-119.515742
-Carpinteria Unified,Carpinteria Middle,5351 Carpinteria Avenue Carpinteria CA 93013-2101,NA,NA,FALSE,tested,Carpinteria,Santa Barbara County,34.396138,-119.515725
-Carpinteria Unified,Carpinteria Senior High,4810 Foothill Road Carpinteria CA 93013-3084,NA,NA,FALSE,tested,Carpinteria,Santa Barbara County,34.411245,-119.516852
-Carpinteria Unified,Rincon High (Continuation),4698 Foothill Rd. Carpinteria CA 93013-3084,NA,NA,FALSE,tested,Carpinteria,Santa Barbara County,34.415962,-119.540284
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Juan Unified,California Montessori Project-San Juan Campus,5330A Gibbons Drive Suite 700 Carmichael CA 95608-2117,,,False,tested,Carmichael,Sacramento County,38.635177,-121.339678,
+San Juan Unified,Charles Peck Elementary,6230 Rutland Drive Carmichael CA 95608-0721,,,,not tested,Carmichael,Sacramento County,38.659979,-121.31723999999998,
+San Juan Unified,Coyle Avenue Elementary,6330 Coyle Avenue Carmichael CA 95608-0439,,,False,tested,Carmichael,Sacramento County,38.667752,-121.317299,

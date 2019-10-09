@@ -1,15 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Walnut Valley Unified,Castle Rock Elementary,2975 Castle Rock Road Diamond Bar CA 91765-3420,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.972052,-117.844052
-Walnut Valley Unified,Chaparral Middle,1408 South Spruce Tree Drive Diamond Bar CA 91765-2571,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.996586,-117.816904
-Walnut Valley Unified,Collegewood Elementary,20725 East Collegewood Drive Walnut Valley CA 91789-1118,NA,NA,NA,not tested,Walnut,Los Angeles County,34.04952,-117.853167
-Walnut Valley Unified,Cyrus J. Morris Elementary,19875 East Calle Baja Walnut CA 91789-2246,NA,NA,NA,not tested,Walnut,Los Angeles County,34.011721,-117.868304
-Walnut Valley Unified,Diamond Bar High,21400 Pathfinder Road Diamond Bar CA 91765-2747,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.981287,-117.838918
-Walnut Valley Unified,Leonard G. Westhoff Elementary,1323 Country Hollow Walnut CA 91789-1245,NA,NA,NA,not tested,Walnut,Los Angeles County,34.040381,-117.860351
-Walnut Valley Unified,Maple Hill Elementary,1350 Maple Hill Road Diamond Bar CA 91765-2436,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.996775,-117.824794
-Walnut Valley Unified,Quail Summit Elementary,23330 East Quail Summit Drive Diamond Bar CA 91765-3031,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.995744,-117.811082
-Walnut Valley Unified,Ron Hockwalt Academies (Continuation),880 South Lemon Avenue Walnut CA 91789-2931,NA,NA,NA,not tested,Walnut,Los Angeles County,34.000647,-117.854429
-Walnut Valley Unified,South Pointe Middle,20671 Larkstone Drive Walnut CA 91789-3863,NA,NA,NA,not tested,Walnut,Los Angeles County,33.991155,-117.848351
-Walnut Valley Unified,Suzanne Middle,525 Suzanne Road Walnut CA 91789-1938,NA,NA,NA,not tested,Walnut,Los Angeles County,34.027468,-117.849313
-Walnut Valley Unified,Vejar Elementary,20222 Vejar Road Walnut CA 91789-2334,NA,NA,NA,not tested,Walnut,Los Angeles County,34.016849,-117.861361
-Walnut Valley Unified,Walnut Elementary,841 South Glenwick Walnut CA 91789-3108,NA,NA,NA,not tested,Walnut,Los Angeles County,34.001788,-117.854123
-Walnut Valley Unified,Walnut High,400 North Pierre Road Walnut CA 91789-2535,NA,NA,NA,not tested,Walnut,Los Angeles County,34.021292,-117.851414
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Walnut Valley Unified,Castle Rock Elementary,2975 Castle Rock Road Diamond Bar CA 91765-3420,,,,not tested,Diamond Bar,Los Angeles County,33.972052000000005,-117.844052,
+Walnut Valley Unified,Chaparral Middle,1408 South Spruce Tree Drive Diamond Bar CA 91765-2571,,,,not tested,Diamond Bar,Los Angeles County,33.996586,-117.81690400000001,
+Walnut Valley Unified,Collegewood Elementary,20725 East Collegewood Drive Walnut Valley CA 91789-1118,,,,not tested,Walnut,Los Angeles County,34.04952,-117.853167,
+Walnut Valley Unified,Cyrus J. Morris Elementary,19875 East Calle Baja Walnut CA 91789-2246,,,,not tested,Walnut,Los Angeles County,34.011721,-117.86830400000001,
+Walnut Valley Unified,Diamond Bar High,21400 Pathfinder Road Diamond Bar CA 91765-2747,,,,not tested,Diamond Bar,Los Angeles County,33.981287,-117.83891799999999,
+Walnut Valley Unified,Leonard G. Westhoff Elementary,1323 Country Hollow Walnut CA 91789-1245,,,,not tested,Walnut,Los Angeles County,34.040381,-117.860351,
+Walnut Valley Unified,Maple Hill Elementary,1350 Maple Hill Road Diamond Bar CA 91765-2436,,,,not tested,Diamond Bar,Los Angeles County,33.996775,-117.824794,
+Walnut Valley Unified,Quail Summit Elementary,23330 East Quail Summit Drive Diamond Bar CA 91765-3031,,,,not tested,Diamond Bar,Los Angeles County,33.995744,-117.81108200000001,
+Walnut Valley Unified,Ron Hockwalt Academies (Continuation),880 South Lemon Avenue Walnut CA 91789-2931,,,,not tested,Walnut,Los Angeles County,34.000647,-117.85442900000001,
+Walnut Valley Unified,South Pointe Middle,20671 Larkstone Drive Walnut CA 91789-3863,,,,not tested,Walnut,Los Angeles County,33.991155,-117.848351,
+Walnut Valley Unified,Suzanne Middle,525 Suzanne Road Walnut CA 91789-1938,,,,not tested,Walnut,Los Angeles County,34.027468,-117.849313,
+Walnut Valley Unified,Vejar Elementary,20222 Vejar Road Walnut CA 91789-2334,,,,not tested,Walnut,Los Angeles County,34.016849,-117.86136100000002,
+Walnut Valley Unified,Walnut Elementary,841 South Glenwick Walnut CA 91789-3108,,,,not tested,Walnut,Los Angeles County,34.001788,-117.854123,
+Walnut Valley Unified,Walnut High,400 North Pierre Road Walnut CA 91789-2535,,,,not tested,Walnut,Los Angeles County,34.021291999999995,-117.85141399999999,

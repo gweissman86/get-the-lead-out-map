@@ -1,4 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lawndale Elementary,Jane Addams Middle,4535 West 153rd Place Lawndale CA 90260-1957,NA,NA,FALSE,tested,Lawndale,Los Angeles County,33.892096,-118.356741
-Centinela Valley Union High,Lawndale High,14901 South Inglewood Avenue Lawndale CA 90260-1251,NA,NA,FALSE,tested,Lawndale,Los Angeles County,33.895733,-118.362154
-Lawndale Elementary,William Green Elementary,4520 West 168th Street Lawndale CA 90260-3246,NA,NA,FALSE,tested,Lawndale,Los Angeles County,33.877504,-118.356023
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Laton Joint Unified,Conejo Middle,6065 East Latonia Laton CA 93242,,,,not tested,Laton,Fresno County,36.431614,-119.68812199999999,
+Laton Joint Unified,Laton High,6449 DeWoody Laton CA 93242-0248,,,,not tested,Laton,Fresno County,36.435036,-119.68255500000001,

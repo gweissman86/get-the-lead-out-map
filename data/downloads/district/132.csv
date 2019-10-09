@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Centralia Elementary,Buena Terra Elementary,8299 Holder Street Buena Park CA 90620-2957,NA,NA,FALSE,tested,Buena Park,Orange County,33.843761,-118.018506
-Centralia Elementary,Centralia Elementary,195 North Western Avenue Anaheim CA 92801-6040,NA,NA,FALSE,tested,Anaheim,Orange County,33.832805,-118.002331
-Centralia Elementary,Danbrook Elementary,320 Danbrook Street Anaheim CA 92804-2715,8.3,ppb,TRUE,tested,Anaheim,Orange County,33.828462,-118.008133
-Centralia Elementary,George B. Miller Elementary,7751 Furman Road La Palma CA 90623-1536,NA,NA,NA,not tested,La Palma,Orange County,33.850226,-118.033051
-Centralia Elementary,Glen H. Dysinger Sr. Elementary,7770 Camellia Drive Buena Park CA 90620-2152,NA,NA,FALSE,tested,Buena Park,Orange County,33.850449,-117.991763
-Centralia Elementary,Los Coyotes Elementary,8122 Moody Street La Palma CA 90623-2046,NA,NA,NA,not tested,La Palma,Orange County,33.844713,-118.046049
-Centralia Elementary,Raymond Temple Elementary,7800 Holder Street Buena Park CA 90620-2315,NA,NA,FALSE,tested,Buena Park,Orange County,33.850241,-118.019721
-Centralia Elementary,San Marino Elementary,6215 San Rolando Way Buena Park CA 90620-3635,5.8,ppb,TRUE,tested,Buena Park,Orange County,33.836941,-118.024373
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Centralia Elementary,Buena Terra Elementary,8299 Holder Street Buena Park CA 90620-2957,,,False,tested,Buena Park,Orange County,33.843761,-118.018506,
+Centralia Elementary,Centralia Elementary,195 North Western Avenue Anaheim CA 92801-6040,,,False,tested,Anaheim,Orange County,33.832805,-118.00233100000001,
+Centralia Elementary,Danbrook Elementary,320 Danbrook Street Anaheim CA 92804-2715,8.3,ppb,True,tested,Anaheim,Orange County,33.828462,-118.008133,8.3
+Centralia Elementary,George B. Miller Elementary,7751 Furman Road La Palma CA 90623-1536,,,,not tested,La Palma,Orange County,33.850226,-118.033051,
+Centralia Elementary,Glen H. Dysinger Sr. Elementary,7770 Camellia Drive Buena Park CA 90620-2152,,,False,tested,Buena Park,Orange County,33.850449,-117.99176299999999,
+Centralia Elementary,Los Coyotes Elementary,8122 Moody Street La Palma CA 90623-2046,,,,not tested,La Palma,Orange County,33.844713,-118.046049,
+Centralia Elementary,Raymond Temple Elementary,7800 Holder Street Buena Park CA 90620-2315,,,False,tested,Buena Park,Orange County,33.850241,-118.01972099999999,
+Centralia Elementary,San Marino Elementary,6215 San Rolando Way Buena Park CA 90620-3635,5.8,ppb,True,tested,Buena Park,Orange County,33.836940999999996,-118.024373,6.1

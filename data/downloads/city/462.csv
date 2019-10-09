@@ -1,89 +1,89 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Riverside Unified,Abraham Lincoln Continuation,4341 Victoria Avenue Riverside CA 92507-5009,7.6,ppb,TRUE,tested,Riverside,Riverside County,33.971175,-117.36604
-Riverside Unified,Adams Elementary,8362 Colorado Avenue Riverside CA 92504-2305,NA,NA,FALSE,tested,Riverside,Riverside County,33.944723,-117.435559
-Jurupa Unified,Adult Alternative Education,4041 Pacific Avenue Jurupa Valley CA 92509-7251,NA,NA,NA,not tested,Riverside,Riverside County,34.001233,-117.422245
-Riverside Unified,Alcott Elementary,2433 Central Avenue Riverside CA 92506-3408,5.55,ppb,TRUE,tested,Riverside,Riverside County,33.95384,-117.364638
-Alvord Unified,Allan Orrenmaa Elementary,3350 Fillmore Street Riverside CA 92503-5135,NA,NA,FALSE,tested,Riverside,Riverside County,33.892855,-117.478252
-Alvord Unified,Alvord Adult Education,3606 Pierce St. Riverside CA 92503-4925,NA,NA,NA,not tested,Riverside,Riverside County,33.891633,-117.488358
-Alvord Unified,Alvord Alternative Continuation High,10368 Campbell Avenue Riverside CA 92505-1308,NA,NA,FALSE,tested,Riverside,Riverside County,33.935938,-117.481256
-Alvord Unified,Alvord Continuation High,3606 Pierce Street Riverside CA 92503-4925,NA,NA,NA,not tested,Riverside,Riverside County,33.891633,-117.488358
-Riverside Unified,Amelia Earhart Middle,20202 Aptos Street Riverside CA 92508-3256,NA,NA,FALSE,tested,Riverside,Riverside County,33.889461,-117.311529
-Alvord Unified,Arizona Middle,11045 Arizona Avenue Riverside CA 92503-5903,NA,NA,FALSE,tested,Riverside,Riverside County,33.891354,-117.465702
-Alvord Unified,Arlanza Elementary,5891 Rutland Avenue Riverside CA 92503-1741,9,ppb,TRUE,tested,Riverside,Riverside County,33.941676,-117.468642
-Riverside Unified,Arlington High,2951 Jackson Street Riverside CA 92503-5732,10.25,ppb,TRUE,tested,Riverside,Riverside County,33.914356,-117.43064
-Riverside Unified,Benjamin Franklin Elementary,19661 Orange Terrace Parkway Riverside CA 92508-3256,NA,NA,FALSE,tested,Riverside,Riverside County,33.894763,-117.321872
-California School for the Deaf-Riverside (State Special Schl),California School for the Deaf-Riverside,3044 Horace Street Riverside CA 92506-4498,9.3,ppb,TRUE,tested,Riverside,Riverside County,33.942907,-117.378232
-Private,Casa Blanca Head Start,7711 Casa Blanca St Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.931737,-117.40761
-Riverside Unified,Casa Blanca Pre School / Elem. School,3020 Madison St. Riverside CA 92503,NA,NA,NA,not tested,Riverside,Riverside County,33.930752,-117.400806
-Riverside Unified,Castle View Elementary,6201 Shaker Drive Riverside CA 92506-4716,9.5,ppb,TRUE,tested,Riverside,Riverside County,33.937949,-117.343137
-Riverside Unified,Central Middle,4795 Magnolia Avenue Riverside CA 92506-0155,NA,NA,FALSE,tested,Riverside,Riverside County,33.971338,-117.384937
-Riverside Unified,Chemawa Middle,8830 Magnolia Avenue Riverside CA 92503-4414,9.8,ppb,TRUE,tested,Riverside,Riverside County,33.925831,-117.432877
-Alvord Unified,Collett Elementary,10850 Collett Avenue Riverside CA 92505-2926,NA,NA,FALSE,tested,Riverside,Riverside County,33.913945,-117.479154
-Riverside County Office of Education,Come Back Kids,3939 13th Street Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside Unified,Educational Options Center State Preschool,6401 Lincoln Ave Riverside CA 92506-4424,NA,NA,FALSE,tested,Riverside,Riverside County,33.94065,-117.378956
-Riverside Unified,Emerson Elementary,4660 Ottawa Avenue Riverside CA 92507-5823,6.65,ppb,TRUE,tested,Riverside,Riverside County,33.965856,-117.352766
-Riverside Unified,Encore High School for the Arts - Riverside,3460 Orange Street Riverside CA 92501-2864,NA,NA,NA,not tested,Riverside,Riverside County,33.984711,-117.370951
-Alvord Unified,Foothill Elementary,8230 Wells Avenue Riverside CA 92503-2559,NA,NA,FALSE,tested,Riverside,Riverside County,33.935259,-117.461944
-Riverside Unified,Frank Augustus Miller Middle,17925 Krameria Avenue Riverside CA 92504-6022,NA,NA,FALSE,tested,Riverside,Riverside County,33.879851,-117.35016
-Riverside Unified,Fremont Elementary,1925 Orange Street Riverside CA 92501-1938,6.050000000000001,ppb,TRUE,tested,Riverside,Riverside County,33.996462,-117.363195
-Riverside County Office of Education,Gateway College and Career Academy,4800 Magnolia Avenue Riverside CA 92506-1201,NA,NA,NA,not tested,Riverside,Riverside County,33.971585,-117.384569
-Riverside County Office of Education,Grindstaff School (RCOE),9825 County Farm Rd. Riverside CA Riverside,NA,NA,FALSE,tested,Riverside,Riverside County,33.920068,-117.454501
-Riverside Unified,Harrison Elementary,2901 Harrison Street Riverside CA 92503-5505,7.8,ppb,TRUE,tested,Riverside,Riverside County,33.903712,-117.443665
-Riverside Unified,Hawthorne Elementary,2700 Irving Street Riverside CA 92503-5628,NA,NA,FALSE,tested,Riverside,Riverside County,33.91114,-117.422799
-Riverside Unified,Highland Elementary,700 Highlander Drive Riverside CA 92507-3064,NA,NA,FALSE,tested,Riverside,Riverside County,33.984868,-117.326704
-Alvord Unified,Hillcrest High,11800 Indiana Avenue Riverside CA 92503-5172,NA,NA,FALSE,tested,Riverside,Riverside County,33.913545,-117.442454
-Riverside Unified,Jackson Elementary,4585 Jackson Street Riverside CA 92503-2758,6.3,ppb,TRUE,tested,Riverside,Riverside County,33.936617,-117.447597
-Riverside Unified,Jefferson Elementary,4285 Jefferson Street Riverside CA 92504-2423,6.65,ppb,TRUE,tested,Riverside,Riverside County,33.944638,-117.4228
-Riverside Unified,John F. Kennedy Elementary,19125 Schoolhouse Lane Riverside CA 92508-7147,NA,NA,FALSE,tested,Riverside,Riverside County,33.897625,-117.330196
-Riverside Unified,John W. North High,1550 West Third Street Riverside CA 92507-3404,NA,NA,FALSE,tested,Riverside,Riverside County,33.981629,-117.345317
-Jurupa Unified,Jurupa Unified School District Pre-K School Readiness Center,5960 Mustang Lane Jurupa Valley CA 92509-4259,NA,NA,NA,not tested,Riverside,Riverside County,34.003653,-117.417043
-Alvord Unified,La Granada Elementary,10346 Keller Avenue Riverside CA 92505-1350,NA,NA,FALSE,tested,Riverside,Riverside County,33.933472,-117.479246
-Alvord Unified,La Sierra High,4145 La Sierra Avenue Riverside CA 92505-2938,NA,NA,FALSE,tested,Riverside,Riverside County,33.921537,-117.490132
-Riverside Unified,Liberty Elementary,9631 Hayes Street Riverside CA 92503-3660,NA,NA,FALSE,tested,Riverside,Riverside County,33.920302,-117.450836
-Alvord Unified,Loma Vista Middle,11050 Arlington Avenue Riverside CA 92505-2204,NA,NA,FALSE,tested,Riverside,Riverside County,33.944743,-117.49992
-Riverside Unified,Longfellow Elementary,3610 Eucalyptus Avenue Riverside CA 92507-4161,7.8,ppb,TRUE,tested,Riverside,Riverside County,33.978341,-117.359545
-Riverside Unified,Madison Elementary,3635 Madison Street Riverside CA 92504-3718,6.6,ppb,TRUE,tested,Riverside,Riverside County,33.938572,-117.40721
-Riverside Unified,Magnolia Elementary,3975 Maplewood Place Riverside CA 92506-1848,NA,NA,FALSE,tested,Riverside,Riverside County,33.962336,-117.392991
-Riverside Unified,Mark Twain Elementary,19411 Krameria Avenue Riverside CA 92508-9602,NA,NA,FALSE,tested,Riverside,Riverside County,33.880075,-117.325151
-Riverside Unified,Martin Luther King Jr. High,9301 Wood Road Riverside CA 92508-9459,NA,NA,FALSE,tested,Riverside,Riverside County,33.881676,-117.331245
-Riverside Unified,Matthew Gage Middle,6400 Lincoln Avenue Riverside CA 92506-4423,NA,NA,FALSE,tested,Riverside,Riverside County,33.940513,-117.378846
-Riverside Unified,Mountain View Elementary,6180 Streeter Avenue Riverside CA 92504-1253,NA,NA,FALSE,tested,Riverside,Riverside County,33.959523,-117.418721
-Alvord Unified,Myra Linn Elementary,10435 Branigan Way Riverside CA 92505-1515,NA,NA,FALSE,tested,Riverside,Riverside County,33.919531,-117.472273
-Alvord Unified,Norte Vista High,6585 Crest Avenue Riverside CA 92503-1102,NA,NA,FALSE,tested,Riverside,Riverside County,33.95001,-117.47253
-Riverside Unified,Opportunity Program,6401 Lincoln Avenue A Riverside CA 92506-4424,NA,NA,NA,not tested,Riverside,Riverside County,33.94065,-117.378956
-Riverside Unified,Pachappa Elementary,6200 Riverside Avenue Riverside CA 92506-2147,NA,NA,FALSE,tested,Riverside,Riverside County,33.956475,-117.387824
-Riverside Unified,Patricia Beatty Elementary,4261 Latham Road Riverside CA 92501-1712,NA,NA,FALSE,tested,Riverside,Riverside County,34.002002,-117.372557
-Alvord Unified,Phillip M. Stokoe Elementary,4501 Ambs Drive Riverside CA 92505-3758,NA,NA,FALSE,tested,Riverside,Riverside County,33.907106,-117.500237
-Riverside Unified,Polytechnic High,5450 Victoria Avenue Riverside CA 92506-3362,NA,NA,FALSE,tested,Riverside,Riverside County,33.95191,-117.368112
-Riverside County Office of Education,Preschool Grasp,3939 13th Street B Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside Unified,Raincross High (Continuation),6401 Lincoln Avenue Riverside CA 92506-4424,NA,NA,NA,not tested,Riverside,Riverside County,33.94065,-117.378956
-Riverside Unified,Ramona High,7675 Magnolia Avenue Riverside CA 92504-3627,NA,NA,FALSE,tested,Riverside,Riverside County,33.939591,-117.412933
-Riverside Unified,REACH Leadership STEAM Academy,4850 Jurupa Avenue Riverside CA 92504-1709,NA,NA,NA,not tested,Riverside,Riverside County,33.96141,-117.408951
-Riverside County Office of Education,Regional Learning Center,6511 Arlington Avenue Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.945983,-117.440818
-Riverside Unified,Riverside Adult,6735 Magnolia Avenue Riverside CA 92506-2910,10,ppb,TRUE,tested,Riverside,Riverside County,33.951506,-117.39783
-Private,Riverside Community College Early Childhood Center,4800 Magnolia Ave. Riverside CA 92506,NA,NA,NA,not tested,Riverside,Riverside County,33.971585,-117.384569
-Riverside County Office of Education,Riverside County Community,3939 13th Street C Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside County Office of Education,Riverside County Juvenile Court,3939 13th Street D Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside County Office Of Education ROP,Riverside County ROP,3939 13th Street F Riverside CA 92502-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside County Office of Education,Riverside County Special Education,3939 13th Street E Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside Unified,Riverside STEM Academy,4466 Mount Vernon Avenue Riverside CA 92507-4864,5.1,ppb,TRUE,tested,Riverside,Riverside County,33.968424,-117.313696
-Riverside Unified,Riverside Virtual,4011 Fourteenth Street Riverside CA 92506-4002,NA,NA,NA,not tested,Riverside,Riverside County,33.978268,-117.382074
-Alvord Unified,Rosemary Kennedy Elementary,6411 Mitchell Avenue Riverside CA 92505-2055,NA,NA,FALSE,tested,Riverside,Riverside County,33.944964,-117.491447
-Alvord Unified,S. Christa McAuliffe Elementary,4100 Golden Avenue Riverside CA 92505-3403,NA,NA,FALSE,tested,Riverside,Riverside County,33.905706,-117.484801
-Riverside Unified,Sierra Middle,4950 Central Avenue Riverside CA 92504-1819,NA,NA,FALSE,tested,Riverside,Riverside County,33.953354,-117.41122
-Garden Grove Unified,Stanford Elementary,12721 Magnolia Avenue Garden Grove CA 92841-4739,NA,NA,FALSE,tested,Riverside,Riverside County,33.886469,-117.507033
-Jurupa Unified,Steps Community Day,4041 Pacific Avenue Jurupa Valley CA 92509-5853,NA,NA,NA,not tested,Riverside,Riverside County,34.001233,-117.422245
-Alvord Unified,Summit Elementary,10368 Campbell Ave Riverside CA 92505-1308,NA,NA,NA,not tested,Riverside,Riverside County,33.935938,-117.481256
-Alvord Unified,Summit Secondary,10368 Campbell Ave B Riverside CA 92505-1308,NA,NA,NA,not tested,Riverside,Riverside County,33.935938,-117.481256
-Riverside Unified,Summit View Independent Study,6401 Lincoln Avenue B Riverside CA 92506-4413,NA,NA,NA,not tested,Riverside,Riverside County,33.94065,-117.378956
-Jurupa Unified,Sunnyslope Elementary,7050 38th Street Jurupa Valley CA 92509-1334,NA,NA,NA,not tested,Riverside,Riverside County,34.015474,-117.438902
-Riverside Unified,Sunshine Special Education,9390 California Avenue Riverside CA 92503-3217,6.5,ppb,TRUE,tested,Riverside,Riverside County,33.927782,-117.449391
-Riverside Unified,Tomas Rivera Elementary,20440 Red Poppy Lane Riverside CA 92508-3256,NA,NA,FALSE,tested,Riverside,Riverside County,33.888092,-117.304884
-Alvord Unified,Twinhill Elementary,11000 Campbell Avenue Riverside CA 92505-2499,NA,NA,FALSE,tested,Riverside,Riverside County,33.932911,-117.493799
-Riverside Unified,University Heights Middle,1155 Massachusetts Avenue Riverside CA 92507-2897,NA,NA,FALSE,tested,Riverside,Riverside County,33.986738,-117.33624
-Alvord Unified,Valley View Elementary,11750 Gramercy Place Riverside CA 92505-3128,NA,NA,FALSE,tested,Riverside,Riverside County,33.921804,-117.505872
-Riverside Unified,Victoria Elementary,2910 Arlington Avenue Riverside CA 92506-4449,NA,NA,FALSE,tested,Riverside,Riverside County,33.946345,-117.375123
-Riverside Unified,Washington Elementary,2760 Jane Street Riverside CA 92506-4301,NA,NA,FALSE,tested,Riverside,Riverside County,33.935048,-117.382608
-Alvord Unified,Wells Middle,10000 Wells Avenue Riverside CA 92503-2373,NA,NA,FALSE,tested,Riverside,Riverside County,33.932694,-117.469923
-Riverside Unified,William Howard Taft Elementary,959 Mission Grove Parkway North Riverside CA 92506-6226,NA,NA,FALSE,tested,Riverside,Riverside County,33.924985,-117.324273
-Riverside Unified,Woodcrest Elementary,16940 Krameria Avenue Riverside CA 92504-6119,NA,NA,FALSE,tested,Riverside,Riverside County,33.879968,-117.367091
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Riverside Unified,Abraham Lincoln Continuation,4341 Victoria Avenue Riverside CA 92507-5009,7.6,ppb,True,tested,Riverside,Riverside County,33.971175,-117.36603999999998,8.1
+Riverside Unified,Adams Elementary,8362 Colorado Avenue Riverside CA 92504-2305,,,False,tested,Riverside,Riverside County,33.944722999999996,-117.43555900000001,
+Jurupa Unified,Adult Alternative Education,4041 Pacific Avenue Jurupa Valley CA 92509-7251,,,,not tested,Riverside,Riverside County,34.001233,-117.42224499999999,
+Riverside Unified,Alcott Elementary,2433 Central Avenue Riverside CA 92506-3408,5.55,ppb,True,tested,Riverside,Riverside County,33.95384,-117.36463799999999,5.8
+Alvord Unified,Allan Orrenmaa Elementary,3350 Fillmore Street Riverside CA 92503-5135,,,False,tested,Riverside,Riverside County,33.892855,-117.478252,
+Alvord Unified,Alvord Adult Education,3606 Pierce St. Riverside CA 92503-4925,,,,not tested,Riverside,Riverside County,33.891633,-117.488358,
+Alvord Unified,Alvord Alternative Continuation High,10368 Campbell Avenue Riverside CA 92505-1308,,,False,tested,Riverside,Riverside County,33.935938,-117.481256,
+Alvord Unified,Alvord Continuation High,3606 Pierce Street Riverside CA 92503-4925,,,,not tested,Riverside,Riverside County,33.891633,-117.488358,
+Riverside Unified,Amelia Earhart Middle,20202 Aptos Street Riverside CA 92508-3256,,,False,tested,Riverside,Riverside County,33.889461,-117.31152900000001,
+Alvord Unified,Arizona Middle,11045 Arizona Avenue Riverside CA 92503-5903,,,False,tested,Riverside,Riverside County,33.891354,-117.46570200000001,
+Alvord Unified,Arlanza Elementary,5891 Rutland Avenue Riverside CA 92503-1741,9.0,ppb,True,tested,Riverside,Riverside County,33.941676,-117.46864199999999,9.0
+Riverside Unified,Arlington High,2951 Jackson Street Riverside CA 92503-5732,10.25,ppb,True,tested,Riverside,Riverside County,33.914356,-117.43064,13.0
+Riverside Unified,Benjamin Franklin Elementary,19661 Orange Terrace Parkway Riverside CA 92508-3256,,,False,tested,Riverside,Riverside County,33.894763,-117.321872,
+California School for the Deaf-Riverside (State Special Schl),California School for the Deaf-Riverside,3044 Horace Street Riverside CA 92506-4498,9.3,ppb,True,tested,Riverside,Riverside County,33.942907,-117.37823200000001,9.8
+Private,Casa Blanca Head Start,7711 Casa Blanca St Riverside CA 92504,,,False,tested,Riverside,Riverside County,33.931737,-117.40761,
+Riverside Unified,Casa Blanca Pre School / Elem. School,3020 Madison St. Riverside CA 92503,,,,not tested,Riverside,Riverside County,33.930752000000005,-117.400806,
+Riverside Unified,Castle View Elementary,6201 Shaker Drive Riverside CA 92506-4716,9.5,ppb,True,tested,Riverside,Riverside County,33.937948999999996,-117.34313700000001,9.5
+Riverside Unified,Central Middle,4795 Magnolia Avenue Riverside CA 92506-0155,,,False,tested,Riverside,Riverside County,33.971338,-117.38493700000001,
+Riverside Unified,Chemawa Middle,8830 Magnolia Avenue Riverside CA 92503-4414,9.8,ppb,True,tested,Riverside,Riverside County,33.925831,-117.432877,9.8
+Alvord Unified,Collett Elementary,10850 Collett Avenue Riverside CA 92505-2926,,,False,tested,Riverside,Riverside County,33.913945,-117.47915400000001,
+Riverside County Office of Education,Come Back Kids,3939 13th Street Riverside CA 92501-3505,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside Unified,Educational Options Center State Preschool,6401 Lincoln Ave Riverside CA 92506-4424,,,False,tested,Riverside,Riverside County,33.94065,-117.378956,
+Riverside Unified,Emerson Elementary,4660 Ottawa Avenue Riverside CA 92507-5823,6.65,ppb,True,tested,Riverside,Riverside County,33.965856,-117.35276599999999,8.1
+Riverside Unified,Encore High School for the Arts - Riverside,3460 Orange Street Riverside CA 92501-2864,,,,not tested,Riverside,Riverside County,33.984711,-117.370951,
+Alvord Unified,Foothill Elementary,8230 Wells Avenue Riverside CA 92503-2559,,,False,tested,Riverside,Riverside County,33.935259,-117.46194399999999,
+Riverside Unified,Frank Augustus Miller Middle,17925 Krameria Avenue Riverside CA 92504-6022,,,False,tested,Riverside,Riverside County,33.879851,-117.35016,
+Riverside Unified,Fremont Elementary,1925 Orange Street Riverside CA 92501-1938,6.050000000000002,ppb,True,tested,Riverside,Riverside County,33.996462,-117.36319499999999,6.8
+Riverside County Office of Education,Gateway College and Career Academy,4800 Magnolia Avenue Riverside CA 92506-1201,,,,not tested,Riverside,Riverside County,33.971585,-117.384569,
+Riverside County Office of Education,Grindstaff School (RCOE),9825 County Farm Rd. Riverside CA Riverside,,,False,tested,Riverside,Riverside County,33.920068,-117.45450100000001,
+Riverside Unified,Harrison Elementary,2901 Harrison Street Riverside CA 92503-5505,7.8,ppb,True,tested,Riverside,Riverside County,33.903712,-117.443665,7.8
+Riverside Unified,Hawthorne Elementary,2700 Irving Street Riverside CA 92503-5628,,,False,tested,Riverside,Riverside County,33.91114,-117.422799,
+Riverside Unified,Highland Elementary,700 Highlander Drive Riverside CA 92507-3064,,,False,tested,Riverside,Riverside County,33.984868,-117.326704,
+Alvord Unified,Hillcrest High,11800 Indiana Avenue Riverside CA 92503-5172,,,False,tested,Riverside,Riverside County,33.913545,-117.442454,
+Riverside Unified,Jackson Elementary,4585 Jackson Street Riverside CA 92503-2758,6.3,ppb,True,tested,Riverside,Riverside County,33.936617,-117.447597,9.3
+Riverside Unified,Jefferson Elementary,4285 Jefferson Street Riverside CA 92504-2423,6.65,ppb,True,tested,Riverside,Riverside County,33.944638,-117.4228,65.0
+Riverside Unified,John F. Kennedy Elementary,19125 Schoolhouse Lane Riverside CA 92508-7147,,,False,tested,Riverside,Riverside County,33.897625,-117.330196,
+Riverside Unified,John W. North High,1550 West Third Street Riverside CA 92507-3404,,,False,tested,Riverside,Riverside County,33.981629,-117.345317,
+Jurupa Unified,Jurupa Unified School District Pre-K School Readiness Center,5960 Mustang Lane Jurupa Valley CA 92509-4259,,,,not tested,Riverside,Riverside County,34.003653,-117.41704299999999,
+Alvord Unified,La Granada Elementary,10346 Keller Avenue Riverside CA 92505-1350,,,False,tested,Riverside,Riverside County,33.933471999999995,-117.47924599999999,
+Alvord Unified,La Sierra High,4145 La Sierra Avenue Riverside CA 92505-2938,,,False,tested,Riverside,Riverside County,33.921537,-117.490132,
+Riverside Unified,Liberty Elementary,9631 Hayes Street Riverside CA 92503-3660,,,False,tested,Riverside,Riverside County,33.920302,-117.45083600000001,
+Alvord Unified,Loma Vista Middle,11050 Arlington Avenue Riverside CA 92505-2204,,,False,tested,Riverside,Riverside County,33.944743,-117.49991999999999,
+Riverside Unified,Longfellow Elementary,3610 Eucalyptus Avenue Riverside CA 92507-4161,7.8,ppb,True,tested,Riverside,Riverside County,33.978341,-117.359545,9.7
+Riverside Unified,Madison Elementary,3635 Madison Street Riverside CA 92504-3718,6.6,ppb,True,tested,Riverside,Riverside County,33.938572,-117.40721,7.5
+Riverside Unified,Magnolia Elementary,3975 Maplewood Place Riverside CA 92506-1848,,,False,tested,Riverside,Riverside County,33.962336,-117.392991,
+Riverside Unified,Mark Twain Elementary,19411 Krameria Avenue Riverside CA 92508-9602,,,False,tested,Riverside,Riverside County,33.880075,-117.325151,
+Riverside Unified,Martin Luther King Jr. High,9301 Wood Road Riverside CA 92508-9459,,,False,tested,Riverside,Riverside County,33.881676,-117.331245,
+Riverside Unified,Matthew Gage Middle,6400 Lincoln Avenue Riverside CA 92506-4423,,,False,tested,Riverside,Riverside County,33.940513,-117.378846,
+Riverside Unified,Mountain View Elementary,6180 Streeter Avenue Riverside CA 92504-1253,,,False,tested,Riverside,Riverside County,33.959523,-117.41872099999999,
+Alvord Unified,Myra Linn Elementary,10435 Branigan Way Riverside CA 92505-1515,,,False,tested,Riverside,Riverside County,33.919531,-117.472273,
+Alvord Unified,Norte Vista High,6585 Crest Avenue Riverside CA 92503-1102,,,False,tested,Riverside,Riverside County,33.95001,-117.47253,
+Riverside Unified,Opportunity Program,6401 Lincoln Avenue A Riverside CA 92506-4424,,,,not tested,Riverside,Riverside County,33.94065,-117.378956,
+Riverside Unified,Pachappa Elementary,6200 Riverside Avenue Riverside CA 92506-2147,,,False,tested,Riverside,Riverside County,33.956475,-117.387824,
+Riverside Unified,Patricia Beatty Elementary,4261 Latham Road Riverside CA 92501-1712,,,False,tested,Riverside,Riverside County,34.002002000000005,-117.372557,
+Alvord Unified,Phillip M. Stokoe Elementary,4501 Ambs Drive Riverside CA 92505-3758,,,False,tested,Riverside,Riverside County,33.907106,-117.50023700000001,
+Riverside Unified,Polytechnic High,5450 Victoria Avenue Riverside CA 92506-3362,,,False,tested,Riverside,Riverside County,33.95191,-117.36811200000001,
+Riverside County Office of Education,Preschool Grasp,3939 13th Street B Riverside CA 92502-0868,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside Unified,Raincross High (Continuation),6401 Lincoln Avenue Riverside CA 92506-4424,,,,not tested,Riverside,Riverside County,33.94065,-117.378956,
+Riverside Unified,Ramona High,7675 Magnolia Avenue Riverside CA 92504-3627,,,False,tested,Riverside,Riverside County,33.939591,-117.41293300000001,
+Riverside Unified,REACH Leadership STEAM Academy,4850 Jurupa Avenue Riverside CA 92504-1709,,,,not tested,Riverside,Riverside County,33.96141,-117.408951,
+Riverside County Office of Education,Regional Learning Center,6511 Arlington Avenue Riverside CA 92504,,,False,tested,Riverside,Riverside County,33.945983,-117.440818,
+Riverside Unified,Riverside Adult,6735 Magnolia Avenue Riverside CA 92506-2910,10.0,ppb,True,tested,Riverside,Riverside County,33.951506,-117.39783,10.0
+Private,Riverside Community College Early Childhood Center,4800 Magnolia Ave. Riverside CA 92506,,,,not tested,Riverside,Riverside County,33.971585,-117.384569,
+Riverside County Office of Education,Riverside County Community,3939 13th Street C Riverside CA 92501-3505,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside County Office of Education,Riverside County Juvenile Court,3939 13th Street D Riverside CA 92502-0868,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside County Office Of Education ROP,Riverside County ROP,3939 13th Street F Riverside CA 92502-3505,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside County Office of Education,Riverside County Special Education,3939 13th Street E Riverside CA 92502-0868,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside Unified,Riverside STEM Academy,4466 Mount Vernon Avenue Riverside CA 92507-4864,5.1,ppb,True,tested,Riverside,Riverside County,33.968424,-117.313696,5.1
+Riverside Unified,Riverside Virtual,4011 Fourteenth Street Riverside CA 92506-4002,,,,not tested,Riverside,Riverside County,33.978268,-117.382074,
+Alvord Unified,Rosemary Kennedy Elementary,6411 Mitchell Avenue Riverside CA 92505-2055,,,False,tested,Riverside,Riverside County,33.944964,-117.491447,
+Alvord Unified,S. Christa McAuliffe Elementary,4100 Golden Avenue Riverside CA 92505-3403,,,False,tested,Riverside,Riverside County,33.905706,-117.484801,
+Riverside Unified,Sierra Middle,4950 Central Avenue Riverside CA 92504-1819,,,False,tested,Riverside,Riverside County,33.953354,-117.41122,
+Garden Grove Unified,Stanford Elementary,12721 Magnolia Avenue Garden Grove CA 92841-4739,,,False,tested,Riverside,Riverside County,33.886469,-117.507033,
+Jurupa Unified,Steps Community Day,4041 Pacific Avenue Jurupa Valley CA 92509-5853,,,,not tested,Riverside,Riverside County,34.001233,-117.42224499999999,
+Alvord Unified,Summit Elementary,10368 Campbell Ave Riverside CA 92505-1308,,,,not tested,Riverside,Riverside County,33.935938,-117.481256,
+Alvord Unified,Summit Secondary,10368 Campbell Ave B Riverside CA 92505-1308,,,,not tested,Riverside,Riverside County,33.935938,-117.481256,
+Riverside Unified,Summit View Independent Study,6401 Lincoln Avenue B Riverside CA 92506-4413,,,,not tested,Riverside,Riverside County,33.94065,-117.378956,
+Jurupa Unified,Sunnyslope Elementary,7050 38th Street Jurupa Valley CA 92509-1334,,,,not tested,Riverside,Riverside County,34.015474,-117.438902,
+Riverside Unified,Sunshine Special Education,9390 California Avenue Riverside CA 92503-3217,6.5,ppb,True,tested,Riverside,Riverside County,33.927782,-117.44939099999999,6.5
+Riverside Unified,Tomas Rivera Elementary,20440 Red Poppy Lane Riverside CA 92508-3256,,,False,tested,Riverside,Riverside County,33.888092,-117.30488400000002,
+Alvord Unified,Twinhill Elementary,11000 Campbell Avenue Riverside CA 92505-2499,,,False,tested,Riverside,Riverside County,33.932911,-117.493799,
+Riverside Unified,University Heights Middle,1155 Massachusetts Avenue Riverside CA 92507-2897,,,False,tested,Riverside,Riverside County,33.986738,-117.33623999999999,
+Alvord Unified,Valley View Elementary,11750 Gramercy Place Riverside CA 92505-3128,,,False,tested,Riverside,Riverside County,33.921803999999995,-117.505872,
+Riverside Unified,Victoria Elementary,2910 Arlington Avenue Riverside CA 92506-4449,,,False,tested,Riverside,Riverside County,33.946345,-117.375123,
+Riverside Unified,Washington Elementary,2760 Jane Street Riverside CA 92506-4301,,,False,tested,Riverside,Riverside County,33.935047999999995,-117.382608,
+Alvord Unified,Wells Middle,10000 Wells Avenue Riverside CA 92503-2373,,,False,tested,Riverside,Riverside County,33.932694,-117.469923,
+Riverside Unified,William Howard Taft Elementary,959 Mission Grove Parkway North Riverside CA 92506-6226,,,False,tested,Riverside,Riverside County,33.924985,-117.324273,
+Riverside Unified,Woodcrest Elementary,16940 Krameria Avenue Riverside CA 92504-6119,,,False,tested,Riverside,Riverside County,33.879968,-117.36709099999999,

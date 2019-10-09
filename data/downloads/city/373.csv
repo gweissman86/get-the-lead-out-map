@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Corona-Norco Unified,Highland Elementary,2301 Alhambra Street Norco CA 92860-1109,36.55,ppb,TRUE,tested,Norco,Riverside County,33.940202,-117.565583
-Corona-Norco Unified,John F. Kennedy High,1951 Third Street Norco CA 92860-2643,NA,NA,FALSE,tested,Norco,Riverside County,33.917047,-117.564535
-Corona-Norco Unified,Norco Elementary,1700 Temescal Avenue Norco CA 92860-3038,NA,NA,FALSE,tested,Norco,Riverside County,33.90666,-117.549218
-Corona-Norco Unified,Norco High,2065 Temescal Avenue Norco CA 92860-2726,NA,NA,FALSE,tested,Norco,Riverside County,33.911832,-117.546691
-Corona-Norco Unified,Norco Intermediate,2711 Temescal Avenue Norco CA 92860-2392,13,ppb,TRUE,tested,Norco,Riverside County,33.921717,-117.543549
-Corona-Norco Unified,Riverview Elementary,4600 Pedley Avenue Norco CA 92860-1533,NA,NA,FALSE,tested,Norco,Riverside County,33.949138,-117.533487
-Corona-Norco Unified,Sierra Vista Elementary,3560 Corona Avenue Norco CA 92860-1407,9,ppb,TRUE,tested,Norco,Riverside County,33.933663,-117.546237
-Corona-Norco Unified,Victress Bower School for Exceptional Students,1250 West Parkridge Avenue Norco CA 92860-2864,NA,NA,FALSE,tested,Norco,Riverside County,33.900627,-117.570317
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Corona-Norco Unified,Highland Elementary,2301 Alhambra Street Norco CA 92860-1109,36.55,ppb,True,tested,Norco,Riverside County,33.940202,-117.565583,160.0
+Corona-Norco Unified,John F. Kennedy High,1951 Third Street Norco CA 92860-2643,,,False,tested,Norco,Riverside County,33.917047,-117.564535,
+Corona-Norco Unified,Norco Elementary,1700 Temescal Avenue Norco CA 92860-3038,,,False,tested,Norco,Riverside County,33.906659999999995,-117.549218,
+Corona-Norco Unified,Norco High,2065 Temescal Avenue Norco CA 92860-2726,,,False,tested,Norco,Riverside County,33.911832000000004,-117.546691,
+Corona-Norco Unified,Norco Intermediate,2711 Temescal Avenue Norco CA 92860-2392,13.0,ppb,True,tested,Norco,Riverside County,33.921717,-117.543549,13.0
+Corona-Norco Unified,Riverview Elementary,4600 Pedley Avenue Norco CA 92860-1533,,,False,tested,Norco,Riverside County,33.949138,-117.53348700000001,
+Corona-Norco Unified,Sierra Vista Elementary,3560 Corona Avenue Norco CA 92860-1407,9.0,ppb,True,tested,Norco,Riverside County,33.933663,-117.546237,9.0
+Corona-Norco Unified,Victress Bower School for Exceptional Students,1250 West Parkridge Avenue Norco CA 92860-2864,,,False,tested,Norco,Riverside County,33.900627,-117.57031699999999,

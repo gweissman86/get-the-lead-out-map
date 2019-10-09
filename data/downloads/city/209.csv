@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Colton Joint Unified,Grand Terrace Elementary,12066 Vivienda Avenue Grand Terrace CA 92313-5026,6.8,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.035358,-117.321013
-Colton Joint Unified,Grand Terrace High School at the Ray Abril Jr. Educational Complex,21810 Main Street Grand Terrace CA 92313-5810,NA,NA,FALSE,tested,Grand Terrace,San Bernardino County,34.021718,-117.328209
-Colton Joint Unified,Terrace Hills Middle,22579 DeBerry Street Grand Terrace CA 92313-5515,6.75,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.029686,-117.312056
-Colton Joint Unified,Terrace View Elementary,22731 Grand Terrace Road Grand Terrace CA 92313-4921,10.4,ppb,TRUE,tested,Grand Terrace,San Bernardino County,34.042728,-117.308629
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Gonzales Unified,Gonzales Evening High,650 Elko St Gonzales CA 93926,,,,not tested,Gonzales,Monterey County,36.511435,-121.44341599999998,
+Gonzales Unified,Gonzales High,501 Fifth Street Gonzales CA 93926,,,,not tested,Gonzales,Monterey County,36.511565999999995,-121.44152199999999,
+Gonzales Unified,La Gloria Elementary,220 Elko Street Gonzales CA 93926-0238,,,,not tested,Gonzales,Monterey County,36.50804,-121.43966699999999,
+Gonzales Unified,Somavia High,650 Elko Street Gonzales CA 93926,,,,not tested,Gonzales,Monterey County,36.511435,-121.44341599999998,

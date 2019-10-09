@@ -1,17 +1,17 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Luis Coastal Unified,Bellevue-Santa Fe Charter,1401 San Luis Bay Drive San Luis Obispo CA 93405-8003,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.192931,-120.714422
-San Luis Coastal Unified,Bishop's Peak Elementary,451 Jaycee Drive San Luis Obispo CA 93405-1245,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.297098,-120.685695
-Private,Cal Poly Child Development Center,1 Grand Ave. San Luis Obispo CA 93401,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.301146,-120.658826
-Private,Cal Poly Children’s Center,Cal Poly Children’s Center  San Luis Obispo CA 93405,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.298499,-120.659908
-Blochman Union Elementary,Family Partnership Charter School,1981 Vicente drive Building C San Luis Obispo CA 93405,8.3,ppb,TRUE,tested,San Luis Obispo,San Luis Obispo County,35.253951,-120.686169
-San Luis Coastal Unified,Hawthorne Elementary,2125 Story Street San Luis Obispo CA 93401-5232,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.270317,-120.658976
-San Luis Coastal Unified,Laguna Middle,11050 Los Osos Valley Road San Luis Obispo CA 93405-6200,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.263534,-120.696129
-San Luis Coastal Unified,Los Ranchos Elementary,5785 Los Ranchos Road San Luis Obispo CA 93401-8247,NA,NA,NA,not tested,San Luis Obispo,San Luis Obispo County,35.219605,-120.620754
-Private,Montessori Children's,4200 South Higuera Street San Luis Obispo CA 93401,11.7,ppb,TRUE,tested,San Luis Obispo,San Luis Obispo County,35.241926,-120.677101
-Private,Old Mission School,761 Broad Street San Luis Obispo CA 93401,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.282124,-120.666858
-San Luis Coastal Unified,Pacheco Elementary,261 Cuesta Drive San Luis Obispo CA 93405-1184,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.296247,-120.675066
-San Luis Coastal Unified,Pacific Beach High,11950 Los Osos Valley Road San Luis Obispo CA 93405-6861,7.1,ppb,TRUE,tested,San Luis Obispo,San Luis Obispo County,35.253582,-120.687442
-San Luis Coastal Unified,PEEP - de'Groot - Prepare,1500 Lizzie St. San Luis Obispo CA 93401-3062,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.279867,-120.649071
-San Luis Coastal Unified,Sinsheimer Elementary,2755 Augusta Street San Luis Obispo CA 93401-5307,7,ppb,TRUE,tested,San Luis Obispo,San Luis Obispo County,35.267967,-120.643521
-San Luis Coastal Unified,Smith (C. L.) Elementary,1375 Balboa Street San Luis Obispo CA 93405-4935,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.261367,-120.689547
-San Luis Coastal Unified,Teach Elementary,165 Grand Avenue San Luis Obispo CA 93405-1245,NA,NA,FALSE,tested,San Luis Obispo,San Luis Obispo County,35.295236,-120.653488
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Luis Coastal Unified,Bellevue-Santa Fe Charter,1401 San Luis Bay Drive San Luis Obispo CA 93405-8003,,,False,tested,San Luis Obispo,San Luis Obispo County,35.192931,-120.714422,
+San Luis Coastal Unified,Bishop's Peak Elementary,451 Jaycee Drive San Luis Obispo CA 93405-1245,,,False,tested,San Luis Obispo,San Luis Obispo County,35.297098,-120.685695,
+Private,Cal Poly Child Development Center,1 Grand Ave. San Luis Obispo CA 93401,,,False,tested,San Luis Obispo,San Luis Obispo County,35.301146,-120.658826,
+Private,Cal Poly Children’s Center,Cal Poly Children’s Center  San Luis Obispo CA 93405,,,False,tested,San Luis Obispo,San Luis Obispo County,35.298499,-120.659908,
+Blochman Union Elementary,Family Partnership Charter School,1981 Vicente drive Building C San Luis Obispo CA 93405,8.3,ppb,True,tested,San Luis Obispo,San Luis Obispo County,35.253951,-120.68616899999999,8.3
+San Luis Coastal Unified,Hawthorne Elementary,2125 Story Street San Luis Obispo CA 93401-5232,,,False,tested,San Luis Obispo,San Luis Obispo County,35.270317,-120.658976,
+San Luis Coastal Unified,Laguna Middle,11050 Los Osos Valley Road San Luis Obispo CA 93405-6200,,,False,tested,San Luis Obispo,San Luis Obispo County,35.263534,-120.696129,
+San Luis Coastal Unified,Los Ranchos Elementary,5785 Los Ranchos Road San Luis Obispo CA 93401-8247,,,,not tested,San Luis Obispo,San Luis Obispo County,35.219605,-120.620754,
+Private,Montessori Children's,4200 South Higuera Street San Luis Obispo CA 93401,11.7,ppb,True,tested,San Luis Obispo,San Luis Obispo County,35.241926,-120.67710100000001,11.7
+Private,Old Mission School,761 Broad Street San Luis Obispo CA 93401,,,False,tested,San Luis Obispo,San Luis Obispo County,35.282123999999996,-120.666858,
+San Luis Coastal Unified,Pacheco Elementary,261 Cuesta Drive San Luis Obispo CA 93405-1184,,,False,tested,San Luis Obispo,San Luis Obispo County,35.296246999999994,-120.67506599999999,
+San Luis Coastal Unified,Pacific Beach High,11950 Los Osos Valley Road San Luis Obispo CA 93405-6861,7.1,ppb,True,tested,San Luis Obispo,San Luis Obispo County,35.253582,-120.68744199999999,7.1
+San Luis Coastal Unified,PEEP - de'Groot - Prepare,1500 Lizzie St. San Luis Obispo CA 93401-3062,,,False,tested,San Luis Obispo,San Luis Obispo County,35.279866999999996,-120.64907099999999,
+San Luis Coastal Unified,Sinsheimer Elementary,2755 Augusta Street San Luis Obispo CA 93401-5307,7.0,ppb,True,tested,San Luis Obispo,San Luis Obispo County,35.267967,-120.64352099999999,7.0
+San Luis Coastal Unified,Smith (C. L.) Elementary,1375 Balboa Street San Luis Obispo CA 93405-4935,,,False,tested,San Luis Obispo,San Luis Obispo County,35.261367,-120.68954699999999,
+San Luis Coastal Unified,Teach Elementary,165 Grand Avenue San Luis Obispo CA 93405-1245,,,False,tested,San Luis Obispo,San Luis Obispo County,35.295235999999996,-120.653488,

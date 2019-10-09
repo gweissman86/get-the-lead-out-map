@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Bernardino County Superintendent of Schools,Child Development Preschool Center,2350 North E St. San Bernardino CA 92405,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.137573,-117.294385
-San Bernardino County Superintendent of Schools,Community Day School,24424 Monterrey Ave. San Bernardino CA 92410,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.10778,-117.270782
-San Bernardino County Superintendent of Schools,San Bernardino Nutrition Services,1257 Northpark Blvd. W San Bernardino CA 92407,NA,NA,FALSE,tested,San Bernardino,San Bernardino County,34.178366,-117.309217
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Bernardino County Superintendent of Schools,Child Development Preschool Center,2350 North E St. San Bernardino CA 92405,,,False,tested,San Bernardino,San Bernardino County,34.137572999999996,-117.294385,
+San Bernardino County Superintendent of Schools,Community Day School,24424 Monterrey Ave. San Bernardino CA 92410,,,False,tested,San Bernardino,San Bernardino County,34.10778,-117.27078200000001,
+San Bernardino County Superintendent of Schools,San Bernardino Nutrition Services,1257 Northpark Blvd. W San Bernardino CA 92407,,,False,tested,San Bernardino,San Bernardino County,34.178366,-117.30921699999999,

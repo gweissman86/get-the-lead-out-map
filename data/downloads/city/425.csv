@@ -1,14 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,Cedar Springs Waldorf School,6029 Gold Meadows Road Placerville CA 95667,NA,NA,FALSE,tested,Placerville,El Dorado County,38.692046,-120.863195
-Placerville Union Elementary,Edwin Markham Middle,2800 Moulton Drive Placerville CA 95667-4334,NA,NA,NA,not tested,Placerville,El Dorado County,38.734454,-120.816235
-El Dorado Union High,El Dorado High,561 Canal Street Placerville CA 95667-4312,NA,NA,FALSE,tested,Placerville,El Dorado County,38.732446,-120.813016
-El Dorado County Office of Education,El Dorado Office of Education,6767 Green Valley Rd Placerville CA 95667,NA,NA,FALSE,tested,Placerville,El Dorado County,38.725448,-120.840355
-Gold Oak Union Elementary,Gold Oak Elementary,3171 Pleasant Valley Road Placerville CA 95667-7836,NA,NA,FALSE,tested,Placerville,El Dorado County,38.694072,-120.717152
-Gold Trail Union Elementary,Gold Trail,889 Cold Springs Road Placerville CA 95667-9312,NA,NA,FALSE,tested,Placerville,El Dorado County,38.77472,-120.89203
-Mother Lode Union Elementary,Herbert C. Green Middle,3781 Forni Road Placerville CA 95667-6207,NA,NA,FALSE,tested,Placerville,El Dorado County,38.720711,-120.832134
-Mother Lode Union Elementary,Indian Creek Elementary,6701 Green Valley Road Placerville CA 95667-8984,NA,NA,FALSE,tested,Placerville,El Dorado County,38.725448,-120.840355
-Placerville Union Elementary,Louisiana Schnell Elementary,2871 Schnell School Road Placerville CA 95667-4935,NA,NA,NA,not tested,Placerville,El Dorado County,38.737457,-120.779457
-Gold Oak Union Elementary,Pleasant Valley Middle,4120 Pleasant Valley Road Placerville CA 95667-7834,NA,NA,FALSE,tested,Placerville,El Dorado County,38.692417,-120.680119
-Private,Sierra Boys Ranch,4300 Forni Rd Placerville CA 95667,NA,NA,NA,not tested,Placerville,El Dorado County,38.720711,-120.832134
-Placerville Union Elementary,Sierra Elementary,1100 Thompson Way Placerville CA 95667-5726,NA,NA,NA,not tested,Placerville,El Dorado County,38.727918,-120.79413
-Gold Trail Union Elementary,Sutters Mill,4801 Luneman Road Placerville CA 95667-8750,NA,NA,FALSE,tested,Placerville,El Dorado County,38.769428,-120.926917
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Private,Cedar Springs Waldorf School,6029 Gold Meadows Road Placerville CA 95667,,,False,tested,Placerville,El Dorado County,38.692046000000005,-120.86319499999999,
+Placerville Union Elementary,Edwin Markham Middle,2800 Moulton Drive Placerville CA 95667-4334,,,,not tested,Placerville,El Dorado County,38.734454,-120.816235,
+El Dorado Union High,El Dorado High,561 Canal Street Placerville CA 95667-4312,,,False,tested,Placerville,El Dorado County,38.732446,-120.81301599999999,
+El Dorado County Office of Education,El Dorado Office of Education,6767 Green Valley Rd Placerville CA 95667,,,False,tested,Placerville,El Dorado County,38.725448,-120.840355,
+Gold Oak Union Elementary,Gold Oak Elementary,3171 Pleasant Valley Road Placerville CA 95667-7836,,,False,tested,Placerville,El Dorado County,38.694072,-120.717152,
+Gold Trail Union Elementary,Gold Trail,889 Cold Springs Road Placerville CA 95667-9312,,,False,tested,Placerville,El Dorado County,38.77472,-120.89203,
+Mother Lode Union Elementary,Herbert C. Green Middle,3781 Forni Road Placerville CA 95667-6207,,,False,tested,Placerville,El Dorado County,38.720711,-120.83213400000001,
+Mother Lode Union Elementary,Indian Creek Elementary,6701 Green Valley Road Placerville CA 95667-8984,,,False,tested,Placerville,El Dorado County,38.725448,-120.840355,
+Placerville Union Elementary,Louisiana Schnell Elementary,2871 Schnell School Road Placerville CA 95667-4935,,,,not tested,Placerville,El Dorado County,38.737457,-120.77945700000001,
+Gold Oak Union Elementary,Pleasant Valley Middle,4120 Pleasant Valley Road Placerville CA 95667-7834,,,False,tested,Placerville,El Dorado County,38.692417,-120.68011899999999,
+Private,Sierra Boys Ranch,4300 Forni Rd Placerville CA 95667,,,,not tested,Placerville,El Dorado County,38.720711,-120.83213400000001,
+Placerville Union Elementary,Sierra Elementary,1100 Thompson Way Placerville CA 95667-5726,,,,not tested,Placerville,El Dorado County,38.727918,-120.79413000000001,
+Gold Trail Union Elementary,Sutters Mill,4801 Luneman Road Placerville CA 95667-8750,,,False,tested,Placerville,El Dorado County,38.769428000000005,-120.92691699999999,

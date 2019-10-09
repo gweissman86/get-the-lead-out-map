@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Springville Union Elementary,Springville Union Elementary,35424 Ward Avenue Springville CA 93265-0349,6.85,ppb,TRUE,tested,NA,Tulare County,36.130025,-118.822537
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Springville Union Elementary,Springville Union Elementary,35424 Ward Avenue Springville CA 93265-0349,6.85,ppb,True,tested,,Tulare County,36.130025,-118.82253700000001,7.3

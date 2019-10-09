@@ -1,15 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ravenswood City Elementary,Aspire East Palo Alto Charter,1286 Runnymede Street East Palo Alto CA 94303-1332,5.2,ppb,TRUE,tested,East Palo Alto,San Mateo County,37.468619,-122.128093
-Ravenswood City Elementary,Aspire East Palo Alto Phoenix Academy,1039 Garden St. East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.467025,-122.131837
-Ravenswood City Elementary,Brentwood Academy,2086 Clarke Street East Palo Alto CA 94303-1916,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.462225,-122.133905
-Ravenswood City School,Brentwood Academy,"2086 Clarke Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.462197,-122.13457
-Ravenswood City Elementary,Costano Elementary,2695 Fordham Street East Palo Alto CA 94303-1207,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.478019,-122.139117
-Ravenswood City School,Costanzo School/49ers Academy,"2695 Fordham St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.478019,-122.139117
-Sequoia Union High,East Palo Alto Academy,1050 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.463249,-122.131905
-Private,Eastside College Preparatory School,1041 Myrtle Street East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.463584,-122.132157
-Ravenswood City School,Los Robles Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.462073,-122.130215
-Ravenswood City Elementary,Los Robles Magnet Academy,2450 Ralmar St. C East Palo Alto CA 94303-1040,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.472653,-122.145669
-Ravenswood City School,McNair Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.462073,-122.130215
-Ravenswood City Elementary,Ravenswood Child Development Center,951 O'Connor Street East Palo Alto CA 94303-2022,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.460409,-122.143987
-Ravenswood City Elementary,Ronald McNair Academy,2033 Pulgas Avenue East Palo Alto CA 94303-2025,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.462073,-122.130215
-Ravenswood City School,The Primary School,"951 O' Connor St, East Palo Alto, CA 94303",NA,NA,NA,exempt,East Palo Alto,San Mateo County,37.460829,-122.133501
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+LAUSD,4TH STREET EARLY EDUCATION CENTER (Same Campus as 4th Street Elementary),"420 S AMALIA AVE, LOS ANGELES, CA 90022",,,,exempt,East Los Angeles,Los Angeles County,34.028683,-118.153319,
+LAUSD,4TH STREET ELEMENTARY,"420 S AMALIA AVE, LOS ANGELES, CA 90022",,,,exempt,East Los Angeles,Los Angeles County,34.028683,-118.153319,
+Los Angeles Unified,Brooklyn Avenue Elementary,4620 Cesar Chavez Avenue Los Angeles CA 90022-1148,,,,not tested,East Los Angeles,Los Angeles County,34.039709,-118.164207,
+Los Angeles Unified,David Wark Griffith Middle,4765 East Fourth Street Los Angeles CA 90022-1846,,,,not tested,East Los Angeles,Los Angeles County,34.031283,-118.16205,
+Los Angeles Unified,Ford Boulevard Elementary,1112 South Ford Boulevard Los Angeles CA 90022-2912,9.6,ppb,True,tested,East Los Angeles,Los Angeles County,34.020241,-118.17142,9.6
+Los Angeles Unified,Fourth Street Elementary,420 South Amalia Avenue Los Angeles CA 90022-2628,,,,not tested,East Los Angeles,Los Angeles County,34.028683,-118.153319,
+LAUSD,HAMASAKI ELEMENTARY,"4865 E FIRST ST, LOS ANGELES, CA 90022",,,,exempt,East Los Angeles,Los Angeles County,34.037356,-118.16018400000002,
+Los Angeles Unified,Hamaski State Preschool,4865 E. First St. Los Angeles CA 90022,,,,not tested,East Los Angeles,Los Angeles County,34.037356,-118.16018400000002,
+Montebello Unified,Joseph A. Gascon Elementary,630 South Leonard Street Los Angeles CA 90022-3508,,,,not tested,East Los Angeles,Los Angeles County,34.020533,-118.14192299999999,
+Los Angeles Unified,KIPP Academy of Innovation,4800 East Cesar Chavez Avenue B Los Angeles CA 90022-1307,,,,not tested,East Los Angeles,Los Angeles County,34.040253,-118.16141,
+Los Angeles Unified,KIPP Iluminar Academy,4800 East Cesar Chavez Avenue Los Angeles CA 90022-1307,,,,not tested,East Los Angeles,Los Angeles County,34.040253,-118.16141,
+Los Angeles Unified,KIPP Sol Academy,4800 East Cesar Chavez Ave. Los Angeles CA 90022-1307,,,,not tested,East Los Angeles,Los Angeles County,34.040253,-118.16141,
+Los Angeles Unified,Morris K. Hamasaki Elementary,4865 East First Street Los Angeles CA 90022-1305,,,,not tested,East Los Angeles,Los Angeles County,34.037356,-118.16018400000002,

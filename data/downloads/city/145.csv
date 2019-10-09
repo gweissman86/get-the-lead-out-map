@@ -1,11 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Palm Springs Unified,Bella Vista Elementary,65750 Avenida Jalisco Desert Hot Springs CA 92240-1674,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.981446,-116.512132
-Palm Springs Unified,Bubbling Wells Elementary,67501 Camino Campanero Desert Hot Springs CA 92240-6869,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.939466,-116.490941
-Palm Springs Unified,Cabot Yerxa Elementary,67067 Desert View Desert Hot Springs CA 92240-4103,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.957195,-116.491406
-Palm Springs Unified,Desert Hot Springs High,65850 Pierson Boulevard Desert Hot Springs CA 92240-3000,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.964513,-116.517586
-Palm Springs Unified,Desert Springs Middle,66 755 Two Bunch Palms Trail Desert Hot Springs CA 92240-5775,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.945008,-116.496948
-Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr.  Desert Hot Springs CA 92240,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.96396,-116.510336
-Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr. Desert Hot Springs CA 92240,NA,NA,NA,not tested,Desert Hot Springs,Riverside County,33.963585,-116.510251
-Palm Springs Unified,Julius Corsini Elementary,68750 Hacienda Drive Desert Hot Springs CA 92240-6551,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.950192,-116.460684
-Palm Springs Unified,Painted Hills Middle,9250 Sonora Drive Desert Hot Springs CA 92240-1585,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.982803,-116.521439
-Palm Springs Unified,Two Bunch Palms Elementary,14250 West Drive Desert Hot Springs CA 92240-5655,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.945459,-116.510049
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Denair Unified,Denair Charter Academy,3460 Lester Road Denair CA 95316-9502,,,False,tested,Denair,Stanislaus County,37.523601,-120.80555700000001,
+Denair Unified,Denair Elementary Charter Academy,3773 Madera Ave. Denair CA 95316-9428,5.47,ppb,True,tested,Denair,Stanislaus County,37.526589,-120.800495,5.47
+Denair Unified,Denair High,3431 Lester Road Denair CA 95316-9502,,,False,tested,Denair,Stanislaus County,37.524403,-120.803725,
+Denair Unified,Denair Middle,3701 Lester Road Denair CA 95316,5.35,ppb,True,tested,Denair,Stanislaus County,37.525655,-120.804382,5.35
+Private,Reyn Franca,4041 Main Street Denair CA 95316,,,False,tested,Denair,Stanislaus County,37.522813,-120.802319,

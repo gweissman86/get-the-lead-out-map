@@ -1,26 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Murrieta Valley Unified,Alta Murrieta Elementary,39475 Whitewood Road Murrieta CA 92563-6512,11,ppb,TRUE,tested,Murrieta,Riverside County,33.568703,-117.167169
-Murrieta Valley Unified,Antelope Hills Elementary,36105 Murrieta Oaks Avenue Murrieta CA 92562-2311,NA,NA,FALSE,tested,Murrieta,Riverside County,33.591811,-117.181984
-Murrieta Valley Unified,Avaxat Elementary,24300 Rancho Las Brisas Drive Murrieta CA 92562,NA,NA,FALSE,tested,Murrieta,Riverside County,33.568589,-117.185439
-Murrieta Valley Unified,Cole Canyon Elementary,23750 Via Alisol Murrietta CA 92562-5092,NA,NA,FALSE,tested,Murrieta,Riverside County,33.57443,-117.245685
-Murrieta Valley Unified,Daniel N. Buchanan Elementary,40121 Torrey Pines Road Murrieta CA 92563-6384,NA,NA,FALSE,tested,Murrieta,Riverside County,33.544991,-117.161978
-Murrieta Valley Unified,Dorothy McElhinney Middle,35185 Briggs Rd. Murrieta CA 92563-2346,NA,NA,FALSE,tested,Murrieta,Riverside County,33.62648,-117.136837
-Murrieta Valley Unified,E. Hale Curran Elementary,40855 Chaco Canyon Road Murrieta CA 92562-1903,9.3,ppb,TRUE,tested,Murrieta,Riverside County,33.577492,-117.216586
-Murrieta Valley Unified,Lisa J. Mails Elementary,35185 Briggs Road Murrieta CA 92563-2346,NA,NA,FALSE,tested,Murrieta,Riverside County,33.62648,-117.136837
-Murrieta Valley Unified,Monte Vista Elementary,37420 Via Mira Mosa Murrieta CA 92563-2753,NA,NA,FALSE,tested,Murrieta,Riverside County,33.578593,-117.142445
-Murrieta Valley Unified,Murrieta Canyon Academy,24150 Hayes Ave Murrieta CA 92563-9461,NA,NA,FALSE,tested,Murrieta,Riverside County,33.558721,-117.231392
-Private,Murrieta Elementary School,24725 Adams Avenue Murrieta CA 92562-9172,NA,NA,FALSE,tested,Murrieta,Riverside County,33.556779,-117.213594
-Murrieta Valley Unified,Murrieta Mesa High,24801 Monroe Avenue Murrieta CA 92562-9018,NA,NA,FALSE,tested,Murrieta,Riverside County,33.565742,-117.200044
-Murrieta Valley Unified,Murrieta Valley Adult Education,24150 Hayes Avenue II Murrieta CA 92562,NA,NA,NA,not tested,Murrieta,Riverside County,33.560522,-117.231951
-Murrieta Valley Unified,Murrieta Valley High,42200 Nighthawk Way Murrieta CA 92562-6235,NA,NA,FALSE,tested,Murrieta,Riverside County,33.56464,-117.232084
-Temecula Valley Unified,Nicolas Valley Elementary,39600 North General Kearney Road Temecula CA 92591-7302,NA,NA,FALSE,tested,Murrieta,Riverside County,33.546389,-117.12539
-Private,Oak Grove Center / Jack Weaver,24275 Jefferson Avenue Murrieta CA 92562,NA,NA,FALSE,tested,Murrieta,Riverside County,33.567469,-117.217461
-Menifee Union Elementary,Oak Meadows Elementary,"28600 Poinsettia Street, Menifee 92563",NA,NA,NA,exempt,Murrieta,Riverside County,33.628801,-117.16206
-Menifee Union Elementary,Oak Meadows Elementary,28600 Poinsettia Street Murrieta CA 92563-7429,NA,NA,NA,not tested,Murrieta,Riverside County,33.629643,-117.164619
-Murrieta Valley Unified,Rail Ranch Elementary,25030 Via Santee Road Murrieta CA 92563-5020,NA,NA,FALSE,tested,Murrieta,Riverside County,33.578052,-117.173708
-Murrieta Valley Unified,Shivela Middle,24515 Lincoln Avenue Murrieta CA 92562-5807,NA,NA,FALSE,tested,Murrieta,Riverside County,33.571618,-117.197748
-Lake Elsinore Unified,Sycamore Academy of Science and Cultural Arts,23151 Palomar Street Wildomar CA 92595-7317,NA,NA,NA,not tested,Murrieta,Riverside County,33.587508,-117.249564
-Murrieta Valley Unified,Thompson Middle,24040 Hayes Avenue Murrietta CA 92562-9198,NA,NA,FALSE,tested,Murrieta,Riverside County,33.562349,-117.233573
-Murrieta Valley Unified,Tovashal Elementary,23801 Via Santee Murrieta CA 92563,NA,NA,FALSE,tested,Murrieta,Riverside County,33.578233,-117.174091
-Murrieta Valley Unified,Vista Murrieta High,28251 Clinton Keith Road Murrieta CA 92563-2465,NA,NA,FALSE,tested,Murrieta,Riverside County,33.598714,-117.17792
-Murrieta Valley Unified,Warm Springs Middle,39245 Calle de Fortuna Murrieta CA 92563-8002,NA,NA,FALSE,tested,Murrieta,Riverside County,33.553367,-117.149589
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Vallecito Union,Albert A. Michelson Elementary,196 Pennsylvania Gulch Road Murphys CA 95247-9521,,,False,tested,Murphys,Calaveras County,38.133455,-120.45452900000001,

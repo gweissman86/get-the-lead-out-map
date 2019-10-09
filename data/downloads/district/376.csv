@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lake County ROP,Lake County ROP,1152 South Main Street Lakeport CA 95453-5517,NA,NA,NA,not tested,Lakeport,Lake County,39.034505,-122.915594
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lake County ROP,Lake County ROP,1152 South Main Street Lakeport CA 95453-5517,,,,not tested,Lakeport,Lake County,39.034504999999996,-122.915594,

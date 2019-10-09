@@ -1,31 +1,31 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sunnyvale,Bishop Elementary,450 North Sunnyvale Avenue Sunnyvale CA 94085-4320,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.386636,-122.025308
-Santa Clara Unified,Braly Elementary,675 Gail Avenue Sunnyvale CA 94086-8016,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.366269,-122.017373
-Private,Challenger - Sunnyvale,1185 Hollenbeck Avenue Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.355298,-122.042282
-Sunnyvale,Cherry Chase Elementary,1138 Heatherstone Way Sunnyvale CA 94087-1620,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.366974,-122.057059
-Cupertino Union,Chester W. Nimitz Elementary,545 East Cheyenne Drive Sunnyvale CA 94087-4421,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.346722,-122.033503
-Sunnyvale,Columbia Middle,739 Morse Avenue Sunnyvale CA 94085-3010,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.393898,-122.018419
-Fremont Union High,Community Day,589 West Fremont Ave Sunnyvale CA 94087-2556,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.352764,-122.037499
-Sunnyvale,Cumberland Elementary,824 Cumberland Avenue Sunnyvale CA 94087-1221,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.367276,-122.043012
-Cupertino Union,Delor Montessori School,1510 Lewiston Dr. Sunnyvale  CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.343354,-122.044554
-Cupertino Union,Early Horizons Preschool,1510 Lewiston Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.343354,-122.044554
-Sunnyvale,Ellis Elementary,550 East Olive Avenue Sunnyvale CA 94086-6345,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.369791,-122.023721
-Sunnyvale,Fairwood Elementary,1110 Fairwood Avenue Sunnyvale CA 94089-2311,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.396163,-121.991397
-Fremont Union High,Fremont High,1279 Sunnyvale-Saratoga Road Sunnyvale CA 94087-2535,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.352607,-122.032505
-Private,French American School of Silicon Valley,1522 Lewiston Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.343213,-122.044989
-Private,KinderCare,794 East Duane Avenue Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.388128,-122.011721
-Sunnyvale,Lakewood Elementary,750 Lakechime Drive Sunnyvale CA 94089-2539,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.398248,-122.004363
-Cupertino Union,Louis E. Stocklmeir Elementary,592 Dunholme Way Sunnyvale CA 94087-3300,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.344922,-122.027
-Santa Clara Unified,Marian A. Peterson Middle,1380 Rosalia Avenue Sunnyvale CA 94087-3763,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.348389,-122.007671
-Santa Clara Unified,Patrick Henry Intermediate,1095 Dunford Way Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.346985,-122.003877
-Santa Clara Unified,Ponderosa Elementary,804 Ponderosa Avenue Sunnyvale CA 94086-8612,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.362969,-122.009754
-Private,Rainbow Montessori Child Development Center,790 E Duane Avenue Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.388011,-122.010272
-Sunnyvale,San Miguel Elementary,777 San Miguel Avenue Sunnyvale CA 94085-3411,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.391364,-122.009173
-Santa Clara County Office of Education,Spark Charter,739 Morse Avenue Sunnyvale CA 94088-3010,NA,NA,NA,not tested,Sunnyvale,Santa Clara County,37.393898,-122.018419
-Private,Stratford School,820 West McKinley Avenue Sunnyvale CA 94086,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.376239,-122.03956
-Private,Stratford School,1196 Lime Drive Sunnyvale CA 94087,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.355687,-122.054467
-Santa Clara County Office of Education,Summit Denali High School,195 Leota Ave Sunnyvale CA 94085-4707,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.380061,-122.049782
-Santa Clara County Office of Education,Summit Denali Middle School,539 E Weddell Drive Sunnyvale CA 94085-4707,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.397079,-122.015087
-Sunnyvale,Sunnyvale Middle,1080 Mango Avenue Sunnyvale CA 94087-1728,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.36011,-122.054196
-Private,The Kings Academy,562 North Britton Ave.  Sunnyvale CA 94085,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.386652,-122.013067
-Sunnyvale,Vargas Elementary,1054 Carson Drive Sunnyvale CA 94086-5806,NA,NA,FALSE,tested,Sunnyvale,Santa Clara County,37.381443,-122.047544
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Sunnyvale,Bishop Elementary,450 North Sunnyvale Avenue Sunnyvale CA 94085-4320,,,False,tested,Sunnyvale,Santa Clara County,37.386635999999996,-122.02530800000001,
+Santa Clara Unified,Braly Elementary,675 Gail Avenue Sunnyvale CA 94086-8016,,,False,tested,Sunnyvale,Santa Clara County,37.366269,-122.01737299999999,
+Private,Challenger - Sunnyvale,1185 Hollenbeck Avenue Sunnyvale CA 94087,,,False,tested,Sunnyvale,Santa Clara County,37.355298,-122.042282,
+Sunnyvale,Cherry Chase Elementary,1138 Heatherstone Way Sunnyvale CA 94087-1620,,,False,tested,Sunnyvale,Santa Clara County,37.366974,-122.05705900000001,
+Cupertino Union,Chester W. Nimitz Elementary,545 East Cheyenne Drive Sunnyvale CA 94087-4421,,,False,tested,Sunnyvale,Santa Clara County,37.346722,-122.033503,
+Sunnyvale,Columbia Middle,739 Morse Avenue Sunnyvale CA 94085-3010,,,False,tested,Sunnyvale,Santa Clara County,37.393898,-122.018419,
+Fremont Union High,Community Day,589 West Fremont Ave Sunnyvale CA 94087-2556,,,False,tested,Sunnyvale,Santa Clara County,37.352764,-122.037499,
+Sunnyvale,Cumberland Elementary,824 Cumberland Avenue Sunnyvale CA 94087-1221,,,False,tested,Sunnyvale,Santa Clara County,37.367276000000004,-122.043012,
+Cupertino Union,Delor Montessori School,1510 Lewiston Dr. Sunnyvale  CA 94087,,,False,tested,Sunnyvale,Santa Clara County,37.343354,-122.044554,
+Cupertino Union,Early Horizons Preschool,1510 Lewiston Drive Sunnyvale CA 94087,,,False,tested,Sunnyvale,Santa Clara County,37.343354,-122.044554,
+Sunnyvale,Ellis Elementary,550 East Olive Avenue Sunnyvale CA 94086-6345,,,False,tested,Sunnyvale,Santa Clara County,37.369791,-122.023721,
+Sunnyvale,Fairwood Elementary,1110 Fairwood Avenue Sunnyvale CA 94089-2311,,,False,tested,Sunnyvale,Santa Clara County,37.396163,-121.99139699999999,
+Fremont Union High,Fremont High,1279 Sunnyvale-Saratoga Road Sunnyvale CA 94087-2535,,,False,tested,Sunnyvale,Santa Clara County,37.352607,-122.032505,
+Private,French American School of Silicon Valley,1522 Lewiston Drive Sunnyvale CA 94087,,,False,tested,Sunnyvale,Santa Clara County,37.343213,-122.04498899999999,
+Private,KinderCare,794 East Duane Avenue Sunnyvale CA 94085,,,False,tested,Sunnyvale,Santa Clara County,37.388128,-122.011721,
+Sunnyvale,Lakewood Elementary,750 Lakechime Drive Sunnyvale CA 94089-2539,,,False,tested,Sunnyvale,Santa Clara County,37.398247999999995,-122.00436299999998,
+Cupertino Union,Louis E. Stocklmeir Elementary,592 Dunholme Way Sunnyvale CA 94087-3300,,,False,tested,Sunnyvale,Santa Clara County,37.344922,-122.027,
+Santa Clara Unified,Marian A. Peterson Middle,1380 Rosalia Avenue Sunnyvale CA 94087-3763,,,False,tested,Sunnyvale,Santa Clara County,37.348389000000005,-122.007671,
+Santa Clara Unified,Patrick Henry Intermediate,1095 Dunford Way Sunnyvale CA 94087,,,False,tested,Sunnyvale,Santa Clara County,37.346985,-122.003877,
+Santa Clara Unified,Ponderosa Elementary,804 Ponderosa Avenue Sunnyvale CA 94086-8612,,,False,tested,Sunnyvale,Santa Clara County,37.362969,-122.009754,
+Private,Rainbow Montessori Child Development Center,790 E Duane Avenue Sunnyvale CA 94085,,,False,tested,Sunnyvale,Santa Clara County,37.388011,-122.010272,
+Sunnyvale,San Miguel Elementary,777 San Miguel Avenue Sunnyvale CA 94085-3411,,,False,tested,Sunnyvale,Santa Clara County,37.391364,-122.009173,
+Santa Clara County Office of Education,Spark Charter,739 Morse Avenue Sunnyvale CA 94088-3010,,,,not tested,Sunnyvale,Santa Clara County,37.393898,-122.018419,
+Private,Stratford School,820 West McKinley Avenue Sunnyvale CA 94086,,,False,tested,Sunnyvale,Santa Clara County,37.376239,-122.03956000000001,
+Private,Stratford School,1196 Lime Drive Sunnyvale CA 94087,,,False,tested,Sunnyvale,Santa Clara County,37.355686999999996,-122.05446699999999,
+Santa Clara County Office of Education,Summit Denali High School,195 Leota Ave Sunnyvale CA 94085-4707,,,False,tested,Sunnyvale,Santa Clara County,37.380061,-122.04978200000001,
+Santa Clara County Office of Education,Summit Denali Middle School,539 E Weddell Drive Sunnyvale CA 94085-4707,,,False,tested,Sunnyvale,Santa Clara County,37.397079,-122.01508700000001,
+Sunnyvale,Sunnyvale Middle,1080 Mango Avenue Sunnyvale CA 94087-1728,,,False,tested,Sunnyvale,Santa Clara County,37.36011,-122.05419599999999,
+Private,The Kings Academy,562 North Britton Ave.  Sunnyvale CA 94085,,,False,tested,Sunnyvale,Santa Clara County,37.386652000000005,-122.01306699999999,
+Sunnyvale,Vargas Elementary,1054 Carson Drive Sunnyvale CA 94086-5806,,,False,tested,Sunnyvale,Santa Clara County,37.381443,-122.04754399999999,

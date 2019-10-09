@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Castaic Union,Castaic Middle,28900 Hillcrest Parkway Castaic CA 91384-3759,NA,NA,FALSE,tested,Castaic,Los Angeles County,34.470745,-118.640074
-Castaic Union,Live Oak Elementary,27715 Saddleridge Road Castaic CA 91384-3528,NA,NA,FALSE,tested,Castaic,Los Angeles County,34.45063,-118.620158
-William S. Hart Union High,Santa Clarita Valley International,28060 Hasley Canyon Road Suite 200 Castaic CA 91384-4577,NA,NA,FALSE,tested,Castaic,Los Angeles County,34.450479,-118.624612
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Caruthers Unified,Caruthers Elementary,13699 South Quince Quince Avenue and Tiller Avenue Caruthers CA 93609,,,False,tested,Caruthers,Fresno County,36.537683,-119.832338,
+Caruthers Unified,Caruthers High,2580 West Tahoe Avenue Caruthers CA 93609-0545,,,False,tested,Caruthers,Fresno County,36.539265,-119.838424,
+Caruthers Unified,MARC High,2580 West Tahoe Ave Caruthers CA 93609-0545,,,False,tested,Caruthers,Fresno County,36.539265,-119.838424,

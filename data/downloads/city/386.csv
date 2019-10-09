@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Marysville Joint Unified,Arboga Elementary,1686 Broadway Olivehurst CA 95961-4230,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.05026,-121.55631
-Marysville Joint Unified,Cedar Lane Elementary,841 Cedar Lane Olivehurst CA 95961-4230,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.123448,-121.584715
-Marysville Joint Unified,Lindhurst High,4446 Olive Drive Olivehurst CA 95961-4738,9.9,ppb,TRUE,tested,Olivehurst,Yuba County,39.083625,-121.535402
-Marysville Joint Unified,South Lindhurst Continuation High,4446 Olive Dr. Olivehurst CA 95961-4738,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.083625,-121.535402
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Marysville Joint Unified,Arboga Elementary,1686 Broadway Olivehurst CA 95961-4230,,,False,tested,Olivehurst,Yuba County,39.050259999999994,-121.55631000000001,
+Marysville Joint Unified,Cedar Lane Elementary,841 Cedar Lane Olivehurst CA 95961-4230,,,False,tested,Olivehurst,Yuba County,39.123447999999996,-121.58471499999999,
+Marysville Joint Unified,Lindhurst High,4446 Olive Drive Olivehurst CA 95961-4738,9.9,ppb,True,tested,Olivehurst,Yuba County,39.083625,-121.535402,10.0
+Marysville Joint Unified,South Lindhurst Continuation High,4446 Olive Dr. Olivehurst CA 95961-4738,,,False,tested,Olivehurst,Yuba County,39.083625,-121.535402,

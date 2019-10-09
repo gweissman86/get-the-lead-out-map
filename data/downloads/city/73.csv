@@ -1,9 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Las Virgenes Unified,Alice C. Stelle Middle,22450 Mulholland Highway Calabasas CA 91302-5180,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.142834,-118.614205
-Las Virgenes Unified,Arthur E. Wright Middle,4029 North Las Virgenes Road Calabasas CA 91302-1927,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.13245,-118.703424
-Las Virgenes Unified,Bay Laurel Elementary,24740 Paseo Primario Calabasas CA 91302-3071,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.139378,-118.65183
-Las Virgenes Unified,Calabasas High,22855 West Mulholland Highway Calabasas CA 91302-2047,NA,NA,FALSE,tested,Calabasas,Los Angeles County,34.139024,-118.626608
-Los Angeles County Office of Education,"Gonzales, David Camp",1301 North Las Virgenes Road Calabasas CA 91302,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.147006,-118.697754
-Las Virgenes Unified,Las Virgenes Adult,4111 North Las Virgenes Road Calabasas CA 91302-1929,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.133628,-118.703155
-Las Virgenes Unified,Lupin Hill Elementary,26210 Adamor Road Calabasas CA 91302-1006,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.161613,-118.698556
-Las Virgenes Unified,Round Meadow Elementary,5151 Round Meadow Road Calabasas CA 91302-1161,NA,NA,FALSE,tested,Calabasas,Los Angeles County,34.154042,-118.665763
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Buttonwillow Union Elementary,Buttonwillow Elementary,42600 Highway 58 Buttonwillow CA 93206-9726,,,,not tested,Buttonwillow,Kern County,35.400192,-119.476526,

@@ -1,30 +1,30 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Whittier City Elementary,Abraham Lincoln Elementary School,12620 Broadway Whittier CA 90601,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.986259,-118.041763
-Los Nietos,Ada S. Nelson Elementary,8140 South Vicki Drive Whittier CA 90606-3040,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.969719,-118.07501
-Whittier Union High,California High,9800 South Mills Avenue Whittier CA 90604-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.943816,-118.024271
-Whittier City Elementary,Daniel Phelan Elementary,7150 South Cully Avenue Whittier CA 90606-1718,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.980196,-118.071059
-East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.963292,-118.041671
-Whittier Union High,Frontier High (Continuation),9401 South Painter Avenue Whittier CA 90605-2729,10,ppb,TRUE,tested,Whittier,Los Angeles County,33.952323,-118.043887
-Lowell Joint,Jordan Elementary,10654 Jordan Road Whittier CA 90603-2931,5.9,ppb,TRUE,tested,Whittier,Los Angeles County,33.93795,-117.979864
-Whittier Union High,La Serna High,15301 East Youngwood Drive Whittier CA 90605-1345,9.9,ppb,TRUE,tested,Whittier,Los Angeles County,33.954667,-117.999174
-East Whittier City Elementary,Laurel Elementary,13550 Lambert Road Whittier CA 90605-2423,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.956389,-118.035477
-East Whittier City Elementary,Leffingwell Elementary,10625 South Santa Gertrudes Whittier CA 90603-2441,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.93863,-117.994745
-South Whittier Elementary,Loma Vista Elementary,13463 East Meyer Road Whittier CA 90605-3943,NA,NA,NA,not tested,Whittier,Los Angeles County,33.925111,-118.043626
-Whittier City Elementary,Longfellow Elementary,6005 South Magnolia Avenue Whittier CA 90601-3260,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.987771,-118.051426
-Los Nietos,Los Nietos Middle,11425 East Rivera Road Los Nietos CA 90606-3245,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.964332,-118.074539
-Whittier City Elementary,Lou Henry Hoover Elementary,6302 South Alta Avenue Whittier CA 90601-4601,6.2,ppb,TRUE,tested,Whittier,Los Angeles County,33.98461,-118.029694
-Whittier City Elementary,Lydia Jackson Elementary,8015 South Painter Avenue Whittier CA 90602-2506,8.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.96767,-118.033292
-Whittier City Elementary,Mill Elementary,4030 South Workman Mill Road Whittier CA 90601-1795,NA,NA,FALSE,tested,Whittier,Los Angeles County,34.002137,-118.056256
-East Whittier City Elementary,Mulberry Elementary,14029 East Mulberry Drive Whittier CA 90605-3169,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.94541,-118.029478
-East Whittier City Elementary,Murphy Ranch Elementary,16021 Janine Drive Whittier CA 90603-1527,NA,NA,NA,not tested,Whittier,Los Angeles County,33.94657,-117.987814
-East Whittier City Elementary,Ocean View Elementary,14359 East Second Street Whittier CA 90605-1115,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.960326,-118.017906
-Whittier City Elementary,Orange Grove Elementary,10626 East Orange Grove Avenue Whittier CA 90601-2145,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.99683,-118.060483
-East Whittier City Elementary,Orchard Dale Elementary,10625 South Cole Road Whittier CA 90604-1539,8.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.936347,-118.007514
-Whittier Union High,Pioneer High,10800 Ben Avon Whittier CA 90606-3010,NA,NA,NA,not tested,Whittier,Los Angeles County,33.970026,-118.078666
-Tri-Cities ROP,Tri-Cities ROP,10800 Benavon Street Unit E Whittier CA 90606-3013,NA,NA,NA,not tested,Whittier,Los Angeles County,33.970026,-118.078666
-Whittier City Elementary,Wallen L. Andrews Elementary,1010 South Caraway Drive Whittier CA 90601-1121,NA,NA,FALSE,tested,Whittier,Los Angeles County,34.038382,-118.009185
-Whittier City Elementary,Walter F. Dexter Middle,11532 East Floral Drive Whittier CA 90601-2832,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.991698,-118.054418
-Whittier City Elementary,West Whittier Elementary,6411 South Norwalk Boulevard Whittier CA 90606-1598,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.986249,-118.067536
-Whittier City Elementary,Whittier Area Community Day,5777 Lockheed Avenue Whittier CA 90606-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.995211,-118.064719
-Whittier Union High,Whittier High,12417 East Philadelphia Street Whittier CA 90601-3933,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.979818,-118.044117
-Whittier City Elementary,Whittier Independent Study,5777 Lockheed Ave Whittier CA 90606-1030,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.995211,-118.064719
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Whittier City Elementary,Abraham Lincoln Elementary School,12620 Broadway Whittier CA 90601,,,False,tested,Whittier,Los Angeles County,33.986259000000004,-118.04176299999999,
+Los Nietos,Ada S. Nelson Elementary,8140 South Vicki Drive Whittier CA 90606-3040,,,False,tested,Whittier,Los Angeles County,33.969719,-118.07501,
+Whittier Union High,California High,9800 South Mills Avenue Whittier CA 90604-1030,,,False,tested,Whittier,Los Angeles County,33.943816,-118.024271,
+Whittier City Elementary,Daniel Phelan Elementary,7150 South Cully Avenue Whittier CA 90606-1718,,,False,tested,Whittier,Los Angeles County,33.980196,-118.071059,
+East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,True,tested,Whittier,Los Angeles County,33.963291999999996,-118.041671,12.0
+Whittier Union High,Frontier High (Continuation),9401 South Painter Avenue Whittier CA 90605-2729,10.0,ppb,True,tested,Whittier,Los Angeles County,33.952323,-118.04388700000001,10.0
+Lowell Joint,Jordan Elementary,10654 Jordan Road Whittier CA 90603-2931,5.9,ppb,True,tested,Whittier,Los Angeles County,33.93795,-117.97986399999999,5.9
+Whittier Union High,La Serna High,15301 East Youngwood Drive Whittier CA 90605-1345,9.9,ppb,True,tested,Whittier,Los Angeles County,33.954667,-117.999174,9.9
+East Whittier City Elementary,Laurel Elementary,13550 Lambert Road Whittier CA 90605-2423,,,False,tested,Whittier,Los Angeles County,33.956389,-118.035477,
+East Whittier City Elementary,Leffingwell Elementary,10625 South Santa Gertrudes Whittier CA 90603-2441,,,False,tested,Whittier,Los Angeles County,33.938629999999996,-117.994745,
+South Whittier Elementary,Loma Vista Elementary,13463 East Meyer Road Whittier CA 90605-3943,,,,not tested,Whittier,Los Angeles County,33.925111,-118.043626,
+Whittier City Elementary,Longfellow Elementary,6005 South Magnolia Avenue Whittier CA 90601-3260,,,False,tested,Whittier,Los Angeles County,33.987771,-118.051426,
+Los Nietos,Los Nietos Middle,11425 East Rivera Road Los Nietos CA 90606-3245,,,False,tested,Whittier,Los Angeles County,33.964332,-118.07453899999999,
+Whittier City Elementary,Lou Henry Hoover Elementary,6302 South Alta Avenue Whittier CA 90601-4601,6.2,ppb,True,tested,Whittier,Los Angeles County,33.984609999999996,-118.02969399999999,6.2
+Whittier City Elementary,Lydia Jackson Elementary,8015 South Painter Avenue Whittier CA 90602-2506,8.4,ppb,True,tested,Whittier,Los Angeles County,33.96767,-118.03329199999999,8.4
+Whittier City Elementary,Mill Elementary,4030 South Workman Mill Road Whittier CA 90601-1795,,,False,tested,Whittier,Los Angeles County,34.002137,-118.056256,
+East Whittier City Elementary,Mulberry Elementary,14029 East Mulberry Drive Whittier CA 90605-3169,,,False,tested,Whittier,Los Angeles County,33.945409999999995,-118.029478,
+East Whittier City Elementary,Murphy Ranch Elementary,16021 Janine Drive Whittier CA 90603-1527,,,,not tested,Whittier,Los Angeles County,33.94657,-117.98781399999999,
+East Whittier City Elementary,Ocean View Elementary,14359 East Second Street Whittier CA 90605-1115,,,False,tested,Whittier,Los Angeles County,33.960326,-118.01790600000001,
+Whittier City Elementary,Orange Grove Elementary,10626 East Orange Grove Avenue Whittier CA 90601-2145,,,False,tested,Whittier,Los Angeles County,33.996829999999996,-118.060483,
+East Whittier City Elementary,Orchard Dale Elementary,10625 South Cole Road Whittier CA 90604-1539,8.4,ppb,True,tested,Whittier,Los Angeles County,33.936347,-118.00751399999999,8.4
+Whittier Union High,Pioneer High,10800 Ben Avon Whittier CA 90606-3010,,,,not tested,Whittier,Los Angeles County,33.970026000000004,-118.078666,
+Tri-Cities ROP,Tri-Cities ROP,10800 Benavon Street Unit E Whittier CA 90606-3013,,,,not tested,Whittier,Los Angeles County,33.970026000000004,-118.078666,
+Whittier City Elementary,Wallen L. Andrews Elementary,1010 South Caraway Drive Whittier CA 90601-1121,,,False,tested,Whittier,Los Angeles County,34.038382,-118.009185,
+Whittier City Elementary,Walter F. Dexter Middle,11532 East Floral Drive Whittier CA 90601-2832,,,False,tested,Whittier,Los Angeles County,33.991698,-118.054418,
+Whittier City Elementary,West Whittier Elementary,6411 South Norwalk Boulevard Whittier CA 90606-1598,,,False,tested,Whittier,Los Angeles County,33.986249,-118.067536,
+Whittier City Elementary,Whittier Area Community Day,5777 Lockheed Avenue Whittier CA 90606-1030,,,False,tested,Whittier,Los Angeles County,33.995211,-118.064719,
+Whittier Union High,Whittier High,12417 East Philadelphia Street Whittier CA 90601-3933,,,False,tested,Whittier,Los Angeles County,33.979818,-118.04411699999999,
+Whittier City Elementary,Whittier Independent Study,5777 Lockheed Ave Whittier CA 90606-1030,,,False,tested,Whittier,Los Angeles County,33.995211,-118.064719,

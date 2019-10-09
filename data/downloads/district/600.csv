@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Plumas Unified,Chester Elementary,158 Aspen Street Chester CA 96020-0826,NA,NA,NA,not tested,NA,Plumas County,40.306391,-121.231155
-Plumas Unified,Chester Junior/Senior High,612 First Street Chester CA 96020-0797,NA,NA,NA,not tested,Westwood,Plumas County,40.302566,-121.231101
-Plumas Unified,Greenville Junior/Senior High,117 Grand Street Greenville CA 95947-9630,NA,NA,FALSE,tested,NA,Plumas County,40.139662,-120.945769
-Plumas Unified,Indian Valley Elementary,225 Grand Street Greenville CA 95947,NA,NA,FALSE,tested,NA,Plumas County,40.140621,-120.94595
-Plumas Unified,Plumas Charter,175 North Mill Creek Quincy CA 95971-9678,15.200000000000001,ppb,TRUE,tested,Quincy,Plumas County,39.935938,-120.905645
-Plumas Unified,Quincy Elementary,246 Alder Street Quincy CA 95971-9405,NA,NA,NA,not tested,NA,Plumas County,39.933398,-120.945912
-Plumas Unified,Quincy Junior/Senior High,6 Quincy Junction Road Quincy CA 95971-9112,NA,NA,NA,not tested,NA,Plumas County,39.93896,-120.937699
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Plumas Unified,Chester Elementary,158 Aspen Street Chester CA 96020-0826,,,,not tested,,Plumas County,40.306391,-121.231155,
+Plumas Unified,Chester Junior/Senior High,612 First Street Chester CA 96020-0797,,,,not tested,Westwood,Plumas County,40.302566,-121.231101,
+Plumas Unified,Greenville Junior/Senior High,117 Grand Street Greenville CA 95947-9630,,,False,tested,,Plumas County,40.139662,-120.945769,
+Plumas Unified,Indian Valley Elementary,225 Grand Street Greenville CA 95947,,,False,tested,,Plumas County,40.140621,-120.94595,
+Plumas Unified,Plumas Charter,175 North Mill Creek Quincy CA 95971-9678,15.2,ppb,True,tested,Quincy,Plumas County,39.935938,-120.90564499999999,22.6
+Plumas Unified,Quincy Elementary,246 Alder Street Quincy CA 95971-9405,,,,not tested,,Plumas County,39.933398,-120.945912,
+Plumas Unified,Quincy Junior/Senior High,6 Quincy Junction Road Quincy CA 95971-9112,,,,not tested,,Plumas County,39.938959999999994,-120.937699,

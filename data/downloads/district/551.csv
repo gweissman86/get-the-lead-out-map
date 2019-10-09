@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Orland Joint Unified,Fairview Elementary,1308 Fairview Street Orland CA 95963-1992,NA,NA,FALSE,tested,Orland,Glenn County,39.73826,-122.182757
-Orland Joint Unified,Mill Street Elementary,102 Second Street Orland CA 95963-1843,7.98,ppb,TRUE,tested,Orland,Glenn County,39.747368,-122.191441
-Orland Joint Unified,North Valley High (Continuation),220 Roosevelt Avenue Orland CA 95963,NA,NA,FALSE,tested,Orland,Glenn County,39.75438,-122.191936
-Orland Joint Unified,Orland Community Day,260 Roosevelt Avenue Orland CA 95963-1526,NA,NA,NA,not tested,Orland,Glenn County,39.75438,-122.191936
-Orland Joint Unified,Orland High,101 Shasta Street Orland CA 95963-1426,NA,NA,FALSE,tested,Orland,Glenn County,39.751086,-122.19157
-Orland Joint Unified,Price Intermediate,1212 Marin Street Orland CA 95963-1641,NA,NA,FALSE,tested,Orland,Glenn County,39.741421,-122.192049
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Orland Joint Unified,Fairview Elementary,1308 Fairview Street Orland CA 95963-1992,,,False,tested,Orland,Glenn County,39.73826,-122.18275700000001,
+Orland Joint Unified,Mill Street Elementary,102 Second Street Orland CA 95963-1843,7.98,ppb,True,tested,Orland,Glenn County,39.747368,-122.191441,7.98
+Orland Joint Unified,North Valley High (Continuation),220 Roosevelt Avenue Orland CA 95963,,,False,tested,Orland,Glenn County,39.75438,-122.19193600000001,
+Orland Joint Unified,Orland Community Day,260 Roosevelt Avenue Orland CA 95963-1526,,,,not tested,Orland,Glenn County,39.75438,-122.19193600000001,
+Orland Joint Unified,Orland High,101 Shasta Street Orland CA 95963-1426,,,False,tested,Orland,Glenn County,39.751086,-122.19157,
+Orland Joint Unified,Price Intermediate,1212 Marin Street Orland CA 95963-1641,,,False,tested,Orland,Glenn County,39.741421,-122.192049,

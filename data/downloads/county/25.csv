@@ -1,9 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Eastern Sierra Unified,Bridgeport Elementary,209 Kingsley Street Bridgeport CA 93517-0577,NA,NA,NA,not tested,NA,Mono County,38.25457,-119.229246
-Mono County Office of Education,Jan Work Community,451 Sierra Park Rd. Mammoth Lakes CA 93546,NA,NA,NA,not tested,NA,Mono County,37.638992,-118.963612
-Mammoth Unified,Mammoth Elementary,1500 Meridan Blvd. Mammoth Lakes CA 93546-3209,NA,NA,NA,not tested,Mammoth Lakes,Mono County,37.641537,-118.958368
-Mammoth Unified,Mammoth High,365 Sierra Park Road Mammoth Lakes CA 93546,NA,NA,NA,not tested,NA,Mono County,37.640868,-118.963827
-Mammoth Unified,Mammoth Middle,1600 Meridian Blvd Mammoth Lakes CA 93546-2429,NA,NA,NA,not tested,NA,Mono County,37.640139,-118.966595
-Mono County Office of Education,Mono County Adult,451 Sierra Park Road Mammoth Lakes CA 93546-0130,NA,NA,NA,not tested,NA,Mono County,37.638992,-118.963612
-Mono County Office of Education,Sierra Early Education Program,1500 Meridian Boulevard Mammoth Lakes CA 93546,NA,NA,NA,not tested,NA,Mono County,37.640139,-118.966595
-Mammoth Unified,Sierra High (Continuation),461 Sierra Park Road Mammoth Lakes CA 93546,NA,NA,NA,not tested,NA,Mono County,37.6385,-118.962843
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Modoc Joint Unified,Alturas Elementary,809 West 8th Street Alturas CA 96101-3116,,,False,tested,Alturas,Modoc County,41.490895,-120.557704,
+Modoc Joint Unified,Modoc Community Adult,802 North East Street Alturas CA 96101,,,False,tested,Alturas,Modoc County,41.491099,-120.53991200000002,
+Modoc Joint Unified,Modoc High,900 North Main Street Alturas CA 96101-3376,,,False,tested,Alturas,Modoc County,41.488601,-120.542501,
+Modoc Joint Unified,Modoc Middle,906 West Fourth Street Alturas CA 96101-3716,,,False,tested,Alturas,Modoc County,41.487612,-120.555543,
+Surprise Valley Joint Unified,Surprise Valley Elementary,790 High Street Cedarville CA 96104,,,False,tested,,Modoc County,41.532334999999996,-120.175179,
+Surprise Valley Joint Unified,Surprise Valley High,470 Lincoln Street Cedarville CA 96104,,,False,tested,,Modoc County,41.527229,-120.17836499999999,

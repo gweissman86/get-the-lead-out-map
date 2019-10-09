@@ -1,13 +1,13 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Santee,Cajon Park Elementary,10300 Magnolia Avenue Santee CA 92071-1704,6,ppb,TRUE,tested,Santee,San Diego County,32.864912,-116.971515
-Santee,Carlton Hills Elementary,9353 Pike Road Santee CA 92071-2515,NA,NA,FALSE,tested,Santee,San Diego County,32.849252,-116.996534
-Santee,Carlton Oaks Elementary,9353 Wethersfield Road Santee CA 92071-2354,NA,NA,FALSE,tested,Santee,San Diego County,32.843978,-117.014617
-Santee,Chet F. Harritt Elementary,8120 Arlette Street Santee CA 92071-3513,NA,NA,FALSE,tested,Santee,San Diego County,32.831413,-117.019564
-Santee,Hill Creek Elementary,9665 Jeremy Street Santee CA 92071-2836,NA,NA,FALSE,tested,Santee,San Diego County,32.85294,-116.963236
-Santee,PRIDE Academy at Prospect Avenue,9303 Prospect Avenue Santee CA 92071-3798,NA,NA,FALSE,tested,Santee,San Diego County,32.833926,-116.995685
-Santee,Rio Seco Elementary,9545 Cuyamaca Street Santee CA 92071-2674,NA,NA,FALSE,tested,Santee,San Diego County,32.836153,-116.983711
-Grossmont Union High,Santana High,9915 North Magnolia Avenue Santee CA 92071-1903,NA,NA,FALSE,tested,Santee,San Diego County,32.85754,-116.971143
-Santee,Santee Success Program,10280 North Magnolia Avenue Santee CA 92071-1998,NA,NA,NA,not tested,Santee,San Diego County,32.857426,-116.970998
-Sweetwater Union High,Southwest Middle,2710 Iris Street San Diego CA 92154-3338,NA,NA,FALSE,tested,Santee,San Diego County,32.83174,-116.954007
-Santee,Sycamore Canyon Elementary,10201 Settle Road Santee CA 92071-1099,NA,NA,FALSE,tested,Santee,San Diego County,32.862869,-117.003857
-Grossmont Union High,West Hills High,8756 Mast Boulevard Santee CA 92071-2046,NA,NA,FALSE,tested,Santee,San Diego County,32.855052,-116.980725
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Santee,Cajon Park Elementary,10300 Magnolia Avenue Santee CA 92071-1704,6.0,ppb,True,tested,Santee,San Diego County,32.864912,-116.971515,6.0
+Santee,Carlton Hills Elementary,9353 Pike Road Santee CA 92071-2515,,,False,tested,Santee,San Diego County,32.849252,-116.99653400000001,
+Santee,Carlton Oaks Elementary,9353 Wethersfield Road Santee CA 92071-2354,,,False,tested,Santee,San Diego County,32.843978,-117.01461699999999,
+Santee,Chet F. Harritt Elementary,8120 Arlette Street Santee CA 92071-3513,,,False,tested,Santee,San Diego County,32.831413,-117.01956399999999,
+Santee,Hill Creek Elementary,9665 Jeremy Street Santee CA 92071-2836,,,False,tested,Santee,San Diego County,32.852940000000004,-116.96323600000001,
+Santee,PRIDE Academy at Prospect Avenue,9303 Prospect Avenue Santee CA 92071-3798,,,False,tested,Santee,San Diego County,32.833926,-116.99568500000001,
+Santee,Rio Seco Elementary,9545 Cuyamaca Street Santee CA 92071-2674,,,False,tested,Santee,San Diego County,32.836153,-116.98371100000001,
+Grossmont Union High,Santana High,9915 North Magnolia Avenue Santee CA 92071-1903,,,False,tested,Santee,San Diego County,32.85754,-116.971143,
+Santee,Santee Success Program,10280 North Magnolia Avenue Santee CA 92071-1998,,,,not tested,Santee,San Diego County,32.857426000000004,-116.970998,
+Sweetwater Union High,Southwest Middle,2710 Iris Street San Diego CA 92154-3338,,,False,tested,Santee,San Diego County,32.83174,-116.954007,
+Santee,Sycamore Canyon Elementary,10201 Settle Road Santee CA 92071-1099,,,False,tested,Santee,San Diego County,32.862869,-117.00385700000001,
+Grossmont Union High,West Hills High,8756 Mast Boulevard Santee CA 92071-2046,,,False,tested,Santee,San Diego County,32.855052,-116.980725,

@@ -1,2 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,The Winston School,215 Ninth Street Del Mar CA 92014,NA,NA,FALSE,tested,Del Mar,San Diego County,32.952343,-117.263891
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Davis Joint Unified,Da Vinci Charter Academy,1400 East Eighth St. Davis CA 95616-2404,,,False,tested,Davis,Yolo County,38.552823,-121.733354,
+Davis Joint Unified,Marguerite Montgomery Elementary,1441 Danbury Drive Davis CA 95616-4892,,,False,tested,Davis,Yolo County,38.541451,-121.716295,

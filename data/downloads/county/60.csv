@@ -1,61 +1,61 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Washington Unified,Adult Education,919 Westacre Road West Sacramento CA 95691-3224,NA,NA,FALSE,tested,NA,Yolo County,38.578192,-121.530507
-Washington Unified,Alyce Norman Learning Center,1200 Anna Street West Sacramento CA 95605,NA,NA,NA,not tested,NA,Yolo County,38.596419,-121.531426
-Washington Unified,Alyce Norman Learning Center,1200 Anna Street  West Sacramento CA 95605,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.596198,-121.531679
-Woodland Joint Unified,Beamer Elementary,525 Beamer Street Woodland CA 95695-3209,NA,NA,FALSE,tested,Woodland,Yolo County,38.68479,-121.774361
-Davis Joint Unified,Birch Lane Elementary,1600 Birch Lane Davis CA 95616-1499,NA,NA,FALSE,tested,NA,Yolo County,38.560831,-121.727762
-Washington Unified,Bridgeway Island Elementary,3255 Half Moon Bay Circle West Sacramento CA 95691-5861,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.54118,-121.567433
-Washington Unified,Bryte Career and College Training,637 Todhunter Avenue West Sacramento CA 95605,NA,NA,FALSE,tested,NA,Yolo County,38.597426,-121.534162
-Woodland Joint Unified,Cache Creek High (Continuation),145 Second Street Yolo CA 95697-0298,NA,NA,NA,not tested,Yolo,Yolo County,38.732011,-121.807573
-Yolo County Office of Education,Cesar Chavez Community School,255 West Beamer Street Woodland CA 95695-2510,NA,NA,FALSE,tested,Woodland,Yolo County,38.684783,-121.795748
-Davis Joint Unified,Cesar Chavez Elementary,1221 Anderson Road Davis CA 95616-1899,NA,NA,FALSE,tested,NA,Yolo County,38.554327,-121.75971
-Davis Joint Unified,Da Vinci Charter Academy,1400 East Eighth St. Davis CA 95616-2404,NA,NA,FALSE,tested,Davis,Yolo County,38.552823,-121.733354
-Davis Joint Unified,Davis School for Independent Study,526 B Street Davis CA 95616-3811,NA,NA,FALSE,tested,NA,Yolo County,38.547116,-121.745275
-Davis Joint Unified,Davis Senior High,315 West 14th St Davis CA 95616-1914,NA,NA,FALSE,tested,NA,Yolo County,38.55583,-121.749014
-Woodland Joint Unified,Dingle Elementary,625 Elm Street Woodland CA 95695-3921,6.3,ppb,TRUE,tested,Woodland,Yolo County,38.673222,-121.776209
-Woodland Joint Unified,Douglass Middle,525 Granada Drive Woodland CA 95695-4861,NA,NA,FALSE,tested,Woodland,Yolo County,38.665848,-121.774478
-Washington Unified,Elkhorn Village Elementary,750 Cummins Way West Sacramento CA 95605-2511,NA,NA,FALSE,tested,NA,Yolo County,38.594846,-121.52112
-Esparto Unified,Esparto Elementary,17120 Omega Street Esparto CA 95627-0069,NA,NA,NA,not tested,NA,Yolo County,38.692667,-122.023384
-Esparto Unified,Esparto High,17121 Yolo Avenue Esparto CA 95627-0069,NA,NA,NA,not tested,NA,Yolo County,38.690869,-122.017158
-Esparto Unified,Esparto Middle,26058 Country Road 21A Esparto CA 95627,NA,NA,NA,not tested,Esparto,Yolo County,38.690166,-122.024825
-Washington Unified,Evergreen Elementary,919 Westacre Road West Sacramento CA 95691-3223,NA,NA,NA,not tested,NA,Yolo County,38.578192,-121.530507
-Davis Joint Unified,Frances Ellen Watkins Harper Junior High,4000 East Covell Boulevard Davis CA 95618-1565,NA,NA,FALSE,tested,NA,Yolo County,38.564776,-121.702799
-Davis Joint Unified,Fred T. Korematsu Elementary School at Mace Ranch,3100 Loyola Drive Davis CA 95616-1605,NA,NA,FALSE,tested,NA,Yolo County,38.557689,-121.722725
-Woodland Joint Unified,Freeman Elementary,126 North West Street Woodland CA 95695-2614,NA,NA,FALSE,tested,Woodland,Yolo County,38.686862,-121.783782
-Woodland Joint Unified,Gibson Elementary,312 Gibson Road Woodland CA 95695-4765,NA,NA,FALSE,tested,Woodland,Yolo County,38.662862,-121.778413
-Yolo County Office of Education,Greengate Center for Exception,285 W. Beamer St. Woodland CA 95695,9.6,ppb,TRUE,tested,Woodland,Yolo County,38.684788,-121.797057
-Davis Joint Unified,King (Martin Luther) High (Continuation),635 B Street Davis CA 95616-3853,NA,NA,FALSE,tested,NA,Yolo County,38.54892,-121.746309
-Woodland Joint Unified,Lee Middle,520 West Street Woodland CA 95695-3798,NA,NA,FALSE,tested,Woodland,Yolo County,38.674576,-121.785652
-Esparto Unified,Madison Community High,17923 Stephens Street Madison CA 95653,NA,NA,NA,not tested,NA,Yolo County,38.679575,-121.971679
-Davis Joint Unified,Marguerite Montgomery Elementary,1441 Danbury Drive Davis CA 95616-4892,NA,NA,FALSE,tested,Davis,Yolo County,38.541451,-121.716295
-Davis Joint Unified,North Davis Elementary,555 East 14th Street Davis CA 95616-2097,NA,NA,FALSE,tested,NA,Yolo County,38.556708,-121.744426
-Davis Joint Unified,Oliver Wendell Holmes Junior High,1220 Drexel Drive Davis CA 95616-2123,NA,NA,FALSE,tested,NA,Yolo County,38.557192,-121.738132
-Davis Joint Unified,Patwin Elementary,2222 Shasta Drive Davis CA 95616-6634,NA,NA,FALSE,tested,NA,Yolo County,38.55531,-121.77933
-Davis Joint Unified,Pioneer Elementary,5215 Hamel Street Davis CA 95616-4426,NA,NA,FALSE,tested,NA,Yolo County,38.551228,-121.685784
-Woodland Joint Unified,Pioneer High,1400 Pioneer Avenue Woodland CA 95776-5152,NA,NA,FALSE,tested,Woodland,Yolo County,38.659873,-121.740499
-Davis Joint Unified,Ralph Waldo Emerson Junior High,2121 Calaveras Avenue Davis CA 95616-3022,7.4,ppb,TRUE,tested,NA,Yolo County,38.550678,-121.778692
-Woodland Joint Unified,Ramon S. Tafoya Elementary,720 Homestead Way Woodland CA 95776-4934,NA,NA,FALSE,tested,Woodland,Yolo County,38.671591,-121.73902
-Woodland Joint Unified,Rhoda Maxwell Elementary,50 Ashley Avenue Woodland CA 95695-2504,9.5,ppb,TRUE,tested,Woodland,Yolo County,38.684004,-121.797939
-Washington Unified,River Charter Schools Lighthouse Charter,1500 Park Boulevard West Sacramento CA 95691-3927,NA,NA,FALSE,tested,NA,Yolo County,38.57136,-121.530804
-Washington Unified,River City High,1 Raider Lane West Sacramento CA 95691-4619,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.546916,-121.539327
-Washington Unified,Riverbank Elementary,1100 Carrie Street West Sacramento CA 95605-2046,NA,NA,FALSE,tested,NA,Yolo County,38.599873,-121.528881
-Davis Joint Unified,Robert E. Willett Elementary,1207 Sycamore Lane Davis CA 95616-1740,NA,NA,FALSE,tested,NA,Yolo County,38.554679,-121.765741
-Woodland Joint Unified,Science & Technology Academy at Knights Landing,9544 Mill Street Knights Landing CA 95645,NA,NA,FALSE,tested,NA,Yolo County,38.798235,-121.720519
-Washington Unified,Southport Elementary,2747 Linden Road West Sacramento CA 95691-4258,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.551773,-121.54858
-Washington Unified,Stonegate Elementary,2500 La Jolla Street West Sacramento CA 95691-4947,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.552593,-121.524542
-Woodland Joint Unified,T. L. Whitehead Elementary,624 West Southwood Drive Woodland CA 95695-4304,NA,NA,FALSE,tested,Woodland,Yolo County,38.669319,-121.794604
-Washington Unified,Washington Middle College High,1504 Fallbrook Street West Sacramento CA 95691-3622,11,ppb,TRUE,tested,NA,Yolo County,38.569814,-121.53419
-Washington Unified,Washington Unified School District Office,930 Westacre Road West Sacramento CA 95691-3224,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.577632,-121.531105
-Washington Unified,West Sacramento Early College Prep Charter,1504 Fallbrook Street West Sacramento CA 95691-3622,NA,NA,NA,not tested,NA,Yolo County,38.569814,-121.53419
-Washington Unified,Westmore Oaks Elementary,1100 Clarendon Street West Sacramento CA 95691-3605,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.572814,-121.53791
-Winters Joint Unified,Winters Elementary,500 West Edwards Street Winters CA 95694-1804,NA,NA,NA,not tested,Winters,Yolo County,38.521166,-121.978004
-Winters Joint Unified,Winters High,101 Grant Avenue Winters CA 95694-1617,NA,NA,NA,not tested,Winters,Yolo County,38.518559,-121.988573
-Winters Joint Unified,Winters Middle,425 Anderson Avenue Winters CA 95694-1609,NA,NA,NA,not tested,NA,Yolo County,38.527281,-121.978189
-Winters Joint Unified,Wolfskill High,200 Baker Street Winters CA 95694-1646,NA,NA,NA,not tested,Winters,Yolo County,38.522536,-121.974375
-Woodland Joint Unified,Woodland Adult Education,526 Marshall Avenue Woodland CA 95695,NA,NA,FALSE,tested,Woodland,Yolo County,38.667838,-121.774362
-Woodland Joint Unified,Woodland Community Day,526 Marshall Ave Woodland CA 95695-4853,NA,NA,FALSE,tested,Woodland,Yolo County,38.667838,-121.774362
-Woodland Joint Unified,Woodland Prairie Elementary,1444 Stetson Street Woodland CA 95695-6722,NA,NA,FALSE,tested,Woodland,Yolo County,38.665989,-121.75276
-Woodland Joint Unified,Woodland Senior High,21 North West Street Woodland CA 95695-2611,NA,NA,FALSE,tested,Woodland,Yolo County,38.686596,-121.786852
-Yolo County Office of Education,Yolo County Special Education,1280 Santa Anita Ct. Woodland CA 95776-6127,41,ppb,TRUE,tested,Woodland,Yolo County,38.696024,-121.757964
-Washington Unified,Yolo High,919 Westacre Road West Sacramento CA 95691-3224,NA,NA,NA,not tested,NA,Yolo County,38.578192,-121.530507
-Woodland Joint Unified,Zamora Elementary,1716 Cottonwood Street Woodland CA 95695-5137,NA,NA,FALSE,tested,Woodland,Yolo County,38.6579,-121.793634
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Washington Unified,Adult Education,919 Westacre Road West Sacramento CA 95691-3224,,,False,tested,,Yolo County,38.578192,-121.530507,
+Washington Unified,Alyce Norman Learning Center,1200 Anna Street West Sacramento CA 95605,,,,not tested,,Yolo County,38.596419,-121.531426,
+Washington Unified,Alyce Norman Learning Center,1200 Anna Street  West Sacramento CA 95605,,,False,tested,West Sacramento,Yolo County,38.596198,-121.531679,
+Woodland Joint Unified,Beamer Elementary,525 Beamer Street Woodland CA 95695-3209,,,False,tested,Woodland,Yolo County,38.68479,-121.77436100000001,
+Davis Joint Unified,Birch Lane Elementary,1600 Birch Lane Davis CA 95616-1499,,,False,tested,,Yolo County,38.560831,-121.72776200000001,
+Washington Unified,Bridgeway Island Elementary,3255 Half Moon Bay Circle West Sacramento CA 95691-5861,,,False,tested,West Sacramento,Yolo County,38.54118,-121.56743300000001,
+Washington Unified,Bryte Career and College Training,637 Todhunter Avenue West Sacramento CA 95605,,,False,tested,,Yolo County,38.597426,-121.53416200000001,
+Woodland Joint Unified,Cache Creek High (Continuation),145 Second Street Yolo CA 95697-0298,,,,not tested,Yolo,Yolo County,38.732011,-121.807573,
+Yolo County Office of Education,Cesar Chavez Community School,255 West Beamer Street Woodland CA 95695-2510,,,False,tested,Woodland,Yolo County,38.684783,-121.795748,
+Davis Joint Unified,Cesar Chavez Elementary,1221 Anderson Road Davis CA 95616-1899,,,False,tested,,Yolo County,38.554327,-121.75971000000001,
+Davis Joint Unified,Da Vinci Charter Academy,1400 East Eighth St. Davis CA 95616-2404,,,False,tested,Davis,Yolo County,38.552823,-121.733354,
+Davis Joint Unified,Davis School for Independent Study,526 B Street Davis CA 95616-3811,,,False,tested,,Yolo County,38.547115999999995,-121.745275,
+Davis Joint Unified,Davis Senior High,315 West 14th St Davis CA 95616-1914,,,False,tested,,Yolo County,38.55583,-121.74901399999999,
+Woodland Joint Unified,Dingle Elementary,625 Elm Street Woodland CA 95695-3921,6.3,ppb,True,tested,Woodland,Yolo County,38.673221999999996,-121.77620900000001,6.3
+Woodland Joint Unified,Douglass Middle,525 Granada Drive Woodland CA 95695-4861,,,False,tested,Woodland,Yolo County,38.665848,-121.774478,
+Washington Unified,Elkhorn Village Elementary,750 Cummins Way West Sacramento CA 95605-2511,,,False,tested,,Yolo County,38.594846000000004,-121.52112,
+Esparto Unified,Esparto Elementary,17120 Omega Street Esparto CA 95627-0069,,,,not tested,,Yolo County,38.692667,-122.02338400000001,
+Esparto Unified,Esparto High,17121 Yolo Avenue Esparto CA 95627-0069,,,,not tested,,Yolo County,38.690869,-122.01715800000001,
+Esparto Unified,Esparto Middle,26058 Country Road 21A Esparto CA 95627,,,,not tested,Esparto,Yolo County,38.690166,-122.024825,
+Washington Unified,Evergreen Elementary,919 Westacre Road West Sacramento CA 95691-3223,,,,not tested,,Yolo County,38.578192,-121.530507,
+Davis Joint Unified,Frances Ellen Watkins Harper Junior High,4000 East Covell Boulevard Davis CA 95618-1565,,,False,tested,,Yolo County,38.564776,-121.702799,
+Davis Joint Unified,Fred T. Korematsu Elementary School at Mace Ranch,3100 Loyola Drive Davis CA 95616-1605,,,False,tested,,Yolo County,38.557689,-121.722725,
+Woodland Joint Unified,Freeman Elementary,126 North West Street Woodland CA 95695-2614,,,False,tested,Woodland,Yolo County,38.686862,-121.783782,
+Woodland Joint Unified,Gibson Elementary,312 Gibson Road Woodland CA 95695-4765,,,False,tested,Woodland,Yolo County,38.662862,-121.77841299999999,
+Yolo County Office of Education,Greengate Center for Exception,285 W. Beamer St. Woodland CA 95695,9.6,ppb,True,tested,Woodland,Yolo County,38.684788,-121.79705700000001,9.6
+Davis Joint Unified,King (Martin Luther) High (Continuation),635 B Street Davis CA 95616-3853,,,False,tested,,Yolo County,38.54892,-121.74630900000001,
+Woodland Joint Unified,Lee Middle,520 West Street Woodland CA 95695-3798,,,False,tested,Woodland,Yolo County,38.674576,-121.785652,
+Esparto Unified,Madison Community High,17923 Stephens Street Madison CA 95653,,,,not tested,,Yolo County,38.679575,-121.97167900000001,
+Davis Joint Unified,Marguerite Montgomery Elementary,1441 Danbury Drive Davis CA 95616-4892,,,False,tested,Davis,Yolo County,38.541451,-121.716295,
+Davis Joint Unified,North Davis Elementary,555 East 14th Street Davis CA 95616-2097,,,False,tested,,Yolo County,38.556708,-121.744426,
+Davis Joint Unified,Oliver Wendell Holmes Junior High,1220 Drexel Drive Davis CA 95616-2123,,,False,tested,,Yolo County,38.557192,-121.73813200000001,
+Davis Joint Unified,Patwin Elementary,2222 Shasta Drive Davis CA 95616-6634,,,False,tested,,Yolo County,38.55531,-121.77933,
+Davis Joint Unified,Pioneer Elementary,5215 Hamel Street Davis CA 95616-4426,,,False,tested,,Yolo County,38.551228,-121.68578400000001,
+Woodland Joint Unified,Pioneer High,1400 Pioneer Avenue Woodland CA 95776-5152,,,False,tested,Woodland,Yolo County,38.659873,-121.740499,
+Davis Joint Unified,Ralph Waldo Emerson Junior High,2121 Calaveras Avenue Davis CA 95616-3022,7.4,ppb,True,tested,,Yolo County,38.550678000000005,-121.77869199999999,7.4
+Woodland Joint Unified,Ramon S. Tafoya Elementary,720 Homestead Way Woodland CA 95776-4934,,,False,tested,Woodland,Yolo County,38.671591,-121.73902,
+Woodland Joint Unified,Rhoda Maxwell Elementary,50 Ashley Avenue Woodland CA 95695-2504,9.5,ppb,True,tested,Woodland,Yolo County,38.684003999999995,-121.79793899999999,9.5
+Washington Unified,River Charter Schools Lighthouse Charter,1500 Park Boulevard West Sacramento CA 95691-3927,,,False,tested,,Yolo County,38.57136,-121.530804,
+Washington Unified,River City High,1 Raider Lane West Sacramento CA 95691-4619,,,False,tested,West Sacramento,Yolo County,38.546915999999996,-121.539327,
+Washington Unified,Riverbank Elementary,1100 Carrie Street West Sacramento CA 95605-2046,,,False,tested,,Yolo County,38.599872999999995,-121.52888100000001,
+Davis Joint Unified,Robert E. Willett Elementary,1207 Sycamore Lane Davis CA 95616-1740,,,False,tested,,Yolo County,38.554679,-121.76574099999999,
+Woodland Joint Unified,Science & Technology Academy at Knights Landing,9544 Mill Street Knights Landing CA 95645,,,False,tested,,Yolo County,38.798235,-121.720519,
+Washington Unified,Southport Elementary,2747 Linden Road West Sacramento CA 95691-4258,,,False,tested,West Sacramento,Yolo County,38.551773,-121.54858,
+Washington Unified,Stonegate Elementary,2500 La Jolla Street West Sacramento CA 95691-4947,,,False,tested,West Sacramento,Yolo County,38.552593,-121.524542,
+Woodland Joint Unified,T. L. Whitehead Elementary,624 West Southwood Drive Woodland CA 95695-4304,,,False,tested,Woodland,Yolo County,38.669319,-121.794604,
+Washington Unified,Washington Middle College High,1504 Fallbrook Street West Sacramento CA 95691-3622,11.0,ppb,True,tested,,Yolo County,38.569814,-121.53419,11.0
+Washington Unified,Washington Unified School District Office,930 Westacre Road West Sacramento CA 95691-3224,,,False,tested,West Sacramento,Yolo County,38.577632,-121.53110500000001,
+Washington Unified,West Sacramento Early College Prep Charter,1504 Fallbrook Street West Sacramento CA 95691-3622,,,,not tested,,Yolo County,38.569814,-121.53419,
+Washington Unified,Westmore Oaks Elementary,1100 Clarendon Street West Sacramento CA 95691-3605,,,False,tested,West Sacramento,Yolo County,38.572814,-121.53791000000001,
+Winters Joint Unified,Winters Elementary,500 West Edwards Street Winters CA 95694-1804,,,,not tested,Winters,Yolo County,38.521166,-121.978004,
+Winters Joint Unified,Winters High,101 Grant Avenue Winters CA 95694-1617,,,,not tested,Winters,Yolo County,38.518559,-121.988573,
+Winters Joint Unified,Winters Middle,425 Anderson Avenue Winters CA 95694-1609,,,,not tested,,Yolo County,38.527281,-121.97818899999999,
+Winters Joint Unified,Wolfskill High,200 Baker Street Winters CA 95694-1646,,,,not tested,Winters,Yolo County,38.522535999999995,-121.974375,
+Woodland Joint Unified,Woodland Adult Education,526 Marshall Avenue Woodland CA 95695,,,False,tested,Woodland,Yolo County,38.667838,-121.77436200000001,
+Woodland Joint Unified,Woodland Community Day,526 Marshall Ave Woodland CA 95695-4853,,,False,tested,Woodland,Yolo County,38.667838,-121.77436200000001,
+Woodland Joint Unified,Woodland Prairie Elementary,1444 Stetson Street Woodland CA 95695-6722,,,False,tested,Woodland,Yolo County,38.665989,-121.75276000000001,
+Woodland Joint Unified,Woodland Senior High,21 North West Street Woodland CA 95695-2611,,,False,tested,Woodland,Yolo County,38.686596,-121.786852,
+Yolo County Office of Education,Yolo County Special Education,1280 Santa Anita Ct. Woodland CA 95776-6127,41.0,ppb,True,tested,Woodland,Yolo County,38.696024,-121.75796399999999,41.0
+Washington Unified,Yolo High,919 Westacre Road West Sacramento CA 95691-3224,,,,not tested,,Yolo County,38.578192,-121.530507,
+Woodland Joint Unified,Zamora Elementary,1716 Cottonwood Street Woodland CA 95695-5137,,,False,tested,Woodland,Yolo County,38.6579,-121.79363400000001,

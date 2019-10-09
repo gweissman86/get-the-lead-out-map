@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Rim of the World Unified,Charles Hoffman Elementary,2851 Running Springs School Road Running Springs CA 92352-0430,16.5,ppb,TRUE,tested,Running Springs,San Bernardino County,34.201851,-117.09327
-Rim of the World Unified,Lake Arrowhead Elementary,1300 Golden Rule Lane Lake Arrowhead CA 92352-0430,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.273381,-117.178756
-Rim of the World Unified,Mary P. Henck Intermediate,730 Rhine Road Lake Arrowhead CA 92352-0000,6.5,ppb,TRUE,tested,Twin Peaks,San Bernardino County,34.263321,-117.212881
-Rim of the World Unified,Mountain High,27614 HWY 18 Lake Arrowhead CA 92325,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.230829,-117.209695
-Rim of the World Unified,Rim of the World Senior High,27400 Highway 18 Lake Arrowhead CA 92352-0430,NA,NA,FALSE,tested,Lake Arrowhead,San Bernardino County,34.231698,-117.210775
-Rim of the World Unified,Valley of Enchantment Elementary,22836 Fir Lane Crestline CA 92325,NA,NA,FALSE,tested,Crestline,San Bernardino County,34.247226,-117.305108
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Rim of the World Unified,Charles Hoffman Elementary,2851 Running Springs School Road Running Springs CA 92352-0430,16.5,ppb,True,tested,Running Springs,San Bernardino County,34.201851,-117.09326999999999,43.0
+Rim of the World Unified,Lake Arrowhead Elementary,1300 Golden Rule Lane Lake Arrowhead CA 92352-0430,,,False,tested,Lake Arrowhead,San Bernardino County,34.273381,-117.178756,
+Rim of the World Unified,Mary P. Henck Intermediate,730 Rhine Road Lake Arrowhead CA 92352-0000,6.5,ppb,True,tested,Twin Peaks,San Bernardino County,34.263321000000005,-117.21288100000001,7.1
+Rim of the World Unified,Mountain High,27614 HWY 18 Lake Arrowhead CA 92325,,,False,tested,Lake Arrowhead,San Bernardino County,34.230829,-117.209695,
+Rim of the World Unified,Rim of the World Senior High,27400 Highway 18 Lake Arrowhead CA 92352-0430,,,False,tested,Lake Arrowhead,San Bernardino County,34.231698,-117.210775,
+Rim of the World Unified,Valley of Enchantment Elementary,22836 Fir Lane Crestline CA 92325,,,False,tested,Crestline,San Bernardino County,34.247226,-117.305108,

@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Desert Sands Unified,Abraham Lincoln Elementary,74-100 Rutledge Way Palm Desert CA 92260-2644,NA,NA,NA,not tested,Palm Desert,Riverside County,33.73331,-116.373773
-Desert Sands Unified,George Washington Charter,45-768 Portola Avenue Palm Desert CA 92260-4861,NA,NA,NA,not tested,Palm Desert,Riverside County,33.716541,-116.37337
-Desert Sands Unified,James Earl Carter Elementary,74-251 Hovley Lane East Palm Desert CA 92260-1700,NA,NA,NA,not tested,Palm Desert,Riverside County,33.746546,-116.370188
-Desert Sands Unified,Palm Desert Charter Middle,74-200 Rutledge Way Palm Desert CA 92260-2646,NA,NA,NA,not tested,Palm Desert,Riverside County,33.73417,-116.370511
-Desert Sands Unified,Palm Desert High,74-910 Aztec Road Palm Desert CA 92260-5639,NA,NA,NA,not tested,Palm Desert,Riverside County,33.733203,-116.358059
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Desert Sands Unified,Abraham Lincoln Elementary,74-100 Rutledge Way Palm Desert CA 92260-2644,,,,not tested,Palm Desert,Riverside County,33.733309999999996,-116.373773,
+Desert Sands Unified,George Washington Charter,45-768 Portola Avenue Palm Desert CA 92260-4861,,,,not tested,Palm Desert,Riverside County,33.716541,-116.37337,
+Desert Sands Unified,James Earl Carter Elementary,74-251 Hovley Lane East Palm Desert CA 92260-1700,,,,not tested,Palm Desert,Riverside County,33.746546,-116.37018799999998,
+Desert Sands Unified,Palm Desert Charter Middle,74-200 Rutledge Way Palm Desert CA 92260-2646,,,,not tested,Palm Desert,Riverside County,33.73417,-116.37051100000001,
+Desert Sands Unified,Palm Desert High,74-910 Aztec Road Palm Desert CA 92260-5639,,,,not tested,Palm Desert,Riverside County,33.733203,-116.35805900000001,

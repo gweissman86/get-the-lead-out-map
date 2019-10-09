@@ -1,3 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Keppel Union Elementary,Antelope Elementary,37237 North 100th Street East Littlerock CA 93543-1501,NA,NA,FALSE,tested,Littlerock,Los Angeles County,34.55862,-117.95197
-Antelope Valley Union High,Littlerock High,10833 East Avenue R Littlerock CA 93543-4106,NA,NA,FALSE,tested,Littlerock,Los Angeles County,34.573086,-117.935593
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lindsay Unified,Cairns High School,533 E Honolulu Lindsay CA 93247,,,,not tested,Lindsay,Tulare County,36.203899,-119.08470600000001,
+Lindsay Unified,Jefferson Elementary,333 North Westwood Avenue Lindsay CA 93247-1801,,,,not tested,Lindsay,Tulare County,36.204439,-119.10293700000001,
+Lindsay Unified,John J. Cairns Continuation,290 N Harvard Lindsay CA 93247-2304,,,,not tested,Lindsay,Tulare County,36.206947,-119.08246000000001,
+Lindsay Unified,Kennedy Elementary,1701 East Tulare Road Lindsay CA 93247-2262,,,,not tested,Lindsay,Tulare County,36.211936,-119.07201299999998,
+Lindsay Unified,Lindsay Senior High,1849 East Tulare Road Lindsay CA 93247-9711,,,,not tested,Lindsay,Tulare County,36.211894,-119.06688700000001,
+Lindsay Unified,Reagan Elementary,340 North Harvard Lindsay CA 93247-2219,,,,not tested,Lindsay,Tulare County,36.207961,-119.08248600000002,

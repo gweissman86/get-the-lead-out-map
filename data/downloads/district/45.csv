@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ballico-Cressey Elementary,Ballico Elementary,11818 West Gregg Street Ballico CA 95303-0049,NA,NA,NA,not tested,Ballico,Merced County,37.454991,-120.700906
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ballico-Cressey Elementary,Ballico Elementary,11818 West Gregg Street Ballico CA 95303-0049,,,,not tested,Ballico,Merced County,37.454991,-120.700906,

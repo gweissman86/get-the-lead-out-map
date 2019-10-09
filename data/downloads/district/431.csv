@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lucerne Elementary,Lucerne Elementary,3351 Country Club Drive Lucerne CA 95458-1083,NA,NA,FALSE,tested,NA,Lake County,39.083296,-122.789108
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lucerne Elementary,Lucerne Elementary,3351 Country Club Drive Lucerne CA 95458-1083,,,False,tested,,Lake County,39.083296000000004,-122.78910800000001,

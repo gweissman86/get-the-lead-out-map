@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-California School for the Deaf-Fremont (State Special Schl),California School for the Deaf-Fremont,39350 Gallaudet Drive Fremont CA 94538-2308,NA,NA,FALSE,tested,Fremont,Alameda County,37.557329,-121.96173
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+California School for the Deaf-Fremont (State Special Schl),California School for the Deaf-Fremont,39350 Gallaudet Drive Fremont CA 94538-2308,,,False,tested,Fremont,Alameda County,37.557328999999996,-121.96173,

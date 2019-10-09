@@ -1,4 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Alpaugh Unified,Alpaugh Elementary,5313 Rd 39 Alpaugh CA 93201-0009,NA,NA,FALSE,tested,Alpaugh,Tulare County,35.887343,-119.486357
-Alpaugh Unified,Alpaugh Junior-Senior High,5313 Road 39 Alpaugh CA 93201-0009,NA,NA,NA,not tested,Alpaugh,Tulare County,35.887343,-119.486357
-Alpaugh Unified,Tule Continuation High,Avenue 52 and Boswell Avenue Alpaugh CA 93201-0009,NA,NA,FALSE,tested,Alpaugh,Tulare County,35.884149,-119.487351
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Capistrano Unified,Aliso Niguel High,28000 Wolverine Way Aliso Viejo CA 92656-3385,,,False,tested,Aliso Viejo,Orange County,33.563297,-117.719641,
+Capistrano Unified,Aliso Viejo Middle,111 Park Avenue Aliso Viejo CA 92656-2847,,,False,tested,Aliso Viejo,Orange County,33.579598,-117.713799,
+Capistrano Unified,Canyon Vista Elementary,27800 Oak View Drive Aliso Viejo CA 92656-6244,,,,not tested,Aliso Viejo,Orange County,33.562528,-117.73493899999998,
+Capistrano Unified,Community Roots Academy,23431 Knollwood P-31 Aliso Viejo CA 92656,,,False,tested,Aliso Viejo,Orange County,33.554458000000004,-117.720726,
+Capistrano Unified,Don Juan Avila Elementary,26278 Wood Canyon Drive Aliso Viejo CA 92656-8060,,,False,tested,Aliso Viejo,Orange County,33.562022,-117.734664,
+Capistrano Unified,Don Juan Avila Middle,26278 Wood Canyon Dr Aliso Viejo CA 92656-8060,,,,not tested,Aliso Viejo,Orange County,33.562022,-117.734664,
+Capistrano Unified,Journey,27102 Foxborough Aliso Viejo CA 92656-3377,,,False,tested,Aliso Viejo,Orange County,33.567081,-117.719505,
+Capistrano Unified,Oak Grove Elementary,22705 Sanborn Aliso Viejo CA 92656-6055,,,False,tested,Aliso Viejo,Orange County,33.575081,-117.73556200000002,
+Capistrano Unified,Wood Canyon Elementary,23431 Knollwood Aliso Viejo CA 92656-4240,,,False,tested,Aliso Viejo,Orange County,33.553540000000005,-117.72200900000001,

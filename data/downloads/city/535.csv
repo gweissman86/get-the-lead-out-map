@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Soquel Union Elementary,Main Street Elementary,3400 North Main Street Soquel CA 95073-2212,NA,NA,FALSE,tested,Soquel,Santa Cruz County,36.992859,-121.952467
-Private,Tara Redwood School,4746 Soquel Avenue Soquel CA 95073,NA,NA,FALSE,tested,Soquel,Santa Cruz County,36.988208,-121.956421
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Soquel Union Elementary,Main Street Elementary,3400 North Main Street Soquel CA 95073-2212,,,False,tested,Soquel,Santa Cruz County,36.992859,-121.952467,
+Private,Tara Redwood School,4746 Soquel Avenue Soquel CA 95073,,,False,tested,Soquel,Santa Cruz County,36.988208,-121.95642099999999,

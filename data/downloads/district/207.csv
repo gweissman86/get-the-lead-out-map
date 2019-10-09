@@ -1,14 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-East Whittier City Elementary,Ceres Elementary,10601 South Ceres Avenue Whittier CA 90604-1655,12,ppb,TRUE,tested,NA,Los Angeles County,33.934221,-118.028939
-East Whittier City Elementary,East Whittier Middle,14421 East Whittier Boulevard Whittier CA 90605-2188,NA,NA,FALSE,tested,La Habra,Orange County,33.939117,-117.944715
-East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.963292,-118.041671
-East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.923397,-118.002488
-East Whittier City Elementary,Hillview Middle,10931 South Stamy Road Whittier CA 90604-2225,NA,NA,FALSE,tested,NA,Los Angeles County,33.932942,-118.00617
-East Whittier City Elementary,La Colima Elementary,11225 Miller Road Whittier CA 90604-1952,NA,NA,FALSE,tested,NA,Los Angeles County,33.929915,-118.020486
-East Whittier City Elementary,Laurel Elementary,13550 Lambert Road Whittier CA 90605-2423,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.956389,-118.035477
-East Whittier City Elementary,Leffingwell Elementary,10625 South Santa Gertrudes Whittier CA 90603-2441,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.93863,-117.994745
-East Whittier City Elementary,Mulberry Elementary,14029 East Mulberry Drive Whittier CA 90605-3169,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.94541,-118.029478
-East Whittier City Elementary,Murphy Ranch Elementary,16021 Janine Drive Whittier CA 90603-1527,NA,NA,NA,not tested,Whittier,Los Angeles County,33.94657,-117.987814
-East Whittier City Elementary,Ocean View Elementary,14359 East Second Street Whittier CA 90605-1115,NA,NA,FALSE,tested,Whittier,Los Angeles County,33.960326,-118.017906
-East Whittier City Elementary,Orchard Dale Elementary,10625 South Cole Road Whittier CA 90604-1539,8.4,ppb,TRUE,tested,Whittier,Los Angeles County,33.936347,-118.007514
-East Whittier City Elementary,Scott Avenue Elementary,11701 Scott Avenue Whittier CA 90604-3245,NA,NA,FALSE,tested,NA,Los Angeles County,33.927536,-118.000397
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+East Whittier City Elementary,Ceres Elementary,10601 South Ceres Avenue Whittier CA 90604-1655,12.0,ppb,True,tested,,Los Angeles County,33.934221,-118.028939,12.0
+East Whittier City Elementary,East Whittier Middle,14421 East Whittier Boulevard Whittier CA 90605-2188,,,False,tested,La Habra,Orange County,33.939116999999996,-117.94471499999999,
+East Whittier City Elementary,Evergreen Elementary,12915 East Helmer Drive Whittier CA 90602-3232,10.4,ppb,True,tested,Whittier,Los Angeles County,33.963291999999996,-118.041671,12.0
+East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,,,False,tested,La Mirada,Los Angeles County,33.923396999999994,-118.00248799999999,
+East Whittier City Elementary,Hillview Middle,10931 South Stamy Road Whittier CA 90604-2225,,,False,tested,,Los Angeles County,33.932942,-118.00617,
+East Whittier City Elementary,La Colima Elementary,11225 Miller Road Whittier CA 90604-1952,,,False,tested,,Los Angeles County,33.929915,-118.020486,
+East Whittier City Elementary,Laurel Elementary,13550 Lambert Road Whittier CA 90605-2423,,,False,tested,Whittier,Los Angeles County,33.956389,-118.035477,
+East Whittier City Elementary,Leffingwell Elementary,10625 South Santa Gertrudes Whittier CA 90603-2441,,,False,tested,Whittier,Los Angeles County,33.938629999999996,-117.994745,
+East Whittier City Elementary,Mulberry Elementary,14029 East Mulberry Drive Whittier CA 90605-3169,,,False,tested,Whittier,Los Angeles County,33.945409999999995,-118.029478,
+East Whittier City Elementary,Murphy Ranch Elementary,16021 Janine Drive Whittier CA 90603-1527,,,,not tested,Whittier,Los Angeles County,33.94657,-117.98781399999999,
+East Whittier City Elementary,Ocean View Elementary,14359 East Second Street Whittier CA 90605-1115,,,False,tested,Whittier,Los Angeles County,33.960326,-118.01790600000001,
+East Whittier City Elementary,Orchard Dale Elementary,10625 South Cole Road Whittier CA 90604-1539,8.4,ppb,True,tested,Whittier,Los Angeles County,33.936347,-118.00751399999999,8.4
+East Whittier City Elementary,Scott Avenue Elementary,11701 Scott Avenue Whittier CA 90604-3245,,,False,tested,,Los Angeles County,33.927535999999996,-118.00039699999999,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-John Swett Unified,Rodeo Hills Elementary,545 Garretson Street Rodeo CA 94572-1418,NA,NA,FALSE,tested,Rodeo,Contra Costa County,38.030959,-122.269471
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+John Swett Unified,Rodeo Hills Elementary,545 Garretson Street Rodeo CA 94572-1418,,,False,tested,Rodeo,Contra Costa County,38.030959,-122.269471,

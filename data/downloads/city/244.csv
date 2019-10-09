@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hemet Unified,Idyllwild,26700 State Highway 243 Idyllwild CA 92549-0097,NA,NA,NA,not tested,Idyllwild-Pine Cove,Riverside County,33.738234,-116.7205
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Coalinga-Huron Unified,Chestnut High (Continuation) School,16673 Palmer Avenue Huron CA 93234,,,False,tested,Huron,Fresno County,36.210305,-120.097265,
+Coalinga-Huron Unified,Huron Elementary,36131 N Street Huron CA 93234,,,False,tested,Huron,Fresno County,36.201307,-120.096658,
+Coalinga-Huron Unified,Huron Middle,16875 Fourth Street Huron CA 93234,,,False,tested,Huron,Fresno County,36.197697,-120.10068100000001,

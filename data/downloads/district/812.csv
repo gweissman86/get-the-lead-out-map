@@ -1,11 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Travis Unified,Cambridge Elementary,100 Cambridge Drive Vacaville CA 95687-6900,NA,NA,NA,not tested,Vacaville,Solano County,38.33321,-121.952134
-Travis Unified,Center Elementary,3101 Markeley Ln Fairfield CA 94533-6676,NA,NA,NA,not tested,Fairfield,Solano County,38.283295,-121.96803
-Travis Unified,Foxboro Elementary,600 Morning Glory Drive Vacaville CA 95687-5300,NA,NA,NA,not tested,Vacaville,Solano County,38.326433,-121.966739
-Travis Unified,Golden West Middle,2651 De Ronde Drive Fairfield CA 94533-9709,NA,NA,NA,not tested,Fairfield,Solano County,38.277633,-121.960617
-Travis Unified,Scandia Elementary,100 Broadway Street Travis AFB CA 94535-1558,NA,NA,NA,not tested,Fairfield,Solano County,38.275222,-121.945633
-Travis Unified,Travis Community Day,2785 De Ronde Drive Fairfield CA 94533,NA,NA,NA,not tested,Fairfield,Solano County,38.28249,-121.960603
-Travis Unified,Travis Education Center,2775 DeRonde Drive Fairfield CA 94533-9710,NA,NA,NA,not tested,Fairfield,Solano County,38.279861,-121.961388
-Travis Unified,Travis Elementary,100 Fairfield Avenue Travis AFB CA 94535-1000,NA,NA,NA,not tested,Fairfield,Solano County,38.280252,-121.948483
-Travis Unified,Travis Independent Study,2751 De Ronde Drive Fairfield CA 94533-9710,NA,NA,NA,not tested,Fairfield,Solano County,38.281294,-121.960602
-Travis Unified,Vanden High,2951 Markeley Lane Fairfield CA 94533-6513,NA,NA,NA,not tested,Fairfield,Solano County,38.282944,-121.961642
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Travis Unified,Cambridge Elementary,100 Cambridge Drive Vacaville CA 95687-6900,,,,not tested,Vacaville,Solano County,38.33321,-121.95213400000002,
+Travis Unified,Center Elementary,3101 Markeley Ln Fairfield CA 94533-6676,,,,not tested,Fairfield,Solano County,38.283295,-121.96803,
+Travis Unified,Foxboro Elementary,600 Morning Glory Drive Vacaville CA 95687-5300,,,,not tested,Vacaville,Solano County,38.326433,-121.96673899999999,
+Travis Unified,Golden West Middle,2651 De Ronde Drive Fairfield CA 94533-9709,,,,not tested,Fairfield,Solano County,38.277633,-121.960617,
+Travis Unified,Scandia Elementary,100 Broadway Street Travis AFB CA 94535-1558,,,,not tested,Fairfield,Solano County,38.275222,-121.945633,
+Travis Unified,Travis Community Day,2785 De Ronde Drive Fairfield CA 94533,,,,not tested,Fairfield,Solano County,38.28249,-121.960603,
+Travis Unified,Travis Education Center,2775 DeRonde Drive Fairfield CA 94533-9710,,,,not tested,Fairfield,Solano County,38.279861,-121.96138799999999,
+Travis Unified,Travis Elementary,100 Fairfield Avenue Travis AFB CA 94535-1000,,,,not tested,Fairfield,Solano County,38.280252000000004,-121.94848300000001,
+Travis Unified,Travis Independent Study,2751 De Ronde Drive Fairfield CA 94533-9710,,,,not tested,Fairfield,Solano County,38.281294,-121.96060200000001,
+Travis Unified,Vanden High,2951 Markeley Lane Fairfield CA 94533-6513,,,,not tested,Fairfield,Solano County,38.282944,-121.961642,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Raymond-Knowles Union Elementary,Raymond-Knowles Elementary,31828 Road 600 Raymond CA 93653-0047,NA,NA,FALSE,tested,NA,Madera County,37.210725,-119.90785
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Raymond-Knowles Union Elementary,Raymond-Knowles Elementary,31828 Road 600 Raymond CA 93653-0047,,,False,tested,,Madera County,37.210725,-119.90785,

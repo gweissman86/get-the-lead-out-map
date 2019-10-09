@@ -1,4 +1,21 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Redlands Unified,Bryn Mawr Elementary,11680 Whittier Avenue Loma Linda CA 92354-4154,NA,NA,FALSE,tested,Loma Linda,San Bernardino County,34.04305,-117.230581
-Private,Loma Linda Academy,10656 Anderson Street Loma Linda CA 92354,NA,NA,FALSE,tested,Loma Linda,San Bernardino County,34.060195,-117.263284
-Redlands Unified,Victoria Elementary,9963 Richardson Street San Bernardino CA 92408-2965,5.65,ppb,TRUE,tested,Loma Linda,San Bernardino County,34.049327,-117.258735
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lodi Unified,Beckman Elementary,2201 Scarborough Drive Lodi CA 95240-6600,,,False,tested,Lodi,San Joaquin County,38.105639000000004,-121.280988,
+Lodi Unified,Clyde W. Needham Elementary,420 South Pleasant Avenue Lodi CA 95240-4033,,,False,tested,Lodi,San Joaquin County,38.128847,-121.27665400000001,
+Lodi Unified,Ellerth E. Larson Elementary,2375 Giannoni Way Lodi CA 95242-4795,,,False,tested,Lodi,San Joaquin County,38.103896,-121.302325,
+Lodi Unified,Erma B. Reese Elementary,1800 West Elm Street Lodi CA 95242-2917,,,False,tested,Lodi,San Joaquin County,38.136127,-121.295418,
+Lodi Unified,George Washington Elementary,831 West Lockeford Street Lodi CA 95240-1633,,,False,tested,Lodi,San Joaquin County,38.138311,-121.283615,
+Lodi Unified,Heritage Elementary,509 Eden Street Lodi CA 95240-4207,,,False,tested,Lodi,San Joaquin County,38.127998,-121.262547,
+Lodi Unified,Joe Serna Jr. Charter,19 South Central Avenue Lodi CA 95240-3148,,,False,tested,Lodi,San Joaquin County,38.133635,-121.26551699999999,
+Lodi Unified,Lakewood Elementary,1100 North Ham Lane Lodi CA 95242-2322,,,False,tested,Lodi,San Joaquin County,38.14629,-121.28853500000001,
+Lodi Unified,Lawrence Elementary,721 Calaveras Street Lodi CA 95240-0628,,,False,tested,Lodi,San Joaquin County,38.142891,-121.26575600000001,
+Lodi Unified,Leroy Nichols Elementary,1301 South Crescent Avenue Lodi CA 95240-6001,,,False,tested,Lodi,San Joaquin County,38.117095,-121.28280600000001,
+Lodi Unified,Liberty High,660 West Walnut Street Lodi CA 95240-3437,,,False,tested,Lodi,San Joaquin County,38.131252,-121.281447,
+Lodi Unified,Lodi Adult,542 East Pine Street Lodi CA 95240-3034,,,False,tested,Lodi,San Joaquin County,38.134078,-121.26231299999999,
+Lodi Unified,Lodi High,3 South Pacific Avenue Lodi CA 95242-3020,8.8,ppb,True,tested,Lodi,San Joaquin County,38.133057,-121.29201200000001,8.8
+Lodi Unified,Lodi Middle,945 South Ham Lane Lodi CA 95242-3822,5.6,ppb,True,tested,Lodi,San Joaquin County,38.122153000000004,-121.28836499999998,5.6
+Lodi Unified,Lois E. Borchardt Elementary,375 Culbertson Drive Lodi CA 95240-8873,,,False,tested,Lodi,San Joaquin County,38.103344,-121.26498899999999,
+Lodi Unified,Millswood Middle,233 North Mills Ave Lodi CA 95242-2954,,,False,tested,Lodi,San Joaquin County,38.137918,-121.297431,
+Lodi Unified,Rio Valley Charter,550 W Century Boulevard Lodi CA 95240-6602,,,False,tested,Lodi,San Joaquin County,38.107174,-121.280253,
+Lodi Unified,Tokay High,1111 West Century Boulevard Lodi CA 95240-6605,,,False,tested,Lodi,San Joaquin County,38.109932,-121.28470800000001,
+Lodi Unified,Vinewood Elementary,1600 West Tokay Street Lodi CA 95242-3435,,,False,tested,Lodi,San Joaquin County,38.126334,-121.29345,
+Lodi Unified,Woodbridge,1290 Lilac Street Lodi CA 95242-9127,,,False,tested,Lodi,San Joaquin County,38.150337,-121.30473500000001,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Le Grand Union High,Le Grand High,12961 East Le Grand Road Le Grand CA 95333-9737,NA,NA,FALSE,tested,Le Grand,Merced County,37.228252,-120.253947
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Le Grand Union High,Le Grand High,12961 East Le Grand Road Le Grand CA 95333-9737,,,False,tested,Le Grand,Merced County,37.228252000000005,-120.253947,

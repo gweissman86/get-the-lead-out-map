@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,Foothills Adventist Elementary,711 Sunnyside Road St. Helena CA 94574,13,ppb,TRUE,tested,St Helena,Napa County,38.537816,-122.468175
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Private,Foothills Adventist Elementary,711 Sunnyside Road St. Helena CA 94574,13.0,ppb,True,tested,St Helena,Napa County,38.537816,-122.468175,14.0

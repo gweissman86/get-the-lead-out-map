@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Auburn Union Elementary,Alta Vista Community Charter,173 Oak Street Auburn CA 95603-4318,NA,NA,FALSE,tested,Auburn,Placer County,38.908487,-121.063474
-Auburn Union Elementary,Auburn Elementary,11400 Lariat Ranch Road Auburn CA 95603-5001,NA,NA,FALSE,tested,NA,Placer County,38.932566,-121.102957
-Auburn Union Elementary,EV Cain 21st Century STEM Charter,150 Palm Avenue Auburn CA 95603-3712,NA,NA,FALSE,tested,Auburn,Placer County,38.906804,-121.078458
-Auburn Union Elementary,Rock Creek Elementary,3050 Bell Road Auburn CA 95603-7849,NA,NA,FALSE,tested,NA,Placer County,38.942051,-121.102301
-Auburn Union Elementary,Skyridge Elementary,800 Perkins Way Auburn CA 95603-5709,NA,NA,FALSE,tested,Auburn,Placer County,38.875067,-121.072992
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Auburn Union Elementary,Alta Vista Community Charter,173 Oak Street Auburn CA 95603-4318,,,False,tested,Auburn,Placer County,38.908487,-121.063474,
+Auburn Union Elementary,Auburn Elementary,11400 Lariat Ranch Road Auburn CA 95603-5001,,,False,tested,,Placer County,38.932565999999994,-121.102957,
+Auburn Union Elementary,EV Cain 21st Century STEM Charter,150 Palm Avenue Auburn CA 95603-3712,,,False,tested,Auburn,Placer County,38.906804,-121.07845800000001,
+Auburn Union Elementary,Rock Creek Elementary,3050 Bell Road Auburn CA 95603-7849,,,False,tested,,Placer County,38.942051,-121.102301,
+Auburn Union Elementary,Skyridge Elementary,800 Perkins Way Auburn CA 95603-5709,,,False,tested,Auburn,Placer County,38.875067,-121.072992,

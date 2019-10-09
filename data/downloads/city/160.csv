@@ -1,9 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Corona-Norco Unified,Clara Barton Elementary,7437 Corona Valley Avenue Eastvale CA 92880-8700,NA,NA,FALSE,tested,Eastvale,Riverside County,33.951898,-117.587966
-Corona-Norco Unified,Dr. Augustine Ramirez Intermediate,6905 Harrison Avenue Eastvale CA 92880-9324,NA,NA,FALSE,tested,Eastvale,Riverside County,33.963254,-117.586086
-Corona-Norco Unified,Eastvale Elementary,13031 Orange Street Eastvale CA 92880-9743,NA,NA,FALSE,tested,Eastvale,Riverside County,33.959641,-117.56799
-Corona-Norco Unified,Eleanor Roosevelt High,7447 Scholar Way Eastvale CA 92880-9750,NA,NA,FALSE,tested,Eastvale,Riverside County,33.953064,-117.568594
-Jurupa Unified,Jurupa Valley High,10551 Bellegrave Avenue Jurupa Valley CA 91752-1800,NA,NA,NA,not tested,Eastvale,Riverside County,34.002287,-117.515233
-Corona-Norco Unified,Rosa Parks Elementary,13830 Whispering Hills Drive Corona CA 92880-3792,NA,NA,FALSE,tested,Eastvale,Riverside County,33.964874,-117.585109
-Jurupa Unified,Troth Street Elementary,5565 Troth Street Jurupa Valley CA 91752-2204,NA,NA,NA,not tested,Eastvale,Riverside County,33.984983,-117.515029
-Jurupa Unified,Van Buren Elementary,9501 Jurupa Road Jurupa Valley CA 92509-3513,NA,NA,NA,not tested,Eastvale,Riverside County,33.992729,-117.513909
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ravenswood City Elementary,Aspire East Palo Alto Charter,1286 Runnymede Street East Palo Alto CA 94303-1332,5.2,ppb,True,tested,East Palo Alto,San Mateo County,37.468619,-122.12809299999999,5.2
+Ravenswood City Elementary,Aspire East Palo Alto Phoenix Academy,1039 Garden St. East Palo Alto CA 94303,,,False,tested,East Palo Alto,San Mateo County,37.467025,-122.131837,
+Ravenswood City Elementary,Brentwood Academy,2086 Clarke Street East Palo Alto CA 94303-1916,,,,not tested,East Palo Alto,San Mateo County,37.462225,-122.133905,
+Ravenswood City School,Brentwood Academy,"2086 Clarke Ave, East Palo Alto, CA 94303",,,,exempt,East Palo Alto,San Mateo County,37.462196999999996,-122.13457,
+Ravenswood City Elementary,Costano Elementary,2695 Fordham Street East Palo Alto CA 94303-1207,,,,not tested,East Palo Alto,San Mateo County,37.478019,-122.139117,
+Ravenswood City School,Costanzo School/49ers Academy,"2695 Fordham St, East Palo Alto, CA 94303",,,,exempt,East Palo Alto,San Mateo County,37.478019,-122.139117,
+Sequoia Union High,East Palo Alto Academy,1050 Myrtle Street East Palo Alto CA 94303,,,False,tested,East Palo Alto,San Mateo County,37.463249,-122.131905,
+Private,Eastside College Preparatory School,1041 Myrtle Street East Palo Alto CA 94303,,,False,tested,East Palo Alto,San Mateo County,37.463584000000004,-122.132157,
+Ravenswood City School,Los Robles Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",,,,exempt,East Palo Alto,San Mateo County,37.462073,-122.13021499999999,
+Ravenswood City Elementary,Los Robles Magnet Academy,2450 Ralmar St. C East Palo Alto CA 94303-1040,,,,not tested,East Palo Alto,San Mateo County,37.472653,-122.145669,
+Ravenswood City School,McNair Academy,"2033 Pulgas Ave, East Palo Alto, CA 94303",,,,exempt,East Palo Alto,San Mateo County,37.462073,-122.13021499999999,
+Ravenswood City Elementary,Ravenswood Child Development Center,951 O'Connor Street East Palo Alto CA 94303-2022,,,,not tested,East Palo Alto,San Mateo County,37.460409000000006,-122.14398700000001,
+Ravenswood City Elementary,Ronald McNair Academy,2033 Pulgas Avenue East Palo Alto CA 94303-2025,,,,not tested,East Palo Alto,San Mateo County,37.462073,-122.13021499999999,
+Ravenswood City School,The Primary School,"951 O' Connor St, East Palo Alto, CA 94303",,,,exempt,East Palo Alto,San Mateo County,37.460829,-122.133501,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-LAUSD,ELLEN OCHOA L.C SPS,"7326 SO. WILCOX AVE., CUDAHY, CA 90201",NA,NA,NA,exempt,Cudahy,Los Angeles County,33.96821,-118.177973
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Chatom Union,Mountain View Middle,10001 Crows Landing Road Turlock CA 95313-9798,,,,not tested,Crows Landing,Stanislaus County,37.491493,-120.995221,

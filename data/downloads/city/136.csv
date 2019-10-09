@@ -1,3 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Ramon Valley Unified,Creekside Elementary,6011 Massara Street Danville CA 94506-5004,NA,NA,FALSE,tested,Danville,Contra Costa County,37.792321,-121.881254
-San Ramon Valley Unified,Montair Elementary,300 Quinterra Lane Danville CA 94526-3239,NA,NA,FALSE,tested,Danville,Contra Costa County,37.819188,-122.004907
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Capistrano Unified,Dana Hills High,33333 Golden Lantern Dana Point CA 92629-1840,,,False,tested,Dana Point,Orange County,33.47806,-117.699933,
+Capistrano Unified,Palisades Elementary,26462 Via Sacramento Capistrano Beach CA 92624-1399,,,False,tested,Dana Point,Orange County,33.461154,-117.66798600000001,
+Capistrano Unified,Richard Henry Dana Elementary,24242 La Cresta Dr Dana Point CA 92629-2561,,,False,tested,Dana Point,Orange County,33.469114000000005,-117.706106,
+Capistrano Unified,Richard Henry Dana Exceptional Needs,24242 La Cresta Drive Dana Point CA 92629-2561,8.5,ppb,True,tested,Dana Point,Orange County,33.469114000000005,-117.706106,11.0

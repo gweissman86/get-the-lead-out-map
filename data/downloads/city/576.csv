@@ -1,19 +1,19 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Chatom Union,Chatom Elementary,7221 Clayton Road Turlock CA 95380-9352,NA,NA,NA,not tested,Turlock,Stanislaus County,37.482156,-120.931952
-Turlock Unified,Crowell Elementary,118 North Avenue Turlock CA 95382-2410,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.509979,-120.847364
-Turlock Unified,Cunningham Elementary,324 West Linwood Avenue Turlock CA 95380-6220,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.478096,-120.855048
-Turlock Unified,Dennis G. Earl Elementary,4091 North Olive Avenue Turlock CA 95382-7261,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.530687,-120.841127
-Turlock Unified,eCademy Charter at Crane,1100 Cahill Avenue Turlock CA 95380-4102,6.92,ppb,TRUE,tested,Turlock,Stanislaus County,37.497192,-120.839786
-Turlock Unified,Fusion Charter,2217 Geer Road Turlock CA 95382-2407,NA,NA,NA,not tested,Turlock,Stanislaus County,37.513516,-120.848777
-Stanislaus County Office of Education,John B. Allard,350 North Kilroy Road Turlock CA 95380-9516,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.496501,-120.876183
-Turlock Unified,John H. Pitman High,2525 West Christofferson Parkway Turlock CA 95382-9509,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.530051,-120.87708
-Turlock Unified,Julien Elementary,1924 East Canal Drive Turlock CA 95380-4222,7.48,ppb,TRUE,tested,Turlock,Stanislaus County,37.500041,-120.826862
-Turlock Unified,Marvin A. Dutcher Middle,1441 Colorado Avenue Turlock CA 95380-2709,5.92,ppb,TRUE,tested,Turlock,Stanislaus County,37.506345,-120.836256
-Turlock Unified,Osborn Two-Way Immersion Academy,201 North Soderquist Road Turlock CA 95380-3723,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.494028,-120.86236
-Turlock Unified,Sandra Tovar Medeiros Elementary,651 West Springer Drive Turlock CA 95382-7314,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.533704,-120.856632
-Turlock Unified,Turlock High,1600 East Canal Drive Turlock CA 95380-4221,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.500042,-120.831607
-Turlock Unified,Turlock Junior High,3951 North Walnut Road Turlock CA 95382-9542,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.528195,-120.868868
-Turlock Unified,Wakefield Elementary,400 South Avenue Turlock CA 95380-5646,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.485445,-120.851498
-Turlock Unified,Walnut Elementary Education Center,4219 North Walnut Road Turlock CA 95382-9678,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.532611,-120.866761
-Turlock Unified,Walter M. Brown Elementary,1400 Georgetown Street Turlock CA 95382-0756,NA,NA,FALSE,tested,Turlock,Stanislaus County,37.517403,-120.86389
-Mountain View Elementary,Willard F. Payne Elementary,2850 North Mountain View Road El Monte CA 91732-3593,NA,NA,NA,not tested,Turlock,Stanislaus County,37.543972,-120.879111
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Chatom Union,Chatom Elementary,7221 Clayton Road Turlock CA 95380-9352,,,,not tested,Turlock,Stanislaus County,37.482155999999996,-120.931952,
+Turlock Unified,Crowell Elementary,118 North Avenue Turlock CA 95382-2410,,,False,tested,Turlock,Stanislaus County,37.509979,-120.84736399999998,
+Turlock Unified,Cunningham Elementary,324 West Linwood Avenue Turlock CA 95380-6220,,,False,tested,Turlock,Stanislaus County,37.478096,-120.855048,
+Turlock Unified,Dennis G. Earl Elementary,4091 North Olive Avenue Turlock CA 95382-7261,,,False,tested,Turlock,Stanislaus County,37.530687,-120.841127,
+Turlock Unified,eCademy Charter at Crane,1100 Cahill Avenue Turlock CA 95380-4102,6.92,ppb,True,tested,Turlock,Stanislaus County,37.497192,-120.839786,6.92
+Turlock Unified,Fusion Charter,2217 Geer Road Turlock CA 95382-2407,,,,not tested,Turlock,Stanislaus County,37.513515999999996,-120.848777,
+Stanislaus County Office of Education,John B. Allard,350 North Kilroy Road Turlock CA 95380-9516,,,False,tested,Turlock,Stanislaus County,37.496501,-120.87618300000001,
+Turlock Unified,John H. Pitman High,2525 West Christofferson Parkway Turlock CA 95382-9509,,,False,tested,Turlock,Stanislaus County,37.530051,-120.87708,
+Turlock Unified,Julien Elementary,1924 East Canal Drive Turlock CA 95380-4222,7.48,ppb,True,tested,Turlock,Stanislaus County,37.500040999999996,-120.826862,7.48
+Turlock Unified,Marvin A. Dutcher Middle,1441 Colorado Avenue Turlock CA 95380-2709,5.92,ppb,True,tested,Turlock,Stanislaus County,37.506345,-120.836256,5.92
+Turlock Unified,Osborn Two-Way Immersion Academy,201 North Soderquist Road Turlock CA 95380-3723,,,False,tested,Turlock,Stanislaus County,37.494028,-120.86236000000001,
+Turlock Unified,Sandra Tovar Medeiros Elementary,651 West Springer Drive Turlock CA 95382-7314,,,False,tested,Turlock,Stanislaus County,37.533704,-120.856632,
+Turlock Unified,Turlock High,1600 East Canal Drive Turlock CA 95380-4221,,,False,tested,Turlock,Stanislaus County,37.500042,-120.831607,
+Turlock Unified,Turlock Junior High,3951 North Walnut Road Turlock CA 95382-9542,,,False,tested,Turlock,Stanislaus County,37.528195000000004,-120.86886799999999,
+Turlock Unified,Wakefield Elementary,400 South Avenue Turlock CA 95380-5646,,,False,tested,Turlock,Stanislaus County,37.485445,-120.85149799999999,
+Turlock Unified,Walnut Elementary Education Center,4219 North Walnut Road Turlock CA 95382-9678,,,False,tested,Turlock,Stanislaus County,37.532610999999996,-120.86676100000001,
+Turlock Unified,Walter M. Brown Elementary,1400 Georgetown Street Turlock CA 95382-0756,,,False,tested,Turlock,Stanislaus County,37.517403,-120.86388999999998,
+Mountain View Elementary,Willard F. Payne Elementary,2850 North Mountain View Road El Monte CA 91732-3593,,,,not tested,Turlock,Stanislaus County,37.543972,-120.87911100000001,

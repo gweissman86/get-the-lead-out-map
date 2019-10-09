@@ -1,16 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Arcadia Unified,Arcadia Adult,150 South Third Ave. Arcadia CA 91006-3703,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.138328,-118.023255
-Arcadia Unified,Arcadia High,180 Campus Drive Arcadia CA 91007-6958,6.3,ppb,TRUE,tested,Arcadia,Los Angeles County,34.130677,-118.037145
-Arcadia Unified,Baldwin Stocker Elementary,422 West Lemon Avenue Arcadia CA 91007-6902,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.118186,-118.046447
-Arcadia Unified,Camino Grove Elementary,700 Camino Grove Avenue Arcadia CA 91007-6902,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.124761,-118.017191
-Arcadia Unified,First Avenue Middle,301 South First Avenue Arcadia CA 91006-3802,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.145538,-118.028452
-Arcadia Unified,Foothills Middle,171 East Sycamore Avenue Arcadia CA 91006-2452,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.152928,-118.026811
-Arcadia Unified,Highland Oaks Elementary,10 Virginia Drive Arcadia CA 91006-1899,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.159895,-118.030958
-Arcadia Unified,Holly Avenue Elementary,360 West Duarte Road Arcadia CA 91007-3097,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.127515,-118.044395
-Arcadia Unified,Hugo Reid Elementary,1000 Hugo Reid Drive Arcadia CA 91007-6179,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.138056,-118.062791
-Acton-Agua Dulce Unified,Method Schools High,317 East Foothill Boulevard Arcadia CA 91006-1848,NA,NA,NA,not tested,Arcadia,Los Angeles County,34.151171,-118.022367
-Acton-Agua Dulce Unified,Method Schools K-8,317 East Foothill Blvd Arcadia CA 91006-1848,NA,NA,NA,not tested,Arcadia,Los Angeles County,34.151171,-118.022367
-Private,Our Lady of the Angels Academy,1100 West Duarte Arcadia CA 91007,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.124048,-118.064758
-Private,Pearl Preparatory,1307 East Longden Avenue Arcadia CA 91006,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.11561,-118.004576
-Arcadia Unified,Rancho Learning Center (Alternative),150 South Third Avenue Arcadia CA 91006-3703,NA,NA,NA,not tested,Arcadia,Los Angeles County,34.138328,-118.023255
-Arcadia Unified,Richard Henry Dana Middle,1401 South First Avenue Arcadia CA 91006-4134,NA,NA,FALSE,tested,Arcadia,Los Angeles County,34.124809,-118.029002
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pajaro Valley Unified,Aptos Junior High,1001 Huntington Drive Aptos CA 95003-4104,,,False,tested,Aptos,Santa Cruz County,36.977334,-121.88258799999998,
+Santa Cruz City High,Delta Charter,6500 Soquel Drive Building 1190 Aptos CA 95003-3119,,,,not tested,Aptos,Santa Cruz County,36.987611,-121.925901,
+Pajaro Valley Unified,Rio del Mar Elementary,819 Pinehurst Drive Aptos CA 95003-5737,,,False,tested,Aptos,Santa Cruz County,36.959623,-121.876631,
+Private,Santa Cruz Montessori,6230 Soquel Drive Aptos CA 95003,,,False,tested,Aptos,Santa Cruz County,36.989349,-121.932129,
+Private,St. Abraham's Classical Christian Academy,1940 Bonita Drive Aptos CA 95003,,,False,tested,Aptos,Santa Cruz County,36.958113,-121.864667,
+Private,Twin Lakes Christian,2701 Cabrillo College Drive Aptos CA 95003,,,False,tested,Aptos,Santa Cruz County,36.985145,-121.928582,

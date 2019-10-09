@@ -1,14 +1,16 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ravenswood City Elementary,Aspire East Palo Alto Charter,1286 Runnymede Street East Palo Alto CA 94303-1332,5.2,ppb,TRUE,tested,East Palo Alto,San Mateo County,37.468619,-122.128093
-Ravenswood City Elementary,Aspire East Palo Alto Phoenix Academy,1039 Garden St. East Palo Alto CA 94303,NA,NA,FALSE,tested,East Palo Alto,San Mateo County,37.467025,-122.131837
-Ravenswood City Elementary,Belle Haven,"415 Ivy Dr, Menlo Park, CA 94025",NA,NA,NA,exempt,NA,San Mateo County,37.476229,-122.160984
-Ravenswood City Elementary,Belle Haven Elementary,415 Ivy Drive Menlo Park CA 94025-1338,NA,NA,NA,not tested,NA,San Mateo County,37.476229,-122.160984
-Ravenswood City Elementary,Brentwood Academy,2086 Clarke Street East Palo Alto CA 94303-1916,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.462225,-122.133905
-Ravenswood City Elementary,Cesar Chavez Elementary,2450 Ralmar St East Palo Alto CA 94303-1040,NA,NA,NA,not tested,NA,San Mateo County,37.473384,-122.147117
-Ravenswood City Elementary,Costano Elementary,2695 Fordham Street East Palo Alto CA 94303-1207,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.478019,-122.139117
-Ravenswood City Elementary,Los Robles Magnet Academy,2450 Ralmar St. C East Palo Alto CA 94303-1040,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.472653,-122.145669
-Ravenswood City Elementary,Ravenswood Child Development Center,951 O'Connor Street East Palo Alto CA 94303-2022,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.460409,-122.143987
-Ravenswood City Elementary,Ronald McNair Academy,2033 Pulgas Avenue East Palo Alto CA 94303-2025,NA,NA,NA,not tested,East Palo Alto,San Mateo County,37.462073,-122.130215
-Ravenswood City Elementary,Willow Oaks,"620 Willow Rd, Menlo Park, CA 94025",NA,NA,NA,exempt,NA,San Mateo County,37.451593,-122.169473
-Ravenswood City Elementary,Willow Oaks,"620 Willow Rd, Menlo Park, CA 94025",NA,NA,NA,exempt,NA,San Mateo County,37.451593,-122.169473
-Ravenswood City Elementary,Willow Oaks Elementary,620 Willow Road Menlo Park CA 94025-2619,NA,NA,NA,not tested,NA,San Mateo County,37.451593,-122.169473
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ravenswood City Elementary,Aspire East Palo Alto Charter,1286 Runnymede Street East Palo Alto CA 94303-1332,5.2,ppb,True,tested,East Palo Alto,San Mateo County,37.468619,-122.12809299999999,5.2
+Ravenswood City Elementary,Aspire East Palo Alto Phoenix Academy,1039 Garden St. East Palo Alto CA 94303,,,False,tested,East Palo Alto,San Mateo County,37.467025,-122.131837,
+Ravenswood City Elementary,Belle Haven,"415 Ivy Dr, Menlo Park, CA 94025",,,,exempt,,San Mateo County,37.476229,-122.16098400000001,
+Ravenswood City Elementary,Belle Haven Elementary,415 Ivy Drive Menlo Park CA 94025-1338,,,,not tested,,San Mateo County,37.476229,-122.16098400000001,
+Ravenswood City Elementary,Brentwood Academy,2086 Clarke Street East Palo Alto CA 94303-1916,,,,not tested,East Palo Alto,San Mateo County,37.462225,-122.133905,
+Ravenswood City Elementary,Cesar Chavez Elementary,2450 Ralmar St East Palo Alto CA 94303-1040,,,,not tested,,San Mateo County,37.473384,-122.147117,
+Ravenswood City Elementary,Costano Elementary,2695 Fordham Street East Palo Alto CA 94303-1207,,,,not tested,East Palo Alto,San Mateo County,37.478019,-122.139117,
+Ravenswood City Elementary,Los Robles Magnet Academy,2450 Ralmar St. C East Palo Alto CA 94303-1040,,,,not tested,East Palo Alto,San Mateo County,37.472653,-122.145669,
+Ravenswood City Elementary,Ravenswood Child Development Center,951 O'Connor Street East Palo Alto CA 94303-2022,,,,not tested,East Palo Alto,San Mateo County,37.460409000000006,-122.14398700000001,
+Ravenswood City Elementary,Ronald McNair Academy,2033 Pulgas Avenue East Palo Alto CA 94303-2025,,,,not tested,East Palo Alto,San Mateo County,37.462073,-122.13021499999999,
+Ravenswood City Elementary,Willow Oaks,"620 Willow Rd, Menlo Park, CA 94025",,,,exempt,,San Mateo County,37.451593,-122.169473,
+Ravenswood City Elementary,Willow Oaks,"620 Willow Rd, Menlo Park, CA 94025",,,,exempt,,San Mateo County,37.451593,-122.169473,
+Ravenswood City Elementary,Willow Oaks,"620 Willow Rd, Menlo Park, CA 94025",,,,exempt,,San Mateo County,37.451593,-122.169473,
+Ravenswood City Elementary,Willow Oaks,"620 Willow Rd, Menlo Park, CA 94025",,,,exempt,,San Mateo County,37.451593,-122.169473,
+Ravenswood City Elementary,Willow Oaks Elementary,620 Willow Road Menlo Park CA 94025-2619,,,,not tested,,San Mateo County,37.451593,-122.169473,

@@ -1,3 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pasadena Unified,Aveson School of Leaders,1919 East Pinecrest Drive Altadena CA 91001-2116,NA,NA,FALSE,tested,Altadena,Los Angeles County,34.192025,-118.111602
-Pasadena Unified,John Muir High,1905 North Lincoln Avenue Pasadena CA 91103-1315,9.3,ppb,TRUE,tested,Altadena,Los Angeles County,34.181632,-118.159697
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Alpine Union Elementary,Creekside Early Learning Center,8818 Harbison Canyon Road Alpine CA 91901-2616,,,False,tested,Alpine,San Diego County,32.833773,-116.815423,
+Alpine Union Elementary,Mountain View Learning Academy,8770 Harbison Canyon Road Alpine CA 91901-2615,5.66,ppb,True,tested,Alpine,San Diego County,32.832623,-116.816024,5.66
+Alpine Union Elementary,Shadow Hills Elementary,8770 Harbison Canyon Road Alpine CA 91901-2615,,,,not tested,Alpine,San Diego County,32.832623,-116.816024,

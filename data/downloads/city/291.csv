@@ -1,3 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Laton Joint Unified,Conejo Middle,6065 East Latonia Laton CA 93242,NA,NA,NA,not tested,Laton,Fresno County,36.431614,-119.688122
-Laton Joint Unified,Laton High,6449 DeWoody Laton CA 93242-0248,NA,NA,NA,not tested,Laton,Fresno County,36.435036,-119.682555
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Manteca Unified,"Joseph Widmer, Jr., Elementary",751 Stonebridge Lane Lathrop CA 95330-8928,,,False,tested,Lathrop,San Joaquin County,37.83762,-121.28040800000001,
+Manteca Unified,Lathrop Elementary,15851 South Fifth Street Lathrop CA 95330-0160,,,False,tested,Lathrop,San Joaquin County,37.817609000000004,-121.279261,
+Manteca Unified,Lathrop High,647 West Lathrop Road Lathrop CA 95330-9770,,,False,tested,Lathrop,San Joaquin County,37.826309,-121.28573300000001,
+Manteca Unified,Mossdale Elementary,455 Brookhurst Boulevard Lathrop CA 95330-8688,,,False,tested,Lathrop,San Joaquin County,37.801953000000005,-121.306307,
+Banta Elementary,NextGeneration STEAM Academy,18001 Commercial Street Lathrop CA 95330-8543,,,,not tested,Lathrop,San Joaquin County,37.796726,-121.319138,
+San Joaquin County Office of Education,River Islands Technology Academy II,1175 Marina Drive Lathrop CA 95330-8543,,,,not tested,Lathrop,San Joaquin County,37.799546,-121.318831,

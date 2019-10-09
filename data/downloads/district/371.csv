@@ -1,13 +1,17 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lafayette Elementary,Burton Valley Elementary,"531 Merriewood Drive., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.862194,-122.09166
-Lafayette Elementary,Burton Valley Elementary,561 Merriewood Drive Lafayette CA 94549-5507,NA,NA,NA,not tested,NA,Contra Costa County,37.863285,-122.092291
-Lafayette Elementary,Happy Valley Elementary,"3855 Happy Valley Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.905045,-122.141677
-Lafayette Elementary,Happy Valley Elementary,3855 Happy Valley Road Lafayette CA 94549-2406,NA,NA,NA,not tested,NA,Contra Costa County,37.905045,-122.141677
-Lafayette Elementary,Lafayette Elementary,"950 Moraga Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.88895,-122.117624
-Lafayette Elementary,Lafayette Elementary,"950 Moraga Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.88895,-122.117624
-Lafayette Elementary,Lafayette Elementary,950 Moraga Road Lafayette CA 94549-4525,NA,NA,NA,not tested,NA,Contra Costa County,37.88895,-122.117624
-Lafayette Elementary,M. H. Stanley Middle,3455 School Street Lafayette CA 94549-4573,NA,NA,NA,not tested,NA,Contra Costa County,37.887646,-122.11565
-Lafayette Elementary,Springhill Elementary,"3301 Springhill Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.90752,-122.101866
-Lafayette Elementary,Springhill Elementary,"3301 Springhill Rd., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.90752,-122.101866
-Lafayette Elementary,Springhill Elementary,3301 Springhill Road Lafayette CA 94549-2519,NA,NA,NA,not tested,NA,Contra Costa County,37.90752,-122.101866
-Lafayette Elementary,Stanley Middle,"3455 School St., Lafayette, CA",NA,NA,NA,exempt,NA,Contra Costa County,37.887646,-122.11565
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lafayette Elementary,Burton Valley Elementary,"531 Merriewood Drive., Lafayette, CA",,,,exempt,,Contra Costa County,37.862194,-122.09166,
+Lafayette Elementary,Burton Valley Elementary,561 Merriewood Drive Lafayette CA 94549-5507,,,,not tested,,Contra Costa County,37.863285,-122.09229099999999,
+Lafayette Elementary,Happy Valley Elementary,"3855 Happy Valley Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.905045,-122.141677,
+Lafayette Elementary,Happy Valley Elementary,3855 Happy Valley Road Lafayette CA 94549-2406,,,,not tested,,Contra Costa County,37.905045,-122.141677,
+Lafayette Elementary,Lafayette Elementary,"950 Moraga Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.88895,-122.11762399999999,
+Lafayette Elementary,Lafayette Elementary,"950 Moraga Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.88895,-122.11762399999999,
+Lafayette Elementary,Lafayette Elementary,"950 Moraga Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.88895,-122.11762399999999,
+Lafayette Elementary,Lafayette Elementary,"950 Moraga Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.88895,-122.11762399999999,
+Lafayette Elementary,Lafayette Elementary,950 Moraga Road Lafayette CA 94549-4525,,,,not tested,,Contra Costa County,37.88895,-122.11762399999999,
+Lafayette Elementary,M. H. Stanley Middle,3455 School Street Lafayette CA 94549-4573,,,,not tested,,Contra Costa County,37.887646000000004,-122.11565,
+Lafayette Elementary,Springhill Elementary,"3301 Springhill Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.90752,-122.10186599999999,
+Lafayette Elementary,Springhill Elementary,"3301 Springhill Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.90752,-122.10186599999999,
+Lafayette Elementary,Springhill Elementary,"3301 Springhill Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.90752,-122.10186599999999,
+Lafayette Elementary,Springhill Elementary,"3301 Springhill Rd., Lafayette, CA",,,,exempt,,Contra Costa County,37.90752,-122.10186599999999,
+Lafayette Elementary,Springhill Elementary,3301 Springhill Road Lafayette CA 94549-2519,,,,not tested,,Contra Costa County,37.90752,-122.10186599999999,
+Lafayette Elementary,Stanley Middle,"3455 School St., Lafayette, CA",,,,exempt,,Contra Costa County,37.887646000000004,-122.11565,

@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Temple City Unified,Cloverly Elementary,5476 Cloverly Avenue Temple City CA 91780-3107,6.45,ppb,TRUE,tested,Temple City,Los Angeles County,34.099465,-118.062415
-Temple City Unified,Dr. Doug Sears Learning Center,9229 Pentland Street Temple City CA 91780-3736,5.8,ppb,TRUE,tested,Temple City,Los Angeles County,34.094076,-118.066708
-Temple City Unified,Emperor Elementary,6415 Muscatel Avenue San Gabriel CA 91775-1845,8.1,ppb,TRUE,tested,San Gabriel,Los Angeles County,34.116197,-118.079482
-Temple City Unified,La Rosa Elementary,9301 La Rosa Drive Temple City CA 91780-3734,NA,NA,FALSE,tested,Temple City,Los Angeles County,34.092887,-118.064999
-Temple City Unified,Oak Avenue Intermediate,6623 Oak Avenue Temple City CA 91780-1310,NA,NA,FALSE,tested,Temple City,Los Angeles County,34.11899,-118.067866
-Temple City Unified,Temple City Adult Education,9229 Pentland Avenue Temple City CA 91780-1305,NA,NA,NA,not tested,Temple City,Los Angeles County,34.094079,-118.067253
-Temple City Unified,Temple City Alternative,9229 Pentland Street Temple City CA 91780-3736,NA,NA,NA,not tested,Temple City,Los Angeles County,34.094076,-118.066708
-Temple City Unified,Temple City High,9501 Lemon Avenue Temple City CA 91780-1305,8.4,ppb,TRUE,tested,Temple City,Los Angeles County,34.119028,-118.065165
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Temple City Unified,Cloverly Elementary,5476 Cloverly Avenue Temple City CA 91780-3107,6.45,ppb,True,tested,Temple City,Los Angeles County,34.099465,-118.06241499999999,7.4
+Temple City Unified,Dr. Doug Sears Learning Center,9229 Pentland Street Temple City CA 91780-3736,5.8,ppb,True,tested,Temple City,Los Angeles County,34.094076,-118.066708,5.8
+Temple City Unified,Emperor Elementary,6415 Muscatel Avenue San Gabriel CA 91775-1845,8.1,ppb,True,tested,San Gabriel,Los Angeles County,34.116197,-118.07948200000001,8.1
+Temple City Unified,La Rosa Elementary,9301 La Rosa Drive Temple City CA 91780-3734,,,False,tested,Temple City,Los Angeles County,34.092887,-118.064999,
+Temple City Unified,Oak Avenue Intermediate,6623 Oak Avenue Temple City CA 91780-1310,,,False,tested,Temple City,Los Angeles County,34.118990000000004,-118.067866,
+Temple City Unified,Temple City Adult Education,9229 Pentland Avenue Temple City CA 91780-1305,,,,not tested,Temple City,Los Angeles County,34.094079,-118.06725300000001,
+Temple City Unified,Temple City Alternative,9229 Pentland Street Temple City CA 91780-3736,,,,not tested,Temple City,Los Angeles County,34.094076,-118.066708,
+Temple City Unified,Temple City High,9501 Lemon Avenue Temple City CA 91780-1305,8.4,ppb,True,tested,Temple City,Los Angeles County,34.119028,-118.065165,8.4

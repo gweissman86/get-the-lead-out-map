@@ -1,2 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,Victory Baptist Christian School,5005 Frank Wilson Road Mariposa CA 95338,5.7,ppb,TRUE,tested,Mariposa,Mariposa County,37.503841,-119.98391
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Monterey Peninsula Unified,Ione Olson Elementary,261 Beach Road Marina CA 93933-2623,,,False,tested,Marina,Monterey County,36.69225,-121.794886,
+Monterey Peninsula Unified,J. C. Crumpton Elementary,460 Carmel Avenue Marina CA 93933-3322,,,False,tested,Marina,Monterey County,36.676969,-121.78753700000001,
+Monterey Peninsula Unified,Los Arboles Middle,294 Hillcrest Avenue Marina CA 93933-3507,,,False,tested,Marina,Monterey County,36.681821,-121.80293700000001,
+Monterey Peninsula Unified,Marina Childrens Center,3066 Lake Drive Marina CA 93933-2805,,,False,tested,Marina,Monterey County,36.684642,-121.806633,
+Monterey Peninsula Unified,Marina High,298 Patton Parkway Marina CA 93933-6007,,,False,tested,Marina,Monterey County,36.674621,-121.79765400000001,
+Monterey Peninsula Unified,Marina Vista Elementary,390 Carmel Avenue Marina CA 93933-3223,,,False,tested,Marina,Monterey County,36.676969,-121.78753700000001,

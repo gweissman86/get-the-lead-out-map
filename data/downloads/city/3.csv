@@ -1,8 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Las Virgenes Unified,Agoura High,28545 West Driver Avenue Agoura CA 91301-3335,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.150409,-118.748907
-Las Virgenes Unified,Buttercup Pre-School,6098 Reyes Adobe Rd Agoura Hills CA 91301-1423,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.147209,-118.781118
-Las Virgenes Unified,Indian Hills Continuation High,28545 West Driver Ave Agoura CA 91301-3335,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.150409,-118.748907
-Las Virgenes Unified,Lindero Canyon Middle,5844 North Larboard Lane Agoura CA 91301-1423,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.157285,-118.786358
-Las Virgenes Unified,Mariposa School of Global Education,6050 North Calmfield Avenue Agoura CA 91301-2104,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.161605,-118.756257
-Las Virgenes Unified,Sumac Elementary,6050 North Calmfield Ave Agoura CA 91301-2104,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.161605,-118.756257
-Las Virgenes Unified,Yerba Buena Elementary,6098 Reyes Adobe Road Agoura Hills CA 91301-2105,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.147209,-118.781118
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Adelanto Elementary,Columbia Middle,14409 Aster Street Adelanto CA 92301-3451,,,,not tested,Adelanto,San Bernardino County,34.512254999999996,-117.433856,
+Adelanto Elementary,Desert Trails Preparatory Academy,14350 Bellflower Road Adelanto CA 92301-0070,,,,not tested,Adelanto,San Bernardino County,34.511569,-117.417274,
+Adelanto Elementary,Donald F. Bradach Elementary,15550 Bellflower Road Adelanto CA 92301-3443,,,,not tested,Adelanto,San Bernardino County,34.533038,-117.417521,

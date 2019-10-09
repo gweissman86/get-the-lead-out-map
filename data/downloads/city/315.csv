@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,Wonderful Prep Academy,20767 Highway 46 Lost Hills CA 93249,NA,NA,FALSE,tested,Lost Hills,Kern County,35.615995,-119.708115
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Union Elementary,Bright Horizons Preschool,220 Belgatos Rd Los Gatos CA 95032,,,False,tested,Los Gatos,Santa Clara County,37.233313,-121.918999,
+Los Gatos Union Elementary,Lexington Elementary,19700 Old Santa Cruz Highway Los Gatos CA 95033,,,False,tested,Los Gatos,Santa Clara County,37.18051,-121.992303,
+Los Gatos-Saratoga Joint Union High,Los Gatos High,20 High School Court Los Gatos CA 95030-6917,,,False,tested,Los Gatos,Santa Clara County,37.222405,-121.976565,

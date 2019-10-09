@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-South San Francisco Unified,Buri Buri Elementary,120 El Campo Drive South San Francisco CA 94080-4159,NA,NA,NA,not tested,South San Francisco,San Mateo County,37.656458,-122.445264
-South San Francisco Unified,Community Day,201 West Orange Avenue South San Francisco CA 94080-4445,NA,NA,NA,not tested,South San Francisco,San Mateo County,37.651973,-122.427835
-South San Francisco Unified,Los Cerritos Elementary,210 West Orange Avenue South San Francisco CA 94080-4444,NA,NA,NA,not tested,South San Francisco,San Mateo County,37.650967,-122.427393
-South San Francisco Unified,Martin Elementary,35 School Street South San Francisco CA 94080-2855,NA,NA,NA,not tested,South San Francisco,San Mateo County,37.663338,-122.409833
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+South San Francisco Unified,Buri Buri Elementary,120 El Campo Drive South San Francisco CA 94080-4159,,,,not tested,South San Francisco,San Mateo County,37.656458,-122.445264,
+South San Francisco Unified,Community Day,201 West Orange Avenue South San Francisco CA 94080-4445,,,,not tested,South San Francisco,San Mateo County,37.651973,-122.42783500000002,
+South San Francisco Unified,Los Cerritos Elementary,210 West Orange Avenue South San Francisco CA 94080-4444,,,,not tested,South San Francisco,San Mateo County,37.650967,-122.427393,
+South San Francisco Unified,Martin Elementary,35 School Street South San Francisco CA 94080-2855,,,,not tested,South San Francisco,San Mateo County,37.663338,-122.409833,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ventura County ROP,Ventura County ROP,465 Horizon Circle Camarillo CA 93010-8596,NA,NA,NA,not tested,Camarillo,Ventura County,34.208112,-119.076248
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ventura County ROP,Ventura County ROP,465 Horizon Circle Camarillo CA 93010-8596,,,,not tested,Camarillo,Ventura County,34.208112,-119.07624799999999,

@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kings Canyon Joint Unified,A. L. Conner Elementary,222 Fourth Street Orange Cove CA 93646-2111,NA,NA,FALSE,tested,Orange Cove,Fresno County,36.62972,-119.307957
-Kings Canyon Joint Unified,Citrus Middle,1400 Anchor Avenue Orange Cove CA 93646-2111,NA,NA,FALSE,tested,Orange Cove,Fresno County,36.624646,-119.322659
-Kings Canyon Joint Unified,McCord Elementary,333 Center Street Orange Cove CA 93646-2056,NA,NA,FALSE,tested,Orange Cove,Fresno County,36.628367,-119.313793
-Kings Canyon Joint Unified,Orange Cove High,1700 Anchor Avenue Orange Cove CA 93646-2374,NA,NA,FALSE,tested,Orange Cove,Fresno County,36.624646,-119.322659
-Kings Canyon Joint Unified,Sheridan Elementary,1001 Ninth Street Orange Cove CA 93646-2311,NA,NA,FALSE,tested,Orange Cove,Fresno County,36.618112,-119.317883
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Kings Canyon Joint Unified,A. L. Conner Elementary,222 Fourth Street Orange Cove CA 93646-2111,,,False,tested,Orange Cove,Fresno County,36.62972,-119.307957,
+Kings Canyon Joint Unified,Citrus Middle,1400 Anchor Avenue Orange Cove CA 93646-2111,,,False,tested,Orange Cove,Fresno County,36.624646000000006,-119.322659,
+Kings Canyon Joint Unified,McCord Elementary,333 Center Street Orange Cove CA 93646-2056,,,False,tested,Orange Cove,Fresno County,36.628367,-119.31379299999999,
+Kings Canyon Joint Unified,Orange Cove High,1700 Anchor Avenue Orange Cove CA 93646-2374,,,False,tested,Orange Cove,Fresno County,36.624646000000006,-119.322659,
+Kings Canyon Joint Unified,Sheridan Elementary,1001 Ninth Street Orange Cove CA 93646-2311,,,False,tested,Orange Cove,Fresno County,36.618111999999996,-119.31788300000001,

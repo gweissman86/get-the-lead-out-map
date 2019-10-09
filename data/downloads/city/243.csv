@@ -1,4 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Coalinga-Huron Unified,Chestnut High (Continuation) School,16673 Palmer Avenue Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.210305,-120.097265
-Coalinga-Huron Unified,Huron Elementary,36131 N Street Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.201307,-120.096658
-Coalinga-Huron Unified,Huron Middle,16875 Fourth Street Huron CA 93234,NA,NA,FALSE,tested,Huron,Fresno County,36.197697,-120.100681
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+LAUSD,ACADEMIA MODERNA @ SRES #5/ROYBAL-ALLARD ES,"3232 SATURN AVE, HUNTINGTON PRK, CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.975882,-118.209826,
+Los Angeles Unified,Aspire Pacific Academy,2565 58th Street Huntington Park CA 90255-4126,,,False,tested,Huntington Park,Los Angeles County,33.990415000000006,-118.226073,
+LAUSD,HOPE STREET ELEMENTARY SCHOOL,"7560 STATE ST, HUNTINGTON PRK, CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.969159999999995,-118.209395,
+LAUSD,HUNTINGTON PARK ELEMENTARY SCHOOL,"6055 CORONA AVE, HUNTINGTON PRK, CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.98488,-118.195075,
+KIPP Los Angeles Schools,KIPP Comienza Community Prep Campus 2,6348 Seville Avenue Huntington Park CA 90255,,,False,tested,Huntington Park,Los Angeles County,33.982082,-118.222372,
+LAUSD,MARQUEZ HS (SRHS #7),"6361 COTTAGE ST, HUNTINGTON PRK, CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.98195,-118.233876,
+LAUSD,MIDDLETON PRIMARY CENTER,"2410 ZOE AVE, HUNTINGTON PRK, CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.978906,-118.22918,
+Los Angeles Unified,Miles Avenue Early Education Center,2855 Saturn Avenue Huntington Park CA 90255,,,False,tested,Huntington Park,Los Angeles County,33.977187,-118.218534,
+LAUSD,PACIFIC BOULEVARD ELEMENTARY SCHOOL,"2660 E 57TH ST, HUNTINGTON PRK, CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.990846000000005,-118.223697,
+Alta Loma Elementary,Prepa Tech Middle School Campus 2,6005 Stafford Ave. Huntington Park CA 90255,,,False,tested,Huntington Park,Los Angeles County,33.986974,-118.221869,
+LAUSD,ROYBAL-ALLARD ES (FRM: SRES #5),"3232 SATURN AVE, HUNTINGTON PRK, CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.975882,-118.209826,
+Los Angeles Unified,Secondary Community Day School,6020 Miles Ave. Huntington Park CA 90255,,,False,tested,Huntington Park,Los Angeles County,33.986631,-118.2189,
+LAUSD,SOUTH REGION ELEMENTARY SCHOOL #5,"3232 SATURN AVE, HUNTINGTON PRK, CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.975882,-118.209826,
+LAUSD,WALNUT PARK ELEMENTARY,"2642 E OLIVE ST, HUNTINGTON PARK,CA 90255",,,,exempt,Huntington Park,Los Angeles County,33.967616,-118.22383400000001,

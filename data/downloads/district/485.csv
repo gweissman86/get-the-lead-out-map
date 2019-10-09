@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Monterey County Office of Education,Arthur B Ingham School,47 San Benancio Road Salinas CA 93908,10.05,ppb,TRUE,tested,Salinas,Monterey County,36.578025,-121.715787
-Monterey County Office of Education,Bard Blades Elementary,1145 Acosta Salinas CA 93905,NA,NA,NA,not tested,Salinas,Monterey County,36.680472,-121.617519
-Monterey County Office of Education,Bay View Academy,222 Casa Verde Avenue Monterey CA 93940-3753,8,ppb,TRUE,tested,Monterey,Monterey County,36.60116,-121.866979
-Monterey County Office of Education,Millennium Charter High,901 Blanco Circle Salinas CA 93901-4401,NA,NA,NA,not tested,Salinas,Monterey County,36.654273,-121.637833
-Monterey County Office of Education,Monterey Bay Charter,1004 David Ave Pacific Grove CA 93950-5443,NA,NA,FALSE,tested,Pacific Grove,Monterey County,36.614004,-121.910687
-Monterey County Office of Education,Monterey County Home Charter,901 Blanco Circle Salinas CA 93901-4401,NA,NA,NA,not tested,Salinas,Monterey County,36.654273,-121.637833
-Monterey County Office of Education,Monterey County Special Education,901 Blanco Circle Salinas CA 93912-0851,NA,NA,NA,not tested,Salinas,Monterey County,36.654273,-121.637833
-Monterey County Office of Education,"Wellington M. Smith, Jr.",1420 Natividad Road Salinas CA 93906,NA,NA,NA,not tested,Salinas,Monterey County,36.697807,-121.636633
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Monterey County Office of Education,Arthur B Ingham School,47 San Benancio Road Salinas CA 93908,10.05,ppb,True,tested,Salinas,Monterey County,36.578025,-121.715787,10.9
+Monterey County Office of Education,Bard Blades Elementary,1145 Acosta Salinas CA 93905,,,,not tested,Salinas,Monterey County,36.680471999999995,-121.617519,
+Monterey County Office of Education,Bay View Academy,222 Casa Verde Avenue Monterey CA 93940-3753,8.0,ppb,True,tested,Monterey,Monterey County,36.60116,-121.866979,8.0
+Monterey County Office of Education,Millennium Charter High,901 Blanco Circle Salinas CA 93901-4401,,,,not tested,Salinas,Monterey County,36.654272999999996,-121.637833,
+Monterey County Office of Education,Monterey Bay Charter,1004 David Ave Pacific Grove CA 93950-5443,,,False,tested,Pacific Grove,Monterey County,36.614004,-121.91068700000001,
+Monterey County Office of Education,Monterey County Home Charter,901 Blanco Circle Salinas CA 93901-4401,,,,not tested,Salinas,Monterey County,36.654272999999996,-121.637833,
+Monterey County Office of Education,Monterey County Special Education,901 Blanco Circle Salinas CA 93912-0851,,,,not tested,Salinas,Monterey County,36.654272999999996,-121.637833,
+Monterey County Office of Education,"Wellington M. Smith, Jr.",1420 Natividad Road Salinas CA 93906,,,,not tested,Salinas,Monterey County,36.697807,-121.636633,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Shasta Union Elementary,Shasta Elementary,10446 Red Bluff Road Shasta CA 96087-3473,NA,NA,FALSE,tested,NA,Shasta County,40.591323,-122.487364
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Shasta Union Elementary,Shasta Elementary,10446 Red Bluff Road Shasta CA 96087-3473,,,False,tested,,Shasta County,40.591322999999996,-122.48736399999999,

@@ -1,14 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Saddleback Valley Unified School Distict,Del Cerro Elementary School,"24382 Regina St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.608417,-117.68135
-Saddleback Valley Unified School Distict,El Toro High School,"25255 Toledo Way, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.636973,-117.687752
-Saddleback Valley Unified School Distict,Foothill Ranch Elementary School,"1 Torino Dr, Foothill Ranch, CA 92610",NA,NA,NA,exempt,Lake Forest,Orange County,33.682052,-117.661726
-Saddleback Valley Unified School Distict,La Madera Elementary School,"25350 Serrano Rd, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.639925,-117.689089
-Saddleback Valley Unified School Distict,La Tierra Early Childhood Center,"24150 Lindley St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.611581,-117.691372
-Saddleback Valley Unified School Distict,Lake Forest Elementary School,"21801 Pittsford Drive, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.644979,-117.671365
-Saddleback Valley Unified School Distict,Los Alisos Intermediate School,"25171 Moor Ave, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.615852,-117.691308
-Saddleback Valley Unified School Distict,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.623464,-117.705787
-Saddleback Valley Unified School Distict,Portola Hills Elementary School,"19422 Saddleback Ranch Rd, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Trabuco Canyon,Orange County,33.679652,-117.631447
-Saddleback Valley Unified School Distict,Rancho Canada Elementary School,"21801 Winding Way, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.646258,-117.69197
-Saddleback Valley Unified School Distict,San Joaquin Elementary School,"22182 Barbera, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.617858,-117.742621
-Saddleback Valley Unified School Distict,Santiago Elementary School,"2212 N Baker St, Santa Ana, CA 92706",NA,NA,NA,exempt,Santa Ana,Orange County,33.764824,-117.882578
-Saddleback Valley Unified School Distict,Serrano Intermediate School,"24642 Jeronimo Rd, Lake Forest, CA 92630",NA,NA,NA,exempt,Lake Forest,Orange County,33.632614,-117.69681
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Saddleback Valley Unified School Distict,Del Cerro Elementary School,"24382 Regina St, Mission Viejo, CA 92691",,,,exempt,Mission Viejo,Orange County,33.608416999999996,-117.68135,
+Saddleback Valley Unified School Distict,El Toro High School,"25255 Toledo Way, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.636973,-117.687752,
+Saddleback Valley Unified School Distict,Foothill Ranch Elementary School,"1 Torino Dr, Foothill Ranch, CA 92610",,,,exempt,Lake Forest,Orange County,33.682052,-117.661726,
+Saddleback Valley Unified School Distict,La Madera Elementary School,"25350 Serrano Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.639925,-117.689089,
+Saddleback Valley Unified School Distict,La Tierra Early Childhood Center,"24150 Lindley St, Mission Viejo, CA 92691",,,,exempt,Mission Viejo,Orange County,33.611581,-117.691372,
+Saddleback Valley Unified School Distict,Lake Forest Elementary School,"21801 Pittsford Drive, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.644979,-117.671365,
+Saddleback Valley Unified School Distict,Los Alisos Intermediate School,"25171 Moor Ave, Mission Viejo, CA 92691",,,,exempt,Mission Viejo,Orange County,33.615852000000004,-117.691308,
+Saddleback Valley Unified School Distict,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.623464,-117.70578700000002,
+Saddleback Valley Unified School Distict,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.623464,-117.70578700000002,
+Saddleback Valley Unified School Distict,Portola Hills Elementary School,"19422 Saddleback Ranch Rd, Trabuco Canyon, CA 92679",,,,exempt,Trabuco Canyon,Orange County,33.679652000000004,-117.631447,
+Saddleback Valley Unified School Distict,Rancho Canada Elementary School,"21801 Winding Way, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.646258,-117.69197,
+Saddleback Valley Unified School Distict,San Joaquin Elementary School,"22182 Barbera, Laguna Hills, CA 92653",,,,exempt,Laguna Hills,Orange County,33.617858,-117.742621,
+Saddleback Valley Unified School Distict,Santiago Elementary School,"2212 N Baker St, Santa Ana, CA 92706",,,,exempt,Santa Ana,Orange County,33.764824,-117.88257800000001,
+Saddleback Valley Unified School Distict,Serrano Intermediate School,"24642 Jeronimo Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.632614000000004,-117.69681000000001,

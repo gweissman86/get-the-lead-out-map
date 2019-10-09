@@ -1,20 +1,20 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paramount Unified,Abraham Lincoln,15324 California Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.894491,-118.158657
-Paramount Unified,Alondra Middle,16200 Downey Avenue Paramount CA 90723-5528,NA,NA,NA,not tested,Paramount,Los Angeles County,33.896405,-118.151499
-Paramount Unified,Buena Vista High,3717 Michelson Street Lakewood CA 90712-1402,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.857246,-118.14714
-Paramount Unified,Captain Raymond Collins,6125 Coke Street Long Beach CA 90805-3925,NA,NA,NA,not tested,Long Beach,Los Angeles County,33.866158,-118.147606
-Paramount Unified,Frank J. Zamboni,15733 South Orange Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.890046,-118.177695
-Paramount Unified,Harry Wirtz Elementary,8535 Contreras Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.901135,-118.15046
-Paramount Unified,Hollydale,5511 Century Boulevard South Gate CA 90280-8114,NA,NA,NA,not tested,Paramount,Los Angeles County,33.916078,-118.171796
-Paramount Unified,Howard Tanner,7210 Rosecrans Avenue Paramount CA 90723-2502,NA,NA,NA,not tested,Paramount,Los Angeles County,33.903761,-118.146324
-Paramount Unified,Leona Jackson,7220 Jackson Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.885585,-118.172534
-Paramount Unified,Los Cerritos,14626 Gundry Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.902996,-118.176707
-Paramount Unified,Major Lynn Mokler,8571 East Flower Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.8822,-118.148611
-Paramount Unified,Mark Keppel,6630 East Mark Keppel Street Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.893283,-118.180615
-Paramount Unified,Odyssey STEM Academy,3701 Michelson St Lakewood CA 90712,NA,NA,NA,not tested,Lakewood,Los Angeles County,33.857027,-118.147679
-Paramount Unified,Paramount Adult,14507 Paramount Blvd. Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.901676,-118.16017
-Paramount Unified,Paramount High,14429 South Downey Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.902503,-118.153525
-Paramount Unified,Paramount Park Middle,14608 Paramount Boulevard Paramount CA 90723-3465,NA,NA,NA,not tested,Paramount,Los Angeles County,33.900891,-118.159965
-Paramount Unified,Paramount Unified Community Day,14507 Paramount Boulevard Paramount CA 90723-3419,NA,NA,NA,not tested,Paramount,Los Angeles County,33.901676,-118.16017
-Paramount Unified,Theodore Roosevelt,13451 Merkel Avenue Paramount CA 90723-4378,NA,NA,NA,not tested,Paramount,Los Angeles County,33.911382,-118.155555
-Paramount Unified,Wesley Gaines,7340 East Jackson Street Paramount CA 90723-4809,NA,NA,NA,not tested,Paramount,Los Angeles County,33.885177,-118.169385
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Paramount Unified,Abraham Lincoln,15324 California Avenue Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.894490999999995,-118.158657,
+Paramount Unified,Alondra Middle,16200 Downey Avenue Paramount CA 90723-5528,,,,not tested,Paramount,Los Angeles County,33.896405,-118.151499,
+Paramount Unified,Buena Vista High,3717 Michelson Street Lakewood CA 90712-1402,,,,not tested,Lakewood,Los Angeles County,33.857246,-118.14714,
+Paramount Unified,Captain Raymond Collins,6125 Coke Street Long Beach CA 90805-3925,,,,not tested,Long Beach,Los Angeles County,33.866158,-118.14760600000001,
+Paramount Unified,Frank J. Zamboni,15733 South Orange Avenue Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.890046000000005,-118.177695,
+Paramount Unified,Harry Wirtz Elementary,8535 Contreras Street Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.901135,-118.15046000000001,
+Paramount Unified,Hollydale,5511 Century Boulevard South Gate CA 90280-8114,,,,not tested,Paramount,Los Angeles County,33.916078000000006,-118.171796,
+Paramount Unified,Howard Tanner,7210 Rosecrans Avenue Paramount CA 90723-2502,,,,not tested,Paramount,Los Angeles County,33.903760999999996,-118.14632399999999,
+Paramount Unified,Leona Jackson,7220 Jackson Street Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.885585,-118.17253400000001,
+Paramount Unified,Los Cerritos,14626 Gundry Avenue Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.902996,-118.17670700000001,
+Paramount Unified,Major Lynn Mokler,8571 East Flower Street Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.8822,-118.14861100000002,
+Paramount Unified,Mark Keppel,6630 East Mark Keppel Street Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.893283000000004,-118.18061499999999,
+Paramount Unified,Odyssey STEM Academy,3701 Michelson St Lakewood CA 90712,,,,not tested,Lakewood,Los Angeles County,33.857027,-118.14767900000001,
+Paramount Unified,Paramount Adult,14507 Paramount Blvd. Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.901676,-118.16017,
+Paramount Unified,Paramount High,14429 South Downey Avenue Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.902503,-118.153525,
+Paramount Unified,Paramount Park Middle,14608 Paramount Boulevard Paramount CA 90723-3465,,,,not tested,Paramount,Los Angeles County,33.900890999999994,-118.15996499999999,
+Paramount Unified,Paramount Unified Community Day,14507 Paramount Boulevard Paramount CA 90723-3419,,,,not tested,Paramount,Los Angeles County,33.901676,-118.16017,
+Paramount Unified,Theodore Roosevelt,13451 Merkel Avenue Paramount CA 90723-4378,,,,not tested,Paramount,Los Angeles County,33.911382,-118.155555,
+Paramount Unified,Wesley Gaines,7340 East Jackson Street Paramount CA 90723-4809,,,,not tested,Paramount,Los Angeles County,33.885177,-118.169385,

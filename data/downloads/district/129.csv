@@ -1,21 +1,21 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Central Unified,Biola-Pershing Elementary,4885 North Biola Avenue Fresno CA 93723-9428,NA,NA,NA,not tested,NA,Fresno County,36.805542,-120.016656
-Central Unified,Central High East Campus,3535 North Cornelia Avenue Fresno CA 93722-7020,NA,NA,FALSE,tested,Fresno,Fresno County,36.787433,-119.88048
-Central Unified,Central Unified Alternative/Opportunity,2698 North Brawley rd Fresno CA 93722-5113,NA,NA,FALSE,tested,Fresno,Fresno County,36.778013,-119.861756
-Central Unified,El Capitan Middle,4443 West Weldon Avenue Fresno CA 93722-5440,NA,NA,FALSE,tested,Fresno,Fresno County,36.768103,-119.873168
-Central Unified,Glacier Point Middle,4055 North Bryan Avenue Fresno CA 93723-9212,NA,NA,FALSE,tested,Fresno,Fresno County,36.795643,-119.907505
-Central Unified,Hanh Phan Tilley Elementary,2280 North Valentine Avenue Fresno CA 93722-5553,NA,NA,FALSE,tested,Fresno,Fresno County,36.769719,-119.853212
-Central Unified,Harvest Elementary,6514 West Gettysburg Avenue Fresno CA 93723-3013,NA,NA,FALSE,tested,Fresno,Fresno County,36.800704,-119.907439
-Central Unified,Herndon-Barstow Elementary,6265 North Grantland Avenue Fresno CA 93723-9334,NA,NA,FALSE,tested,Fresno,Fresno County,36.826903,-119.916656
-Central Unified,James K. Polk Elementary,2195 North Polk Avenue Fresno CA 93722-5052,NA,NA,FALSE,tested,Fresno,Fresno County,36.773924,-119.889233
-Central Unified,John Steinbeck Elementary,3550 North Milburn Avenue Fresno CA 93722-7016,NA,NA,FALSE,tested,Fresno,Fresno County,36.78857,-119.875936
-Central Unified,McKinley Elementary,4444 West McKinley Avenue Fresno CA 93722-5431,8.4,ppb,TRUE,tested,Fresno,Fresno County,36.764636,-119.873802
-Central Unified,Norman Liddell Elementary,5455 West Alluvial Avenue Fresno CA 93722-2361,NA,NA,FALSE,tested,Fresno,Fresno County,36.844169,-119.887799
-Central Unified,Pathway Community Day,11 South Teilman Fresno CA 93706-1332,NA,NA,FALSE,tested,Fresno,Fresno County,36.74286,-119.821966
-Central Unified,Pathway Elementary Community Day,21 South Teilman Fresno CA 93706-1332,NA,NA,FALSE,tested,Fresno,Fresno County,36.742781,-119.821965
-Central Unified,Pershing Continuation High,855 West Nielsen Fresno CA 93706-1700,NA,NA,FALSE,tested,Fresno,Fresno County,36.742763,-119.821417
-Central Unified,Rio Vista Middle,6240 West Palo Alto Fresno CA 93722-2001,NA,NA,FALSE,tested,NA,Fresno County,36.833593,-119.833604
-Central Unified,River Bluff Elementary,6150 West Palo Alto Fresno CA 93722-2000,NA,NA,FALSE,tested,NA,Fresno County,36.833593,-119.833604
-Central Unified,Roosevelt Elementary,2600 North Garfield Ave Fresno CA 93723-9229,NA,NA,NA,not tested,NA,Fresno County,36.777476,-119.925166
-Central Unified,Teague Elementary,4725 North Polk Avenue Fresno CA 93722-5319,NA,NA,FALSE,tested,Fresno,Fresno County,36.805201,-119.889554
-Central Unified,William Saroyan Elementary,5650 West Escalon Avenue Fresno CA 93722-3154,5.8,ppb,TRUE,tested,Fresno,Fresno County,36.826259,-119.8806
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Central Unified,Biola-Pershing Elementary,4885 North Biola Avenue Fresno CA 93723-9428,,,,not tested,,Fresno County,36.805541999999996,-120.01665600000001,
+Central Unified,Central High East Campus,3535 North Cornelia Avenue Fresno CA 93722-7020,,,False,tested,Fresno,Fresno County,36.787433,-119.88048,
+Central Unified,Central Unified Alternative/Opportunity,2698 North Brawley rd Fresno CA 93722-5113,,,False,tested,Fresno,Fresno County,36.778013,-119.861756,
+Central Unified,El Capitan Middle,4443 West Weldon Avenue Fresno CA 93722-5440,,,False,tested,Fresno,Fresno County,36.768103,-119.87316799999999,
+Central Unified,Glacier Point Middle,4055 North Bryan Avenue Fresno CA 93723-9212,,,False,tested,Fresno,Fresno County,36.795643,-119.907505,
+Central Unified,Hanh Phan Tilley Elementary,2280 North Valentine Avenue Fresno CA 93722-5553,,,False,tested,Fresno,Fresno County,36.769719,-119.85321200000001,
+Central Unified,Harvest Elementary,6514 West Gettysburg Avenue Fresno CA 93723-3013,,,False,tested,Fresno,Fresno County,36.800703999999996,-119.907439,
+Central Unified,Herndon-Barstow Elementary,6265 North Grantland Avenue Fresno CA 93723-9334,,,False,tested,Fresno,Fresno County,36.826903,-119.916656,
+Central Unified,James K. Polk Elementary,2195 North Polk Avenue Fresno CA 93722-5052,,,False,tested,Fresno,Fresno County,36.773924,-119.889233,
+Central Unified,John Steinbeck Elementary,3550 North Milburn Avenue Fresno CA 93722-7016,,,False,tested,Fresno,Fresno County,36.78857,-119.87593600000001,
+Central Unified,McKinley Elementary,4444 West McKinley Avenue Fresno CA 93722-5431,8.4,ppb,True,tested,Fresno,Fresno County,36.764635999999996,-119.873802,12.9
+Central Unified,Norman Liddell Elementary,5455 West Alluvial Avenue Fresno CA 93722-2361,,,False,tested,Fresno,Fresno County,36.844169,-119.887799,
+Central Unified,Pathway Community Day,11 South Teilman Fresno CA 93706-1332,,,False,tested,Fresno,Fresno County,36.74286,-119.82196599999999,
+Central Unified,Pathway Elementary Community Day,21 South Teilman Fresno CA 93706-1332,,,False,tested,Fresno,Fresno County,36.742781,-119.82196499999999,
+Central Unified,Pershing Continuation High,855 West Nielsen Fresno CA 93706-1700,,,False,tested,Fresno,Fresno County,36.742763000000004,-119.821417,
+Central Unified,Rio Vista Middle,6240 West Palo Alto Fresno CA 93722-2001,,,False,tested,,Fresno County,36.833593,-119.83360400000001,
+Central Unified,River Bluff Elementary,6150 West Palo Alto Fresno CA 93722-2000,,,False,tested,,Fresno County,36.833593,-119.83360400000001,
+Central Unified,Roosevelt Elementary,2600 North Garfield Ave Fresno CA 93723-9229,,,,not tested,,Fresno County,36.777476,-119.92516599999999,
+Central Unified,Teague Elementary,4725 North Polk Avenue Fresno CA 93722-5319,,,False,tested,Fresno,Fresno County,36.805201000000004,-119.889554,
+Central Unified,William Saroyan Elementary,5650 West Escalon Avenue Fresno CA 93722-3154,5.8,ppb,True,tested,Fresno,Fresno County,36.826259,-119.8806,5.8

@@ -1,4 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Adelanto Elementary,Columbia Middle,14409 Aster Street Adelanto CA 92301-3451,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.512255,-117.433856
-Adelanto Elementary,Desert Trails Preparatory Academy,14350 Bellflower Road Adelanto CA 92301-0070,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.511569,-117.417274
-Adelanto Elementary,Donald F. Bradach Elementary,15550 Bellflower Road Adelanto CA 92301-3443,NA,NA,NA,not tested,Adelanto,San Bernardino County,34.533038,-117.417521
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Acton-Agua Dulce Unified,Meadowlark Elementary,3015 West Sacramento Street Acton CA 93510-2434,7.3,ppb,True,tested,Acton,Los Angeles County,34.474787,-118.18607,7.3

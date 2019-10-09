@@ -1,7 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lucia Mar Unified,Arroyo Grande High,495 Valley Road Arroyo Grande CA 93420-3928,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.114596,-120.581172
-Lucia Mar Unified,Harloe Elementary,901 Fair Oaks Avenue Arroyo Grande CA 93420-3827,9.7,ppb,TRUE,tested,Arroyo Grande,San Luis Obispo County,35.112626,-120.592473
-Lucia Mar Unified,Lopez Continuation High,1055 Mesa View Drive Arroyo Grande CA 93420-3311,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.066165,-120.594369
-Lucia Mar Unified,Mesa Middle,2555 Halcyon Road Arroyo Grande CA 93420-6539,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.07589,-120.581469
-Lucia Mar Unified,Ocean View Elementary,1208 Linda Drive Arroyo Grande CA 93420-2466,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.12351,-120.598378
-Lucia Mar Unified,Paulding Middle,600 Crown Hill Street Arroyo Grande CA 93420-2869,NA,NA,FALSE,tested,Arroyo Grande,San Luis Obispo County,35.126505,-120.571826
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Vallecito Union,Avery Middle,4545 Moran Road Avery CA 95224,,,False,tested,Arnold,Calaveras County,38.201889,-120.36548300000001,
+Vallecito Union,Hazel Fischer Elementary,1605 Blagen Road Arnold CA 95223,,,False,tested,Arnold,Calaveras County,38.264369,-120.341536,

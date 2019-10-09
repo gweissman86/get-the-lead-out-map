@@ -1,34 +1,34 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Marysville Joint Unified,Anna McKenney Intermediate,1904 Huston Marysville CA 95901-3932,NA,NA,FALSE,tested,NA,Yuba County,39.157644,-121.571542
-Marysville Joint Unified,Arboga Elementary,1686 Broadway Olivehurst CA 95961-4230,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.05026,-121.55631
-Wheatland,Bear River,100 Wheatland Park Drive Wheatland CA 95692-9286,NA,NA,FALSE,tested,Wheatland,Yuba County,39.009094,-121.435496
-Camptonville Elementary,Camptonville Elementary,16585 School Street Camptonville CA 95922-0278,NA,NA,FALSE,tested,Camptonville,Yuba County,39.452922,-121.048917
-Marysville Joint Unified,Cedar Lane Elementary,841 Cedar Lane Olivehurst CA 95961-4230,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.123448,-121.584715
-Plumas Lake Elementary,Cobblestone Elementary,1718 Churchill Way Plumas Lake CA 95961-9144,NA,NA,NA,not tested,NA,Yuba County,39.002627,-121.549715
-Camptonville Elementary,CORE Charter School,321 16th Street Marysville CA 95901,NA,NA,NA,not tested,NA,Yuba County,39.152795,-121.588505
-Marysville Joint Unified,Covillaud Elementary,628 F Street Marysville CA 95901-5405,NA,NA,NA,not tested,NA,Yuba County,39.141548,-121.592392
-Marysville Joint Unified,Edgewater Elementary,5715 Oakwood Drive Marysville CA 95901-7343,NA,NA,FALSE,tested,Marysville,Yuba County,39.119801,-121.549427
-Marysville Joint Unified,Ella Elementary,4850 Olivehurst Avenue Olivehurst CA 95961-4230,NA,NA,FALSE,tested,NA,Yuba County,39.094002,-121.552575
-Yuba County Office of Education,Harry P B Carden,1023 14th Street Marysville CA 95901-4149,NA,NA,NA,not tested,NA,Yuba County,39.149713,-121.599768
-Marysville Joint Unified,Johnson Park Elementary,4364 Lever Avenue Olivehurst CA 95961-4230,8.1,ppb,TRUE,tested,NA,Yuba County,39.080984,-121.535672
-Marysville Joint Unified,Kynoch Elementary,1905 Ahern Street Marysville CA 95901-3322,NA,NA,FALSE,tested,NA,Yuba County,39.157259,-121.576312
-Marysville Joint Unified,Linda Elementary,6180 Dunning Avenue Marysville CA 95901-6505,NA,NA,FALSE,tested,Marysville,Yuba County,39.133226,-121.54543
-Marysville Joint Unified,Lindhurst High,4446 Olive Drive Olivehurst CA 95961-4738,9.9,ppb,TRUE,tested,Olivehurst,Yuba County,39.083625,-121.535402
-Wheatland,Lone Tree Elementary,123 Beale Highway Beale Air Force Base CA 95903,NA,NA,FALSE,tested,Beale AFB,Yuba County,39.102394,-121.334553
-Marysville Joint Unified,Marysville Charter Academy for the Arts,1917 B Street Marysville CA 95901-3731,NA,NA,FALSE,tested,NA,Yuba County,39.158552,-121.589486
-Marysville Joint Unified,Marysville Community Day,1919 B Street Marysville CA 95901-3731,NA,NA,NA,not tested,NA,Yuba County,39.158552,-121.589486
-Marysville Joint Unified,Marysville High,12 East 18th Street Marysville CA 95901-3751,NA,NA,FALSE,tested,NA,Yuba County,39.155201,-121.58559
-Marysville Joint Unified,Olivehurst Elementary,1778 McGowan Parkway Olivehurst CA 95961-4799,NA,NA,FALSE,tested,NA,Yuba County,39.076152,-121.550812
-Marysville Joint Unified,Paragon Collegiate Academy,1608 Sampson Street Marysville CA 95901-4314,NA,NA,NA,not tested,NA,Yuba County,39.153663,-121.580368
-Plumas Lake Elementary,Rio Del Oro Elementary,1220 Zanes Drive Plumas Lake CA 95961-9090,NA,NA,FALSE,tested,NA,Yuba County,39.011385,-121.554403
-Plumas Lake Elementary,Riverside Meadows Intermediate,1751 Cimarron Drive Plumas Lake CA 95961-8910,NA,NA,FALSE,tested,NA,Yuba County,38.992188,-121.546534
-Marysville Joint Unified,South Lindhurst Continuation High,4446 Olive Dr. Olivehurst CA 95961-4738,NA,NA,FALSE,tested,Olivehurst,Yuba County,39.083625,-121.535402
-Yuba County Office of Education,Thomas E. Mathews Community,1010 I Street Marysville CA 95901-5132,NA,NA,FALSE,tested,NA,Yuba County,39.145972,-121.597618
-Yuba County Office of Education,Virginia School,801 Olive St Wheatland CA 95692,NA,NA,FALSE,tested,NA,Yuba County,39.014561,-121.417799
-Wheatland,Wheatland Child Development Center,711 West Olive St Wheatland CA 95692,NA,NA,FALSE,tested,Wheatland,Yuba County,39.011239,-121.428877
-Wheatland,Wheatland Elementary,111 Hooper Street Wheatland CA 95692-8215,5.4,ppb,TRUE,tested,NA,Yuba County,39.01105,-121.428225
-Wheatland Union High,Wheatland Union High,1010 Wheatland Rd Wheatland CA 95692-9798,NA,NA,FALSE,tested,NA,Yuba County,39.006431,-121.430465
-Yuba County Office of Education,Yuba County Career Preparatory Charter,1104 E Street Marysville CA 95901-4825,NA,NA,FALSE,tested,NA,Yuba County,39.147097,-121.59164
-Yuba County Office of Education,Yuba County Special Education,935 14th Street Marysville CA 95901-4149,NA,NA,NA,not tested,NA,Yuba County,39.149826,-121.598426
-Marysville Joint Unified,Yuba Feather Elementary,18008 Oregon Hill Road Challenge CA 95925,NA,NA,FALSE,tested,NA,Yuba County,39.481979,-121.220222
-Marysville Joint Unified,Yuba Gardens Intermediate,1964 11th Avenue Olivehurst CA 95961-4532,NA,NA,FALSE,tested,NA,Yuba County,39.086159,-121.543855
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Marysville Joint Unified,Anna McKenney Intermediate,1904 Huston Marysville CA 95901-3932,,,False,tested,,Yuba County,39.157644,-121.571542,
+Marysville Joint Unified,Arboga Elementary,1686 Broadway Olivehurst CA 95961-4230,,,False,tested,Olivehurst,Yuba County,39.050259999999994,-121.55631000000001,
+Wheatland,Bear River,100 Wheatland Park Drive Wheatland CA 95692-9286,,,False,tested,Wheatland,Yuba County,39.009094,-121.435496,
+Camptonville Elementary,Camptonville Elementary,16585 School Street Camptonville CA 95922-0278,,,False,tested,Camptonville,Yuba County,39.452921999999994,-121.04891699999999,
+Marysville Joint Unified,Cedar Lane Elementary,841 Cedar Lane Olivehurst CA 95961-4230,,,False,tested,Olivehurst,Yuba County,39.123447999999996,-121.58471499999999,
+Plumas Lake Elementary,Cobblestone Elementary,1718 Churchill Way Plumas Lake CA 95961-9144,,,,not tested,,Yuba County,39.002627000000004,-121.54971499999999,
+Camptonville Elementary,CORE Charter School,321 16th Street Marysville CA 95901,,,,not tested,,Yuba County,39.152795000000005,-121.588505,
+Marysville Joint Unified,Covillaud Elementary,628 F Street Marysville CA 95901-5405,,,,not tested,,Yuba County,39.141548,-121.59239199999999,
+Marysville Joint Unified,Edgewater Elementary,5715 Oakwood Drive Marysville CA 95901-7343,,,False,tested,Marysville,Yuba County,39.119801,-121.54942700000001,
+Marysville Joint Unified,Ella Elementary,4850 Olivehurst Avenue Olivehurst CA 95961-4230,,,False,tested,,Yuba County,39.094002,-121.552575,
+Yuba County Office of Education,Harry P B Carden,1023 14th Street Marysville CA 95901-4149,,,,not tested,,Yuba County,39.149713,-121.599768,
+Marysville Joint Unified,Johnson Park Elementary,4364 Lever Avenue Olivehurst CA 95961-4230,8.1,ppb,True,tested,,Yuba County,39.080984,-121.53567199999999,8.1
+Marysville Joint Unified,Kynoch Elementary,1905 Ahern Street Marysville CA 95901-3322,,,False,tested,,Yuba County,39.157259,-121.57631200000002,
+Marysville Joint Unified,Linda Elementary,6180 Dunning Avenue Marysville CA 95901-6505,,,False,tested,Marysville,Yuba County,39.133226,-121.54543000000001,
+Marysville Joint Unified,Lindhurst High,4446 Olive Drive Olivehurst CA 95961-4738,9.9,ppb,True,tested,Olivehurst,Yuba County,39.083625,-121.535402,10.0
+Wheatland,Lone Tree Elementary,123 Beale Highway Beale Air Force Base CA 95903,,,False,tested,Beale AFB,Yuba County,39.102394,-121.334553,
+Marysville Joint Unified,Marysville Charter Academy for the Arts,1917 B Street Marysville CA 95901-3731,,,False,tested,,Yuba County,39.158552,-121.58948600000001,
+Marysville Joint Unified,Marysville Community Day,1919 B Street Marysville CA 95901-3731,,,,not tested,,Yuba County,39.158552,-121.58948600000001,
+Marysville Joint Unified,Marysville High,12 East 18th Street Marysville CA 95901-3751,,,False,tested,,Yuba County,39.155201,-121.58559,
+Marysville Joint Unified,Olivehurst Elementary,1778 McGowan Parkway Olivehurst CA 95961-4799,,,False,tested,,Yuba County,39.076152,-121.55081200000001,
+Marysville Joint Unified,Paragon Collegiate Academy,1608 Sampson Street Marysville CA 95901-4314,,,,not tested,,Yuba County,39.153663,-121.58036799999999,
+Plumas Lake Elementary,Rio Del Oro Elementary,1220 Zanes Drive Plumas Lake CA 95961-9090,,,False,tested,,Yuba County,39.011385,-121.55440300000001,
+Plumas Lake Elementary,Riverside Meadows Intermediate,1751 Cimarron Drive Plumas Lake CA 95961-8910,,,False,tested,,Yuba County,38.992188,-121.54653400000001,
+Marysville Joint Unified,South Lindhurst Continuation High,4446 Olive Dr. Olivehurst CA 95961-4738,,,False,tested,Olivehurst,Yuba County,39.083625,-121.535402,
+Yuba County Office of Education,Thomas E. Mathews Community,1010 I Street Marysville CA 95901-5132,,,False,tested,,Yuba County,39.145972,-121.597618,
+Yuba County Office of Education,Virginia School,801 Olive St Wheatland CA 95692,,,False,tested,,Yuba County,39.014561,-121.417799,
+Wheatland,Wheatland Child Development Center,711 West Olive St Wheatland CA 95692,,,False,tested,Wheatland,Yuba County,39.011239,-121.428877,
+Wheatland,Wheatland Elementary,111 Hooper Street Wheatland CA 95692-8215,5.4,ppb,True,tested,,Yuba County,39.01105,-121.428225,5.4
+Wheatland Union High,Wheatland Union High,1010 Wheatland Rd Wheatland CA 95692-9798,,,False,tested,,Yuba County,39.006431,-121.43046499999998,
+Yuba County Office of Education,Yuba County Career Preparatory Charter,1104 E Street Marysville CA 95901-4825,,,False,tested,,Yuba County,39.147096999999995,-121.59163999999998,
+Yuba County Office of Education,Yuba County Special Education,935 14th Street Marysville CA 95901-4149,,,,not tested,,Yuba County,39.149826000000004,-121.598426,
+Marysville Joint Unified,Yuba Feather Elementary,18008 Oregon Hill Road Challenge CA 95925,,,False,tested,,Yuba County,39.481978999999995,-121.22022199999999,
+Marysville Joint Unified,Yuba Gardens Intermediate,1964 11th Avenue Olivehurst CA 95961-4532,,,False,tested,,Yuba County,39.086159,-121.54385500000001,

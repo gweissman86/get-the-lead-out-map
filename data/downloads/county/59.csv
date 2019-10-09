@@ -1,211 +1,211 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ojai Unified,A Place to Grow,414 East Ojai Avenue Ojai CA 93023-2819,NA,NA,FALSE,tested,Ojai,Ventura County,34.448119,-119.242815
-Conejo Valley Unified,Acacia Elementary,55 Norman Avenue Thousand Oaks CA 91360-3599,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.196785,-118.871438
-Ventura Unified,Academy of Technology & Leadership at Saticoy,760 Jazmin Avenue Ventura CA 93004-1826,NA,NA,FALSE,tested,Ventura,Ventura County,34.284934,-119.159152
-Oxnard Union High,Adolfo Camarillo High,4660 Mission Oaks Boulevard Camarillo CA 93012-5132,NA,NA,NA,not tested,Camarillo,Ventura County,34.221949,-119.005171
-Ventura Unified,Anacapa Middle,100 South Mills Road Ventura CA 93003-3434,NA,NA,FALSE,tested,Ventura,Ventura County,34.271744,-119.247357
-Hueneme Elementary,Ansgar Larsen Elementary,550 Thomas Avenue Oxnard CA 93033-5333,19.9,ppb,TRUE,tested,Oxnard,Ventura County,34.169676,-119.172355
-Simi Valley Unified,Apollo High,3150 School Street Simi Valley CA 93065-3998,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.270514,-118.735809
-Oxnard Union High,"Architecture, Construction & Engineering Charter High (ACE)",570 Airport Way Camarillo CA 93010-8500,NA,NA,NA,not tested,Camarillo,Ventura County,34.208374,-119.076202
-Simi Valley Unified,Arroyo Elementary,225 Ulysses Street Simi Valley CA 93065-1739,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.273004,-118.793446
-Moorpark Unified,Arroyo West Elementary,4117 Country Hill Road Moorpark CA 93021-2798,NA,NA,FALSE,tested,Moorpark,Ventura County,34.267017,-118.904861
-Hueneme Elementary,Art Haycox Elementary,5400 Perkins Road Oxnard CA 93033-8812,NA,NA,NA,not tested,Oxnard,Ventura County,34.150221,-119.18265
-Conejo Valley Unified,Aspen Elementary,1870 Oberlin Avenue Thousand Oaks CA 91360-2099,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.202975,-118.883564
-Simi Valley Unified,Atherwood Elementary,2350 East Greensward Street Simi Valley CA 93065-1430,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.284711,-118.751866
-Ventura Unified,Balboa Middle,247 Hill Road Ventura CA 93003-4401,NA,NA,FALSE,tested,Ventura,Ventura County,34.275618,-119.208834
-Conejo Valley Unified,Banyan Elementary,1120 Knollwood Drive Newbury Park CA 91320-5599,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.158223,-118.953448
-Santa Paula Unified,Barbara Webster Elementary,1150 Saticoy Street Santa Paula CA 93060-0710,6.8,ppb,TRUE,tested,Santa Paula,Ventura County,34.359989,-119.059108
-Simi Valley Unified,Berylwood Elementary,2300 Heywood Street Simi Valley CA 93065-3622,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.268332,-118.75148
-Simi Valley Unified,Big Springs Elementary,3401 Big Springs Avenue Simi Valley CA 93063-1399,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.297219,-118.701016
-Santa Paula Unified,Blanchard Elementary,115 Peck Road Santa Paula CA 93060-3013,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.343068,-119.086599
-Ventura Unified,Blanche Reynolds Elementary,450 Valmore Ave. Ventura CA 93003-4799,NA,NA,NA,not tested,Ventura,Ventura County,34.265666,-119.254244
-Ventura County Office of Education,BRIDGES Charter,1335 Calle Bouganvilla Thousand Oaks CA 91360-6604,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.211537,-118.856073
-Briggs Elementary,Briggs Elementary,14438 West Telegraph Road Santa Paula CA 93060-3088,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.327403,-119.106654
-Oak Park Unified,Brookside Elementary,165 North Satinwood Avenue Oak Park CA 91377-1214,NA,NA,FALSE,tested,Oak Park,Ventura County,34.172352,-118.756012
-Ventura Unified,Buena High,5670 Telegraph Road Ventura CA 93003-4204,NA,NA,FALSE,tested,Ventura,Ventura County,34.277493,-119.217528
-Ventura Unified,Cabrillo Middle,1426 East Santa Clara Street Ventura CA 93001-3211,NA,NA,FALSE,tested,Ventura,Ventura County,34.279579,-119.279871
-Oxnard Union High,Camarillo Academy of Progressive Education,777 Aileen Street Camarillo CA 93010-2959,NA,NA,NA,not tested,Camarillo,Ventura County,34.225916,-119.059498
-Pleasant Valley,Camarillo Heights Elementary,35 Catalina Drive Camarillo CA 93010-1120,NA,NA,FALSE,tested,Camarillo,Ventura County,34.241399,-119.047507
-Moorpark Unified,Campus Canyon Elementary,15300 Monroe Avenue Moorpark CA 93021-3200,NA,NA,FALSE,tested,Moorpark,Ventura County,34.300625,-118.844487
-Pleasant Valley,Cape Charter School,777 Aileen St. Camarillo CA 93010,NA,NA,FALSE,tested,Camarillo,Ventura County,34.22661,-119.059539
-Ventura County Office of Education,Carl Dwire Jr Special School,3150 Via Marina Ave Oxnard CA 93030,10.05,ppb,TRUE,tested,Oxnard,Ventura County,34.188416,-119.213808
-Conejo Valley Unified,Century Academy,1025 Old Farm School Road Thousand Oaks CA 91360-4941,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.204986,-118.860045
-Oxnard,Cesar E. Chavez Elementary,301 North Marquita Street Oxnard CA 93030-3792,NA,NA,FALSE,tested,Oxnard,Ventura County,34.205116,-119.166638
-Oxnard Union High,Channel Islands High,1400 Raiders Way Oxnard CA 93033-5699,NA,NA,FALSE,tested,Oxnard,Ventura County,34.171119,-119.162639
-Ojai Unified,Chaparral High,114 North Montgomery Ojai CA 93023-2742,7.4,ppb,TRUE,tested,Ojai,Ventura County,34.44823,-119.242925
-Moorpark Unified,Chaparral Middle,280 Poindexter Road Moorpark CA 93021-1864,7.5,ppb,TRUE,tested,Moorpark,Ventura County,34.283917,-118.886034
-Hueneme Elementary,Charles Blackstock Junior High,701 East Bard Road Oxnard CA 93033-7265,NA,NA,NA,not tested,Oxnard,Ventura County,34.163754,-119.171673
-Oxnard,Christa McAuliffe Elementary,3300 West Via Marina Avenue Oxnard CA 93035-2440,NA,NA,FALSE,tested,Oxnard,Ventura County,34.18842,-119.214829
-Ventura Unified,Citrus Glen Elementary,9655 Darling Road Ventura CA 93004-3778,NA,NA,FALSE,tested,Ventura,Ventura County,34.277072,-119.171628
-Conejo Valley Unified,Colina Middle,1500 East Hillcrest Drive Thousand Oaks CA 91362-2599,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.182156,-118.853861
-Moorpark Unified,Community High,4500 Tierra Rejada Rd. Moorpark CA 93021-1852,NA,NA,NA,not tested,Moorpark,Ventura County,34.27091,-118.897498
-Oxnard Union High,Condor High,4000 S Rose Ave Oxnard CA 93033,NA,NA,NA,not tested,Oxnard,Ventura County,34.163043,-119.159316
-Private,Conejo Adventist Elementary School,1250 Academy Drive Newbury Park CA 91320,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.195528,-118.93727
-Conejo Valley Unified,Conejo Elementary,280 North Conejo School Road Thousand Oaks CA 91362-3199,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.178158,-118.842465
-Conejo Valley Unified,Conejo Valley High (Continuation),1872 Newbury Road Newbury Park CA 91320-3495,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.183865,-118.920307
-Simi Valley Unified,Crestview Elementary,900 Crosby Avenue Simi Valley CA 93065-5015,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.255002,-118.750419
-Oxnard,Curren Elementary,1101 North F Street Oxnard CA 93030-4003,NA,NA,FALSE,tested,Oxnard,Ventura County,34.212468,-119.186145
-Conejo Valley Unified,Cypress Elementary,4200 Kimber Drive Newbury Park CA 91320-4898,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.170841,-118.963016
-Ventura Unified,De Anza Academy of Technology and the Arts,2060 Cameron St Ventura CA 93001-1425,NA,NA,FALSE,tested,Ventura,Ventura County,34.301139,-119.292444
-Ventura County Office of Education,Dorothy Boswell School,5190 Loma Vista Rd. Ventura CA 93003,NA,NA,NA,not tested,Ventura,Ventura County,34.279902,-119.225696
-Pleasant Valley,Dos Caminos Elementary,3635 Appian Way Camarillo CA 93010-4099,NA,NA,FALSE,tested,Camarillo,Ventura County,34.237444,-119.020958
-Ventura County Office of Education,Douglas Penfield School,640 Jazmin Ave Ventura CA 93004,NA,NA,NA,not tested,Ventura,Ventura County,34.28614,-119.160839
-Oxnard,Driffill Elementary,910 South E Street Oxnard CA 93030-7442,NA,NA,FALSE,tested,Oxnard,Ventura County,34.191742,-119.183262
-Hueneme Elementary,E. O. Green Junior High,3739 South C Street Oxnard CA 93033-6111,NA,NA,NA,not tested,Oxnard,Ventura County,34.164418,-119.18202
-Ventura Unified,E. P. Foster Elementary,20 Pleasant Place Ventura CA 93001-1326,NA,NA,NA,not tested,Ventura,Ventura County,34.296653,-119.29652
-Ventura Unified,El Camino High,61 Day Road Ventura CA 93023-2037,NA,NA,FALSE,tested,Ventura,Ventura County,34.27738,-119.226808
-Oxnard,Elm Street Elementary,450 East Elm Street Oxnard CA 93033-3646,NA,NA,NA,not tested,Oxnard,Ventura County,34.18266,-119.172155
-Ventura Unified,Elmhurst Elementary,5080 Elmhurst Street Ventura CA 93003-3999,NA,NA,NA,not tested,Ventura,Ventura County,34.272388,-119.226309
-Oxnard,Emilie Ritchen Elementary,2200 Cabrillo Way Oxnard CA 93030-3106,NA,NA,FALSE,tested,Oxnard,Ventura County,34.215544,-119.2016
-Conejo Valley Unified,Environmental Academy of Research Technology and Earth Sciences,2626 Michael Drive Newbury Park CA 91320-3252,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.183072,-118.931955
-Moorpark Unified,Flory Academy of Sciences and Technology,240 Flory Avenue Moorpark CA 93021-1863,NA,NA,FALSE,tested,Moorpark,Ventura County,34.27998,-118.880896
-Ventura Unified,Foothill Technology High,100 Day Road Ventura CA 93003-2040,NA,NA,FALSE,tested,Ventura,Ventura County,34.279027,-119.225876
-Hueneme Elementary,Fred L. Williams Elementary,4300 Anchorage Street Oxnard CA 93033-7429,NA,NA,NA,not tested,Oxnard,Ventura County,34.160947,-119.162796
-Oxnard,"Fremont, Middle",1130 North M Street Oxnard CA 93030-3906,NA,NA,FALSE,tested,Oxnard,Ventura County,34.212914,-119.191714
-Oxnard Union High,Frontier High,545 Airport Way Camarillo CA 93010-8581,NA,NA,FALSE,tested,Camarillo,Ventura County,34.208443,-119.076396
-Simi Valley Unified,Garden Grove Elementary,2250 North Tracy Avenue Simi Valley CA 93063-2753,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.276944,-118.72308
-Ventura County Office of Education,Gateway Community,200 Horizon Circle Camarillo CA 93010-8596,NA,NA,NA,not tested,Camarillo,Ventura County,34.208278,-119.076219
-Santa Paula Unified,Glen City Elementary,141 Steckel Drive Santa Paula CA 93060-0710,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.346722,-119.079321
-Conejo Valley Unified,Glenwood Elementary,1135 Windsor Drive Thousand Oaks CA 91360-5228,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.193731,-118.865687
-Santa Paula Unified,Grace S. Thille Elementary,1144 Ventura Street Santa Paula CA 93060-2910,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.352984,-119.05613
-Oxnard,Harrington Elementary,451 East Olive Street Oxnard CA 93033-4699,NA,NA,FALSE,tested,Oxnard,Ventura County,34.17519,-119.173542
-Simi Valley Unified,Hillside Middle,2222 East Fitzgerald Road Simi Valley CA 93065-4936,7.7,ppb,TRUE,tested,Simi Valley,Ventura County,34.256332,-118.754618
-Simi Valley Unified,Hollow Hills Elementary,828 Gibson Avenue Simi Valley CA 93065-5665,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.256197,-118.765207
-Hueneme Elementary,Hollywood Beach Elementary,4000 Sunset Ln. Oxnard CA 93035-3949,NA,NA,FALSE,tested,Oxnard,Ventura County,34.170798,-119.231967
-Private,Hueneme Christian School,312 North Ventura Road Port Hueneme CA 93041,NA,NA,FALSE,tested,Port Hueneme,Ventura County,34.150875,-119.195376
-Hueneme Elementary,Hueneme Elementary,354 North Third Street Port Hueneme CA 93041-2904,NA,NA,FALSE,tested,Port Hueneme,Ventura County,34.150939,-119.196163
-Oxnard Union High,Hueneme High,500 West Bard Road Oxnard CA 93033-6306,NA,NA,FALSE,tested,Oxnard,Ventura County,34.159094,-119.182326
-Santa Paula Unified,Isbell Middle,221 South Fourth Street Santa Paula CA 93060-3301,12.3,ppb,TRUE,tested,Santa Paula,Ventura County,34.349176,-119.066084
-Moorpark Unified,IvyTech Charter,6591 Collins Drive Suite E4 Moorpark CA 93021-1492,NA,NA,NA,not tested,Moorpark,Ventura County,34.294269,-118.843795
-Ventura County Office of Education,James Foster Jr High School,800 Morado Pl Oxnard CA 93035,NA,NA,NA,not tested,Oxnard,Ventura County,34.211674,-119.169548
-Oxnard,Juan Lagunas Soria Elementary,3101 Dunkirk Drive Oxnard CA 93035-1203,NA,NA,NA,not tested,Oxnard,Ventura County,34.19708,-119.211625
-Ventura Unified,Juanamaria Elementary,100 South Crocker Avenue Ventura CA 93004-1535,NA,NA,FALSE,tested,Ventura,Ventura County,34.280363,-119.190132
-Hueneme Elementary,Julien Hathaway Elementary,405 East Dollie Street Oxnard CA 93033-7621,NA,NA,NA,not tested,Oxnard,Ventura County,34.158337,-119.174144
-Ventura Unified,Junipero Serra Elementary,8880 Halifax Street Ventura CA 93004-2623,NA,NA,FALSE,tested,Ventura,Ventura County,34.26799,-119.173991
-Simi Valley Unified,Justin Early Learners Academy,2245 North Justin Avenue Simi Valley CA 93065-2543,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.276049,-118.754853
-Oxnard,Kamala Elementary,634 West Kamala Street Oxnard CA 93033-3407,NA,NA,FALSE,tested,Oxnard,Ventura County,34.178648,-119.184332
-Simi Valley Unified,Katherine Elementary,5455 Katherine Street Simi Valley CA 93063-4556,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.266771,-118.687113
-Simi Valley Unified,Knolls Elementary,6334 Katherine Road Simi Valley CA 93063-4439,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.265164,-118.66625
-Pleasant Valley,La Mariposa,4800 Corte Olivas Camarillo CA 93012-4043,NA,NA,FALSE,tested,Camarillo,Ventura County,34.233871,-119.008795
-Conejo Valley Unified,Ladera Elementary,1211 Calle Almendro Thousand Oaks CA 91360-6499,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.217253,-118.857667
-Ocean View,Laguna Vista Elementary,5084 Etting Road Oxnard CA 93033-5904,5.3,ppb,TRUE,tested,Oxnard,Ventura County,34.161767,-119.147012
-Conejo Valley Unified,Lang Ranch,2450 Whitechapel Place Thousand Oaks CA 91362-5399,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.220037,-118.83268
-Pleasant Valley,Las Colinas Middle,5750 Fieldcrest Drive Camarillo CA 93012-4303,NA,NA,FALSE,tested,Camarillo,Ventura County,34.233366,-118.992891
-Pleasant Valley,Las Posas Elementary,75 Calle La Guerra Camarillo CA 93010-4801,NA,NA,FALSE,tested,Camarillo,Ventura County,34.227522,-119.068633
-Oxnard,Lemonwood Elementary,2200 Carnegie Street Oxnard CA 93033-4038,NA,NA,FALSE,tested,Oxnard,Ventura County,34.178403,-119.154618
-Ventura Unified,Lincoln Elementary,1107 East Santa Clara Street Ventura CA 93001-3125,7.85,ppb,TRUE,tested,Ventura,Ventura County,34.279637,-119.283704
-Ventura Unified,Loma Vista Elementary,300 Lynn Drive Ventura CA 93003-1036,NA,NA,FALSE,tested,Ventura,Ventura County,34.279425,-119.250434
-Conejo Valley Unified,Los Cerritos Middle,2100 Avenida de las Flores Thousand Oaks CA 91362-1599,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.207214,-118.84044
-Pleasant Valley,Los Primeros School of Sciences & Arts,1555 Kendall Avenue Camarillo CA 93010-3607,NA,NA,FALSE,tested,Camarillo,Ventura County,34.233432,-119.030376
-Simi Valley Unified,Madera Elementary,250 Royal Ave. Simi Valley CA 93065,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.264335,-118.794123
-Conejo Valley Unified,Madrona Elementary,612 Camino Manzanas Thousand Oaks CA 91360-2199,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.198833,-118.892336
-Conejo Valley Unified,Maple Elementary,3501 Kimber Drive Newbury Park CA 91320-4399,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.173415,-118.950837
-Ocean View,Mar Vista Elementary,2382 Etting Road Oxnard CA 93033-6864,NA,NA,FALSE,tested,Oxnard,Ventura County,34.161657,-119.143353
-Oxnard,Marina West Elementary,2501 Carob Street Oxnard CA 93035-3334,NA,NA,FALSE,tested,Oxnard,Ventura County,34.183961,-119.204701
-Ojai Unified,Matilija Junior High,703 El Paseo Road Ojai CA 93023-2499,NA,NA,FALSE,tested,Ojai,Ventura County,34.445947,-119.255441
-Santa Paula Unified,McKevett Elementary,955 East Pleasant Street Santa Paula CA 93060-2158,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.358096,-119.063934
-Oxnard,McKinna Elementary,1611 South J Street Oxnard CA 93033-3110,14,ppb,TRUE,tested,Oxnard,Ventura County,34.183699,-119.189157
-Ventura County Office of Education,Meadows Arts and Technology Elementary,2000 La Granada Drive Thousand Oaks CA 91362-2099,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.193271,-118.841291
-Oak Park Unified,Medea Creek Middle,1002 Doubletree Road Oak Park CA 91377-3900,NA,NA,FALSE,tested,NA,Ventura County,34.181311,-118.765213
-Ojai Unified,Meiners Oaks Elementary,400 South Lomita Avenue Ojai CA 93023-2221,20.4,ppb,TRUE,tested,Ojai,Ventura County,34.444033,-119.277897
-Mesa Union Elementary,Mesa Elementary,3901 North Mesa School Road Somis CA 93066-9734,NA,NA,NA,not tested,Somis,Ventura County,34.262126,-119.095033
-Moorpark Unified,Mesa Verde Middle,14000 Peach Hill Road Moorpark CA 93021-3554,NA,NA,FALSE,tested,Moorpark,Ventura County,34.270939,-118.867022
-Ojai Unified,Mira Monte Elementary,1216 Loma Drive Ojai CA 93023-3825,NA,NA,FALSE,tested,Ojai,Ventura County,34.433327,-119.279496
-Ventura Unified,Montalvo Elementary,2050 Grand Avenue Ventura CA 93003-6729,NA,NA,NA,not tested,Ventura,Ventura County,34.255678,-119.207629
-Simi Valley Unified,Monte Vista,1220 Fourth Street Simi Valley CA 93065-4359,11,ppb,TRUE,tested,Simi Valley,Ventura County,34.26131,-118.781033
-Pleasant Valley,Monte Vista Middle,888 North Lantana Street Camarillo CA 93010-3023,NA,NA,FALSE,tested,Camarillo,Ventura County,34.22622,-119.054781
-Moorpark Unified,Moorpark Adult Education,4500 Tierra Rejada Road B Moorpark CA 93021-9772,NA,NA,NA,not tested,Moorpark,Ventura County,34.27091,-118.897498
-Moorpark Unified,Moorpark High,4500 Tierra Rejada Road Moorpark CA 93021-9772,NA,NA,FALSE,tested,Moorpark,Ventura County,34.27091,-118.897498
-Ventura Unified,Mound Elementary,455 South Hill Road Ventura CA 93003-4402,NA,NA,FALSE,tested,Ventura,Ventura County,34.273219,-119.207951
-Moorpark Unified,Mountain Meadows Elementary,4200 Mountain Meadow Drive Moorpark CA 93021-2700,NA,NA,FALSE,tested,Moorpark,Ventura County,34.266085,-118.901181
-Simi Valley Unified,Mountain View Elementary,2925 Fletcher Avenue Simi Valley CA 93065-5270,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.257898,-118.738501
-Mupu Elementary,Mupu Elementary,4410 North Ojai Road Santa Paula CA 93060-9681,6.7,ppb,TRUE,tested,Santa Paula,Ventura County,34.371382,-119.064564
-Conejo Valley Unified,Newbury Park High,456 North Reino Road Newbury Park CA 91320-3798,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.184486,-118.951788
-Ojai Unified,Nordhoff High,1401 Maricopa Highway Ojai CA 93023-3132,NA,NA,FALSE,tested,Ojai,Ventura County,34.44295,-119.267628
-Oxnard,Norman R. Brekke Elementary,"1400 Martin Luther King, Junior Drive Oxnard CA 93030-7600",NA,NA,NA,not tested,Oxnard,Ventura County,34.214486,-119.163353
-Oak Park Unified,Oak Hills Elementary,1010 Kanan Road Oak Park CA 91377-4826,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.184977,-118.785657
-Oak Park Unified,Oak Park High,899 Kanan Road Oak Park CA 91377-3904,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.181168,-118.769067
-Oak Park Unified,Oak Park Independent,5801 Conifer Street Oak Park CA 91377-1072,NA,NA,FALSE,tested,NA,Ventura County,34.170965,-118.763316
-Oak Park Unified,Oak Park Neighborhood Learning,1010 North Kanan Road Oak Park CA 91377-4826,NA,NA,FALSE,tested,Oak Park,Ventura County,34.179714,-118.7772
-Oak Park Unified,Oak View High,5701 Conifer Street Oak Park CA 91377-1072,NA,NA,FALSE,tested,NA,Ventura County,34.170973,-118.764314
-Ocean View,Ocean View Early Education,4600 Olds Road Oxnard CA 93033-8062,NA,NA,FALSE,tested,Oxnard,Ventura County,34.158927,-119.148758
-Ocean View,Ocean View Junior High,4300 Olds Road Oxnard CA 93033-8051,NA,NA,FALSE,tested,Oxnard,Ventura County,34.160968,-119.148696
-Briggs Elementary,Olivelands Elementary,12465 Foothill Rd. Santa Paula CA 93060-9714,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.326395,-119.140907
-Oxnard Union High,Oxnard High,3400 West Gonzales Road Oxnard CA 93036-7768,NA,NA,NA,not tested,Oxnard,Ventura County,34.219366,-119.198599
-Ventura Unified,Pacific High,501 College Drive Ventura CA 93003-3413,8.85,ppb,TRUE,tested,Ventura,Ventura County,34.268165,-119.241887
-Oxnard Union High,Pacifica High,600 East Gonzales Road Oxnard CA 93036-8266,NA,NA,FALSE,tested,Oxnard,Ventura County,34.218099,-119.170997
-Simi Valley Unified,Park View Elementary,1500 Alexander Street Simi Valley CA 93065-2059,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.275907,-118.769607
-Hueneme Elementary,Parkview Elementary,1416 Sixth Place Port Hueneme CA 93041-2408,NA,NA,FALSE,tested,Port Hueneme,Ventura County,34.161941,-119.190611
-Private,Passageway,1153 Lawrence Drive Newbury Park CA 91320,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.194312,-118.930347
-Moorpark Unified,Peach Hill Academy,13400 Christian Barrett Drive Moorpark CA 93021-2817,NA,NA,FALSE,tested,Moorpark,Ventura County,34.266544,-118.874525
-Ventura Unified,Pierpont Elementary,1254 Marthas Vineyard Court Ventura CA 93001-4014,NA,NA,FALSE,tested,Ventura,Ventura County,34.258355,-119.271251
-Fillmore Unified,Piru Elementary,3811 East Center Street Piru CA 93040-0215,NA,NA,NA,not tested,Piru,Ventura County,34.415636,-118.798157
-Pleasant Valley,Pleasant Valley School of Engineering,700 Temple Ave. Camarillo CA 93010,5.6,ppb,TRUE,tested,Camarillo,Ventura County,34.224821,-119.029182
-Pleasant Valley,Pleasant Valley School of Engineering and Arts,1099 North Bedford Drive Camarillo CA 93010-4511,NA,NA,NA,not tested,Camarillo,Ventura County,34.228782,-119.04686
-Pleasant Valley,Pleasant Valley School of Engineering and Arts Early Education Center,550 Temple Ave. Camarillo CA 93010,7.5,ppb,TRUE,tested,Camarillo,Ventura County,34.223161,-119.029945
-Ventura Unified,Poinsettia Elementary,350 North Victoria Avenue Ventura CA 93003-2344,NA,NA,NA,not tested,Ventura,Ventura County,34.284395,-119.215866
-Ventura Unified,Portola Elementary,6700 Eagle Street Ventura CA 93003-0599,NA,NA,FALSE,tested,Ventura,Ventura County,34.265119,-119.203026
-Pleasant Valley,Preschool Early Education Program PEEP,3635 Appian Way B Camarillo CA 93010-4050,NA,NA,NA,not tested,Camarillo,Ventura County,34.237444,-119.020958
-Oxnard,Ramona Elementary,804 Cooper Road Oxnard CA 93030-5430,6.7,ppb,TRUE,tested,Oxnard,Ventura County,34.20426,-119.170298
-Oxnard Union High,Rancho Campana High,4235 Mar Vista Drive Camarillo CA 93010,NA,NA,NA,not tested,Camarillo,Ventura County,34.244586,-119.01432
-Pleasant Valley,Rancho Rosal Elementary,3535 Village at the Park Drive Camarillo CA 93012-7788,NA,NA,FALSE,tested,Camarillo,Ventura County,34.212693,-119.01971
-Oak Park Unified,Red Oak Elementary,4857 Rockfield Street Oak Park CA 91377-5512,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.175601,-118.785174
-Conejo Valley Unified,Redwood Middle,233 West Gainsborough Road Thousand Oaks CA 91360-3499,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.196822,-118.882641
-Santa Paula Unified,Renaissance High,333 North Palm Avenue Santa Paula CA 93060,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.354089,-119.073435
-Oxnard,"Richard B. Haydock, Middle",647 West Hill Street Oxnard CA 93033-3199,6.2,ppb,TRUE,tested,Oxnard,Ventura County,34.186095,-119.206767
-Hueneme Elementary,Richard Bard Elementary,622 East Pleasant Valley Road Port Hueneme CA 93041-2638,NA,NA,FALSE,tested,Port Hueneme,Ventura County,34.154833,-119.201555
-Rio Elementary,Rio Del Mar,3150 Thames River Oxnard CA 93036-5339,NA,NA,FALSE,tested,Oxnard,Ventura County,34.243674,-119.166547
-Rio Elementary,Rio del Norte,2500 Lobelia Drive Oxnard CA 93036-1594,NA,NA,FALSE,tested,Oxnard,Ventura County,34.234697,-119.191424
-Rio Elementary,Rio del Valle Middle,3100 Rose Avenue Oxnard CA 93036-1807,NA,NA,FALSE,tested,Oxnard,Ventura County,34.232176,-119.155379
-Rio Elementary,Rio Lindo Elementary,2131 Snow Avenue Oxnard CA 93036-2503,NA,NA,FALSE,tested,Oxnard,Ventura County,34.223096,-119.165393
-Rio Elementary,Rio Plaza Elementary,600 Simon Way Oxnard CA 93036-1451,NA,NA,NA,not tested,Oxnard,Ventura County,34.239949,-119.158044
-Rio Elementary,Rio Real Elementary,1140 Kenney Street Oxnard CA 93036-1851,NA,NA,FALSE,tested,Oxnard,Ventura County,34.229059,-119.161044
-Rio Elementary,Rio Rosales,1001 Kohala Street Oxnard CA 93030-7305,NA,NA,FALSE,tested,Oxnard,Ventura County,34.211152,-119.150831
-Rio Elementary,Rio Vista Middle,3050 Thames River Drive Oxnard CA 93036-5338,NA,NA,FALSE,tested,Oxnard,Ventura County,34.242717,-119.169606
-Oxnard,"Robert J. Frank, Middle",701 North Juanita Avenue Oxnard CA 93030-7442,NA,NA,FALSE,tested,Oxnard,Ventura County,34.207776,-119.16863
-Oxnard,Rose Avenue Elementary,220 South Driskill Street Oxnard CA 93030-5544,NA,NA,FALSE,tested,Oxnard,Ventura County,34.200528,-119.155882
-Simi Valley Unified,Royal High,1402 Royal Avenue Simi Valley CA 93065-3333,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.264384,-118.772757
-Ojai Unified,San Antonio Elementary,650 Carne Road Ojai CA 93023-9375,11.2,ppb,TRUE,tested,Ojai,Ventura County,34.454798,-119.20585
-Oxnard,San Miguel,2400 South J Street Oxnard CA 93030-4431,NA,NA,FALSE,tested,Oxnard,Ventura County,34.17755,-119.186149
-Santa Paula Unified,Santa Paula High,404 North Sixth Street Santa Paula CA 93060-2008,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.356696,-119.070125
-Pleasant Valley,Santa Rosa Technology Magnet,13282 Santa Rosa Road Camarillo CA 93012-8200,NA,NA,FALSE,tested,Camarillo,Ventura County,34.218599,-119.004848
-Simi Valley Unified,Santa Susana Elementary,4300 Apricot Road Simi Valley CA 93063-2317,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.280672,-118.711058
-Simi Valley Unified,Santa Susana High,3570 East Cochran Street Simi Valley CA 93063-2525,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.277945,-118.728244
-Conejo Valley Unified,Sequoia Middle,2855 Borchard Road Newbury Park CA 91320-3898,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.179172,-118.936209
-Ventura Unified,Sheridan Way Elementary,573 Sheridan Way Ventura CA 93001-1852,NA,NA,FALSE,tested,Ventura,Ventura County,34.289305,-119.30447
-Oxnard,Sierra Linda Elementary,2201 Jasmine Street Oxnard CA 93036-2304,NA,NA,FALSE,tested,Oxnard,Ventura County,34.22563,-119.187849
-Simi Valley Unified,Simi Elementary,2956 School Street Simi Valley CA 93065,NA,NA,NA,not tested,Simi Valley,Ventura County,34.270512,-118.738403
-Simi Valley Unified,Simi Institute of Careers and Education,1880 Blackstock Avenue Simi Valley CA 93065-3967,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.269326,-118.733707
-Simi Valley Unified,Simi Valley High,5400 Cochran Street Simi Valley CA 93063-3547,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.278918,-118.687154
-Simi Valley Unified,Sinaloa Middle,601 Royal Avenue Simi Valley CA 93065-4346,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.264514,-118.784976
-Somis Union,Somis Elementary,5268 North Street Somis CA 93066-9531,8.8,ppb,TRUE,tested,NA,Ventura County,34.25879,-118.997607
-Ojai Unified,Summit Elementary,12525 Ojai/Santa Paula Road Ojai CA 93023-9396,NA,NA,NA,not tested,NA,Ventura County,34.436653,-119.139278
-Hueneme Elementary,Sunkist Elementary,1400 Teakwood Street Port Hueneme CA 93041-2228,NA,NA,FALSE,tested,Port Hueneme,Ventura County,34.170546,-119.193279
-Ventura Unified,Sunset Elementary,400 Sunset Avenue Oak View CA 93022-9742,NA,NA,NA,not tested,NA,Ventura County,34.391013,-119.304973
-Conejo Valley Unified,Sycamore Canyon,4601 Via Rio Newbury Park CA 91320-6872,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.173411,-118.972786
-Simi Valley Unified,Sycamore Elementary,2100 Ravenna Street Simi Valley CA 93065-2736,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.274717,-118.739562
-Moorpark Unified,The High School at Moorpark College,7075 Campus Road Moorpark CA 93021-1605,NA,NA,NA,not tested,Moorpark,Ventura County,34.297559,-118.8359
-Santa Paula Unified,Thelma B. Bedell Elementary,1305 Laurel Road Santa Paula CA 93060-0710,NA,NA,FALSE,tested,Santa Paula,Ventura County,34.374243,-119.062245
-Conejo Valley Unified,Thousand Oaks High,2323 North Moorpark Road Thousand Oaks CA 91360-3198,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.211134,-118.870509
-Oxnard,Thurgood Marshall Elementary,2900 Thurgood Marshall Drive Oxnard CA 93036-6349,NA,NA,FALSE,tested,Oxnard,Ventura County,34.221578,-119.209346
-Pleasant Valley,Tierra Linda Elementary,1201 Woodcreek Road Camarillo CA 93012-5555,NA,NA,FALSE,tested,Camarillo,Ventura County,34.22988,-118.997983
-Ocean View,Tierra Vista Elementary,2001 Sanford Street Oxnard CA 93033-7999,NA,NA,FALSE,tested,Oxnard,Ventura County,34.155032,-119.152723
-Ojai Unified,Topa Topa Elementary,916 Mountain View Avenue Ojai CA 93023-2032,NA,NA,FALSE,tested,Ojai,Ventura County,34.457567,-119.236103
-Simi Valley Unified,Township Elementary,4101 Township Avenue Simi Valley CA 93063-1157,5.7,ppb,TRUE,tested,Simi Valley,Ventura County,34.293414,-118.71472
-Pleasant Valley,University Preparation Charter School,1099 North Bedford Dr. Camarillo CA 93010,NA,NA,FALSE,tested,Camarillo,Ventura County,34.227974,-119.047241
-Simi Valley Unified,Valley View Middle,3347 Tapo Street Simi Valley CA 93063-1238,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.29617,-118.709031
-Ventura County ROP,Ventura County ROP,465 Horizon Circle Camarillo CA 93010-8596,NA,NA,NA,not tested,Camarillo,Ventura County,34.208112,-119.076248
-Ventura Unified,Ventura High,2 North Catalina Street Ventura CA 93001-3503,NA,NA,FALSE,tested,Ventura,Ventura County,34.278823,-119.268626
-Simi Valley Unified,Vista Elementary,2175 Wisteria Street Simi Valley CA 93065-2656,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.274955,-118.747471
-Ventura Unified,Vista Real Public Charter High,5100 Telegraph Rd Ventura CA 93003,NA,NA,NA,not tested,Ventura,Ventura County,34.276577,-119.223742
-Ventura Unified,Vista Real Public Charter High,300 E Santa Clara St Ventura CA 93001,NA,NA,NA,not tested,Ventura,Ventura County,34.279434,-119.296031
-Moorpark Unified,Walnut Canyon Elementary,280 Casey Road Moorpark CA 93021-1131,NA,NA,FALSE,tested,Moorpark,Ventura County,34.287892,-118.885274
-Conejo Valley Unified,Walnut Elementary,581 Dena Drive Newbury Park CA 91320-2999,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.185964,-118.94552
-Conejo Valley Unified,Weathersfield Elementary,3151 Darlington Drive Thousand Oaks CA 91360-4593,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.225034,-118.866374
-Conejo Valley Unified,Westlake Elementary,1571 East Potrero Road Westlake Village CA 91361-1529,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.143244,-118.853415
-Conejo Valley Unified,Westlake High,100 North Lakeview Canyon Road Westlake Village CA 91362-3895,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.160608,-118.816478
-Conejo Valley Unified,Westlake Hills Elementary,3333 Medicine Bow Court Westlake Village CA 91362-3545,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.168017,-118.828452
-Simi Valley Unified,White Oak Elementary,2201 Alscott Avenue Simi Valley CA 93063-3809,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.274742,-118.667153
-Conejo Valley Unified,Wildwood Elementary,620 West Velarde Drive Thousand Oaks CA 91360-1399,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.21563,-118.893234
-Ventura Unified,Will Rogers Elementary,316 Howard Street Ventura CA 93003-4531,NA,NA,FALSE,tested,Ventura,Ventura County,34.271231,-119.263359
-Simi Valley Unified,Wood Ranch Elementary,455 Circle Knoll Drive Simi Valley CA 93065-0609,NA,NA,FALSE,tested,Simi Valley,Ventura County,34.233084,-118.813612
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ojai Unified,A Place to Grow,414 East Ojai Avenue Ojai CA 93023-2819,,,False,tested,Ojai,Ventura County,34.448119,-119.242815,
+Conejo Valley Unified,Acacia Elementary,55 Norman Avenue Thousand Oaks CA 91360-3599,,,False,tested,Thousand Oaks,Ventura County,34.196785,-118.87143799999998,
+Ventura Unified,Academy of Technology & Leadership at Saticoy,760 Jazmin Avenue Ventura CA 93004-1826,,,False,tested,Ventura,Ventura County,34.284934,-119.159152,
+Oxnard Union High,Adolfo Camarillo High,4660 Mission Oaks Boulevard Camarillo CA 93012-5132,,,,not tested,Camarillo,Ventura County,34.221949,-119.00517099999999,
+Ventura Unified,Anacapa Middle,100 South Mills Road Ventura CA 93003-3434,,,False,tested,Ventura,Ventura County,34.271744,-119.24735700000001,
+Hueneme Elementary,Ansgar Larsen Elementary,550 Thomas Avenue Oxnard CA 93033-5333,19.9,ppb,True,tested,Oxnard,Ventura County,34.169676,-119.17235500000001,19.9
+Simi Valley Unified,Apollo High,3150 School Street Simi Valley CA 93065-3998,,,False,tested,Simi Valley,Ventura County,34.270514,-118.735809,
+Oxnard Union High,"Architecture, Construction & Engineering Charter High (ACE)",570 Airport Way Camarillo CA 93010-8500,,,,not tested,Camarillo,Ventura County,34.208374,-119.076202,
+Simi Valley Unified,Arroyo Elementary,225 Ulysses Street Simi Valley CA 93065-1739,,,False,tested,Simi Valley,Ventura County,34.273004,-118.793446,
+Moorpark Unified,Arroyo West Elementary,4117 Country Hill Road Moorpark CA 93021-2798,,,False,tested,Moorpark,Ventura County,34.267016999999996,-118.90486100000001,
+Hueneme Elementary,Art Haycox Elementary,5400 Perkins Road Oxnard CA 93033-8812,,,,not tested,Oxnard,Ventura County,34.150221,-119.18265,
+Conejo Valley Unified,Aspen Elementary,1870 Oberlin Avenue Thousand Oaks CA 91360-2099,,,False,tested,Thousand Oaks,Ventura County,34.202975,-118.88356399999999,
+Simi Valley Unified,Atherwood Elementary,2350 East Greensward Street Simi Valley CA 93065-1430,,,False,tested,Simi Valley,Ventura County,34.284711,-118.75186599999999,
+Ventura Unified,Balboa Middle,247 Hill Road Ventura CA 93003-4401,,,False,tested,Ventura,Ventura County,34.275618,-119.20883400000001,
+Conejo Valley Unified,Banyan Elementary,1120 Knollwood Drive Newbury Park CA 91320-5599,,,False,tested,Thousand Oaks,Ventura County,34.158223,-118.953448,
+Santa Paula Unified,Barbara Webster Elementary,1150 Saticoy Street Santa Paula CA 93060-0710,6.8,ppb,True,tested,Santa Paula,Ventura County,34.359989,-119.05910800000001,6.8
+Simi Valley Unified,Berylwood Elementary,2300 Heywood Street Simi Valley CA 93065-3622,,,False,tested,Simi Valley,Ventura County,34.268332,-118.75148,
+Simi Valley Unified,Big Springs Elementary,3401 Big Springs Avenue Simi Valley CA 93063-1399,,,False,tested,Simi Valley,Ventura County,34.297219,-118.701016,
+Santa Paula Unified,Blanchard Elementary,115 Peck Road Santa Paula CA 93060-3013,,,False,tested,Santa Paula,Ventura County,34.343068,-119.08659899999999,
+Ventura Unified,Blanche Reynolds Elementary,450 Valmore Ave. Ventura CA 93003-4799,,,,not tested,Ventura,Ventura County,34.265665999999996,-119.254244,
+Ventura County Office of Education,BRIDGES Charter,1335 Calle Bouganvilla Thousand Oaks CA 91360-6604,,,,not tested,Thousand Oaks,Ventura County,34.211537,-118.856073,
+Briggs Elementary,Briggs Elementary,14438 West Telegraph Road Santa Paula CA 93060-3088,,,False,tested,Santa Paula,Ventura County,34.327403000000004,-119.106654,
+Oak Park Unified,Brookside Elementary,165 North Satinwood Avenue Oak Park CA 91377-1214,,,False,tested,Oak Park,Ventura County,34.172352000000004,-118.75601200000001,
+Ventura Unified,Buena High,5670 Telegraph Road Ventura CA 93003-4204,,,False,tested,Ventura,Ventura County,34.277493,-119.217528,
+Ventura Unified,Cabrillo Middle,1426 East Santa Clara Street Ventura CA 93001-3211,,,False,tested,Ventura,Ventura County,34.279579,-119.279871,
+Oxnard Union High,Camarillo Academy of Progressive Education,777 Aileen Street Camarillo CA 93010-2959,,,,not tested,Camarillo,Ventura County,34.225916,-119.059498,
+Pleasant Valley,Camarillo Heights Elementary,35 Catalina Drive Camarillo CA 93010-1120,,,False,tested,Camarillo,Ventura County,34.241399,-119.04750700000001,
+Moorpark Unified,Campus Canyon Elementary,15300 Monroe Avenue Moorpark CA 93021-3200,,,False,tested,Moorpark,Ventura County,34.300625,-118.84448700000002,
+Pleasant Valley,Cape Charter School,777 Aileen St. Camarillo CA 93010,,,False,tested,Camarillo,Ventura County,34.22661,-119.05953899999999,
+Ventura County Office of Education,Carl Dwire Jr Special School,3150 Via Marina Ave Oxnard CA 93030,10.05,ppb,True,tested,Oxnard,Ventura County,34.188416,-119.21380800000001,11.0
+Conejo Valley Unified,Century Academy,1025 Old Farm School Road Thousand Oaks CA 91360-4941,,,,not tested,Thousand Oaks,Ventura County,34.204986,-118.860045,
+Oxnard,Cesar E. Chavez Elementary,301 North Marquita Street Oxnard CA 93030-3792,,,False,tested,Oxnard,Ventura County,34.205116,-119.16663799999999,
+Oxnard Union High,Channel Islands High,1400 Raiders Way Oxnard CA 93033-5699,,,False,tested,Oxnard,Ventura County,34.171119,-119.16263899999998,
+Ojai Unified,Chaparral High,114 North Montgomery Ojai CA 93023-2742,7.4,ppb,True,tested,Ojai,Ventura County,34.44823,-119.242925,7.4
+Moorpark Unified,Chaparral Middle,280 Poindexter Road Moorpark CA 93021-1864,7.5,ppb,True,tested,Moorpark,Ventura County,34.283916999999995,-118.88603400000001,7.5
+Hueneme Elementary,Charles Blackstock Junior High,701 East Bard Road Oxnard CA 93033-7265,,,,not tested,Oxnard,Ventura County,34.163754,-119.171673,
+Oxnard,Christa McAuliffe Elementary,3300 West Via Marina Avenue Oxnard CA 93035-2440,,,False,tested,Oxnard,Ventura County,34.18842,-119.21482900000001,
+Ventura Unified,Citrus Glen Elementary,9655 Darling Road Ventura CA 93004-3778,,,False,tested,Ventura,Ventura County,34.277072,-119.171628,
+Conejo Valley Unified,Colina Middle,1500 East Hillcrest Drive Thousand Oaks CA 91362-2599,,,,not tested,Thousand Oaks,Ventura County,34.182156,-118.85386100000001,
+Moorpark Unified,Community High,4500 Tierra Rejada Rd. Moorpark CA 93021-1852,,,,not tested,Moorpark,Ventura County,34.27091,-118.897498,
+Oxnard Union High,Condor High,4000 S Rose Ave Oxnard CA 93033,,,,not tested,Oxnard,Ventura County,34.163043,-119.15931599999999,
+Private,Conejo Adventist Elementary School,1250 Academy Drive Newbury Park CA 91320,,,False,tested,Thousand Oaks,Ventura County,34.195528,-118.93727,
+Conejo Valley Unified,Conejo Elementary,280 North Conejo School Road Thousand Oaks CA 91362-3199,,,,not tested,Thousand Oaks,Ventura County,34.178158,-118.84246499999999,
+Conejo Valley Unified,Conejo Valley High (Continuation),1872 Newbury Road Newbury Park CA 91320-3495,,,,not tested,Thousand Oaks,Ventura County,34.183865000000004,-118.92030700000001,
+Simi Valley Unified,Crestview Elementary,900 Crosby Avenue Simi Valley CA 93065-5015,,,False,tested,Simi Valley,Ventura County,34.255002000000005,-118.750419,
+Oxnard,Curren Elementary,1101 North F Street Oxnard CA 93030-4003,,,False,tested,Oxnard,Ventura County,34.212468,-119.186145,
+Conejo Valley Unified,Cypress Elementary,4200 Kimber Drive Newbury Park CA 91320-4898,,,False,tested,Thousand Oaks,Ventura County,34.170840999999996,-118.963016,
+Ventura Unified,De Anza Academy of Technology and the Arts,2060 Cameron St Ventura CA 93001-1425,,,False,tested,Ventura,Ventura County,34.301139,-119.29244399999999,
+Ventura County Office of Education,Dorothy Boswell School,5190 Loma Vista Rd. Ventura CA 93003,,,,not tested,Ventura,Ventura County,34.279902,-119.225696,
+Pleasant Valley,Dos Caminos Elementary,3635 Appian Way Camarillo CA 93010-4099,,,False,tested,Camarillo,Ventura County,34.237444,-119.02095800000001,
+Ventura County Office of Education,Douglas Penfield School,640 Jazmin Ave Ventura CA 93004,,,,not tested,Ventura,Ventura County,34.28614,-119.160839,
+Oxnard,Driffill Elementary,910 South E Street Oxnard CA 93030-7442,,,False,tested,Oxnard,Ventura County,34.191742,-119.18326200000001,
+Hueneme Elementary,E. O. Green Junior High,3739 South C Street Oxnard CA 93033-6111,,,,not tested,Oxnard,Ventura County,34.164418,-119.18202,
+Ventura Unified,E. P. Foster Elementary,20 Pleasant Place Ventura CA 93001-1326,,,,not tested,Ventura,Ventura County,34.296653000000006,-119.29652,
+Ventura Unified,El Camino High,61 Day Road Ventura CA 93023-2037,,,False,tested,Ventura,Ventura County,34.27738,-119.226808,
+Oxnard,Elm Street Elementary,450 East Elm Street Oxnard CA 93033-3646,,,,not tested,Oxnard,Ventura County,34.18266,-119.172155,
+Ventura Unified,Elmhurst Elementary,5080 Elmhurst Street Ventura CA 93003-3999,,,,not tested,Ventura,Ventura County,34.272388,-119.22630900000001,
+Oxnard,Emilie Ritchen Elementary,2200 Cabrillo Way Oxnard CA 93030-3106,,,False,tested,Oxnard,Ventura County,34.215544,-119.2016,
+Conejo Valley Unified,Environmental Academy of Research Technology and Earth Sciences,2626 Michael Drive Newbury Park CA 91320-3252,,,False,tested,Thousand Oaks,Ventura County,34.183071999999996,-118.931955,
+Moorpark Unified,Flory Academy of Sciences and Technology,240 Flory Avenue Moorpark CA 93021-1863,,,False,tested,Moorpark,Ventura County,34.27998,-118.88089599999999,
+Ventura Unified,Foothill Technology High,100 Day Road Ventura CA 93003-2040,,,False,tested,Ventura,Ventura County,34.279027,-119.225876,
+Hueneme Elementary,Fred L. Williams Elementary,4300 Anchorage Street Oxnard CA 93033-7429,,,,not tested,Oxnard,Ventura County,34.160947,-119.162796,
+Oxnard,"Fremont, Middle",1130 North M Street Oxnard CA 93030-3906,,,False,tested,Oxnard,Ventura County,34.212914000000005,-119.19171399999999,
+Oxnard Union High,Frontier High,545 Airport Way Camarillo CA 93010-8581,,,False,tested,Camarillo,Ventura County,34.208443,-119.076396,
+Simi Valley Unified,Garden Grove Elementary,2250 North Tracy Avenue Simi Valley CA 93063-2753,,,False,tested,Simi Valley,Ventura County,34.276944,-118.72308000000001,
+Ventura County Office of Education,Gateway Community,200 Horizon Circle Camarillo CA 93010-8596,,,,not tested,Camarillo,Ventura County,34.208278,-119.076219,
+Santa Paula Unified,Glen City Elementary,141 Steckel Drive Santa Paula CA 93060-0710,,,False,tested,Santa Paula,Ventura County,34.346722,-119.079321,
+Conejo Valley Unified,Glenwood Elementary,1135 Windsor Drive Thousand Oaks CA 91360-5228,,,,not tested,Thousand Oaks,Ventura County,34.193731,-118.86568700000001,
+Santa Paula Unified,Grace S. Thille Elementary,1144 Ventura Street Santa Paula CA 93060-2910,,,False,tested,Santa Paula,Ventura County,34.352984,-119.05613000000001,
+Oxnard,Harrington Elementary,451 East Olive Street Oxnard CA 93033-4699,,,False,tested,Oxnard,Ventura County,34.17519,-119.173542,
+Simi Valley Unified,Hillside Middle,2222 East Fitzgerald Road Simi Valley CA 93065-4936,7.7,ppb,True,tested,Simi Valley,Ventura County,34.256332,-118.754618,7.7
+Simi Valley Unified,Hollow Hills Elementary,828 Gibson Avenue Simi Valley CA 93065-5665,,,False,tested,Simi Valley,Ventura County,34.256197,-118.765207,
+Hueneme Elementary,Hollywood Beach Elementary,4000 Sunset Ln. Oxnard CA 93035-3949,,,False,tested,Oxnard,Ventura County,34.170798,-119.231967,
+Private,Hueneme Christian School,312 North Ventura Road Port Hueneme CA 93041,,,False,tested,Port Hueneme,Ventura County,34.150875,-119.195376,
+Hueneme Elementary,Hueneme Elementary,354 North Third Street Port Hueneme CA 93041-2904,,,False,tested,Port Hueneme,Ventura County,34.150939,-119.19616299999998,
+Oxnard Union High,Hueneme High,500 West Bard Road Oxnard CA 93033-6306,,,False,tested,Oxnard,Ventura County,34.159094,-119.182326,
+Santa Paula Unified,Isbell Middle,221 South Fourth Street Santa Paula CA 93060-3301,12.3,ppb,True,tested,Santa Paula,Ventura County,34.349176,-119.066084,12.3
+Moorpark Unified,IvyTech Charter,6591 Collins Drive Suite E4 Moorpark CA 93021-1492,,,,not tested,Moorpark,Ventura County,34.294269,-118.843795,
+Ventura County Office of Education,James Foster Jr High School,800 Morado Pl Oxnard CA 93035,,,,not tested,Oxnard,Ventura County,34.211674,-119.16954799999999,
+Oxnard,Juan Lagunas Soria Elementary,3101 Dunkirk Drive Oxnard CA 93035-1203,,,,not tested,Oxnard,Ventura County,34.19708,-119.211625,
+Ventura Unified,Juanamaria Elementary,100 South Crocker Avenue Ventura CA 93004-1535,,,False,tested,Ventura,Ventura County,34.280363,-119.190132,
+Hueneme Elementary,Julien Hathaway Elementary,405 East Dollie Street Oxnard CA 93033-7621,,,,not tested,Oxnard,Ventura County,34.158337,-119.174144,
+Ventura Unified,Junipero Serra Elementary,8880 Halifax Street Ventura CA 93004-2623,,,False,tested,Ventura,Ventura County,34.267990000000005,-119.17399099999999,
+Simi Valley Unified,Justin Early Learners Academy,2245 North Justin Avenue Simi Valley CA 93065-2543,,,False,tested,Simi Valley,Ventura County,34.276049,-118.754853,
+Oxnard,Kamala Elementary,634 West Kamala Street Oxnard CA 93033-3407,,,False,tested,Oxnard,Ventura County,34.178647999999995,-119.18433200000001,
+Simi Valley Unified,Katherine Elementary,5455 Katherine Street Simi Valley CA 93063-4556,,,False,tested,Simi Valley,Ventura County,34.266771000000006,-118.68711299999998,
+Simi Valley Unified,Knolls Elementary,6334 Katherine Road Simi Valley CA 93063-4439,,,False,tested,Simi Valley,Ventura County,34.265164,-118.66625,
+Pleasant Valley,La Mariposa,4800 Corte Olivas Camarillo CA 93012-4043,,,False,tested,Camarillo,Ventura County,34.233871,-119.00879499999999,
+Conejo Valley Unified,Ladera Elementary,1211 Calle Almendro Thousand Oaks CA 91360-6499,,,,not tested,Thousand Oaks,Ventura County,34.217253,-118.85766699999999,
+Ocean View,Laguna Vista Elementary,5084 Etting Road Oxnard CA 93033-5904,5.3,ppb,True,tested,Oxnard,Ventura County,34.161767,-119.14701200000002,5.3
+Conejo Valley Unified,Lang Ranch,2450 Whitechapel Place Thousand Oaks CA 91362-5399,,,,not tested,Thousand Oaks,Ventura County,34.220037,-118.83268000000001,
+Pleasant Valley,Las Colinas Middle,5750 Fieldcrest Drive Camarillo CA 93012-4303,,,False,tested,Camarillo,Ventura County,34.233366,-118.99289099999999,
+Pleasant Valley,Las Posas Elementary,75 Calle La Guerra Camarillo CA 93010-4801,,,False,tested,Camarillo,Ventura County,34.227522,-119.068633,
+Oxnard,Lemonwood Elementary,2200 Carnegie Street Oxnard CA 93033-4038,,,False,tested,Oxnard,Ventura County,34.178403,-119.154618,
+Ventura Unified,Lincoln Elementary,1107 East Santa Clara Street Ventura CA 93001-3125,7.85,ppb,True,tested,Ventura,Ventura County,34.279637,-119.283704,13.0
+Ventura Unified,Loma Vista Elementary,300 Lynn Drive Ventura CA 93003-1036,,,False,tested,Ventura,Ventura County,34.279425,-119.25043400000001,
+Conejo Valley Unified,Los Cerritos Middle,2100 Avenida de las Flores Thousand Oaks CA 91362-1599,,,,not tested,Thousand Oaks,Ventura County,34.207214,-118.84043999999999,
+Pleasant Valley,Los Primeros School of Sciences & Arts,1555 Kendall Avenue Camarillo CA 93010-3607,,,False,tested,Camarillo,Ventura County,34.233432,-119.030376,
+Simi Valley Unified,Madera Elementary,250 Royal Ave. Simi Valley CA 93065,,,False,tested,Simi Valley,Ventura County,34.264334999999996,-118.794123,
+Conejo Valley Unified,Madrona Elementary,612 Camino Manzanas Thousand Oaks CA 91360-2199,,,False,tested,Thousand Oaks,Ventura County,34.198833,-118.89233600000001,
+Conejo Valley Unified,Maple Elementary,3501 Kimber Drive Newbury Park CA 91320-4399,,,False,tested,Thousand Oaks,Ventura County,34.173415000000006,-118.950837,
+Ocean View,Mar Vista Elementary,2382 Etting Road Oxnard CA 93033-6864,,,False,tested,Oxnard,Ventura County,34.161657,-119.143353,
+Oxnard,Marina West Elementary,2501 Carob Street Oxnard CA 93035-3334,,,False,tested,Oxnard,Ventura County,34.183961,-119.204701,
+Ojai Unified,Matilija Junior High,703 El Paseo Road Ojai CA 93023-2499,,,False,tested,Ojai,Ventura County,34.445947,-119.25544099999999,
+Santa Paula Unified,McKevett Elementary,955 East Pleasant Street Santa Paula CA 93060-2158,,,False,tested,Santa Paula,Ventura County,34.358096,-119.063934,
+Oxnard,McKinna Elementary,1611 South J Street Oxnard CA 93033-3110,14.0,ppb,True,tested,Oxnard,Ventura County,34.183699,-119.18915700000001,14.0
+Ventura County Office of Education,Meadows Arts and Technology Elementary,2000 La Granada Drive Thousand Oaks CA 91362-2099,,,,not tested,Thousand Oaks,Ventura County,34.193271,-118.841291,
+Oak Park Unified,Medea Creek Middle,1002 Doubletree Road Oak Park CA 91377-3900,,,False,tested,,Ventura County,34.181311,-118.76521299999999,
+Ojai Unified,Meiners Oaks Elementary,400 South Lomita Avenue Ojai CA 93023-2221,20.4,ppb,True,tested,Ojai,Ventura County,34.444033000000005,-119.277897,20.4
+Mesa Union Elementary,Mesa Elementary,3901 North Mesa School Road Somis CA 93066-9734,,,,not tested,Somis,Ventura County,34.262126,-119.095033,
+Moorpark Unified,Mesa Verde Middle,14000 Peach Hill Road Moorpark CA 93021-3554,,,False,tested,Moorpark,Ventura County,34.270939,-118.86702199999999,
+Ojai Unified,Mira Monte Elementary,1216 Loma Drive Ojai CA 93023-3825,,,False,tested,Ojai,Ventura County,34.433327,-119.279496,
+Ventura Unified,Montalvo Elementary,2050 Grand Avenue Ventura CA 93003-6729,,,,not tested,Ventura,Ventura County,34.255678,-119.207629,
+Simi Valley Unified,Monte Vista,1220 Fourth Street Simi Valley CA 93065-4359,11.0,ppb,True,tested,Simi Valley,Ventura County,34.261309999999995,-118.78103300000001,11.0
+Pleasant Valley,Monte Vista Middle,888 North Lantana Street Camarillo CA 93010-3023,,,False,tested,Camarillo,Ventura County,34.22622,-119.054781,
+Moorpark Unified,Moorpark Adult Education,4500 Tierra Rejada Road B Moorpark CA 93021-9772,,,,not tested,Moorpark,Ventura County,34.27091,-118.897498,
+Moorpark Unified,Moorpark High,4500 Tierra Rejada Road Moorpark CA 93021-9772,,,False,tested,Moorpark,Ventura County,34.27091,-118.897498,
+Ventura Unified,Mound Elementary,455 South Hill Road Ventura CA 93003-4402,,,False,tested,Ventura,Ventura County,34.273219,-119.207951,
+Moorpark Unified,Mountain Meadows Elementary,4200 Mountain Meadow Drive Moorpark CA 93021-2700,,,False,tested,Moorpark,Ventura County,34.266085,-118.90118100000001,
+Simi Valley Unified,Mountain View Elementary,2925 Fletcher Avenue Simi Valley CA 93065-5270,,,False,tested,Simi Valley,Ventura County,34.257898,-118.738501,
+Mupu Elementary,Mupu Elementary,4410 North Ojai Road Santa Paula CA 93060-9681,6.7,ppb,True,tested,Santa Paula,Ventura County,34.371382000000004,-119.06456399999999,6.7
+Conejo Valley Unified,Newbury Park High,456 North Reino Road Newbury Park CA 91320-3798,,,False,tested,Thousand Oaks,Ventura County,34.184486,-118.951788,
+Ojai Unified,Nordhoff High,1401 Maricopa Highway Ojai CA 93023-3132,,,False,tested,Ojai,Ventura County,34.44295,-119.267628,
+Oxnard,Norman R. Brekke Elementary,"1400 Martin Luther King, Junior Drive Oxnard CA 93030-7600",,,,not tested,Oxnard,Ventura County,34.214486,-119.163353,
+Oak Park Unified,Oak Hills Elementary,1010 Kanan Road Oak Park CA 91377-4826,,,False,tested,Thousand Oaks,Ventura County,34.184977,-118.785657,
+Oak Park Unified,Oak Park High,899 Kanan Road Oak Park CA 91377-3904,,,False,tested,Thousand Oaks,Ventura County,34.181168,-118.76906699999999,
+Oak Park Unified,Oak Park Independent,5801 Conifer Street Oak Park CA 91377-1072,,,False,tested,,Ventura County,34.170965,-118.76331599999999,
+Oak Park Unified,Oak Park Neighborhood Learning,1010 North Kanan Road Oak Park CA 91377-4826,,,False,tested,Oak Park,Ventura County,34.179714000000004,-118.7772,
+Oak Park Unified,Oak View High,5701 Conifer Street Oak Park CA 91377-1072,,,False,tested,,Ventura County,34.170973,-118.76431399999998,
+Ocean View,Ocean View Early Education,4600 Olds Road Oxnard CA 93033-8062,,,False,tested,Oxnard,Ventura County,34.158927,-119.148758,
+Ocean View,Ocean View Junior High,4300 Olds Road Oxnard CA 93033-8051,,,False,tested,Oxnard,Ventura County,34.160968,-119.148696,
+Briggs Elementary,Olivelands Elementary,12465 Foothill Rd. Santa Paula CA 93060-9714,,,False,tested,Santa Paula,Ventura County,34.326395,-119.14090700000001,
+Oxnard Union High,Oxnard High,3400 West Gonzales Road Oxnard CA 93036-7768,,,,not tested,Oxnard,Ventura County,34.219366,-119.198599,
+Ventura Unified,Pacific High,501 College Drive Ventura CA 93003-3413,8.85,ppb,True,tested,Ventura,Ventura County,34.268165,-119.241887,13.0
+Oxnard Union High,Pacifica High,600 East Gonzales Road Oxnard CA 93036-8266,,,False,tested,Oxnard,Ventura County,34.218099,-119.170997,
+Simi Valley Unified,Park View Elementary,1500 Alexander Street Simi Valley CA 93065-2059,,,False,tested,Simi Valley,Ventura County,34.275907000000004,-118.76960700000001,
+Hueneme Elementary,Parkview Elementary,1416 Sixth Place Port Hueneme CA 93041-2408,,,False,tested,Port Hueneme,Ventura County,34.161941,-119.190611,
+Private,Passageway,1153 Lawrence Drive Newbury Park CA 91320,,,False,tested,Thousand Oaks,Ventura County,34.194312,-118.930347,
+Moorpark Unified,Peach Hill Academy,13400 Christian Barrett Drive Moorpark CA 93021-2817,,,False,tested,Moorpark,Ventura County,34.266544,-118.874525,
+Ventura Unified,Pierpont Elementary,1254 Marthas Vineyard Court Ventura CA 93001-4014,,,False,tested,Ventura,Ventura County,34.258355,-119.271251,
+Fillmore Unified,Piru Elementary,3811 East Center Street Piru CA 93040-0215,,,,not tested,Piru,Ventura County,34.415636,-118.798157,
+Pleasant Valley,Pleasant Valley School of Engineering,700 Temple Ave. Camarillo CA 93010,5.6,ppb,True,tested,Camarillo,Ventura County,34.224821,-119.029182,5.6
+Pleasant Valley,Pleasant Valley School of Engineering and Arts,1099 North Bedford Drive Camarillo CA 93010-4511,,,,not tested,Camarillo,Ventura County,34.228782,-119.04686000000001,
+Pleasant Valley,Pleasant Valley School of Engineering and Arts Early Education Center,550 Temple Ave. Camarillo CA 93010,7.5,ppb,True,tested,Camarillo,Ventura County,34.223161,-119.029945,9.9
+Ventura Unified,Poinsettia Elementary,350 North Victoria Avenue Ventura CA 93003-2344,,,,not tested,Ventura,Ventura County,34.284395,-119.21586599999999,
+Ventura Unified,Portola Elementary,6700 Eagle Street Ventura CA 93003-0599,,,False,tested,Ventura,Ventura County,34.265119,-119.203026,
+Pleasant Valley,Preschool Early Education Program PEEP,3635 Appian Way B Camarillo CA 93010-4050,,,,not tested,Camarillo,Ventura County,34.237444,-119.02095800000001,
+Oxnard,Ramona Elementary,804 Cooper Road Oxnard CA 93030-5430,6.7,ppb,True,tested,Oxnard,Ventura County,34.20426,-119.170298,6.7
+Oxnard Union High,Rancho Campana High,4235 Mar Vista Drive Camarillo CA 93010,,,,not tested,Camarillo,Ventura County,34.244586,-119.01432,
+Pleasant Valley,Rancho Rosal Elementary,3535 Village at the Park Drive Camarillo CA 93012-7788,,,False,tested,Camarillo,Ventura County,34.212693,-119.01971,
+Oak Park Unified,Red Oak Elementary,4857 Rockfield Street Oak Park CA 91377-5512,,,False,tested,Thousand Oaks,Ventura County,34.175601,-118.785174,
+Conejo Valley Unified,Redwood Middle,233 West Gainsborough Road Thousand Oaks CA 91360-3499,,,False,tested,Thousand Oaks,Ventura County,34.196822,-118.88264099999999,
+Santa Paula Unified,Renaissance High,333 North Palm Avenue Santa Paula CA 93060,,,False,tested,Santa Paula,Ventura County,34.354089,-119.073435,
+Oxnard,"Richard B. Haydock, Middle",647 West Hill Street Oxnard CA 93033-3199,6.2,ppb,True,tested,Oxnard,Ventura County,34.186095,-119.206767,6.2
+Hueneme Elementary,Richard Bard Elementary,622 East Pleasant Valley Road Port Hueneme CA 93041-2638,,,False,tested,Port Hueneme,Ventura County,34.154833,-119.201555,
+Rio Elementary,Rio Del Mar,3150 Thames River Oxnard CA 93036-5339,,,False,tested,Oxnard,Ventura County,34.243674,-119.166547,
+Rio Elementary,Rio del Norte,2500 Lobelia Drive Oxnard CA 93036-1594,,,False,tested,Oxnard,Ventura County,34.234697,-119.191424,
+Rio Elementary,Rio del Valle Middle,3100 Rose Avenue Oxnard CA 93036-1807,,,False,tested,Oxnard,Ventura County,34.232176,-119.15537900000001,
+Rio Elementary,Rio Lindo Elementary,2131 Snow Avenue Oxnard CA 93036-2503,,,False,tested,Oxnard,Ventura County,34.223096000000005,-119.165393,
+Rio Elementary,Rio Plaza Elementary,600 Simon Way Oxnard CA 93036-1451,,,,not tested,Oxnard,Ventura County,34.239948999999996,-119.15804399999999,
+Rio Elementary,Rio Real Elementary,1140 Kenney Street Oxnard CA 93036-1851,,,False,tested,Oxnard,Ventura County,34.229059,-119.16104399999999,
+Rio Elementary,Rio Rosales,1001 Kohala Street Oxnard CA 93030-7305,,,False,tested,Oxnard,Ventura County,34.211152,-119.15083100000001,
+Rio Elementary,Rio Vista Middle,3050 Thames River Drive Oxnard CA 93036-5338,,,False,tested,Oxnard,Ventura County,34.242717,-119.169606,
+Oxnard,"Robert J. Frank, Middle",701 North Juanita Avenue Oxnard CA 93030-7442,,,False,tested,Oxnard,Ventura County,34.207776,-119.16863000000001,
+Oxnard,Rose Avenue Elementary,220 South Driskill Street Oxnard CA 93030-5544,,,False,tested,Oxnard,Ventura County,34.200528000000006,-119.155882,
+Simi Valley Unified,Royal High,1402 Royal Avenue Simi Valley CA 93065-3333,,,False,tested,Simi Valley,Ventura County,34.264384,-118.77275700000001,
+Ojai Unified,San Antonio Elementary,650 Carne Road Ojai CA 93023-9375,11.2,ppb,True,tested,Ojai,Ventura County,34.454798,-119.20585,11.2
+Oxnard,San Miguel,2400 South J Street Oxnard CA 93030-4431,,,False,tested,Oxnard,Ventura County,34.17755,-119.186149,
+Santa Paula Unified,Santa Paula High,404 North Sixth Street Santa Paula CA 93060-2008,,,False,tested,Santa Paula,Ventura County,34.356696,-119.070125,
+Pleasant Valley,Santa Rosa Technology Magnet,13282 Santa Rosa Road Camarillo CA 93012-8200,,,False,tested,Camarillo,Ventura County,34.218599,-119.004848,
+Simi Valley Unified,Santa Susana Elementary,4300 Apricot Road Simi Valley CA 93063-2317,,,False,tested,Simi Valley,Ventura County,34.280671999999996,-118.71105800000001,
+Simi Valley Unified,Santa Susana High,3570 East Cochran Street Simi Valley CA 93063-2525,,,False,tested,Simi Valley,Ventura County,34.277945,-118.72824399999999,
+Conejo Valley Unified,Sequoia Middle,2855 Borchard Road Newbury Park CA 91320-3898,,,False,tested,Thousand Oaks,Ventura County,34.179171999999994,-118.936209,
+Ventura Unified,Sheridan Way Elementary,573 Sheridan Way Ventura CA 93001-1852,,,False,tested,Ventura,Ventura County,34.289305,-119.30447,
+Oxnard,Sierra Linda Elementary,2201 Jasmine Street Oxnard CA 93036-2304,,,False,tested,Oxnard,Ventura County,34.225629999999995,-119.187849,
+Simi Valley Unified,Simi Elementary,2956 School Street Simi Valley CA 93065,,,,not tested,Simi Valley,Ventura County,34.270512,-118.738403,
+Simi Valley Unified,Simi Institute of Careers and Education,1880 Blackstock Avenue Simi Valley CA 93065-3967,,,False,tested,Simi Valley,Ventura County,34.269326,-118.73370700000001,
+Simi Valley Unified,Simi Valley High,5400 Cochran Street Simi Valley CA 93063-3547,,,False,tested,Simi Valley,Ventura County,34.278918,-118.687154,
+Simi Valley Unified,Sinaloa Middle,601 Royal Avenue Simi Valley CA 93065-4346,,,False,tested,Simi Valley,Ventura County,34.264514,-118.784976,
+Somis Union,Somis Elementary,5268 North Street Somis CA 93066-9531,8.8,ppb,True,tested,,Ventura County,34.258790000000005,-118.997607,10.5
+Ojai Unified,Summit Elementary,12525 Ojai/Santa Paula Road Ojai CA 93023-9396,,,,not tested,,Ventura County,34.436653,-119.139278,
+Hueneme Elementary,Sunkist Elementary,1400 Teakwood Street Port Hueneme CA 93041-2228,,,False,tested,Port Hueneme,Ventura County,34.170546,-119.193279,
+Ventura Unified,Sunset Elementary,400 Sunset Avenue Oak View CA 93022-9742,,,,not tested,,Ventura County,34.391013,-119.304973,
+Conejo Valley Unified,Sycamore Canyon,4601 Via Rio Newbury Park CA 91320-6872,,,False,tested,Thousand Oaks,Ventura County,34.173411,-118.97278600000001,
+Simi Valley Unified,Sycamore Elementary,2100 Ravenna Street Simi Valley CA 93065-2736,,,False,tested,Simi Valley,Ventura County,34.274716999999995,-118.739562,
+Moorpark Unified,The High School at Moorpark College,7075 Campus Road Moorpark CA 93021-1605,,,,not tested,Moorpark,Ventura County,34.297559,-118.8359,
+Santa Paula Unified,Thelma B. Bedell Elementary,1305 Laurel Road Santa Paula CA 93060-0710,,,False,tested,Santa Paula,Ventura County,34.374243,-119.06224499999999,
+Conejo Valley Unified,Thousand Oaks High,2323 North Moorpark Road Thousand Oaks CA 91360-3198,,,False,tested,Thousand Oaks,Ventura County,34.211134,-118.87050900000001,
+Oxnard,Thurgood Marshall Elementary,2900 Thurgood Marshall Drive Oxnard CA 93036-6349,,,False,tested,Oxnard,Ventura County,34.221578,-119.209346,
+Pleasant Valley,Tierra Linda Elementary,1201 Woodcreek Road Camarillo CA 93012-5555,,,False,tested,Camarillo,Ventura County,34.22988,-118.997983,
+Ocean View,Tierra Vista Elementary,2001 Sanford Street Oxnard CA 93033-7999,,,False,tested,Oxnard,Ventura County,34.155032,-119.152723,
+Ojai Unified,Topa Topa Elementary,916 Mountain View Avenue Ojai CA 93023-2032,,,False,tested,Ojai,Ventura County,34.457567,-119.236103,
+Simi Valley Unified,Township Elementary,4101 Township Avenue Simi Valley CA 93063-1157,5.7,ppb,True,tested,Simi Valley,Ventura County,34.293414,-118.71472,5.7
+Pleasant Valley,University Preparation Charter School,1099 North Bedford Dr. Camarillo CA 93010,,,False,tested,Camarillo,Ventura County,34.227973999999996,-119.04724099999999,
+Simi Valley Unified,Valley View Middle,3347 Tapo Street Simi Valley CA 93063-1238,,,False,tested,Simi Valley,Ventura County,34.296170000000004,-118.70903100000001,
+Ventura County ROP,Ventura County ROP,465 Horizon Circle Camarillo CA 93010-8596,,,,not tested,Camarillo,Ventura County,34.208112,-119.07624799999999,
+Ventura Unified,Ventura High,2 North Catalina Street Ventura CA 93001-3503,,,False,tested,Ventura,Ventura County,34.278822999999996,-119.268626,
+Simi Valley Unified,Vista Elementary,2175 Wisteria Street Simi Valley CA 93065-2656,,,False,tested,Simi Valley,Ventura County,34.274955,-118.74747099999999,
+Ventura Unified,Vista Real Public Charter High,5100 Telegraph Rd Ventura CA 93003,,,,not tested,Ventura,Ventura County,34.276577,-119.22374199999999,
+Ventura Unified,Vista Real Public Charter High,300 E Santa Clara St Ventura CA 93001,,,,not tested,Ventura,Ventura County,34.279434,-119.296031,
+Moorpark Unified,Walnut Canyon Elementary,280 Casey Road Moorpark CA 93021-1131,,,False,tested,Moorpark,Ventura County,34.287892,-118.885274,
+Conejo Valley Unified,Walnut Elementary,581 Dena Drive Newbury Park CA 91320-2999,,,False,tested,Thousand Oaks,Ventura County,34.185964,-118.94552,
+Conejo Valley Unified,Weathersfield Elementary,3151 Darlington Drive Thousand Oaks CA 91360-4593,,,,not tested,Thousand Oaks,Ventura County,34.225034,-118.866374,
+Conejo Valley Unified,Westlake Elementary,1571 East Potrero Road Westlake Village CA 91361-1529,,,False,tested,Thousand Oaks,Ventura County,34.143244,-118.85341499999998,
+Conejo Valley Unified,Westlake High,100 North Lakeview Canyon Road Westlake Village CA 91362-3895,,,False,tested,Thousand Oaks,Ventura County,34.160608,-118.816478,
+Conejo Valley Unified,Westlake Hills Elementary,3333 Medicine Bow Court Westlake Village CA 91362-3545,,,False,tested,Thousand Oaks,Ventura County,34.168017,-118.828452,
+Simi Valley Unified,White Oak Elementary,2201 Alscott Avenue Simi Valley CA 93063-3809,,,False,tested,Simi Valley,Ventura County,34.274741999999996,-118.667153,
+Conejo Valley Unified,Wildwood Elementary,620 West Velarde Drive Thousand Oaks CA 91360-1399,,,False,tested,Thousand Oaks,Ventura County,34.21563,-118.893234,
+Ventura Unified,Will Rogers Elementary,316 Howard Street Ventura CA 93003-4531,,,False,tested,Ventura,Ventura County,34.271231,-119.26335900000001,
+Simi Valley Unified,Wood Ranch Elementary,455 Circle Knoll Drive Simi Valley CA 93065-0609,,,False,tested,Simi Valley,Ventura County,34.233084000000005,-118.813612,

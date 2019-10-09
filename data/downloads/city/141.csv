@@ -1,2 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Antelope Valley Union High,Phoenix High Community Day,"228 East Ave, H8 Lancaster CA 93536",NA,NA,NA,not tested,Del Sur,Los Angeles County,34.710938,-118.154145
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Monterey Peninsula Unified,Del Rey Woods Elementary,1281 Plumas Avenue Seaside CA 93955-6202,12.0,ppb,True,tested,Del Rey Oaks,Monterey County,36.598271000000004,-121.83956200000002,12.0
+Monterey Peninsula Unified,Instructional Materials Center,540 Canyon Del Rey Del Rey Oaks CA 93940,,,False,tested,Del Rey Oaks,Monterey County,36.585829,-121.82765,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Montgomery Elementary,Montgomery Elementary,18620 Fort Ross Road Cazadero CA 95421-0002,NA,NA,NA,not tested,NA,Sonoma County,38.540957,-123.099661
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Montgomery Elementary,Montgomery Elementary,18620 Fort Ross Road Cazadero CA 95421-0002,,,,not tested,,Sonoma County,38.540957,-123.09966100000001,

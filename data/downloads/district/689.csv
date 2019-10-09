@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Mateo Union High,Aragon High,900 Alameda de Las Pulgas San Mateo CA 94402-3357,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.550384,-122.329969
-San Mateo Union High,Burlingame High,1 Mangini Way Burlingame CA 94010-2708,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.582181,-122.347167
-San Mateo Union High,Design Tech High,1800 Rollins Road Burlingame CA 94010-2205,NA,NA,NA,not tested,Burlingame,San Mateo County,37.597827,-122.379961
-San Mateo Union High,Hillsdale High,3115 Del Monte Street San Mateo CA 94403-3800,8.4,ppb,TRUE,tested,San Mateo,San Mateo County,37.532205,-122.315061
-San Mateo Union High,Mills High,400 Murchison Drive Millbrae CA 94030-3024,NA,NA,FALSE,tested,Millbrae,San Mateo County,37.594688,-122.388001
-San Mateo Union High,Peninsula High,300 Piedmont Avenue San Bruno CA 94019-3906,NA,NA,FALSE,tested,San Bruno,San Mateo County,37.609177,-122.430573
-San Mateo Union High,San Mateo High,506 North Delaware Street San Mateo CA 94401-1700,NA,NA,FALSE,tested,San Mateo,San Mateo County,37.576092,-122.329723
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Mateo Union High,Aragon High,900 Alameda de Las Pulgas San Mateo CA 94402-3357,,,False,tested,San Mateo,San Mateo County,37.550384,-122.32996899999999,
+San Mateo Union High,Burlingame High,1 Mangini Way Burlingame CA 94010-2708,,,False,tested,Burlingame,San Mateo County,37.582181,-122.347167,
+San Mateo Union High,Design Tech High,1800 Rollins Road Burlingame CA 94010-2205,,,,not tested,Burlingame,San Mateo County,37.597827,-122.37996100000001,
+San Mateo Union High,Hillsdale High,3115 Del Monte Street San Mateo CA 94403-3800,8.4,ppb,True,tested,San Mateo,San Mateo County,37.532205,-122.31506100000001,8.4
+San Mateo Union High,Mills High,400 Murchison Drive Millbrae CA 94030-3024,,,False,tested,Millbrae,San Mateo County,37.594688,-122.388001,
+San Mateo Union High,Peninsula High,300 Piedmont Avenue San Bruno CA 94019-3906,,,False,tested,San Bruno,San Mateo County,37.609177,-122.430573,
+San Mateo Union High,San Mateo High,506 North Delaware Street San Mateo CA 94401-1700,,,False,tested,San Mateo,San Mateo County,37.576091999999996,-122.329723,

@@ -1,11 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Bonita Unified,Allen Avenue Elementary,740 East Allen Avenue San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.117448,-117.792945
-Bonita Unified,Arma J. Shull Elementary,825 North Amelia San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.116902,-117.820311
-Private,Arrow Montessori School of San Dimas,818 West Gladstone Street San Dimas CA 91773,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.113837,-117.823065
-Bonita Unified,Chaparral High (Continuation),121 West Allen Avenue San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.11763,-117.807652
-Bonita Unified,Fred Ekstrand Elementary,400 North Walnut Avenue San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.11079,-117.802654
-Bonita Unified,Gladstone Elementary,1314 West Gladstone San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.113565,-117.834241
-Private,Holy Name of Mary,124 South San Dimas Canyon Road San Dimas CA 91773,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.105723,-117.79362
-Bonita Unified,Lone Hill Middle,700 South Lone Hill San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.097196,-117.827787
-Bonita Unified,San Dimas High,800 West Covina Boulevard San Dimas CA 91773-1473,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.09926,-117.822532
-Bonita Unified,Vista (Alternative),127 West Allen Avenue San Dimas CA 91773-1473,NA,NA,NA,not tested,San Dimas,Los Angeles County,34.11763,-117.807766
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Bonita Unified,Allen Avenue Elementary,740 East Allen Avenue San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.117447999999996,-117.79294499999999,
+Bonita Unified,Arma J. Shull Elementary,825 North Amelia San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.116902,-117.820311,
+Private,Arrow Montessori School of San Dimas,818 West Gladstone Street San Dimas CA 91773,,,False,tested,San Dimas,Los Angeles County,34.113837,-117.82306499999999,
+Bonita Unified,Chaparral High (Continuation),121 West Allen Avenue San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.11763,-117.807652,
+Bonita Unified,Fred Ekstrand Elementary,400 North Walnut Avenue San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.11079,-117.802654,
+Bonita Unified,Gladstone Elementary,1314 West Gladstone San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.113565,-117.83424099999999,
+Private,Holy Name of Mary,124 South San Dimas Canyon Road San Dimas CA 91773,,,False,tested,San Dimas,Los Angeles County,34.105723,-117.79361999999999,
+Bonita Unified,Lone Hill Middle,700 South Lone Hill San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.097196000000004,-117.82778700000001,
+Bonita Unified,San Dimas High,800 West Covina Boulevard San Dimas CA 91773-1473,,,False,tested,San Dimas,Los Angeles County,34.09926,-117.82253200000001,
+Bonita Unified,Vista (Alternative),127 West Allen Avenue San Dimas CA 91773-1473,,,,not tested,San Dimas,Los Angeles County,34.11763,-117.80776599999999,

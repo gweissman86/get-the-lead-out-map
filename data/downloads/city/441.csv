@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Palm Springs Unified,Rancho Mirage Elementary,42-985 Indian Trail Road Rancho Mirage CA 92270-4104,NA,NA,NA,not tested,Rancho Mirage,Riverside County,33.74068,-116.421454
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Palm Springs Unified,Rancho Mirage Elementary,42-985 Indian Trail Road Rancho Mirage CA 92270-4104,,,,not tested,Rancho Mirage,Riverside County,33.74068,-116.421454,

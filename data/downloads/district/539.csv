@@ -1,23 +1,23 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ocean View,Bright Star Academy,6621 Glen Dr. Huntington Beach CA 92647,7.5,ppb,TRUE,tested,Huntington Beach,Orange County,33.734081,-118.013489
-Ocean View,Circle View Elementary,6261 Hooker Drive Huntington Beach CA 92647-2800,9.3,ppb,TRUE,tested,Huntington Beach,Orange County,33.73255,-118.018932
-Ocean View,College View Elementary,6582 Lennox Drive Huntington Beach CA 92647-3452,5.1,ppb,TRUE,tested,Huntington Beach,Orange County,33.727508,-118.013745
-Ocean View,Golden View Elementary,17251 Golden View Lane Huntington Beach CA 92647-5664,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.711581,-118.010797
-Ocean View,Harbour View Elementary,4343 Pickwick Circle Huntington Beach CA 92649-3108,5.5,ppb,TRUE,tested,Huntington Beach,Orange County,33.720712,-118.052197
-Ocean View,Hope View Elementary,17622 Flintstone Lane Huntington Beach CA 92647-6413,5.2,ppb,TRUE,tested,Huntington Beach,Orange County,33.706298,-118.019392
-Ocean View,Laguna Vista Elementary,5084 Etting Road Oxnard CA 93033-5904,5.3,ppb,TRUE,tested,Oxnard,Ventura County,34.161767,-119.147012
-Ocean View,Lake View Elementary,17451 Zeider Lane Huntington Beach CA 92647-6361,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.708698,-117.981511
-Ocean View,Mar Vista Elementary,2382 Etting Road Oxnard CA 93033-6864,NA,NA,FALSE,tested,Oxnard,Ventura County,34.161657,-119.143353
-Ocean View,Marine View Middle,5682 Tilburg Drive Huntington Beach CA 92649-4699,6.1,ppb,TRUE,tested,Huntington Beach,Orange County,33.710261,-118.029415
-Ocean View,Mesa View Middle,17601 Avilla Lane Huntington Beach CA 92647-6612,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.706318,-118.010711
-Ocean View,Oak View Elementary,17241 Oak Lane Huntington Beach CA 92647-5895,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.712282,-117.993629
-Ocean View,Ocean View Early Education,4600 Olds Road Oxnard CA 93033-8062,NA,NA,FALSE,tested,Oxnard,Ventura County,34.158927,-119.148758
-Ocean View,Ocean View Junior High,4300 Olds Road Oxnard CA 93033-8051,NA,NA,FALSE,tested,Oxnard,Ventura County,34.160968,-119.148696
-Ocean View,Pleasant View,16692 Landau Lane Huntington Beach CA 92647-5097,8.7,ppb,TRUE,tested,Westminster,Orange County,33.721351,-117.975752
-Ocean View,Spring View Middle,16662 Trudy Lane Huntington Beach CA 92647-4261,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.720024,-118.019597
-Ocean View,Star View Elementary,8411 Worthy Drive Midway City CA 92655-1659,NA,NA,FALSE,tested,Midway City,Orange County,33.735185,-117.981961
-Ocean View,Sun View Elementary,7721 Juliette Low Drive Huntington Beach CA 92647-4181,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.72491,-117.994301
-Ocean View,Tierra Vista Elementary,2001 Sanford Street Oxnard CA 93033-7999,NA,NA,FALSE,tested,Oxnard,Ventura County,34.155032,-119.152723
-Ocean View,Village View Elementary,5361 Sisson Drive Huntington Beach CA 92649-2442,6.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.726803,-118.035427
-Ocean View,Vista View Middle,16250 Hickory Street Fountain Valley CA 92708-1404,6.3,ppb,TRUE,tested,Fountain Valley,Orange County,33.727256,-117.970746
-Ocean View,Westmont Elementary,8251 Heil Avenue Westminster CA 92683-7834,5.5,ppb,TRUE,tested,Westminster,Orange County,33.723063,-117.984047
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ocean View,Bright Star Academy,6621 Glen Dr. Huntington Beach CA 92647,7.5,ppb,True,tested,Huntington Beach,Orange County,33.734081,-118.01348899999999,7.5
+Ocean View,Circle View Elementary,6261 Hooker Drive Huntington Beach CA 92647-2800,9.3,ppb,True,tested,Huntington Beach,Orange County,33.73255,-118.018932,9.3
+Ocean View,College View Elementary,6582 Lennox Drive Huntington Beach CA 92647-3452,5.1,ppb,True,tested,Huntington Beach,Orange County,33.727508,-118.013745,5.1
+Ocean View,Golden View Elementary,17251 Golden View Lane Huntington Beach CA 92647-5664,,,False,tested,Huntington Beach,Orange County,33.711581,-118.010797,
+Ocean View,Harbour View Elementary,4343 Pickwick Circle Huntington Beach CA 92649-3108,5.5,ppb,True,tested,Huntington Beach,Orange County,33.720712,-118.05219699999999,5.5
+Ocean View,Hope View Elementary,17622 Flintstone Lane Huntington Beach CA 92647-6413,5.2,ppb,True,tested,Huntington Beach,Orange County,33.706298,-118.019392,5.2
+Ocean View,Laguna Vista Elementary,5084 Etting Road Oxnard CA 93033-5904,5.3,ppb,True,tested,Oxnard,Ventura County,34.161767,-119.14701200000002,5.3
+Ocean View,Lake View Elementary,17451 Zeider Lane Huntington Beach CA 92647-6361,,,False,tested,Huntington Beach,Orange County,33.708698,-117.98151100000001,
+Ocean View,Mar Vista Elementary,2382 Etting Road Oxnard CA 93033-6864,,,False,tested,Oxnard,Ventura County,34.161657,-119.143353,
+Ocean View,Marine View Middle,5682 Tilburg Drive Huntington Beach CA 92649-4699,6.1,ppb,True,tested,Huntington Beach,Orange County,33.710260999999996,-118.02941499999999,6.1
+Ocean View,Mesa View Middle,17601 Avilla Lane Huntington Beach CA 92647-6612,,,False,tested,Huntington Beach,Orange County,33.706317999999996,-118.01071100000001,
+Ocean View,Oak View Elementary,17241 Oak Lane Huntington Beach CA 92647-5895,,,False,tested,Huntington Beach,Orange County,33.712282,-117.993629,
+Ocean View,Ocean View Early Education,4600 Olds Road Oxnard CA 93033-8062,,,False,tested,Oxnard,Ventura County,34.158927,-119.148758,
+Ocean View,Ocean View Junior High,4300 Olds Road Oxnard CA 93033-8051,,,False,tested,Oxnard,Ventura County,34.160968,-119.148696,
+Ocean View,Pleasant View,16692 Landau Lane Huntington Beach CA 92647-5097,8.7,ppb,True,tested,Westminster,Orange County,33.721351,-117.975752,8.7
+Ocean View,Spring View Middle,16662 Trudy Lane Huntington Beach CA 92647-4261,,,False,tested,Huntington Beach,Orange County,33.720024,-118.01959699999999,
+Ocean View,Star View Elementary,8411 Worthy Drive Midway City CA 92655-1659,,,False,tested,Midway City,Orange County,33.735184999999994,-117.98196100000001,
+Ocean View,Sun View Elementary,7721 Juliette Low Drive Huntington Beach CA 92647-4181,,,False,tested,Huntington Beach,Orange County,33.724909999999994,-117.99430100000001,
+Ocean View,Tierra Vista Elementary,2001 Sanford Street Oxnard CA 93033-7999,,,False,tested,Oxnard,Ventura County,34.155032,-119.152723,
+Ocean View,Village View Elementary,5361 Sisson Drive Huntington Beach CA 92649-2442,6.4,ppb,True,tested,Huntington Beach,Orange County,33.726803000000004,-118.035427,6.4
+Ocean View,Vista View Middle,16250 Hickory Street Fountain Valley CA 92708-1404,6.3,ppb,True,tested,Fountain Valley,Orange County,33.727256,-117.97074599999999,6.3
+Ocean View,Westmont Elementary,8251 Heil Avenue Westminster CA 92683-7834,5.5,ppb,True,tested,Westminster,Orange County,33.723063,-117.984047,5.5

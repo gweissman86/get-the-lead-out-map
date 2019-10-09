@@ -1,10 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Garvey Elementary,Bitely (Arlene) Elementary,7501 East Fern Avenue Rosemead CA 91770-2922,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.059883,-118.105349
-Garvey Elementary,Emerson (Ralph Waldo) Elementary,7544 East Emerson Place Rosemead CA 91770-2210,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.066255,-118.102369
-Garvey Elementary,Garvey (Richard) Intermediate,2720 North Jackson Avenue Rosemead CA 91770-2935,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.06145,-118.102588
-Garvey Elementary,Hillcrest Elementary,795 Pepper Street Monterey Park CA 91755-5715,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.046544,-118.110196
-Garvey Elementary,Monterey Vista Elementary,901 East Graves Avenue Monterey Park CA 91755-4223,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.055421,-118.110111
-Garvey Elementary,Rice (Eldridge) Elementary,2150 North Angelus Avenue Rosemead CA 91770-3619,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.052715,-118.086754
-Garvey Elementary,Sanchez (George I.) Elementary,8470 East Fern Avenue Rosemead CA 91770-3261,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.058745,-118.083599
-Garvey Elementary,Temple (Roger W.) Intermediate,8470 East Fern Avenue Rosemead CA 91770-3261,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.058745,-118.083599
-Garvey Elementary,Willard (Frances E.) Elementary,3152 North Willard Avenue Rosemead CA 91770-2758,NA,NA,NA,not tested,Rosemead,Los Angeles County,34.099582,-118.085278
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Garvey Elementary,Bitely (Arlene) Elementary,7501 East Fern Avenue Rosemead CA 91770-2922,,,,not tested,Rosemead,Los Angeles County,34.059883,-118.105349,
+Garvey Elementary,Emerson (Ralph Waldo) Elementary,7544 East Emerson Place Rosemead CA 91770-2210,,,,not tested,Rosemead,Los Angeles County,34.066255,-118.102369,
+Garvey Elementary,Garvey (Richard) Intermediate,2720 North Jackson Avenue Rosemead CA 91770-2935,,,,not tested,Rosemead,Los Angeles County,34.06145,-118.10258799999998,
+Garvey Elementary,Hillcrest Elementary,795 Pepper Street Monterey Park CA 91755-5715,,,,not tested,Monterey Park,Los Angeles County,34.046544,-118.110196,
+Garvey Elementary,Monterey Vista Elementary,901 East Graves Avenue Monterey Park CA 91755-4223,,,,not tested,Monterey Park,Los Angeles County,34.055421,-118.110111,
+Garvey Elementary,Rice (Eldridge) Elementary,2150 North Angelus Avenue Rosemead CA 91770-3619,,,,not tested,Rosemead,Los Angeles County,34.052715,-118.086754,
+Garvey Elementary,Sanchez (George I.) Elementary,8470 East Fern Avenue Rosemead CA 91770-3261,,,,not tested,Rosemead,Los Angeles County,34.058745,-118.08359899999999,
+Garvey Elementary,Temple (Roger W.) Intermediate,8470 East Fern Avenue Rosemead CA 91770-3261,,,,not tested,Rosemead,Los Angeles County,34.058745,-118.08359899999999,
+Garvey Elementary,Willard (Frances E.) Elementary,3152 North Willard Avenue Rosemead CA 91770-2758,,,,not tested,Rosemead,Los Angeles County,34.099582,-118.085278,

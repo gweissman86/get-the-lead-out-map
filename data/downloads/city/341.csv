@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mill Valley Elementary,Tamalpais Valley Elementary,350 Bell Lane Mill Valley CA 94941-4038,NA,NA,FALSE,tested,Mill Valley,Marin County,37.874316,-122.527639
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Westminster,Demille Elementary,15400 Van Buren Midway City CA 92655-1660,5.2,ppb,True,tested,Midway City,Orange County,33.739481,-117.98580700000001,5.2
+Westminster,Jessie Hayden Elementary,14782 Eden Street Midway City CA 92655-1108,,,False,tested,Midway City,Orange County,33.747779,-117.97592399999999,
+Ocean View,Star View Elementary,8411 Worthy Drive Midway City CA 92655-1659,,,False,tested,Midway City,Orange County,33.735184999999994,-117.98196100000001,

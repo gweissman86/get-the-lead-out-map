@@ -1,4 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Holtville Unified,Emmett S. Finley Elementary,627 East Sixth Street Holtville CA 92250-1450,NA,NA,NA,not tested,Holtville,Imperial County,32.813793,-115.37101
-Holtville Unified,Holtville High,755 Olive Avenue Holtville CA 92250-1015,NA,NA,NA,not tested,Holtville,Imperial County,32.815699,-115.385258
-Holtville Unified,Holtville Junior High,800 Beale Avenue Holtville CA 92250-1404,NA,NA,NA,not tested,Holtville,Imperial County,32.816697,-115.370178
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hollister,Calaveras Elementary,1151 Buena Vista Road Suite 100 Hollister CA 95023-3329,,,False,tested,Hollister,San Benito County,36.856512,-121.41731399999999,
+Hollister,Calaveras Elementary/Accelerated Achievement Academy,1151 Buena Vista Road Suite 100 Hollister CA 95023-3329,,,,not tested,Hollister,San Benito County,36.856512,-121.41731399999999,
+Hollister,Hollister Dual Language Academy,"873 Santa Ana Road, Suite 200 Hollister CA 95023-7115",,,,not tested,Hollister,San Benito County,36.853868,-121.38596499999998,
+San Benito County Office of Education,San Benito County Regional Special Education Center,"1011 Line Street, Suite 12 Hollister CA 95023-4589",,,,not tested,Hollister,San Benito County,36.845078,-121.41238,
+North County Joint Union Elementary,Spring Grove Elementary,500 Spring Grove Road Hollister CA 95023-9366,,,,not tested,Hollister,San Benito County,36.914925,-121.36031200000001,

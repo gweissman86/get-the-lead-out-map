@@ -1,3 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Scott Valley Unified,Fort Jones Elementary,11501 Mathews Street Fort Jones CA 96032,NA,NA,NA,not tested,Fort Jones,Siskiyou County,41.603775,-122.845653
-Scott Valley Unified,Scott Valley Junior High,237 Butte Street Fort Jones CA 96032-0607,NA,NA,NA,not tested,Fort Jones,Siskiyou County,41.609119,-122.842254
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Silver Valley Unified,Congressman Jerry Lewis Elementary,1800 Blackhawk Street Fort Irwin CA 92310-1700,,,,not tested,Fort Irwin,San Bernardino County,35.264555,-116.696423,
+Silver Valley Unified,Fort Irwin Middle,1700 Pork Chop Hill Street Fort Irwin CA 92310-1532,,,False,tested,Fort Irwin,San Bernardino County,35.258208,-116.697022,
+Silver Valley Unified,Lewis Elementary School,1800 Black Hawk Fort Irwin CA 92310,,,False,tested,Fort Irwin,San Bernardino County,35.264555,-116.696423,

@@ -1,28 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hawthorne,Bud Carson Middle,13838 South Yukon Avenue Hawthorne CA 90250-7716,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.932901,-118.334893
-Los Angeles Unified,Cimarron Avenue Elementary,11559 Cimarron Avenue Hawthorne CA 90250-1914,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.928894,-118.315213
-LAUSD,CIMARRON ELEMENTARY,"11559 CIMARRON AVE, HAWTHORNE,      CA 90250",NA,NA,NA,exempt,Hawthorne,Los Angeles County,33.928894,-118.315213
-Wiseburn Unified,Da Vinci Communications High,12495 Isis Avenue Hawthorne CA 90250-4147,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.919206,-118.374436
-Wiseburn Unified,Da Vinci Design,12501 Isis Avenue Hawthorne CA 90250-4149,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.918945,-118.374434
-Wiseburn Unified,Da Vinci Innovation Academy,13500 Aviation Blvd. Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.895571,-118.378692
-Wiseburn Unified,Da Vinci Science,13500 Aviation Boulevard Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.895571,-118.378692
-Wiseburn Unified,Dana Middle School,5504 W. 135th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.909371,-118.376606
-Hawthorne,Eucalyptus,12044 South Eucalyptus Avenue Hawthorne CA 90250-3602,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.922435,-118.358595
-Los Angeles Unified,Executive Preparatory Academy of Finance,2506 West Imperial Highway Hawthorne CA 90250-1953,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.930875,-118.356096
-Lawndale Elementary,F. D. Roosevelt Elementary,3533 West Marine Boulevard Lawndale CA 90260-2400,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.895043,-118.333931
-Centinela Valley Union High,Hawthorne High,4859 West El Segundo Boulevard Hawthorne CA 90250-4204,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.916407,-118.354295
-Hawthorne,Hawthorne Math and Science Academy,4467 West Broadway Hawthorne CA 90250-3819,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.920347,-118.354139
-Hawthorne,Hawthorne Middle,4366 West 129th Street Hawthorne CA 90250-5211,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.915223,-118.351339
-Hawthorne,Jefferson,4091 West 139th Street Hawthorne CA 90250-7303,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.905168,-118.34633
-Wiseburn Unified,Juan De Anza Elementary,12110 Hindry Avenue Hawthorne CA 90250-3403,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.902785,-118.373066
-Lawndale Elementary,Kit Carson Elementary,3530 West 147th Street Hawthorne CA 90250-8518,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.898207,-118.333644
-Hawthorne,Kornblum,3620 West El Segundo Boulevard Hawthorne CA 90250-4819,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.916407,-118.354295
-Inglewood Unified,Morningside High School,10500 South Yukon Avenue Inglewood CA 90303-2003,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.940688,-118.335061
-Wiseburn Unified,Peter Burnett Elementary,5403 W. 138th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.906625,-118.374372
-Hawthorne,Prairie Vista Middle,13600 South Prairie Avenue Hawthorne CA 90250-7306,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.931463,-118.343901
-Hawthorne,Ramona,4617 West 136th Street Hawthorne CA 90250-5735,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.908622,-118.364189
-Los Angeles County Office of Education,Renaissance County Community,14600 Cerise Avenue Hawthorne CA 90250-8526,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.899387,-118.332901
-Hawthorne,Washington,4339 West 129th Street Hawthorne CA 90250-5210,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.915393,-118.350625
-Inglewood Unified,Worthington Elementary,11101 South Yukon Avenue Inglewood CA 90303-2728,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.934272,-118.335678
-Hawthorne,York,11838 South York Avenue Hawthorne CA 90250-3125,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.926334,-118.344488
-Hawthorne,Zela Davis,13435 South Yukon Avenue Hawthorne CA 90250-6228,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.932901,-118.334893
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+ABC Unified,Fedde (Pharis F.) Middle,21409 South Elaine Avenue Hawaiian Gardens CA 90716-1025,,,,not tested,Hawaiian Gardens,Los Angeles County,33.834901,-118.07680900000001,
+ABC Unified,Hawaiian Elementary,12350 East 226th Street Hawaiian Gardens CA 90716-1721,,,,not tested,Hawaiian Gardens,Los Angeles County,33.823921,-118.06759699999999,

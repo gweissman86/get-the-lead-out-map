@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sutter County Office of Education,Feather River Academy,1895 Lassen Boulevard Yuba City CA 95993-8987,NA,NA,FALSE,tested,Yuba City,Sutter County,39.138161,-121.652863
-Sutter County Office of Education,Sutter County Adult,1699 Sierra Avenue Yuba City CA 95993-8982,NA,NA,NA,not tested,Yuba City,Sutter County,39.140463,-121.648669
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Sutter County Office of Education,Feather River Academy,1895 Lassen Boulevard Yuba City CA 95993-8987,,,False,tested,Yuba City,Sutter County,39.138161,-121.65286299999998,
+Sutter County Office of Education,Sutter County Adult,1699 Sierra Avenue Yuba City CA 95993-8982,,,,not tested,Yuba City,Sutter County,39.140463000000004,-121.648669,

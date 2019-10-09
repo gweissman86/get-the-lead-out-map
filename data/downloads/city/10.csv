@@ -1,5 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Modoc Joint Unified,Alturas Elementary,809 West 8th Street Alturas CA 96101-3116,NA,NA,FALSE,tested,Alturas,Modoc County,41.490895,-120.557704
-Modoc Joint Unified,Modoc Community Adult,802 North East Street Alturas CA 96101,NA,NA,FALSE,tested,Alturas,Modoc County,41.491099,-120.539912
-Modoc Joint Unified,Modoc High,900 North Main Street Alturas CA 96101-3376,NA,NA,FALSE,tested,Alturas,Modoc County,41.488601,-120.542501
-Modoc Joint Unified,Modoc Middle,906 West Fourth Street Alturas CA 96101-3716,NA,NA,FALSE,tested,Alturas,Modoc County,41.487612,-120.555543
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pasadena Unified,Aveson School of Leaders,1919 East Pinecrest Drive Altadena CA 91001-2116,,,False,tested,Altadena,Los Angeles County,34.192025,-118.111602,
+Pasadena Unified,John Muir High,1905 North Lincoln Avenue Pasadena CA 91103-1315,9.3,ppb,True,tested,Altadena,Los Angeles County,34.181632,-118.159697,11.0

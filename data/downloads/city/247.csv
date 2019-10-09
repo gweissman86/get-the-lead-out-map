@@ -1,10 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-South Bay Union,Bayside Elementary,490 Emory Street Imperial Beach CA 91932-1524,7.3,ppb,TRUE,tested,Imperial Beach,San Diego County,32.588245,-117.113152
-South Bay Union,Central Elementary,1290 Ebony Avenue Imperial Beach CA 91932-2920,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.577586,-117.107707
-South Bay Union,Friendship School,601 Elm Ave Imperial Beach CA 91932,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.580036,-117.120155
-Sweetwater Union High,Imperial Beach Adult School,170 Palm Avenue Imperial Beach CA 92132,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.583771,-117.102152
-South Bay Union,Imperial Beach Charter,650 Imperial Beach Boulevard Imperial Beach CA 91932-2706,12,ppb,TRUE,tested,Imperial Beach,San Diego County,32.576492,-117.119371
-South Bay Union Elementary,Imperial Beach Charter School West Campus,525 3rd Street Imperial Beach CA 91932,6.6,ppb,TRUE,tested,Imperial Beach,San Diego County,32.586724,-117.127308
-Sweetwater Union High,Mar Vista Senior High,505 Elm Avenue Imperial Beach CA 91932-2027,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.578076,-117.122804
-South Bay Union,Oneonta Elementary,1311 Tenth Street Imperial Beach CA 91932-3403,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.572863,-117.111584
-South Bay Union,VIP Village Preschool,1001 Fern Avenue Imperial Beach CA 91932-3353,NA,NA,FALSE,tested,Imperial Beach,San Diego County,32.57464,-117.11214
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Imperial Unified,Ben Hulse Elementary,303 South D Street Imperial CA 92251-1433,,,False,tested,Imperial,Imperial County,32.844559999999994,-115.576181,
+Private,Faith Academy,320 South J Street Imperial CA 92251,,,False,tested,Imperial,Imperial County,32.845245,-115.568247,
+Imperial Unified,Imperial Ave. Holbrook High,322 North Imperial Avenue Imperial CA 92251-1267,,,False,tested,Imperial,Imperial County,32.849821,-115.569873,
+Imperial Unified,Imperial High,517 West Barioni Boulevard Imperial CA 92251-1452,,,False,tested,Imperial,Imperial County,32.847402,-115.57515500000001,
+Imperial Unified,T. L. Waggoner Elementary,627 Joshua Tree Street Imperial CA 92251-8917,,,False,tested,Imperial,Imperial County,32.822155,-115.591876,

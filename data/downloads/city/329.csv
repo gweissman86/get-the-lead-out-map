@@ -1,5 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Twin Rivers Unified,Community Collaborative Charter,5715 Skvarla Avenue McClellan CA 95652-2424,NA,NA,NA,not tested,McClellan Park,Sacramento County,38.670954,-121.385524
-Twin Rivers Unified,Community Outreach Academy-5640 Dudley,5640 Dudley Blvd McClellan CA 95652,NA,NA,NA,not tested,McClellan Park,Sacramento County,38.670273,-121.38677
-Twin Rivers Unified,Community Outreach Academy-5712 Dudley,5712 Dudley Blvd McClellan CA 95652,NA,NA,NA,not tested,McClellan Park,Sacramento County,38.670904,-121.386703
-Twin Rivers Unified,Community Outreach Academy-Skvarla,5637 Skvarla Avenue McClellan CA 95652-2439,NA,NA,NA,not tested,McClellan Park,Sacramento County,38.669812,-121.384875
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Marysville Joint Unified,Edgewater Elementary,5715 Oakwood Drive Marysville CA 95901-7343,,,False,tested,Marysville,Yuba County,39.119801,-121.54942700000001,
+Marysville Joint Unified,Linda Elementary,6180 Dunning Avenue Marysville CA 95901-6505,,,False,tested,Marysville,Yuba County,39.133226,-121.54543000000001,

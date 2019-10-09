@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Gustine Unified,Gustine Elementary,2806 West Grove Avenue Gustine CA 95322-1803,NA,NA,NA,not tested,Gustine,Merced County,37.248476,-120.99818
-Gustine Unified,Gustine High,501 North Ave Gustine CA 95322-1116,NA,NA,NA,not tested,NA,Merced County,37.261825,-121.001952
-Gustine Unified,Gustine Middle,28075 Sullivan Road Gustine CA 95322-9516,NA,NA,NA,not tested,NA,Merced County,37.243953,-120.995661
-Gustine Unified,Pioneer Headstart,1500 Meredith Avenue Gustine CA 95322-1701,NA,NA,NA,not tested,NA,Merced County,37.248919,-121.011177
-Gustine Unified,Pioneer High (Continuation),501 North Avenue Gustine CA 95322-1701,NA,NA,NA,not tested,NA,Merced County,37.261825,-121.001952
-Gustine Unified,Romero Elementary,13500 West Luis Road Santa Nella CA 95322-9645,NA,NA,FALSE,tested,Gustine,Merced County,37.093495,-121.019918
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Gustine Unified,Gustine Elementary,2806 West Grove Avenue Gustine CA 95322-1803,,,,not tested,Gustine,Merced County,37.248476000000004,-120.99818,
+Gustine Unified,Gustine High,501 North Ave Gustine CA 95322-1116,,,,not tested,,Merced County,37.261825,-121.001952,
+Gustine Unified,Gustine Middle,28075 Sullivan Road Gustine CA 95322-9516,,,,not tested,,Merced County,37.243953000000005,-120.99566100000001,
+Gustine Unified,Pioneer Headstart,1500 Meredith Avenue Gustine CA 95322-1701,,,,not tested,,Merced County,37.248919,-121.011177,
+Gustine Unified,Pioneer High (Continuation),501 North Avenue Gustine CA 95322-1701,,,,not tested,,Merced County,37.261825,-121.001952,
+Gustine Unified,Romero Elementary,13500 West Luis Road Santa Nella CA 95322-9645,,,False,tested,Gustine,Merced County,37.093495000000004,-121.01991799999999,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Rim of the World Unified,Mary P. Henck Intermediate,730 Rhine Road Lake Arrowhead CA 92352-0000,6.5,ppb,TRUE,tested,Twin Peaks,San Bernardino County,34.263321,-117.212881
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Rim of the World Unified,Mary P. Henck Intermediate,730 Rhine Road Lake Arrowhead CA 92352-0000,6.5,ppb,True,tested,Twin Peaks,San Bernardino County,34.263321000000005,-117.21288100000001,7.1

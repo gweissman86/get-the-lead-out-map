@@ -1,15 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Bellflower Unified,Albert Baxter Elementary,14929 Cerritos Avenue Bellflower CA 90706-2827,NA,NA,FALSE,tested,NA,Los Angeles County,33.897999,-118.139974
-Bellflower Unified,Bellflower High,15301 South McNab Avenue Bellflower CA 90706-4101,8.9,ppb,TRUE,tested,Bellflower,Los Angeles County,33.894294,-118.114835
-Bellflower Unified,Craig Williams Elementary,6144 North Clark Avenue Lakewood CA 90712-1211,NA,NA,FALSE,tested,Lakewood,Los Angeles County,33.867124,-118.132841
-Bellflower Unified,Ernie Pyle Elementary,14500 South Woodruff Avenue Bellflower CA 90706-3237,15,ppb,TRUE,tested,Bellflower,Los Angeles County,33.899974,-118.116268
-Bellflower Unified,Esther Lindstrom Elementary,5900 North Canehill Street Lakewood CA 90713-1251,7.6899999999999995,ppb,TRUE,tested,Lakewood,Los Angeles County,33.862952,-118.11123
-Bellflower Unified,Frank E. Woodruff Elementary,15332 South Eucalyptus Street Bellflower CA 90706-3706,13,ppb,TRUE,tested,Bellflower,Los Angeles County,33.893737,-118.121197
-Bellflower Unified,Intensive Learning Center,4718 East Michelson Street Lakewood CA 90712-1851,5.74,ppb,TRUE,tested,Lakewood,Los Angeles County,33.857174,-118.136976
-Bellflower Unified,Las Flores Home Education Independent Study Academy,10039 East Palm Street Bellflower CA 90706-6013,8.4,ppb,TRUE,tested,Bellflower,Los Angeles County,33.876921,-118.119354
-Bellflower Unified,Mayfair High,6000 North Woodruff Avenue Lakewood CA 90713-1124,5.36,ppb,TRUE,tested,Lakewood,Los Angeles County,33.863314,-118.116437
-Bellflower Unified,Ramona Elementary,9351 East Laurel Street Bellflower CA 90706-5615,NA,NA,FALSE,tested,Bellflower,Los Angeles County,33.88311,-118.134466
-Bellflower Unified,Somerset Continuation High,9242 East Laurel Street Bellflower CA 90706-7607,NA,NA,FALSE,tested,Bellflower,Los Angeles County,33.882754,-118.136777
-Bellflower Unified,Stephen Foster Elementary,5223 East Bigelow Street Lakewood CA 90712-2023,11.6,ppb,TRUE,tested,Lakewood,Los Angeles County,33.857658,-118.130735
-Bellflower Unified,Thomas Jefferson Elementary,10027 East Rose Street Bellflower CA 90706-6916,NA,NA,FALSE,tested,Bellflower,Los Angeles County,33.869929,-118.120018
-Bellflower Unified,Washington Elementary,9725 East Jefferson Street Bellflower CA 90706-3615,NA,NA,FALSE,tested,Bellflower,Los Angeles County,33.893294,-118.126927
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Bellflower Unified,Albert Baxter Elementary,14929 Cerritos Avenue Bellflower CA 90706-2827,,,False,tested,,Los Angeles County,33.897999,-118.139974,
+Bellflower Unified,Bellflower High,15301 South McNab Avenue Bellflower CA 90706-4101,8.9,ppb,True,tested,Bellflower,Los Angeles County,33.894294,-118.11483500000001,8.9
+Bellflower Unified,Craig Williams Elementary,6144 North Clark Avenue Lakewood CA 90712-1211,,,False,tested,Lakewood,Los Angeles County,33.867124,-118.13284099999998,
+Bellflower Unified,Ernie Pyle Elementary,14500 South Woodruff Avenue Bellflower CA 90706-3237,15.0,ppb,True,tested,Bellflower,Los Angeles County,33.899974,-118.11626799999999,15.0
+Bellflower Unified,Esther Lindstrom Elementary,5900 North Canehill Street Lakewood CA 90713-1251,7.689999999999999,ppb,True,tested,Lakewood,Los Angeles County,33.862952,-118.11123,10.0
+Bellflower Unified,Frank E. Woodruff Elementary,15332 South Eucalyptus Street Bellflower CA 90706-3706,13.0,ppb,True,tested,Bellflower,Los Angeles County,33.893737,-118.121197,13.0
+Bellflower Unified,Intensive Learning Center,4718 East Michelson Street Lakewood CA 90712-1851,5.74,ppb,True,tested,Lakewood,Los Angeles County,33.857174,-118.136976,5.74
+Bellflower Unified,Las Flores Home Education Independent Study Academy,10039 East Palm Street Bellflower CA 90706-6013,8.4,ppb,True,tested,Bellflower,Los Angeles County,33.876921,-118.119354,8.4
+Bellflower Unified,Mayfair High,6000 North Woodruff Avenue Lakewood CA 90713-1124,5.36,ppb,True,tested,Lakewood,Los Angeles County,33.863314,-118.116437,5.36
+Bellflower Unified,Ramona Elementary,9351 East Laurel Street Bellflower CA 90706-5615,,,False,tested,Bellflower,Los Angeles County,33.883109999999995,-118.13446599999999,
+Bellflower Unified,Somerset Continuation High,9242 East Laurel Street Bellflower CA 90706-7607,,,False,tested,Bellflower,Los Angeles County,33.882754,-118.136777,
+Bellflower Unified,Stephen Foster Elementary,5223 East Bigelow Street Lakewood CA 90712-2023,11.6,ppb,True,tested,Lakewood,Los Angeles County,33.857658,-118.13073500000002,11.6
+Bellflower Unified,Thomas Jefferson Elementary,10027 East Rose Street Bellflower CA 90706-6916,,,False,tested,Bellflower,Los Angeles County,33.869929,-118.12001799999999,
+Bellflower Unified,Washington Elementary,9725 East Jefferson Street Bellflower CA 90706-3615,,,False,tested,Bellflower,Los Angeles County,33.893294,-118.126927,

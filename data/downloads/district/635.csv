@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Riverbank Unified,Adelante High,6801 Seventh Street Riverbank CA 95367,NA,NA,FALSE,tested,Riverbank,Stanislaus County,37.737272,-120.929663
-Riverbank Unified,California Avenue Elementary,3800 California Avenue Riverbank CA 95367-3009,NA,NA,FALSE,tested,Riverbank,Stanislaus County,37.728666,-120.926046
-Riverbank Unified,Cardozo Middle,3525 Santa Fe Street Riverbank CA 95367-2300,NA,NA,FALSE,tested,NA,Stanislaus County,37.736013,-120.946742
-Riverbank Unified,Mesa Verde Elementary,4850 Mesa Drive Oakdale CA 95361-7862,NA,NA,FALSE,tested,Oakdale,Stanislaus County,37.738663,-120.906957
-Riverbank Unified,Riverbank High,6200 Claus Road Riverbank CA 95367-3013,NA,NA,FALSE,tested,NA,Stanislaus County,37.729147,-120.921973
-Riverbank Unified,Riverbank Language Academy,2400 Stanislaus Street Riverbank CA 95367-2233,NA,NA,FALSE,tested,NA,Stanislaus County,37.734932,-120.954013
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Riverbank Unified,Adelante High,6801 Seventh Street Riverbank CA 95367,,,False,tested,Riverbank,Stanislaus County,37.737272,-120.92966299999999,
+Riverbank Unified,California Avenue Elementary,3800 California Avenue Riverbank CA 95367-3009,,,False,tested,Riverbank,Stanislaus County,37.728666,-120.926046,
+Riverbank Unified,Cardozo Middle,3525 Santa Fe Street Riverbank CA 95367-2300,,,False,tested,,Stanislaus County,37.736013,-120.94674199999999,
+Riverbank Unified,Mesa Verde Elementary,4850 Mesa Drive Oakdale CA 95361-7862,,,False,tested,Oakdale,Stanislaus County,37.738663,-120.906957,
+Riverbank Unified,Riverbank High,6200 Claus Road Riverbank CA 95367-3013,,,False,tested,,Stanislaus County,37.729147,-120.921973,
+Riverbank Unified,Riverbank Language Academy,2400 Stanislaus Street Riverbank CA 95367-2233,,,False,tested,,Stanislaus County,37.734932,-120.95401299999999,

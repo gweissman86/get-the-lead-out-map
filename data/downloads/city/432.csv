@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pollock Pines Elementary,Sierra Ridge Middle,2700 Amber Trail Pollock Pines CA 95726-9213,NA,NA,FALSE,tested,Pollock Pines,El Dorado County,38.747389,-120.579155
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pollock Pines Elementary,Sierra Ridge Middle,2700 Amber Trail Pollock Pines CA 95726-9213,,,False,tested,Pollock Pines,El Dorado County,38.747389,-120.579155,

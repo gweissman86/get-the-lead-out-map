@@ -1,10 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Joaquin County Office of Education,"John F. Cruikshank, Jr.",2707 Transworld Drive Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906899,-121.228754
-San Joaquin County Office of Education,McFall School,1810 Hoyt Lane Manteca CA 95336,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.822831,-121.227746
-San Joaquin County Office of Education,one.Charter,2707 Transworld Dr Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906899,-121.228754
-San Joaquin County Office of Education,River Islands Technology Academy II,1175 Marina Drive Lathrop CA 95330-8543,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.799546,-121.318831
-San Joaquin County Office of Education,Robert E. Goodwin Community School,1271 N. Main St. Manteca CA 95336,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.815011,-121.217831
-San Joaquin County Office of Education,San Joaquin Building Futures Academy,3100 Monte Diablo Avenue Stockton CA 95203-1108,NA,NA,NA,not tested,Stockton,San Joaquin County,37.954561,-121.342491
-San Joaquin County Office of Education,San Joaquin County Community,2707 Transworld D Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.909015,-121.23241
-San Joaquin County Office of Education,San Joaquin County Special Education,2707 Transworld Dr. Stockton CA 95206-3948,NA,NA,NA,not tested,Stockton,San Joaquin County,37.906899,-121.228754
-San Joaquin County Office of Education,Venture Academy,2829 Transworld Drive Stockton CA 95206-3950,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.908287,-121.230549
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Joaquin County Office of Education,"John F. Cruikshank, Jr.",2707 Transworld Drive Stockton CA 95206-3948,,,,not tested,Stockton,San Joaquin County,37.906898999999996,-121.22875400000001,
+San Joaquin County Office of Education,McFall School,1810 Hoyt Lane Manteca CA 95336,,,False,tested,Manteca,San Joaquin County,37.822831,-121.227746,
+San Joaquin County Office of Education,one.Charter,2707 Transworld Dr Stockton CA 95206-3948,,,,not tested,Stockton,San Joaquin County,37.906898999999996,-121.22875400000001,
+San Joaquin County Office of Education,River Islands Technology Academy II,1175 Marina Drive Lathrop CA 95330-8543,,,,not tested,Lathrop,San Joaquin County,37.799546,-121.318831,
+San Joaquin County Office of Education,Robert E. Goodwin Community School,1271 N. Main St. Manteca CA 95336,,,False,tested,Manteca,San Joaquin County,37.815011,-121.217831,
+San Joaquin County Office of Education,San Joaquin Building Futures Academy,3100 Monte Diablo Avenue Stockton CA 95203-1108,,,,not tested,Stockton,San Joaquin County,37.954561,-121.342491,
+San Joaquin County Office of Education,San Joaquin County Community,2707 Transworld D Stockton CA 95206-3948,,,,not tested,Stockton,San Joaquin County,37.909015000000004,-121.23241000000002,
+San Joaquin County Office of Education,San Joaquin County Special Education,2707 Transworld Dr. Stockton CA 95206-3948,,,,not tested,Stockton,San Joaquin County,37.906898999999996,-121.22875400000001,
+San Joaquin County Office of Education,Venture Academy,2829 Transworld Drive Stockton CA 95206-3950,,,False,tested,Stockton,San Joaquin County,37.908287,-121.230549,

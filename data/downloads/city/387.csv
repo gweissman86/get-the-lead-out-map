@@ -1,72 +1,86 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Chaffey Joint Union High School,Alternative Education Center Center,"1802 East 7th Street, Ontario, CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.088567,-117.613448
-Ontario-Montclair,Arroyo Elementary,1700 East Seventh Street Ontario CA 91764-1204,NA,NA,NA,not tested,Ontario,San Bernardino County,34.088017,-117.616652
-Ontario-Montclair,Arroyo Elementary School,"1700 E. 7th Street, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.08841,-117.616091
-Baldy View ROP,Baldy View ROP,1501 South Bon View Avenue Ontario CA 91761-4408,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.046683,-117.637201
-Ontario-Montclair,Berlyn Elementary,1320 North Berlyn Avenue Ontario CA 91764-1907,NA,NA,NA,not tested,Ontario,San Bernardino County,34.081999,-117.638928
-Ontario-Montclair,Berlyn Elementary School,"1320 N. Berlyn Ave, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.081999,-117.638928
-Ontario-Montclair,Bon View Elementary,2121 South Bon View Avenue Ontario CA 91761-4408,NA,NA,NA,not tested,Ontario,San Bernardino County,34.034954,-117.6371
-Ontario-Montclair,Bon View Elementary School,"2121 S. Bon View Ave, Ontario CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.034954,-117.6371
-Ontario-Montclair,Central Language Academy,"415 East G St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.070761,-117.646996
-Ontario-Montclair,Central Language Academy,415 East G Street Ontario CA 91764-3729,NA,NA,NA,not tested,Ontario,San Bernardino County,34.070761,-117.646996
-Chaffey Joint Union High,Chaffey Adult,1802 East Seventh Street Ontario CA 91764,NA,NA,NA,not tested,Ontario,San Bernardino County,34.087959,-117.61317
-Chaffey Joint Union High School,Chaffey Adult School,"557 West 5th St, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.08163,-117.657583
-Chaffey Joint Union High,Chaffey Community Day,1802 East Seventh St Ontario CA 91764-1210,NA,NA,NA,not tested,Ontario,San Bernardino County,34.087959,-117.61317
-Chaffey Joint Union High,Chaffey High,1245 North Euclid Avenue Ontario CA 91762-1997,NA,NA,NA,not tested,Ontario,San Bernardino County,34.080576,-117.651043
-Chaffey Joint Union High School,Chaffey High School,"1245 North Euclid Avenue, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.080576,-117.651043
-Chaffey Joint Union High,Colony High,3850 East Riverside Drive Ontario CA 91761-2603,NA,NA,NA,not tested,Ontario,San Bernardino County,34.019365,-117.64802
-Chaffey Joint Union High School,Colony High School,"3850 East Riverside Dr., Ontario, CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.019365,-117.64802
-Ontario-Montclair,Corona Elementary,1140 North Corona Avenue Ontario CA 91764-2626,NA,NA,NA,not tested,Ontario,San Bernardino County,34.081399,-117.615417
-Ontario-Montclair,Corona Elementary School,"1140 N. Corona Ave, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.081399,-117.615417
-Mountain View Elementary,Creek View Elementary,3742 Lytle Creek North Loop Ontario CA 91761-0242,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.024318,-117.569099
-Ontario-Montclair,De Anza Middle,1450 South Sultana Avenue Ontario CA 91761-4236,NA,NA,NA,not tested,Ontario,San Bernardino County,34.047397,-117.646134
-Ontario-Montclair,De Anza Middle School,"1450 S. Sultana Ave, Ontario CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.047397,-117.646134
-Ontario-Montclair,Del Norte Elementary,850 Del Norte Avenue Ontario CA 91764-3639,NA,NA,NA,not tested,Ontario,San Bernardino County,34.025332,-117.625795
-Ontario-Montclair,Del Norte Elementay School,"850 N. Del Norte, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.029311,-117.625967
-Ontario-Montclair,Edison Academy,"515 E. 6th St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.0853,-117.645508
-Ontario-Montclair,Edison Elementary,515 East Sixth Street Ontario CA 91764-1818,NA,NA,NA,not tested,Ontario,San Bernardino County,34.085525,-117.64518
-Ontario-Montclair,El Camino Elementary,1525 West Fifth Street Ontario CA 91762-1499,NA,NA,NA,not tested,Ontario,San Bernardino County,34.080981,-117.679372
-Ontario-Montclair,El Camino Elementary School,"1525 W. 5th St, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.081552,-117.67927
-Ontario-Montclair,Elderberry Elementary,950 North Elderberry Avenue Ontario CA 91762-2014,NA,NA,NA,not tested,Ontario,San Bernardino County,34.075144,-117.674748
-Ontario-Montclair,Elderberry Elementary School,"950 N. Elderberry Ave, Ontario CA  91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.075144,-117.674748
-Ontario-Montclair,Euclid Elementary,1120 South Euclid Avenue Ontario CA 91762-5119,NA,NA,NA,not tested,Ontario,San Bernardino County,34.052244,-117.650882
-Ontario-Montclair,Euclid Elementary School,"1120 S. Euclid Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.052244,-117.650882
-Mountain View Elementary,Grace Yokley Middle,2947 South Turner Avenue Ontario CA 91761-8146,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.043036,-117.584557
-Ontario-Montclair,Hawthorne Elementary,705 West Hawthorne Street Ontario CA 91762-1599,NA,NA,NA,not tested,Ontario,San Bernardino County,34.083265,-117.661904
-Ontario-Montclair,Hawthorne Elementary School,"705 W. Hawthorne St, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.083265,-117.661904
-Ontario-Montclair,Hawthorne Elementary School,"705 W. Hawthorne St, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.083265,-117.661904
-Ontario-Montclair,Haynes Elementary School,"715 W. Francis St, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.040955,-117.661865
-Chino Valley Unified,Levi H. Dickey Elementary,2840 Parco Avenue Ontario CA 91761-7037,NA,NA,NA,not tested,Ontario,San Bernardino County,34.021764,-117.624909
-Ontario-Montclair,Lincoln Elementary School,"440 N. Allyn Ave, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.067581,-117.637153
-Ontario-Montclair,Linda Vista,"1556 S. Sultana, Ontario CA  91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.0449,-117.646739
-Ontario-Montclair,Mariposa Elementary,1605 East D Street Ontario CA 91764-4405,NA,NA,NA,not tested,Ontario,San Bernardino County,34.067199,-117.61793
-Ontario-Montclair,Mariposa Elementary School,"1605 East D St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.067199,-117.61793
-Ontario-Montclair,Mission Elementary,5555 Howard Street Ontario CA 91762-4612,NA,NA,NA,not tested,Ontario,San Bernardino County,34.051696,-117.683867
-Ontario-Montclair,Mission Elementary School,"5555 Howard St, Ontario CA  91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.051696,-117.683867
-Mountain View Elementary,Mountain View Elementary,2825 Walnut Street Ontario CA 91761-7428,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.025808,-117.588312
-Ontario-Montclair,Oaks Middle,1221 South Oaks Avenue Ontario CA 91762-4742,NA,NA,NA,not tested,Ontario,San Bernardino County,34.049542,-117.676235
-Ontario-Montclair,Oaks Middle School,"1221 S. Oaks Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.049542,-117.676235
-Ontario-Montclair,Oaks Middle School,"1221 S. Oaks Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.049542,-117.676235
-Chaffey Joint Union High,Ontario High,901 West Francis Street Ontario CA 91762-6214,NA,NA,NA,not tested,Ontario,San Bernardino County,34.040913,-117.665599
-Chaffey Joint Union High School,Ontario High School,"901 West Francis St, Ontario, CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.040913,-117.665599
-Mountain View Elementary,Ranch View Elementary,3300 Old Archibald Road Ontario CA 91761-9165,NA,NA,FALSE,tested,Ontario,San Bernardino County,34.012989,-117.588952
-Ontario-Montclair,Ray Wiltsey Middle,1450 East G Street Ontario CA 91764-4410,NA,NA,NA,not tested,Ontario,San Bernardino County,34.070634,-117.620613
-Ontario-Montclair,Richard Haynes Elementary,715 West Francis Street Ontario CA 91762-6311,NA,NA,NA,not tested,Ontario,San Bernardino County,34.040955,-117.661865
-Ontario-Montclair,Sultana Elementary,1845 South Sultana Avenue Ontario CA 91761-5326,NA,NA,NA,not tested,Ontario,San Bernardino County,34.039787,-117.646037
-Ontario-Montclair,Sultana Elementary School,"1845 S. Sultana Ave, Ontario CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.039787,-117.646037
-Ontario-Montclair,Sultana Elementary School,"1845 S. Sultana Ave, Ontario CA 91761",NA,NA,NA,exempt,Ontario,San Bernardino County,34.039787,-117.646037
-Cucamonga Elementary,The Ontario Center,835 North Center Avenue Ontario CA 91764-4841,NA,NA,NA,not tested,Ontario,San Bernardino County,34.073118,-117.580885
-Chaffey Joint Union High,Valley View High (Continuation),1801 East Sixth Street Ontario CA 91764-1599,NA,NA,NA,not tested,Ontario,San Bernardino County,34.085408,-117.614421
-Chaffey Joint Union High School,Valley View High School,"1801 east 6th St, Ontario, CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.084974,-117.613362
-Ontario-Montclair,Vina Danks Middle,1020 North Vine Avenue Ontario CA 91762-1999,NA,NA,NA,not tested,Ontario,San Bernardino County,34.076497,-117.655882
-Ontario-Montclair,Vina Danks Middle School,"1020 N. Vine Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.076497,-117.655882
-Ontario-Montclair,Vina Danks Middle School,"1020 N. Vine Ave, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.076497,-117.655882
-Ontario-Montclair,Vineyard Elementary,1500 East Sixth Street Ontario CA 91764-2113,NA,NA,NA,not tested,Ontario,San Bernardino County,34.084231,-117.623057
-Ontario-Montclair,Vineyard STEM,"1500 E. 6th St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.084818,-117.62083
-Ontario-Montclair,Vineyard STEM,"1500 E. 6th St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.084818,-117.62083
-Ontario-Montclair,Vista Grande Elementary,1390 West Francis Street Ontario CA 91762-6014,NA,NA,NA,not tested,Ontario,San Bernardino County,34.041008,-117.67613
-Ontario-Montclair,Vista Grande Elementary School,"1390 W. Francis, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.042409,-117.675883
-Ontario-Montclair,Vista Grande Elementary School,"1390 W. Francis, Ontario CA 91762",NA,NA,NA,exempt,Ontario,San Bernardino County,34.042409,-117.675883
-Ontario-Montclair,Wiltsey Middle School,"1450 East G St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.070634,-117.620613
-Ontario-Montclair,Wiltsey Middle School,"1450 East G St, Ontario CA 91764",NA,NA,NA,exempt,Ontario,San Bernardino County,34.070634,-117.620613
-Chino Valley Unified,Woodcrest Junior High,2725 South Campus Avenue Ontario CA 91761-6714,NA,NA,NA,not tested,Ontario,San Bernardino County,34.022054,-117.641334
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Chaffey Joint Union High School,Alternative Education Center Center,"1802 East 7th Street, Ontario, CA 91764",,,,exempt,Ontario,San Bernardino County,34.088567,-117.61344799999999,
+Ontario-Montclair,Arroyo Elementary,1700 East Seventh Street Ontario CA 91764-1204,,,,not tested,Ontario,San Bernardino County,34.088017,-117.616652,
+Ontario-Montclair,Arroyo Elementary School,"1700 E. 7th Street, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.088409999999996,-117.616091,
+Baldy View ROP,Baldy View ROP,1501 South Bon View Avenue Ontario CA 91761-4408,,,False,tested,Ontario,San Bernardino County,34.046683,-117.637201,
+Ontario-Montclair,Berlyn Elementary,1320 North Berlyn Avenue Ontario CA 91764-1907,,,,not tested,Ontario,San Bernardino County,34.081998999999996,-117.638928,
+Ontario-Montclair,Berlyn Elementary School,"1320 N. Berlyn Ave, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.081998999999996,-117.638928,
+Ontario-Montclair,Bon View Elementary,2121 South Bon View Avenue Ontario CA 91761-4408,,,,not tested,Ontario,San Bernardino County,34.034954,-117.6371,
+Ontario-Montclair,Bon View Elementary School,"2121 S. Bon View Ave, Ontario CA 91761",,,,exempt,Ontario,San Bernardino County,34.034954,-117.6371,
+Ontario-Montclair,Central Language Academy,415 East G Street Ontario CA 91764-3729,,,,not tested,Ontario,San Bernardino County,34.070761,-117.646996,
+Ontario-Montclair,Central Language Academy,"415 East G St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.070761,-117.646996,
+Chaffey Joint Union High,Chaffey Adult,1802 East Seventh Street Ontario CA 91764,,,,not tested,Ontario,San Bernardino County,34.087959000000005,-117.61317,
+Chaffey Joint Union High School,Chaffey Adult School,"557 West 5th St, Ontario, CA 91762",,,,exempt,Ontario,San Bernardino County,34.08163,-117.657583,
+Chaffey Joint Union High,Chaffey Community Day,1802 East Seventh St Ontario CA 91764-1210,,,,not tested,Ontario,San Bernardino County,34.087959000000005,-117.61317,
+Chaffey Joint Union High,Chaffey High,1245 North Euclid Avenue Ontario CA 91762-1997,,,,not tested,Ontario,San Bernardino County,34.080576,-117.65104299999999,
+Chaffey Joint Union High School,Chaffey High School,"1245 North Euclid Avenue, Ontario, CA 91762",,,,exempt,Ontario,San Bernardino County,34.080576,-117.65104299999999,
+Chaffey Joint Union High,Colony High,3850 East Riverside Drive Ontario CA 91761-2603,,,,not tested,Ontario,San Bernardino County,34.019365,-117.64801999999999,
+Chaffey Joint Union High School,Colony High School,"3850 East Riverside Dr., Ontario, CA 91761",,,,exempt,Ontario,San Bernardino County,34.019365,-117.64801999999999,
+Ontario-Montclair,Corona Elementary,1140 North Corona Avenue Ontario CA 91764-2626,,,,not tested,Ontario,San Bernardino County,34.081399,-117.615417,
+Ontario-Montclair,Corona Elementary School,"1140 N. Corona Ave, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.081399,-117.615417,
+Mountain View Elementary,Creek View Elementary,3742 Lytle Creek North Loop Ontario CA 91761-0242,,,False,tested,Ontario,San Bernardino County,34.024318,-117.569099,
+Ontario-Montclair,De Anza Middle,1450 South Sultana Avenue Ontario CA 91761-4236,,,,not tested,Ontario,San Bernardino County,34.047397,-117.646134,
+Ontario-Montclair,De Anza Middle School,"1450 S. Sultana Ave, Ontario CA 91761",,,,exempt,Ontario,San Bernardino County,34.047397,-117.646134,
+Ontario-Montclair,Del Norte Elementary,850 Del Norte Avenue Ontario CA 91764-3639,,,,not tested,Ontario,San Bernardino County,34.025332,-117.625795,
+Ontario-Montclair,Del Norte Elementay School,"850 N. Del Norte, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.029311,-117.62596699999999,
+Ontario-Montclair,Edison Academy,"515 E. 6th St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.0853,-117.645508,
+Ontario-Montclair,Edison Elementary,515 East Sixth Street Ontario CA 91764-1818,,,,not tested,Ontario,San Bernardino County,34.085525,-117.64518000000001,
+Ontario-Montclair,El Camino Elementary,1525 West Fifth Street Ontario CA 91762-1499,,,,not tested,Ontario,San Bernardino County,34.080981,-117.679372,
+Ontario-Montclair,El Camino Elementary School,"1525 W. 5th St, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.081552,-117.67926999999999,
+Ontario-Montclair,Elderberry Elementary,950 North Elderberry Avenue Ontario CA 91762-2014,,,,not tested,Ontario,San Bernardino County,34.075144,-117.674748,
+Ontario-Montclair,Elderberry Elementary School,"950 N. Elderberry Ave, Ontario CA  91762",,,,exempt,Ontario,San Bernardino County,34.075144,-117.674748,
+Ontario-Montclair,Euclid Elementary,1120 South Euclid Avenue Ontario CA 91762-5119,,,,not tested,Ontario,San Bernardino County,34.052244,-117.65088200000001,
+Ontario-Montclair,Euclid Elementary School,"1120 S. Euclid Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.052244,-117.65088200000001,
+Mountain View Elementary,Grace Yokley Middle,2947 South Turner Avenue Ontario CA 91761-8146,,,False,tested,Ontario,San Bernardino County,34.043036,-117.584557,
+Ontario-Montclair,Hawthorne Elementary,705 West Hawthorne Street Ontario CA 91762-1599,,,,not tested,Ontario,San Bernardino County,34.083265000000004,-117.661904,
+Ontario-Montclair,Hawthorne Elementary School,"705 W. Hawthorne St, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.083265000000004,-117.661904,
+Ontario-Montclair,Hawthorne Elementary School,"705 W. Hawthorne St, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.083265000000004,-117.661904,
+Ontario-Montclair,Hawthorne Elementary School,"705 W. Hawthorne St, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.083265000000004,-117.661904,
+Ontario-Montclair,Hawthorne Elementary School,"705 W. Hawthorne St, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.083265000000004,-117.661904,
+Ontario-Montclair,Haynes Elementary School,"715 W. Francis St, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.040955,-117.66186499999999,
+Chino Valley Unified,Levi H. Dickey Elementary,2840 Parco Avenue Ontario CA 91761-7037,,,,not tested,Ontario,San Bernardino County,34.021764000000005,-117.624909,
+Ontario-Montclair,Lincoln Elementary School,"440 N. Allyn Ave, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.067581,-117.637153,
+Ontario-Montclair,Linda Vista,"1556 S. Sultana, Ontario CA  91761",,,,exempt,Ontario,San Bernardino County,34.0449,-117.646739,
+Ontario-Montclair,Mariposa Elementary,1605 East D Street Ontario CA 91764-4405,,,,not tested,Ontario,San Bernardino County,34.067199,-117.61793,
+Ontario-Montclair,Mariposa Elementary School,"1605 East D St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.067199,-117.61793,
+Ontario-Montclair,Mission Elementary,5555 Howard Street Ontario CA 91762-4612,,,,not tested,Ontario,San Bernardino County,34.051696,-117.68386699999999,
+Ontario-Montclair,Mission Elementary School,"5555 Howard St, Ontario CA  91762",,,,exempt,Ontario,San Bernardino County,34.051696,-117.68386699999999,
+Mountain View Elementary,Mountain View Elementary,2825 Walnut Street Ontario CA 91761-7428,,,False,tested,Ontario,San Bernardino County,34.025808000000005,-117.58831200000002,
+Ontario-Montclair,Oaks Middle,1221 South Oaks Avenue Ontario CA 91762-4742,,,,not tested,Ontario,San Bernardino County,34.049541999999995,-117.676235,
+Ontario-Montclair,Oaks Middle School,"1221 S. Oaks Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.049541999999995,-117.676235,
+Ontario-Montclair,Oaks Middle School,"1221 S. Oaks Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.049541999999995,-117.676235,
+Ontario-Montclair,Oaks Middle School,"1221 S. Oaks Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.049541999999995,-117.676235,
+Ontario-Montclair,Oaks Middle School,"1221 S. Oaks Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.049541999999995,-117.676235,
+Chaffey Joint Union High,Ontario High,901 West Francis Street Ontario CA 91762-6214,,,,not tested,Ontario,San Bernardino County,34.040913,-117.665599,
+Chaffey Joint Union High School,Ontario High School,"901 West Francis St, Ontario, CA 91762",,,,exempt,Ontario,San Bernardino County,34.040913,-117.665599,
+Mountain View Elementary,Ranch View Elementary,3300 Old Archibald Road Ontario CA 91761-9165,,,False,tested,Ontario,San Bernardino County,34.012989000000005,-117.588952,
+Ontario-Montclair,Ray Wiltsey Middle,1450 East G Street Ontario CA 91764-4410,,,,not tested,Ontario,San Bernardino County,34.070634000000005,-117.62061299999999,
+Ontario-Montclair,Richard Haynes Elementary,715 West Francis Street Ontario CA 91762-6311,,,,not tested,Ontario,San Bernardino County,34.040955,-117.66186499999999,
+Ontario-Montclair,Sultana Elementary,1845 South Sultana Avenue Ontario CA 91761-5326,,,,not tested,Ontario,San Bernardino County,34.039787,-117.646037,
+Ontario-Montclair,Sultana Elementary School,"1845 S. Sultana Ave, Ontario CA 91761",,,,exempt,Ontario,San Bernardino County,34.039787,-117.646037,
+Ontario-Montclair,Sultana Elementary School,"1845 S. Sultana Ave, Ontario CA 91761",,,,exempt,Ontario,San Bernardino County,34.039787,-117.646037,
+Ontario-Montclair,Sultana Elementary School,"1845 S. Sultana Ave, Ontario CA 91761",,,,exempt,Ontario,San Bernardino County,34.039787,-117.646037,
+Ontario-Montclair,Sultana Elementary School,"1845 S. Sultana Ave, Ontario CA 91761",,,,exempt,Ontario,San Bernardino County,34.039787,-117.646037,
+Cucamonga Elementary,The Ontario Center,835 North Center Avenue Ontario CA 91764-4841,,,,not tested,Ontario,San Bernardino County,34.073118,-117.58088500000001,
+Chaffey Joint Union High,Valley View High (Continuation),1801 East Sixth Street Ontario CA 91764-1599,,,,not tested,Ontario,San Bernardino County,34.085408,-117.614421,
+Chaffey Joint Union High School,Valley View High School,"1801 east 6th St, Ontario, CA 91764",,,,exempt,Ontario,San Bernardino County,34.084974,-117.61336200000001,
+Ontario-Montclair,Vina Danks Middle,1020 North Vine Avenue Ontario CA 91762-1999,,,,not tested,Ontario,San Bernardino County,34.076496999999996,-117.655882,
+Ontario-Montclair,Vina Danks Middle School,"1020 N. Vine Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.076496999999996,-117.655882,
+Ontario-Montclair,Vina Danks Middle School,"1020 N. Vine Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.076496999999996,-117.655882,
+Ontario-Montclair,Vina Danks Middle School,"1020 N. Vine Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.076496999999996,-117.655882,
+Ontario-Montclair,Vina Danks Middle School,"1020 N. Vine Ave, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.076496999999996,-117.655882,
+Ontario-Montclair,Vineyard Elementary,1500 East Sixth Street Ontario CA 91764-2113,,,,not tested,Ontario,San Bernardino County,34.084231,-117.623057,
+Ontario-Montclair,Vineyard STEM,"1500 E. 6th St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.084818,-117.62083,
+Ontario-Montclair,Vineyard STEM,"1500 E. 6th St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.084818,-117.62083,
+Ontario-Montclair,Vineyard STEM,"1500 E. 6th St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.084818,-117.62083,
+Ontario-Montclair,Vineyard STEM,"1500 E. 6th St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.084818,-117.62083,
+Ontario-Montclair,Vista Grande Elementary,1390 West Francis Street Ontario CA 91762-6014,,,,not tested,Ontario,San Bernardino County,34.041008000000005,-117.67613,
+Ontario-Montclair,Vista Grande Elementary School,"1390 W. Francis, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.042409,-117.67588300000001,
+Ontario-Montclair,Vista Grande Elementary School,"1390 W. Francis, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.042409,-117.67588300000001,
+Ontario-Montclair,Vista Grande Elementary School,"1390 W. Francis, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.042409,-117.67588300000001,
+Ontario-Montclair,Vista Grande Elementary School,"1390 W. Francis, Ontario CA 91762",,,,exempt,Ontario,San Bernardino County,34.042409,-117.67588300000001,
+Ontario-Montclair,Wiltsey Middle School,"1450 East G St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.070634000000005,-117.62061299999999,
+Ontario-Montclair,Wiltsey Middle School,"1450 East G St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.070634000000005,-117.62061299999999,
+Ontario-Montclair,Wiltsey Middle School,"1450 East G St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.070634000000005,-117.62061299999999,
+Ontario-Montclair,Wiltsey Middle School,"1450 East G St, Ontario CA 91764",,,,exempt,Ontario,San Bernardino County,34.070634000000005,-117.62061299999999,
+Chino Valley Unified,Woodcrest Junior High,2725 South Campus Avenue Ontario CA 91761-6714,,,,not tested,Ontario,San Bernardino County,34.022054,-117.64133400000001,

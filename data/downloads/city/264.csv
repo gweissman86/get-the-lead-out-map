@@ -1,9 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-King City Union,Chalone Peaks Middle,667 Meyer St King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.22139,-121.134663
-King City Union,Del Rey Elementary,502 King Street King City CA 93930-3232,NA,NA,FALSE,tested,King City,Monterey County,36.21543,-121.135151
-King City Union,King City Arts Magnet,415 Pearl Street King City CA 93930-2919,NA,NA,FALSE,tested,King City,Monterey County,36.209806,-121.127289
-South Monterey County Joint Union High,King City High,720 Broadway Street King City CA 93930-3311,NA,NA,FALSE,tested,King City,Monterey County,36.20882,-121.133137
-King City Union,Phoenix Academy Community Day,667 Meyer Street King City CA 93930-3769,NA,NA,NA,not tested,King City,Monterey County,36.22139,-121.134663
-South Monterey County Joint Union High,Pinnacle Academy Charter,760 Broadway St. King City CA 93930,NA,NA,NA,not tested,King City,Monterey County,36.209219,-121.132606
-South Monterey County Joint Union High,Portola-Butler Continuation High,760 Broadway Street King City CA 93930-3311,NA,NA,FALSE,tested,King City,Monterey County,36.209219,-121.132606
-King City Union,Santa Lucia Elementary,502 Collins Street King City CA 93930-3233,NA,NA,FALSE,tested,King City,Monterey County,36.213755,-121.132603
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Keyes Union,Keyes to Learning Charter,5709 Ninth Street Keyes CA 95328,8.2,ppb,True,tested,Keyes,Stanislaus County,37.553278000000006,-120.907875,8.2

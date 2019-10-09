@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Southeast ROP,Southeast ROP,12940 East Foster Road Norwalk CA 90650-3332,NA,NA,FALSE,tested,Norwalk,Los Angeles County,33.909081,-118.057075
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Southeast ROP,Southeast ROP,12940 East Foster Road Norwalk CA 90650-3332,,,False,tested,Norwalk,Los Angeles County,33.909081,-118.057075,

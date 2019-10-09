@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-SBE - The School of Arts and Enterprise,School of Arts and Enterprise,295 North Garey Avenue Pomona CA 91767-5429,NA,NA,NA,not tested,Pomona,Los Angeles County,34.089926,-117.749439
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+SBE - The School of Arts and Enterprise,School of Arts and Enterprise,295 North Garey Avenue Pomona CA 91767-5429,,,,not tested,Pomona,Los Angeles County,34.089926,-117.749439,

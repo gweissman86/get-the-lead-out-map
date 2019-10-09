@@ -1,3 +1,4 @@
+
 Alameda County
 Amador County
 Butte County
@@ -25,7 +26,6 @@ Merced County
 Modoc County
 Mono County
 Monterey County
-NA
 Napa County
 Nevada County
 Orange County

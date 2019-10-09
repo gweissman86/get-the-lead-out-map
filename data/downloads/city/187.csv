@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Folsom-Cordova Unified,Natoma Station Elementary,500 Turnpike Drive Folsom CA 95630-8012,NA,NA,NA,not tested,Folsom,Sacramento County,38.650191,-121.178368
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Westside Elementary,Westside Elementary,19191 West Excelsior Ave Five Points CA 93624-0398,,,False,tested,Five Points,Fresno County,36.40061,-120.14008700000001,

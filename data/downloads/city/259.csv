@@ -1,6 +1,20 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kelseyville Unified,Ed Donaldson Education Center,4500 Konocti Road Kelseyville CA 95451-9320,NA,NA,FALSE,tested,Kelseyville,Lake County,38.977961,-122.827816
-Kelseyville Unified,Kelseyville Elementary,5065 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,Kelseyville,Lake County,38.974086,-122.821122
-Kelseyville Unified,Kelseyville High,5480 Main Street Kelseyville CA 95451-8943,NA,NA,FALSE,tested,Kelseyville,Lake County,38.974475,-122.830093
-Kelseyville Unified,Mountain Vista Middle,5081 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,Kelseyville,Lake County,38.974317,-122.818938
-Kelseyville Unified,Riviera Elementary,10505 Fairway Drive Kelseyville CA 95451-9576,NA,NA,FALSE,tested,Kelseyville,Lake County,38.949349,-122.712407
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Jurupa Unified,Camino Real Elementary,4655 Camino Real Jurupa Valley CA 92509-5419,,,,not tested,Jurupa Valley,Riverside County,33.980553,-117.45226299999999,
+Jurupa Unified,Glen Avon Elementary,4352 Pyrite Street Jurupa Valley CA 92509-3338,,,,not tested,Jurupa Valley,Riverside County,34.02265,-117.46008,
+Jurupa Unified,Granite Hill Elementary,9371 Granite Hill Jurupa Valley CA 92509-1024,,,,not tested,Jurupa Valley,Riverside County,34.020786,-117.489194,
+Jurupa Unified,Ina Arbuckle Elementary,3600 Packard Street Jurupa Valley CA 92509-4519,,,,not tested,Jurupa Valley,Riverside County,33.998126,-117.4037,
+Jurupa Unified,Indian Hills Elementary,7750 Linares Avenue Jurupa Valley CA 92509-0140,,,,not tested,Jurupa Valley,Riverside County,33.975322,-117.45371000000002,
+Jurupa Unified,Jurupa Middle,8700 Galena Street Jurupa Valley CA 92509-3228,,,,not tested,Jurupa Valley,Riverside County,34.004506,-117.50555,
+Riverside Unified,Lake Mathews Elementary,12252 Blackburn Road Riverside CA 92503-7083,,,False,tested,Jurupa Valley,Riverside County,33.862643,-117.45351299999999,
+Corona-Norco Unified,Louis VanderMolen Fundamental Elementary,6744 Carnelian Street Jurupa Valley CA 91752-4005,,,False,tested,Jurupa Valley,Riverside County,33.965369,-117.54231899999999,
+Jurupa Unified,Mira Loma Middle,5051 Steve Street Jurupa Valley CA 92509-3548,,,,not tested,Jurupa Valley,Riverside County,33.979137,-117.50153799999998,
+Jurupa Unified,Mission Bell Elementary,4020 Conning Street Jurupa Valley CA 92509-2599,,,,not tested,Jurupa Valley,Riverside County,34.016420000000004,-117.50266,
+Jurupa Unified,Mission Middle,5961 Mustang LN Jurupa Valley CA 92509-4260,,,,not tested,Jurupa Valley,Riverside County,34.00441,-117.416179,
+Jurupa Unified,Nueva Vista Continuation High,6836 34th Street Jurupa Valley CA 92509-1301,,,,not tested,Jurupa Valley,Riverside County,33.998057,-117.39851399999999,
+Jurupa Unified,Patriot High,4355 Camino Real Jurupa Valley CA 92509-3455,,,,not tested,Jurupa Valley,Riverside County,33.980553,-117.45226299999999,
+Jurupa Unified,Pedley Elementary,5871 Hudson Street Jurupa Valley CA 92509-5012,,,,not tested,Jurupa Valley,Riverside County,33.981534,-117.47986000000002,
+Jurupa Unified,Peralta Elementary,6450 Peralta Place Jurupa Valley CA 92509-6352,,,,not tested,Jurupa Valley,Riverside County,33.976483,-117.430799,
+Jurupa Unified,Rubidoux High,4250 Opal Street Jurupa Valley CA 92509-7251,,,,not tested,Jurupa Valley,Riverside County,33.999064000000004,-117.426841,
+Jurupa Unified,Sky Country Elementary,5520 Lucretia Avenue Jurupa Valley CA 91752-2060,,,,not tested,Jurupa Valley,Riverside County,33.988277000000004,-117.528644,
+Jurupa Unified,Stone Avenue Elementary,5111 Stone Avenue Jurupa Valley CA 92509-4090,,,,not tested,Jurupa Valley,Riverside County,33.995235,-117.466748,
+Jurupa Unified,West Riverside Elementary,3972 Riverview Drive Jurupa Valley CA 92509-6611,,,,not tested,Jurupa Valley,Riverside County,33.998501,-117.41458700000001,

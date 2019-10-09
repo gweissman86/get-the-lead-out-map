@@ -1,7 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pajaro Valley Unified,Aptos Junior High,1001 Huntington Drive Aptos CA 95003-4104,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.977334,-121.882588
-Santa Cruz City High,Delta Charter,6500 Soquel Drive Building 1190 Aptos CA 95003-3119,NA,NA,NA,not tested,Aptos,Santa Cruz County,36.987611,-121.925901
-Pajaro Valley Unified,Rio del Mar Elementary,819 Pinehurst Drive Aptos CA 95003-5737,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.959623,-121.876631
-Private,Santa Cruz Montessori,6230 Soquel Drive Aptos CA 95003,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.989349,-121.932129
-Private,St. Abraham's Classical Christian Academy,1940 Bonita Drive Aptos CA 95003,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.958113,-121.864667
-Private,Twin Lakes Christian,2701 Cabrillo College Drive Aptos CA 95003,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.985145,-121.928582
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Apple Valley Unified,Desert Knolls Elementary,18213 Symeron Drive Apple Valley CA 92307-4537,,,False,tested,Apple Valley,San Bernardino County,34.529047,-117.26685400000001,
+Apple Valley Unified,Granite Hills High,22900 Esaws Road Apple Valley CA 92307-4305,,,False,tested,Apple Valley,San Bernardino County,34.508466999999996,-117.16526499999999,
+Apple Valley Unified,Sycamore Rocks Elementary,23450 South Rd. Apple Valley CA 923072075,,,,not tested,Apple Valley,San Bernardino County,34.552357,-117.151843,

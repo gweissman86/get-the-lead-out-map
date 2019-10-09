@@ -1,27 +1,27 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Anaheim Elementary,Barton (Clara) Elementary,1926 Clearbrook Lane Anaheim CA 92804-3519,NA,NA,FALSE,tested,Anaheim,Orange County,33.823485,-117.973949
-Anaheim Elementary,Edison (Thomas) Elementary,1526 East Romneya Drive Anaheim CA 92805-1214,NA,NA,FALSE,tested,Anaheim,Orange County,33.850807,-117.895828
-Anaheim Elementary,Franklin (Benjamin) Elementary,521 West Water Street Anaheim CA 92805-4542,NA,NA,FALSE,tested,Anaheim,Orange County,33.8276,-117.91771
-Anaheim Elementary,Gauer (Melbourne A.) Elementary,810 North Gilbert Street Anaheim CA 92801-3348,NA,NA,FALSE,tested,Anaheim,Orange County,33.843368,-117.967693
-Anaheim Elementary,GOALS Academy,412 W. Carl Karcher Way Anaheim CA 92801-2408,NA,NA,FALSE,tested,Anaheim,Orange County,33.850737,-117.922993
-Anaheim Elementary,Guinn (James M.) Elementary,1051 South Sunkist Street Anaheim CA 92806-5051,NA,NA,FALSE,tested,Anaheim,Orange County,33.823452,-117.880652
-Anaheim Elementary,Henry (Patrick) Elementary,1123 West Romneya Drive Anaheim CA 92801-2109,NA,NA,FALSE,tested,Anaheim,Orange County,33.850844,-117.933081
-Anaheim Elementary,Jefferson (Thomas) Elementary,504 East South Street Anaheim CA 92805-5338,NA,NA,FALSE,tested,Anaheim,Orange County,33.827811,-117.905903
-Anaheim Elementary,Juarez (Benito) Elementary,841 South Sunkist Street Anaheim CA 92806-4716,NA,NA,FALSE,tested,Anaheim,Orange County,33.818577,-117.880586
-Anaheim Elementary,Key (Francis Scott),2000 West Ball Road Anaheim CA 92804,9.55,ppb,TRUE,tested,Anaheim,Orange County,33.817779,-117.956423
-Anaheim Elementary,Lincoln (Abraham) Elementary,1413 East Broadway Anaheim CA 92805-4214,NA,NA,FALSE,tested,Anaheim,Orange County,33.836781,-117.898579
-Anaheim Elementary,Loara Elementary,1601 West Broadway Anaheim CA 92802-1107,NA,NA,FALSE,tested,Anaheim,Orange County,33.829022,-117.937284
-Anaheim Elementary,Madison (James) Elementary,1510 South Nutwood Street Anaheim CA 92804-6023,NA,NA,FALSE,tested,Anaheim,Orange County,33.81029,-117.950235
-Anaheim Elementary,Mann (Horace) Elementary,600 West La Palma Avenue Anaheim CA 92801-2361,NA,NA,FALSE,tested,Anaheim,Orange County,33.847171,-117.91191
-Anaheim Elementary,Marshall (John) Elementary,2066 Falmouth Avenue Anaheim CA 92801-1751,NA,NA,FALSE,tested,Anaheim,Orange County,33.848289,-117.95045
-Anaheim Elementary,Olive Street Elementary,890 South Olive Street Anaheim CA 92805-5214,NA,NA,FALSE,tested,Anaheim,Orange County,33.826059,-117.906638
-Anaheim Elementary,Orange Grove Elementary,1000 South Harbor Boulevard Anaheim CA 92805-5531,NA,NA,FALSE,tested,Anaheim,Orange County,33.820817,-117.913749
-Anaheim Elementary,Palm Lane Elementary,1646 West Palm Lane Anaheim CA 92802-2007,NA,NA,FALSE,tested,Anaheim,Orange County,33.816034,-117.940197
-Anaheim Elementary,Ponderosa Elementary,2135 South Mountain View Avenue Anaheim CA 92802-4917,NA,NA,FALSE,tested,Anaheim,Orange County,33.794629,-117.904179
-Anaheim Elementary,Price (Adelaide) Elementary,1516 West North Street Anaheim CA 92801-4332,5.2,ppb,TRUE,tested,Anaheim,Orange County,33.840772,-117.9365
-Anaheim Elementary,Revere (Paul) Elementary,140 West Guinida Lane Anaheim CA 92805-6507,NA,NA,FALSE,tested,Anaheim,Orange County,33.814136,-117.908409
-Anaheim Elementary,Roosevelt (Theodore) Elementary,1600 East Vermont Avenue Anaheim CA 92805-5628,6.85,ppb,TRUE,tested,Anaheim,Orange County,33.826925,-117.893047
-Anaheim Elementary,Ross (Betsy) Elementary,535 South Walnut Street Anaheim CA 92802-1450,6.9,ppb,TRUE,tested,Anaheim,Orange County,33.826569,-117.929578
-Anaheim Elementary,Stoddard (Alexander J.) Elementary,1841 South Ninth Street Anaheim CA 92802-3299,NA,NA,FALSE,tested,Anaheim,Orange County,33.801664,-117.933207
-Anaheim Elementary,Sunkist Elementary,500 North Sunkist Street Anaheim CA 92806-3052,NA,NA,FALSE,tested,Anaheim,Orange County,33.846025,-117.879301
-Anaheim Elementary,Westmont Elementary,1525 West Westmont Drive Anaheim CA 92801-4736,NA,NA,FALSE,tested,Anaheim,Orange County,33.837628,-117.935899
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Anaheim Elementary,Barton (Clara) Elementary,1926 Clearbrook Lane Anaheim CA 92804-3519,,,False,tested,Anaheim,Orange County,33.823485,-117.973949,
+Anaheim Elementary,Edison (Thomas) Elementary,1526 East Romneya Drive Anaheim CA 92805-1214,,,False,tested,Anaheim,Orange County,33.850807,-117.89582800000001,
+Anaheim Elementary,Franklin (Benjamin) Elementary,521 West Water Street Anaheim CA 92805-4542,,,False,tested,Anaheim,Orange County,33.8276,-117.91771000000001,
+Anaheim Elementary,Gauer (Melbourne A.) Elementary,810 North Gilbert Street Anaheim CA 92801-3348,,,False,tested,Anaheim,Orange County,33.843368,-117.967693,
+Anaheim Elementary,GOALS Academy,412 W. Carl Karcher Way Anaheim CA 92801-2408,,,False,tested,Anaheim,Orange County,33.850737,-117.92299299999999,
+Anaheim Elementary,Guinn (James M.) Elementary,1051 South Sunkist Street Anaheim CA 92806-5051,,,False,tested,Anaheim,Orange County,33.823452,-117.880652,
+Anaheim Elementary,Henry (Patrick) Elementary,1123 West Romneya Drive Anaheim CA 92801-2109,,,False,tested,Anaheim,Orange County,33.850844,-117.933081,
+Anaheim Elementary,Jefferson (Thomas) Elementary,504 East South Street Anaheim CA 92805-5338,,,False,tested,Anaheim,Orange County,33.827811,-117.90590300000001,
+Anaheim Elementary,Juarez (Benito) Elementary,841 South Sunkist Street Anaheim CA 92806-4716,,,False,tested,Anaheim,Orange County,33.818577000000005,-117.88058600000001,
+Anaheim Elementary,Key (Francis Scott),2000 West Ball Road Anaheim CA 92804,9.55,ppb,True,tested,Anaheim,Orange County,33.817778999999994,-117.956423,13.0
+Anaheim Elementary,Lincoln (Abraham) Elementary,1413 East Broadway Anaheim CA 92805-4214,,,False,tested,Anaheim,Orange County,33.836781,-117.898579,
+Anaheim Elementary,Loara Elementary,1601 West Broadway Anaheim CA 92802-1107,,,False,tested,Anaheim,Orange County,33.829021999999995,-117.937284,
+Anaheim Elementary,Madison (James) Elementary,1510 South Nutwood Street Anaheim CA 92804-6023,,,False,tested,Anaheim,Orange County,33.81029,-117.950235,
+Anaheim Elementary,Mann (Horace) Elementary,600 West La Palma Avenue Anaheim CA 92801-2361,,,False,tested,Anaheim,Orange County,33.847171,-117.91191,
+Anaheim Elementary,Marshall (John) Elementary,2066 Falmouth Avenue Anaheim CA 92801-1751,,,False,tested,Anaheim,Orange County,33.848289,-117.95045,
+Anaheim Elementary,Olive Street Elementary,890 South Olive Street Anaheim CA 92805-5214,,,False,tested,Anaheim,Orange County,33.826059,-117.90663799999999,
+Anaheim Elementary,Orange Grove Elementary,1000 South Harbor Boulevard Anaheim CA 92805-5531,,,False,tested,Anaheim,Orange County,33.820817,-117.913749,
+Anaheim Elementary,Palm Lane Elementary,1646 West Palm Lane Anaheim CA 92802-2007,,,False,tested,Anaheim,Orange County,33.816034,-117.940197,
+Anaheim Elementary,Ponderosa Elementary,2135 South Mountain View Avenue Anaheim CA 92802-4917,,,False,tested,Anaheim,Orange County,33.794629,-117.904179,
+Anaheim Elementary,Price (Adelaide) Elementary,1516 West North Street Anaheim CA 92801-4332,5.2,ppb,True,tested,Anaheim,Orange County,33.840771999999994,-117.9365,5.2
+Anaheim Elementary,Revere (Paul) Elementary,140 West Guinida Lane Anaheim CA 92805-6507,,,False,tested,Anaheim,Orange County,33.814136,-117.908409,
+Anaheim Elementary,Roosevelt (Theodore) Elementary,1600 East Vermont Avenue Anaheim CA 92805-5628,6.85,ppb,True,tested,Anaheim,Orange County,33.826925,-117.893047,8.6
+Anaheim Elementary,Ross (Betsy) Elementary,535 South Walnut Street Anaheim CA 92802-1450,6.9,ppb,True,tested,Anaheim,Orange County,33.826569,-117.929578,6.9
+Anaheim Elementary,Stoddard (Alexander J.) Elementary,1841 South Ninth Street Anaheim CA 92802-3299,,,False,tested,Anaheim,Orange County,33.801664,-117.93320700000001,
+Anaheim Elementary,Sunkist Elementary,500 North Sunkist Street Anaheim CA 92806-3052,,,False,tested,Anaheim,Orange County,33.846025,-117.879301,
+Anaheim Elementary,Westmont Elementary,1525 West Westmont Drive Anaheim CA 92801-4736,,,False,tested,Anaheim,Orange County,33.837628,-117.93589899999999,

@@ -1,63 +1,256 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Central Union Elementary,Akers Elementary,Constellation Avenue N.A.S. Lemoore CA 93245-0001,NA,NA,NA,not tested,Lemoore,Kings County,36.263877,-119.875215
-Armona Union Elementary,Armona Elementary,14045 Pimo Street Armona CA 93202-0368,7.95,ppb,TRUE,tested,NA,Kings County,36.312564,-119.710417
-Reef-Sunset Unified,Avenal Elementary,500 South First Avenue Avenal CA 93204-1501,NA,NA,FALSE,tested,Avenal,Kings County,36.003548,-120.138292
-Reef-Sunset Unified,Avenal High,601 Mariposa Street Avenal CA 93204-1413,9.6,ppb,TRUE,tested,Avenal,Kings County,36.009474,-120.129994
-Corcoran Joint Unified,Bret Harte Elementary,1300 Letts Avenue Corcoran CA 93212-2523,5.6,ppb,TRUE,tested,NA,Kings County,36.094578,-119.567686
-Lemoore Union Elementary,Bridges Academy,1200 West Cinnamon Drive Lemoore CA 93245-9420,NA,NA,FALSE,tested,NA,Kings County,36.307014,-119.784436
-Central Union Elementary,Central Elementary,15783 18th Avenue Lemoore CA 93245-9742,NA,NA,NA,not tested,NA,Kings County,36.334436,-119.780771
-Lemoore Union Elementary,Cinnamon Elementary,500 East Cinnamon Drive Lemoore CA 93245-2988,NA,NA,FALSE,tested,NA,Kings County,36.307126,-119.775514
-Corcoran Joint Unified,Corcoran High,1100 Letts Avenue Corcoran CA 93212-2520,11,ppb,TRUE,tested,NA,Kings County,36.097472,-119.567653
-Armona Union Elementary,Crossroads Charter,418 West 8th Street Hanford CA 93230-4536,NA,NA,FALSE,tested,Hanford,Kings County,36.326919,-119.65145
-Hanford Joint Union High,Earl F. Johnson High (Continuation),1201 North Douty Hanford CA 93230-2156,89,ppb,TRUE,tested,Hanford,Kings County,36.338061,-119.645928
-Pioneer Union Elementary,Frontier Elementary,1854 North Mustang Drive Hanford CA 93230-9811,26,ppb,TRUE,tested,Hanford,Kings County,36.345017,-119.687946
-Hanford Elementary,George Washington Elementary,2245 North Fairmont Hanford CA 93232-1448,10.9,ppb,TRUE,tested,Hanford,Kings County,36.352862,-119.638
-Hanford Elementary,Hamilton Elementary,1269 Leland Way Hanford CA 93230,5.75,ppb,TRUE,tested,Hanford,Kings County,36.349221,-119.625438
-Hanford Joint Union High,Hanford Adult,905 Campus Drive Hanford CA 93230,10,ppb,TRUE,tested,Hanford,Kings County,36.333846,-119.663173
-Hanford Joint Union High,Hanford Community Day,120 East Grangeville Boulevard Hanford CA 93230-3067,NA,NA,FALSE,tested,Hanford,Kings County,36.342708,-119.644791
-Hanford Elementary,Hanford Elementary Community Day,601 West Florinda St Hanford CA 93230-3628,NA,NA,NA,not tested,Hanford,Kings County,36.334771,-119.654412
-Hanford Elementary,Hanford Elementary School District Service Facility Kitchen,924 Katie Hammond Lane Hanford CA 93239,NA,NA,FALSE,tested,Hanford,Kings County,36.338125,-119.631702
-Hanford Joint Union High,Hanford High,120 East Grangeville Boulevard Hanford CA 93230-3067,NA,NA,NA,not tested,Hanford,Kings County,36.342708,-119.644791
-Hanford Joint Union High,Hanford Night (Continuation),1201 North Douty rd Hanford CA 93230-3067,NA,NA,NA,not tested,Hanford,Kings County,36.337563,-119.645653
-Hanford Joint Union High,Hanford West High,1150 West Lacey Boulevard Hanford CA 93230-3575,66,ppb,TRUE,tested,Hanford,Kings County,36.328072,-119.662623
-Kings County Office of Education,J. C. Montgomery,1450 Forum Drive Hanford CA 93230-4334,NA,NA,NA,not tested,Hanford,Kings County,36.330838,-119.667934
-Lemoore Union High,Jamison (Donald C.) High (Continuation),351 East Bush Street Lemoore CA 93245-3601,NA,NA,FALSE,tested,NA,Kings County,36.298213,-119.772359
-Hanford Elementary,Jefferson Charter Academy,511 West Malone Street Hanford CA 93230-2827,8.55,ppb,TRUE,tested,Hanford,Kings County,36.338915,-119.652354
-Corcoran Joint Unified,John C. Fremont Elementary,1900 Bell Ave Corcoran CA 93212-1706,6.6,ppb,TRUE,tested,NA,Kings County,36.103615,-119.571108
-Hanford Elementary,John F. Kennedy Junior High,1000 East Florinda Street Hanford CA 93232,5.1,ppb,TRUE,tested,Hanford,Kings County,36.334851,-119.63613
-Corcoran Joint Unified,John Muir Middle,707 Letts Avenue Corcoran CA 93212-1753,7.95,ppb,TRUE,tested,NA,Kings County,36.101917,-119.567503
-Hanford Elementary,Joseph M. Simas,1875 Fitzgerald Hanford CA 93230-7906,12,ppb,TRUE,tested,Hanford,Kings County,36.351926,-119.668458
-Kings County Office of Education,Kings County Community,146 Highland Street Hanford CA 93230-6172,NA,NA,NA,not tested,Hanford,Kings County,36.311043,-119.646566
-Kings County ROP,Kings County ROP,1144 West Lacey Boulevard Hanford CA 93230-5956,NA,NA,NA,not tested,Hanford,Kings County,36.328073,-119.662597
-Kings County Office of Education,Kings County SELPA Preschool,11835 11th Avenue Hanford CA 93230,NA,NA,NA,not tested,Hanford,Kings County,36.26203,-119.654864
-Kings County Office of Education,Kings County Special Education,959 Katie Hammond Lane Hanford CA 93230-4334,NA,NA,NA,not tested,Hanford,Kings County,36.337403,-119.630183
-Corcoran Joint Unified,Kings Lake Education Center,1128 South Dairy Ave Corcoran CA 93212-1722,NA,NA,FALSE,tested,NA,Kings County,36.094875,-119.572123
-Kit Carson Union Elementary,Kings Valley Academy,9895 Seventh Avenue Hanford CA 93230-8802,NA,NA,NA,not tested,Hanford,Kings County,36.329495,-119.582511
-Kit Carson Union Elementary,Kit Carson Elementary,9895 Seventh Avenue Hanford CA 93230-8802,NA,NA,NA,not tested,Hanford,Kings County,36.329495,-119.582511
-Hanford Elementary,Lee Richmond Elementary,939 Katie Hammond Street Hanford CA 93230-3158,92,ppb,TRUE,tested,Hanford,Kings County,36.337546,-119.631098
-Lemoore Union Elementary,Lemoore Elementary,573 Bush Street Lemoore CA 93245-3545,6.3,ppb,TRUE,tested,NA,Kings County,36.297698,-119.80904
-Lemoore Union High,Lemoore High,101 East Bush Street Lemoore CA 93245-3601,11,ppb,TRUE,tested,NA,Kings County,36.298223,-119.77882
-Lemoore Union High,Lemoore Middle College High,555 College Avenue Lemoore CA 93245-9248,13,ppb,TRUE,tested,NA,Kings County,36.294406,-119.821676
-Lemoore Union Elementary,Lemoore University Elementary Charter,450 Marsh Drive Lemoore CA 93245,7.3,ppb,TRUE,tested,Lemoore,Kings County,36.291858,-119.828138
-Lemoore Union Elementary,Liberty Middle,1000 Liberty Drive Lemoore CA 93245-3418,NA,NA,FALSE,tested,NA,Kings County,36.309746,-119.794396
-Hanford Elementary,Lincoln Elementary,832 South Harris Street Hanford CA 93230-5436,7.85,ppb,TRUE,tested,Hanford,Kings County,36.316229,-119.642705
-Corcoran Joint Unified,Mark Twain Elementary,1500 Oregon Avenue Corcoran CA 93212-9684,5.6,ppb,TRUE,tested,NA,Kings County,36.087223,-119.567692
-Hanford Elementary,Martin Luther King Jr. Elementary,820 Hume Avenue Hanford CA 93230-6309,5.4,ppb,TRUE,tested,Hanford,Kings County,36.305587,-119.663867
-Lemoore Union Elementary,Meadow Lane Elementary,Meadow Lane and Quandt Lemoore CA 93245-3418,5.3,ppb,TRUE,tested,Lemoore,Kings County,36.318699,-119.778743
-Kit Carson Union Elementary,Mid Valley Alternative Charter,9895 Seventh Avenue Hanford CA 93230-9304,NA,NA,NA,not tested,Hanford,Kings County,36.329495,-119.582511
-Hanford Elementary,Monroe Elementary,300 Monroe Drive Hanford CA 93230-1729,NA,NA,FALSE,tested,Hanford,Kings County,36.350073,-119.649187
-Lemoore Union Elementary,P. W. Engvall Elementary,19th and Cedar Lemoore CA 93245,13,ppb,TRUE,tested,NA,Kings County,36.29385,-119.783471
-Armona Union Elementary,Parkview Middle,11075 C Street Armona CA 93202-0368,9.9,ppb,TRUE,tested,NA,Kings County,36.312286,-119.707118
-Pioneer Union Elementary,Pioneer Elementary,8810 14th Avenue Hanford CA 93230-9677,NA,NA,FALSE,tested,Hanford,Kings County,36.346419,-119.710297
-Pioneer Union Elementary,Pioneer Middle,101 West Pioneer Way Hanford CA 93230-9677,280,ppb,TRUE,tested,Hanford,Kings County,36.370537,-119.653089
-Central Union Elementary,R. J. Neutra,Community Center Drive N.A.S. Lemoore CA 93245-0001,NA,NA,NA,not tested,Lemoore,Kings County,36.263907,-119.875106
-Reef-Sunset Unified,Reef Sunset Middle,608 North First Avenue Avenal CA 93204-1071,14,ppb,TRUE,tested,Avenal,Kings County,36.012199,-120.139396
-Reef-Sunset Unified,Reef-Sunset Adult Education,205 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.009495,-120.125394
-Reef-Sunset Unified,Reef-Sunset Primary Community Day,500 South First Street Avenal CA 93204-1558,NA,NA,NA,not tested,Avenal,Kings County,36.003548,-120.138292
-Reef-Sunset Unified,Reef-Sunset Secondary Community Day,861 Monterey Street Avenal CA 93204-1425,NA,NA,FALSE,tested,Avenal,Kings County,36.008068,-120.12489
-Hanford Elementary,Roosevelt Elementary,870 Davis Street Hanford CA 93230-5612,5.9,ppb,TRUE,tested,Hanford,Kings County,36.317625,-119.657745
-Hanford Joint Union High,Sierra Pacific High,1259 North 13th Avenue Hanford CA 93230-9219,NA,NA,FALSE,tested,Hanford,Kings County,36.337257,-119.689886
-Central Union Elementary,Stratford Elementary,20227 1st Street Stratford CA 93266-0148,NA,NA,NA,not tested,NA,Kings County,36.19319,-119.821172
-Reef-Sunset Unified,Sunrise High (Continuation),209 North Park Avenue Avenal CA 93204-1425,10,ppb,TRUE,tested,Avenal,Kings County,36.009514,-120.12539
-Reef-Sunset Unified,Tamarack Elementary,1000 Union Avenue Avenal CA 93204-2046,7.3,ppb,TRUE,tested,Avenal,Kings County,35.998374,-120.124868
-Hanford Elementary,Woodrow Wilson Junior High,601 West Florinda Street Hanford CA 93230-3629,7,ppb,TRUE,tested,Hanford,Kings County,36.334771,-119.654412
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lost Hills Union Elementary,A. M. Thomas Middle,20979 Lobos Court Lost Hills CA 93249-0158,,,,not tested,,Kern County,35.614912,-119.699366,
+Delano Union Elementary,Albany Park Elementary,235 West 20th Avenue Delano CA 93215-1352,,,False,tested,,Kern County,35.783225,-119.26168500000001,
+Lamont Elementary,Alicante Avenue Elementary,7998 Alicante Avenue Lamont CA 93241-1744,,,False,tested,,Kern County,35.261365000000005,-118.914951,
+Delano Union Elementary,Almond Tree Middle,200 West 15th Avenue Delano CA 93215-1816,,,False,tested,,Kern County,35.773978,-119.260873,
+Rosedale Union Elementary,Almondale Elementary,10510 Chippewa Street Bakersfield CA 93312-5324,,,False,tested,Bakersfield,Kern County,35.406883,-119.11978300000001,
+Rosedale Union Elementary,American Elementary,800 Verdugo Bakersfield CA 93312-2888,,,False,tested,Bakersfield,Kern County,35.396916999999995,-119.11890700000001,
+Panama-Buena Vista Union,Amy B. Seibert Elementary,2800 Agate Street Bakersfield CA 93304-5306,6.6,ppb,True,tested,Bakersfield,Kern County,35.328164,-119.03502900000001,6.6
+Kern High,Arvin High,900 Varsity Road Arvin CA 93203-2421,,,False,tested,,Kern County,35.216428,-118.83438799999999,
+Southern Kern Unified,Ascend Academy,2601 Rosamond Blvd. Rosamond CA 93560,,,False,tested,,Kern County,34.864216,-118.17136799999999,
+Kern County Superintendent of Schools,Auburn Community School,3700 Auburn St Bakersfield CA 93306,6.0,ppb,True,tested,Bakersfield,Kern County,35.397807,-118.950883,6.0
+Kern County Superintendent of Schools,Aurora Center,7900 Niles Bakersfield CA 93306,,,,not tested,Bakersfield,Kern County,35.376252,-118.922946,
+Muroc Joint Unified,Bailey Elementary School,1595 Bailey Avenue Edwards CA 93523-1513,,,False,tested,Edwards AFB,Kern County,34.927778,-117.93893200000001,
+Kern County Office of Education,Bakersfield College Delano Campus,1450 Timmons Ave Delano CA 93215,,,,not tested,,Kern County,35.768611,-119.27183400000001,
+Kern High,Bakersfield High,1241 G Street Bakersfield CA 93301-5173,8.4,ppb,True,tested,Bakersfield,Kern County,35.369603999999995,-119.02249499999999,8.4
+Arvin Union,Bear Mountain Elementary,1501 Hood Street Arvin CA 93203-1413,,,,not tested,,Kern County,35.2035,-118.840172,
+Beardsley Elementary,Beardsley Elementary,1001 Roberts Lane Bakersfield CA 93308-4503,6.0,ppb,True,tested,,Kern County,35.408475,-119.04119299999999,6.0
+Beardsley Elementary,Beardsley Junior High,1001 Roberts Ln Bakersfield CA 93308-4503,12.0,ppb,True,tested,,Kern County,35.408475,-119.04119299999999,12.0
+Belridge Elementary,Belridge Elementary,19447 Wagon Wheel Road McKittrick CA 93251-9715,,,,not tested,McKittrick,Kern County,35.457479,-119.787494,
+Panama-Buena Vista Union,Berkshire Elementary,3900 Berkshire Road Bakersfield CA 93313-5509,,,False,tested,Bakersfield,Kern County,35.288734999999996,-119.040209,
+Bakersfield City,Bessie E. Owens Intermediate,815 Eureka Street Bakersfield CA 93305-5911,,,False,tested,Bakersfield,Kern County,35.372158,-118.992544,
+Bakersfield City,Bessie E. Owens Primary,815 Potomac Avenue Bakersfield CA 93307-1450,,,False,tested,Bakersfield,Kern County,35.364908,-118.978591,
+Panama-Buena Vista Union,Bill L. Williams Elementary,5601 Harris Road Bakersfield CA 93313-6042,,,False,tested,Bakersfield,Kern County,35.303179,-119.06311399999998,
+Muroc Joint Unified,Boron Junior-Senior High,26831 Prospect Street Boron CA 93516-1539,5.2,ppb,True,tested,Boron,Kern County,35.004871,-117.655181,7.1
+McFarland Unified,Browning Road Elementary,410 East Perkins McFarland CA 93250-1230,,,,not tested,,Kern County,35.681787,-119.22214699999999,
+Panama-Buena Vista Union,Buena Vista Elementary,6547 Buena Vista Road Bakersfield CA 93311-9792,,,False,tested,Bakersfield,Kern County,35.259873999999996,-119.128254,
+Taft Union High,Buena Vista High (Continuation),900 North 10th Street Taft CA 93268-2202,,,,not tested,Taft,Kern County,35.146019,-119.465042,
+Sierra Sands Unified,Burroughs High,500 East French Street Ridgecrest CA 93555-3832,,,,not tested,Ridgecrest,Kern County,35.635936,-117.659454,
+Buttonwillow Union Elementary,Buttonwillow Elementary,42600 Highway 58 Buttonwillow CA 93206-9726,,,,not tested,Buttonwillow,Kern County,35.400192,-119.476526,
+Bakersfield City,Caroline Harris Elementary,4110 Garnsey Lane Bakersfield CA 93309-1740,,,False,tested,Bakersfield,Kern County,35.363545,-119.04823,
+Bakersfield City,Casa Loma Elementary,525 East Casa Loma Drive Bakersfield CA 93307-3732,,,False,tested,Bakersfield,Kern County,35.339544000000004,-118.995602,
+Delano Union Elementary,Cecil Avenue Math and Science Academy,1430 Cecil Avenue Delano CA 93215-1444,,,False,tested,,Kern County,35.775779,-119.24158,
+Rosedale Union Elementary,Centennial Elementary,15200 Westdale Drive Bakersfield CA 93314-9154,,,False,tested,Bakersfield,Kern County,35.37108,-119.16068,
+Kern High,Centennial High School,8601 Hageman Rd Bakersfield CA 93312,,,False,tested,Bakersfield,Kern County,35.39823,-119.102332,
+Bakersfield City,Cesar E. Chavez Elementary,4201 Mesa Marin Drive Bakersfield CA 93306-5024,,,False,tested,Bakersfield,Kern County,35.39265,-118.881778,
+Delano Joint Union High,Cesar E. Chavez High,800 Browning Road Delano CA 93215-9494,,,False,tested,,Kern County,35.767082,-119.22081399999999,
+Panama-Buena Vista Union,Charles H. Castle Elementary,6001 Edgemont Drive Bakersfield CA 93309-8300,,,False,tested,Bakersfield,Kern County,35.329539000000004,-119.06801899999999,
+Bakersfield City,Chipman Junior High,2905 Eissler Street Bakersfield CA 93306-1898,,,False,tested,Bakersfield,Kern County,35.402071,-118.938625,
+Panama-Buena Vista Union,Christa McAuliffe Elementary,8900 Westwold Drive Bakersfield CA 93311-2153,,,False,tested,Bakersfield,Kern County,35.330216,-119.099544,
+Bakersfield City,College Heights Elementary,2551 Sunny Lane Bakersfield CA 93305-2842,,,False,tested,Bakersfield,Kern County,35.394869,-118.97180700000001,
+Bakersfield City,Colonel Howard Nichols Elementary,3401 Renegade Avenue Bakersfield CA 93306-2054,,,False,tested,Bakersfield,Kern County,35.402732,-118.95558899999999,
+Fruitvale Elementary,Columbia Elementary,703 Mondavi Way Bakersfield CA 93312-4356,,,False,tested,Bakersfield,Kern County,35.366878,-119.103977,
+Kern County Superintendent of Schools,Community Learning Center,222 34th St Bakersfield CA 93301,,,False,tested,Bakersfield,Kern County,35.390403000000006,-119.008365,
+Bakersfield City,Compton Junior High,3211 Pico Avenue Bakersfield CA 93306-3598,,,False,tested,Bakersfield,Kern County,35.390234,-118.95607,
+Taft City,Conley Elementary,623 Rose Avenue Taft CA 93268-4127,,,False,tested,Taft,Kern County,35.129926,-119.458696,
+Tehachapi Unified,Cummings Valley Elementary,24220 Bear Valley Road Hc80 Tehachapi CA 93561-8308,,,,not tested,Tehachapi,Kern County,35.133129,-118.575726,
+Bakersfield City,Curran Middle,1116 Lymric Way Bakersfield CA 93309-4157,,,False,tested,Bakersfield,Kern County,35.34497,-119.04625,
+Rosedale Union Elementary,Del Rio Elementary,600 Hidalgo Drive Bakersfield CA 93314-3759,,,False,tested,Bakersfield,Kern County,35.3497,-119.16241799999999,
+Delano Union Elementary,Del Vista Math and Science Academy,710 Quincy Street Delano CA 93215-3044,,,False,tested,,Kern County,35.766256,-119.23432,
+Delano Joint Union High,Delano Adult,1811 Princeton Street Delano CA 93215,,,,not tested,,Kern County,35.761418,-119.236415,
+Delano Joint Union High,Delano High,1331 Cecil Avenue Delano CA 93215-1410,,,False,tested,,Kern County,35.778831,-119.23868799999998,
+Muroc Joint Unified,Desert Junior-Senior High,1575 Payne Avenue Edwards CA 93523-1301,,,False,tested,Edwards AFB,Kern County,34.922633000000005,-117.948343,
+Fruitvale Elementary,Discovery Elementary,7500 Vaquero Avenue Bakersfield CA 93308-6431,,,False,tested,Bakersfield,Kern County,35.399260999999996,-119.086684,
+Lakeside Union,Donald E. Suburu,7315 Harris Road Bakersfield CA 93313-9326,,,False,tested,Bakersfield,Kern County,35.304908000000005,-119.082296,
+Mojave Unified,Douglas (East Kern Community School),3200 Pat Avenue Mojave CA 93501-1344,,,False,tested,,Kern County,35.049989000000004,-118.189802,
+Panama-Buena Vista Union,Douglas J. Miller Elementary,7345 Mountain Ridge Drive Bakersfield CA 93313-5322,,,False,tested,Bakersfield,Kern County,35.277699,-119.0655,
+Bakersfield City,Downtown Elementary,2021 M Street Bakersfield CA 93301-4636,,,False,tested,Bakersfield,Kern County,35.377297999999996,-119.015344,
+Bakersfield City,Dr. Douglas K. Fletcher Elementary,9801 Highland Knolls Drive Bakersfield CA 93306-2836,,,False,tested,Bakersfield,Kern County,35.392796000000004,-118.893378,
+Bakersfield City,Dr. Juliet Thorner Elementary,5501 Thorner Street Bakersfield CA 93306-7300,,,False,tested,Bakersfield,Kern County,35.403594,-118.917744,
+Panama-Buena Vista Union,Earl Warren Junior High,4615 Mountain Vista Drive Bakersfield CA 93311-3016,,,False,tested,Bakersfield,Kern County,35.318703,-119.11881899999999,
+Kern High,East Bakersfield High,2200 Quincy Street Bakersfield CA 93306-4036,,,False,tested,Bakersfield,Kern County,35.379843,-118.967271,
+Edison Elementary,Edison Middle,721 South Edison Road Bakersfield CA 93307-9147,,,False,tested,,Kern County,35.186926,-118.87811,
+Arvin Union,El Camino Real Elementary,911 El Camino Real Road Arvin CA 93203-9451,,,,not tested,,Kern County,35.187065000000004,-118.83596899999999,
+El Tejon Unified,El Tejon Middle,4337 Lebec Road Lebec CA 93243-0876,,,,not tested,,Kern County,34.873675,-118.888168,
+Elk Hills Elementary,Elk Hills Elementary,501 Kern Street Tupman CA 93276-0129,,,,not tested,,Kern County,35.297736,-119.354441,
+Bakersfield City,Emerson Middle,801 Fourth Street Bakersfield CA 93304-2220,,,False,tested,Bakersfield,Kern County,35.360312,-119.011225,
+Fruitvale Elementary,Endeavour Elementary,9300 Meacham Road Bakersfield CA 93312-2706,,,False,tested,Bakersfield,Kern County,35.390812,-119.10818200000001,
+Bakersfield City,Evergreen Elementary,2600 Rose Marie Drive Bakersfield CA 93304-4259,,,False,tested,,Kern County,35.344077,-119.032444,
+Fairfax Elementary,Fairfax Jr. High,1500 South Fairfax Road Bakersfield CA 93307-3151,,,False,tested,,Kern County,35.352635,-118.93196699999999,
+Greenfield Union,Fairview Elementary,425 East Fairview Road Bakersfield CA 93307-5322,,,False,tested,Bakersfield,Kern County,35.303067,-119.0076,
+Sierra Sands Unified,Faller Elementary,1500 West Upjohn Street Ridgecrest CA 93555-4760,9.8,ppb,True,tested,Ridgecrest,Kern County,35.615181,-117.701173,9.8
+Kern High,Foothill High,501 Park Drive Bakersfield CA 93306-6017,,,False,tested,,Kern County,35.365373,-118.91857399999999,
+Bakersfield City,Frank West Elementary,2400 Benton Street Bakersfield CA 93304-5052,,,False,tested,Bakersfield,Kern County,35.334169,-119.028076,
+Bakersfield City,Franklin Elementary,2400 Truxtun Avenue Bakersfield CA 93301-3405,,,False,tested,Bakersfield,Kern County,35.373459000000004,-119.02950200000001,
+Panama-Buena Vista Union,Fred L. Thompson Junior High,4200 Planz Road Bakersfield CA 93309-5954,9.0,ppb,True,tested,Bakersfield,Kern County,35.325099,-119.04957399999999,11.0
+Private,Free Will Christian Academy,155 Redwood Drive Shafter CA 93263,,,False,tested,,Kern County,35.509754,-119.276524,
+Rosedale Union Elementary,Freedom Middle,11445 Noriega Road Bakersfield CA 93312-8922,,,False,tested,Bakersfield,Kern County,35.405125,-119.136518,
+Bakersfield City,Fremont Elementary,607 Texas Street Bakersfield CA 93307-1635,,,False,tested,Bakersfield,Kern County,35.35771,-118.96751599999999,
+Delano Union Elementary,Fremont Elementary,1318 Clinton Street Delano CA 93215-2139,,,False,tested,,Kern County,35.771809999999995,-119.25591599999998,
+Kern High,Frontier High,6401 Allen Road Bakersfield CA 93314-9250,,,False,tested,Bakersfield,Kern County,35.415579,-119.14548300000001,
+Fruitvale Elementary,Fruitvale Junior High,2114 Calloway Drive Bakersfield CA 93312-2706,5.4,ppb,True,tested,Bakersfield,Kern County,35.379093,-119.110105,5.4
+Sierra Sands Unified,Gateway Elementary,501 South Gateway Ridgecrest CA 93555-8245,,,False,tested,Ridgecrest,Kern County,35.614995,-117.65236999999999,
+General Shafter Elementary,General Shafter Elementary,1825 Shafter Road Bakersfield CA 93313-9766,,,False,tested,,Kern County,35.223409000000004,-119.08336000000001,
+Tehachapi Unified,Golden Hills Elementary,20215 Park Road Tehachapi CA 93561-6706,11.0,ppb,True,tested,Tehachapi,Kern County,35.128871000000004,-118.489678,11.0
+Richland Union Elementary,Golden Oak Elementary,190 South Wall Shafter CA 93263,,,False,tested,Shafter,Kern County,35.499244,-119.280305,
+Kern High,Golden Valley High,801 Hosking Avenue Bakersfield CA 93307-5818,,,,not tested,Bakersfield,Kern County,35.281365,-119.004351,
+Greenfield Union,Granite Pointe Elementary,2900 Berkshire Road Bakersfield CA 93313-4622,,,False,tested,Bakersfield,Kern County,35.288556,-119.035002,
+Greenfield Union,Greenfield Community,725 Capitola Drive Bakersfield CA 93307-6927,,,False,tested,Bakersfield,Kern County,35.306804,-119.01126399999998,
+Greenfield Union,Greenfield Middle,1109 Pacheco Road Bakersfield CA 93307-5199,,,False,tested,Bakersfield,Kern County,35.310320000000004,-119.01535200000001,
+Kern County Office of Education,Grimmway Academy,901 Nectarine Court Arvin CA 93203-2424,,,,not tested,,Kern County,35.214074,-118.83325400000001,
+Bakersfield City,Harding Elementary,3201 Pico Avenue Bakersfield CA 93306-3531,6.1,ppb,True,tested,Bakersfield,Kern County,35.390233,-118.95607700000001,6.1
+Delano Union Elementary,Harvest Elementary,1320 Vassar Avenue Delano CA 93215-3872,,,False,tested,Delano,Kern County,35.774431,-119.227581,
+Arvin Union,Haven Drive Middle,341 Haven Drive Arvin CA 93203-1413,,,,not tested,,Kern County,35.205376,-118.827347,
+Bakersfield City,Henry Eissler Elementary,2901 Eissler Street Bakersfield CA 93306-1851,,,False,tested,Bakersfield,Kern County,35.402065,-118.938625,
+Standard Elementary,Highland Elementary,2900 Barnett Street Bakersfield CA 93308-1439,36.55,ppb,True,tested,Bakersfield,Kern County,35.431585,-119.014853,160.0
+Kern High,Highland High,2900 Royal Scots Way Bakersfield CA 93306-2819,,,False,tested,Bakersfield,Kern County,35.401115000000004,-118.93106399999999,
+Bakersfield City,Horace Mann Elementary,2710 Niles Street Bakersfield CA 93306-4108,,,False,tested,,Kern County,35.375914,-118.95823700000001,
+Greenfield Union,Horizon Elementary,7901 Monitor Street Bakersfield CA 93307-6079,,,,not tested,Bakersfield,Kern County,35.288619,-119.011904,
+Bakersfield City,Hort Elementary,2301 Park Drive Bakersfield CA 93306-4942,,,False,tested,Bakersfield,Kern County,35.378356,-118.918554,
+Rosedale Union Elementary,Independence Elementary,2345 Old Farm Road Bakersfield CA 93312-3531,,,False,tested,Bakersfield,Kern County,35.383168,-119.136821,
+Kern High,Independence High,8001 Old River Road Bakersfield CA 93311-9752,,,False,tested,Bakersfield,Kern County,35.282627000000005,-119.10994,
+Maricopa Unified,Inspire Charter School - Kern,955 Stanislaus Maricopa CA 93252-9779,,,,not tested,Maricopa,Kern County,35.054285,-119.40376299999998,
+Tehachapi Unified,Jacobsen Middle,711 Anita Drive Tehachapi CA 93561-1501,10.0,ppb,True,tested,Tehachapi,Kern County,35.126603,-118.43661000000002,10.0
+Sierra Sands Unified,James Monroe Middle,340 West Church Street Ridgecrest CA 93555-4605,,,False,tested,Ridgecrest,Kern County,35.619253,-117.67601699999999,
+Bakersfield City,Jefferson Elementary,816 Lincoln Street Bakersfield CA 93305-3713,,,False,tested,Bakersfield,Kern County,35.386926,-118.987269,
+Taft City,Jefferson Elementary,318 Taylor Street Taft CA 93268-1714,6.65,ppb,True,tested,Taft,Kern County,35.154866,-119.46,65.0
+Wasco Union Elementary,John L. Prueitt Elementary,3501 Seventh Street Wasco CA 93280-9533,,,False,tested,Wasco,Kern County,35.592595,-119.365904,
+Wasco Union Elementary,Karl F. Clemens Elementary,523 Broadway Avenue Wasco CA 93280-1838,,,False,tested,Wasco,Kern County,35.596465,-119.338406,
+Kern County Office of Education,Karl F. Clemens State Preschool,523 Broadway Ave. Wasco CA 93280,,,False,tested,,Kern County,35.595936,-119.338053,
+McFarland Unified,Kern Avenue Elementary,356 West Kern Avenue McFarland CA 93250-1351,,,,not tested,,Kern County,35.678108,-119.23146799999999,
+Kern County Office of Education,Kern County Community,1300 17th Street City Centre Bakersfield CA 93301,,,,not tested,Bakersfield,Kern County,35.374562,-119.01678700000001,
+Kern County Office of Education,Kern County Juvenile Court,1300 17th Street Bakersfield CA 93301-4533,,,,not tested,Bakersfield,Kern County,35.374395,-119.016582,
+Kern County Office of Education,Kern County Special Education,1300 17th StCity Centre Bakersfield CA 93301-4533,,,,not tested,Bakersfield,Kern County,35.374562,-119.01678700000001,
+Kern High ROC,Kern High ROC,501 South Mount Vernon Avenue Bakersfield CA 93307-2859,,,False,tested,Bakersfield,Kern County,35.350767,-118.967651,
+Kernville Union Elementary,Kernville Elementary,13550 Sierra Way Kernville CA 93238,,,False,tested,Kernville,Kern County,35.760835,-118.420243,
+Delano Union Elementary,La Vina Middle,1331 Browning Road Delano CA 93215-9497,,,False,tested,,Kern County,35.725198,-119.223124,
+Lamont Elementary,Lamont Elementary,10621 Main Street Lamont CA 93241-2046,,,False,tested,,Kern County,35.258140999999995,-118.914302,
+Sierra Sands Unified,Las Flores Elementary,720 West Las Flores Ridgecrest CA 93555-3405,,,False,tested,Ridgecrest,Kern County,35.630146999999994,-117.684327,
+Panama-Buena Vista Union,Laurelglen Elementary,2601 El Portal Drive Bakersfield CA 93309-5333,,,False,tested,Bakersfield,Kern County,35.330638,-119.088326,
+Panama-Buena Vista Union,Leo B. Hart Elementary,9501 Ridge Oak Drive Bakersfield CA 93311-1732,,,False,tested,Bakersfield,Kern County,35.32952,-119.11128500000001,
+Bakersfield City,Leo G. Pauly Elementary,313 Planz Road Bakersfield CA 93304-5848,,,False,tested,Bakersfield,Kern County,35.324853999999995,-119.00681999999999,
+Greenfield Union,Leon H. Ollivier Middle,7310 Monitor Street Bakersfield CA 93307-7221,,,,not tested,Bakersfield,Kern County,35.288436,-119.011803,
+Kern High,Liberty High,925 Jewetta Avenue Bakersfield CA 93312-4683,,,False,tested,Bakersfield,Kern County,35.363186999999996,-119.12801,
+Taft City,Lincoln Junior High,810 Sixth Street Taft CA 93268-2306,,,False,tested,Taft,Kern County,35.147695,-119.45601299999998,
+Linns Valley-Poso Flat Union,Linns Valley Poso Flat Elementary,158 White River Road Glennville CA 93226-0399,,,,not tested,,Kern County,35.734556,-118.71080400000001,
+Bakersfield City,Longfellow Elementary,1900 Stockton Street Bakersfield CA 93305-3432,,,False,tested,Bakersfield,Kern County,35.389415,-119.00079299999999,
+Lost Hills Union Elementary,Lost Hills Elementary,14821 Primary Court Lost Hills CA 93249-0158,,,False,tested,,Kern County,35.61527,-119.70136299999999,
+Panama-Buena Vista Union,Louise Sandrini Elementary,4100 Alum Avenue Bakersfield CA 93309-6500,,,False,tested,Bakersfield,Kern County,35.319696,-119.051151,
+Maple Elementary,Maple Elementary,29161 Fresno Avenue Shafter CA 93263-9719,,,,not tested,,Kern County,35.514438,-119.338132,
+Maricopa Unified,Maricopa Elementary,955 Stanislaus St Maricopa CA 93252-8231,,,False,tested,Maricopa,Kern County,35.055434000000005,-119.402739,
+Maricopa Unified,Maricopa High,955 Stanislaus Street Maricopa CA 93252-8231,5.08,ppb,True,tested,Maricopa,Kern County,35.055434000000005,-119.402739,5.08
+Maricopa Unified,Maricopa Middle,955 Stanislaus Str Maricopa CA 93252-9779,,,False,tested,Maricopa,Kern County,35.055434000000005,-119.402739,
+McFarland Unified,McFarland High,259 West Sherwood Avenue McFarland CA 93250-1519,,,,not tested,,Kern County,35.674331,-119.23008300000001,
+McFarland Unified,McFarland Independent,599 Fifth Street McFarland CA 93250-1174,,,,not tested,McFarland,Kern County,35.679988,-119.23453,
+McFarland Unified,McFarland Middle,405 Mast Avenue McFarland CA 93250-1125,,,,not tested,,Kern County,35.669148,-119.231982,
+Greenfield Union,McKee Middle,205 McKee Road Bakersfield CA 93307-6021,,,,not tested,Bakersfield,Kern County,35.273532,-119.005579,
+Bakersfield City,McKinley Elementary,601 Fourth Street Bakersfield CA 93304-2221,,,False,tested,Bakersfield,Kern County,35.359441,-119.009731,
+McKittrick Elementary,McKittrick Elementary,23250 Second Street McKittrick CA 93251-0277,,,,not tested,McKittrick,Kern County,35.306325,-119.622798,
+Sierra Sands Unified,Mesquite Continuation High,140 West Drummond Ridgecrest CA 93555-3118,,,False,tested,Ridgecrest,Kern County,35.63715,-117.670718,
+Midway Elementary,Midway Elementary,259 F Street Fellows CA 93224-0039,,,False,tested,,Kern County,35.175538,-119.54381699999999,
+Kern High,Mira Monte High,1800 South Fairfax Road Bakersfield CA 93307-8520,,,False,tested,Bakersfield,Kern County,35.338770000000004,-118.93211299999999,
+Mojave Unified,Mojave Elementary,"15800 ""O"" Street Mojave CA 93501-1344",,,False,tested,,Kern County,35.053252,-118.16716699999999,
+Mojave Unified,Mojave Jr./Sr. High,15732 O Street Mojave CA 93501-1751,5.4,ppb,True,tested,,Kern County,35.053011,-118.167162,5.4
+Delano Union Elementary,Morningside,2100 Summer Drive Delano CA 93215-4794,,,False,tested,,Kern County,35.787129,-119.227566,
+Lamont Elementary,Mountain View Middle,8001 Weedpatch Hwy Bakersfield CA 93307-9654,,,False,tested,,Kern County,35.238017,-118.9151,
+Bakersfield City,Mt. Vernon Elementary,2161 Potomac Avenue Bakersfield CA 93307-2426,,,False,tested,,Kern County,35.365048,-118.968602,
+Bakersfield City,Munsey Elementary,3801 Brave Avenue Bakersfield CA 93309-3378,,,False,tested,,Kern County,35.348508,-119.04466299999999,
+Sierra Sands Unified,Murray Middle,200 E Drummond Ave Ridgecrest CA 93555-2875,,,,not tested,Ridgecrest,Kern County,35.63728,-117.672255,
+Bakersfield City,Myra A. Noble Elementary,1015 Noble Avenue Bakersfield CA 93305-1933,,,False,tested,Bakersfield,Kern County,35.399257,-118.983172,
+Lamont Elementary,Myrtle Avenue Elementary,10421 Myrtle Avenue Lamont CA 93241-1854,,,False,tested,,Kern County,35.259539000000004,-118.909727,
+Norris Elementary,Norris Elementary,7110 Old Farm Road Bakersfield CA 93312-9005,,,False,tested,Bakersfield,Kern County,35.42525,-119.13658000000001,
+Norris Elementary,Norris Middle,6940 Calloway Drive Bakersfield CA 93312-9005,,,False,tested,Bakersfield,Kern County,35.423442,-119.109876,
+Beardsley Elementary,North Beardsley Elementary,900 Sanford Drive Bakersfield CA 93308-3150,11.0,ppb,True,tested,,Kern County,35.414867,-119.04323899999999,11.0
+Kern High,North High,300 Galaxy Avenue Bakersfield CA 93308-1722,,,,not tested,Bakersfield,Kern County,35.429521,-119.026971,
+Kern County Superintendent of Schools Office,North Kern Community School,1915 Cecil Ave Delano CA 93215,,,False,tested,,Kern County,35.775905,-119.24724499999999,
+Kern High,Nueva Continuation High,8600 Palm Avenue Lamont CA 93241-2212,,,False,tested,,Kern County,35.257978,-118.909255,
+Delano Union Elementary,Nueva Vista Language Academy,120 Garces Highway Delano CA 93215-3328,,,False,tested,,Kern County,35.761297,-119.256607,
+Panama-Buena Vista Union,O. J. Actis Junior High,2400 Westholme Boulevard Bakersfield CA 93309-4505,,,False,tested,Bakersfield,Kern County,35.333494,-119.06488200000001,
+Panama-Buena Vista Union,Old River Elementary,9815 Campus Park Drive Bakersfield CA 93311-2789,,,False,tested,Bakersfield,Kern County,35.317776,-119.13016599999999,
+Norris Elementary,Olive Drive Elementary,7800 Darrin Avenue Bakersfield CA 93308-7226,,,False,tested,,Kern County,35.414196999999994,-119.088902,
+Private,Opportunities for Learning,900 N Norma Ridgecrest CA 93555,,,False,tested,Ridgecrest,Kern County,35.637392999999996,-117.678397,
+Panama Buena Vista Union,Opportunity School,5901 Schirra Ct Bakersfield CA 93313,,,False,tested,Bakersfield,Kern County,35.31651,-119.07429199999999,
+Edison Elementary,Orangewood Elementary,9600 Eucalyptus Drive Bakersfield CA 93306-6781,,,False,tested,,Kern County,35.365454,-118.897566,
+Wasco Union Elementary,Palm Avenue Elementary,1017 Palm Avenue Wasco CA 93280-2112,,,False,tested,,Kern County,35.588221999999995,-119.34921999999999,
+Panama-Buena Vista Union,Panama Elementary,9400 Stine Road Bakersfield CA 93313-9728,,,False,tested,Bakersfield,Kern County,35.270088,-119.05676299999999,
+Taft City,Parkview Elementary,520 A Street Taft CA 93268-3734,,,False,tested,Taft,Kern County,35.136804,-119.472424,
+Rosedale Union Elementary,Patriot Elementary,4410 Old Farm Road Bakersfield CA 93312-5467,,,False,tested,Bakersfield,Kern County,35.42525,-119.13658000000001,
+Bakersfield City,Paul L. Cato Middle,4115 Vineland Road Bakersfield CA 93306-2835,,,False,tested,Bakersfield,Kern County,35.389753999999996,-118.895642,
+Sierra Sands Unified,Pierce Elementary,674 North Gold Canyon Ridgecrest CA 93555-5797,9.15,ppb,True,tested,Ridgecrest,Kern County,35.628886,-117.658358,13.0
+Delano Union Elementary,Pioneer,1001 Hiett Avenue Delano CA 93215-9530,,,False,tested,,Kern County,35.775863,-119.267407,
+Bakersfield City,Pioneer Drive Elementary,4404 Pioneer Drive Bakersfield CA 93306-5730,,,False,tested,,Kern County,35.368865,-118.93526899999999,
+Greenfield Union,Plantation Elementary,901 Plantation Avenue Bakersfield CA 93304-6732,,,False,tested,Bakersfield,Kern County,35.319441,-119.013811,
+Greenfield Union,Planz Elementary,2400 Planz Road Bakersfield CA 93304-5939,,,False,tested,Bakersfield,Kern County,35.325019,-119.02909199999999,
+Delano Union Elementary,Princeton Street Elementary,1959 Princeton Street Delano CA 93215-1523,,,False,tested,,Kern County,35.761418,-119.236415,
+Fruitvale Elementary,Quailwood Elementary,7301 Remington Avenue Bakersfield CA 93309-1224,,,False,tested,Bakersfield,Kern County,35.358427,-119.084069,
+Bakersfield City,Rafer Johnson,1001 10th Street Bakersfield CA 93304-1507,,,False,tested,Bakersfield,Kern County,35.366403999999996,-119.01311899999999,
+Greenfield Union,Raffaello Palla Elementary,800 Fairview Road Bakersfield CA 93307-5524,,,False,tested,Bakersfield,Kern County,35.303227,-119.011423,
+Bakersfield City,Ramon Garza Elementary,2901 Center Street Bakersfield CA 93306-5303,,,False,tested,,Kern County,35.372192999999996,-118.954012,
+Richland Union Elementary,Redwood Elementary,331 North Shafter Avenue Shafter CA 93263-1967,,,False,tested,,Kern County,35.502491,-119.27838100000001,
+Richland Union Elementary,Richland Junior High,331 Shafter Avenue Shafter CA 93263-1967,,,False,tested,,Kern County,35.529151,-119.277852,
+Sierra Sands Unified,Richmond Elementary,1206 Kearsarge Street Ridgecrest CA 93555-2755,,,,not tested,Ridgecrest,Kern County,35.658770000000004,-117.64353,
+SBE - Ridgecrest Charter,Ridgecrest Charter,325 South Downs Street Ridgecrest CA 93555-4531,,,False,tested,Ridgecrest,Kern County,35.605243,-117.688129,
+Kern High,Ridgeview High,8501 Stine Road Bakersfield CA 93313-9782,,,False,tested,Bakersfield,Kern County,35.275476,-119.056767,
+Delano Joint Union High,Robert F. Kennedy High,1401 Hiett Avenue Delano CA 93215,,,False,tested,,Kern County,35.775863,-119.267407,
+Kern High,ROC-Alternative Education-Bakersfield Adult School,2727 F Street Bakersfield CA 93301,,,False,tested,Bakersfield,Kern County,35.384186,-119.023576,
+Panama-Buena Vista Union,Ronald Reagan Elementary,10800 Rosslyn Lane Bakersfield CA 93311-3599,,,False,tested,Bakersfield,Kern County,35.345732,-119.12371999999999,
+Bakersfield City,Roosevelt Elementary,2324 Verde Street Bakersfield CA 93304-2747,,,False,tested,Bakersfield,Kern County,35.356154,-119.02852299999999,
+Taft City,Roosevelt Elementary,811 Sixth Street Taft CA 93268-2305,,,False,tested,Taft,Kern County,35.147696,-119.457601,
+Southern Kern Unified,Rosamond Elementary,1981 Rosamond Boulevard Rosamond CA 93560-0640,,,False,tested,,Kern County,34.865234,-118.167643,
+Rosedale Union Elementary,Rosedale Middle,12463 Rosedale Highway Bakersfield CA 93312-8677,,,False,tested,Bakersfield,Kern County,35.383506,-119.094475,
+Rosedale Union Elementary,Rosedale-North Elementary,11500 Meacham Avenue Bakersfield CA 93312-3331,,,False,tested,Bakersfield,Kern County,35.391327000000004,-119.12988,
+Panama-Buena Vista Union,Roy W. Loudon Elementary,4000 Loudon Street Bakersfield CA 93313-3573,,,False,tested,Bakersfield,Kern County,35.29992,-119.04633799999999,
+Kern High,Ruggenburg Special Education School,610 Ansol Ln  Bakersfield CA 93306,,,False,tested,,Kern County,35.367382,-118.926533,
+McFarland Unified,San Joaquin High (Continuation),599 Fifth St McFarland CA 93250-1174,,,,not tested,McFarland,Kern County,35.679988,-119.23453,
+Beardsley Elementary,San Lauren Elementary,5210 Victor St.  Bakersfield  CA 93308-7125,,,False,tested,Bakersfield,Kern County,35.408651,-119.06213000000001,
+Kern County Superintendent of Schools,Sandstone Education Center,300 E Truxton Ave Bakersfield CA 93305,,,False,tested,Bakersfield,Kern County,35.373591999999995,-119.005101,
+Semitropic Elementary,Semitropic Elementary,25300 Highway 46 Wasco CA 93280-9540,,,False,tested,Wasco,Kern County,35.601395000000004,-119.50861699999999,
+Richland Union Elementary,Sequoia Elementary,500 East Fresno Avenue Shafter CA 93263-9404,,,False,tested,,Kern County,35.51442,-119.30478600000001,
+Bakersfield City,Sequoia Middle,900 Belle Terrace Bakersfield CA 93304-3704,,,False,tested,,Kern County,35.346722,-119.039068,
+Kern High,Shafter High,526 Mannel Avenue Shafter CA 93263-1810,,,False,tested,Shafter,Kern County,35.507697,-119.268345,
+Fairfax Elementary,Shirley Lane Elementary,6714 Shirley Lane Bakersfield CA 93307-3179,,,False,tested,,Kern County,35.343377000000004,-118.938667,
+Bakersfield City,Sierra Middle,3017 Center Street Bakersfield CA 93306-5399,,,False,tested,,Kern County,35.372203000000006,-118.951476,
+Sierra Sands Unified,Sierra Sands Adult,348 Rowe Street Ridgecrest CA 93555-2508,,,,not tested,Ridgecrest,Kern County,35.63986,-117.664102,
+Arvin Union,Sierra Vista Elementary,300 Franklin Street Arvin CA 93203-1413,,,,not tested,,Kern County,35.2019,-118.82753500000001,
+Kern County Superintendent of Schools,Sillect Community School,3600 Sillect Ave Bakersfield CA 93308,,,False,tested,Bakersfield,Kern County,35.390715,-119.03719199999999,
+Panama-Buena Vista Union,Sing Lum Elementary,4600 Chaney Lane Bakersfield CA 93311-1848,5.4,ppb,True,tested,Bakersfield,Kern County,35.313264000000004,-119.103742,5.4
+Kern High,South High,1101 Planz Road Bakersfield CA 93304-6150,,,False,tested,Bakersfield,Kern County,35.324845,-119.01449199999999,
+Standard Elementary,Standard Elementary,115 East Minner Avenue Bakersfield CA 93308-3552,5.1,ppb,True,tested,Bakersfield,Kern County,35.418281,-119.020564,5.1
+Standard Elementary,Standard Middle,1222 North Chester Avenue Bakersfield CA 93308-3521,,,False,tested,,Kern County,35.444891999999996,-119.02399299999999,
+Bakersfield City,Stella I. Hills Elementary,3800 Jewett Avenue Bakersfield CA 93301-1316,,,False,tested,Bakersfield,Kern County,35.394428000000005,-119.01418999999999,
+Panama-Buena Vista Union,Stine Elementary,4300 Wilson Road Bakersfield CA 93309-4969,,,False,tested,Bakersfield,Kern County,35.332390999999994,-119.052398,
+Panama-Buena Vista Union,Stockdale Elementary,7801 Kroll Way Bakersfield CA 93309-2326,,,False,tested,Bakersfield,Kern County,35.349985,-119.089605,
+Kern High,Stockdale High,2800 Buena Vista Road Bakersfield CA 93311-9791,,,False,tested,Bakersfield,Kern County,35.329423,-119.127845,
+Panama-Buena Vista Union,Stonecreek Junior High,8000 Akers Road Bakersfield CA 93313-9314,,,False,tested,Bakersfield,Kern County,35.294463,-119.047817,
+Vineland Elementary,Sunset Middle School,8001 WeedPatch Hwy Bakersfield CA 93307,,,False,tested,,Kern County,35.238017,-118.9151,
+Taft City,Taft Primary,212 Lucard Street Taft CA 93268-3214,,,False,tested,Taft,Kern County,35.142386,-119.453631,
+Taft Union High,Taft Union High,701 Wildcat Way Taft CA 93268-2319,,,,not tested,Taft,Kern County,35.146338,-119.46048200000001,
+Tehachapi Unified,Tehachapi High,801 South Dennison Road Tehachapi CA 93561-1524,150.0,ppb,True,tested,Tehachapi,Kern County,35.121534000000004,-118.432928,150.0
+Wasco Union Elementary,Teresa Burke Elementary,1301 Filburn Street Wasco CA 93280-2793,,,False,tested,,Kern County,35.579677000000004,-119.34008100000001,
+Delano Union Elementary,Terrace Elementary,1999 Norwalk Street Delano CA 93215-1458,,,False,tested,,Kern County,35.783034,-119.24101999999999,
+Panama-Buena Vista Union,Tevis Junior High,3901 Pin Oak Park Boulevard Bakersfield CA 93311-2518,,,False,tested,Bakersfield,Kern County,35.326044,-119.102331,
+Wasco Union Elementary,Thomas Jefferson Middle,305 Griffith Avenue Wasco CA 93280-1304,,,False,tested,,Kern County,35.598109,-119.340255,
+Kern High,Tierra Del Sol Continuation High,3700 East Belle Terrace Bakersfield CA 93307-6832,,,False,tested,Bakersfield,Kern County,35.345874,-118.988069,
+Tehachapi Unified,Tompkins Elementary,1120 South Curry Street Tehachapi CA 93561-2300,8.6,ppb,True,tested,Tehachapi,Kern County,35.117988000000004,-118.44865700000001,8.6
+Southern Kern Unified,Tropico Middle,3180 Mojave-Tropico Road Rosamond CA 93560-0640,13.0,ppb,True,tested,,Kern County,34.866372,-118.228976,13.0
+Greenfield Union,Valle Verde Elementary,400 Berkshire Road Bakersfield CA 93307-5812,,,,not tested,Bakersfield,Kern County,35.285011,-118.994215,
+Kern County Office of Education,Valley Oaks Charter,3501 Chester Avenue Bakersfield CA 93301-1629,,,False,tested,Bakersfield,Kern County,35.391412,-119.01883000000001,
+Kern County Superintendent of Schools,Valley Oaks Charter School,3401 Chester Ave Bakersfield CA 93301,,,False,tested,Bakersfield,Kern County,35.390578999999995,-119.018833,
+Norris Elementary,Veterans Elementary,6301 Old Farm Road Bakersfield CA 93312-5470,,,False,tested,Bakersfield,Kern County,35.417189,-119.136711,
+Sierra Sands Unified,Vieweg Elementary,348 Rowe St Ridgecrest CA 93555,,,,not tested,Ridgecrest,Kern County,35.63986,-117.664102,
+Vineland Elementary,Vineland Elementary,14327 S. Vineland Road Bakersfield CA 93307-9463,,,False,tested,Bakersfield,Kern County,35.224540000000005,-118.89497800000001,
+Fairfax Elementary,Virginia Avenue Elementary,3301 Virginia Avenue Bakersfield CA 93307-2931,,,False,tested,Bakersfield,Kern County,35.36135,-118.94880900000001,
+Kern High,Vista Continuation High,200 P Street Bakersfield CA 93304-3051,,,False,tested,Bakersfield,Kern County,35.358031,-119.011766,
+Kern High,Vista West Continuation High,7115 Rosedale Highway Bakersfield CA 93308-5845,,,False,tested,Bakersfield,Kern County,35.383289000000005,-119.081202,
+Bakersfield City,Voorhies Elementary,6001 Pioneer Drive Bakersfield CA 93306-6032,,,False,tested,,Kern County,35.368829,-118.918517,
+Greenfield Union,W. A. Kendrick Elementary,2200 Faith Avenue Bakersfield CA 93304-7254,,,False,tested,Bakersfield,Kern County,35.30685,-119.02664299999999,
+Bakersfield City,Walter Stiern Middle,2551 Morning Drive Bakersfield CA 93306-4927,,,False,tested,Bakersfield,Kern County,35.384771,-118.914755,
+Kern County Office of Education,Wasco Child Development Center,617 6th Street Wasco CA 93280,,,,not tested,,Kern County,35.595473999999996,-119.328832,
+Kern County Office of Education,Wasco Child Development Center (H St.),764 H Street Wasco CA 93280,,,,not tested,,Kern County,35.592753,-119.33081100000001,
+Wasco Union High,Wasco High,1900 Seventh Street Wasco CA 93280-0250,,,False,tested,Wasco,Kern County,35.594937,-119.347403,
+Wasco Union High,Wasco Independence High,1445 Poso Drive Wasco CA 93280-2353,7.3,ppb,True,tested,,Kern County,35.587025,-119.34711100000001,7.3
+Bakersfield City,Washington Middle,1101 Noble Avenue Bakersfield CA 93305-1928,8.1,ppb,True,tested,Bakersfield,Kern County,35.399262,-118.98173200000001,12.0
+Panama-Buena Vista Union,Wayne Van Horn Elementary,5501 Kleinpell Avenue Bakersfield CA 93309-1522,,,False,tested,Bakersfield,Kern County,35.357516,-119.06492,
+Bakersfield City,Wayside Elementary,1000 Ming Avenue Bakersfield CA 93307-3914,,,False,tested,Bakersfield,Kern County,35.339532,-119.015346,
+Muroc Joint Unified,West Boron Elementary,12300 Del Oro Street Boron CA 93516-1310,5.3,ppb,True,tested,Boron,Kern County,35.004146,-117.693983,5.3
+Kern High,West High,1200 New Stine Road Bakersfield CA 93309-3534,,,False,tested,Bakersfield,Kern County,35.344113,-119.06103700000001,
+Kern County Office of Education,West Kern Community School,301 North Street Taft CA 93268,,,,not tested,Taft,Kern County,35.140832,-119.45586899999999,
+West Park Elementary,West Side ROP,515 9th Street Taft CA 93268-2715,,,,not tested,Taft,Kern County,35.145547,-119.46411,
+Southern Kern Unified,Westpark Elementary,3600 Imperial Avenue Rosamond CA 93560-7681,,,False,tested,,Kern County,34.849926,-118.19594099999999,
+Norris Elementary,William B. Bimat Elementary,8600 Northshore Drive Bakersfield CA 93312-1947,,,False,tested,Bakersfield,Kern County,35.410197,-119.09815900000001,
+Bakersfield City,William Penn Elementary,2201 San Emidio Street Bakersfield CA 93304-1125,,,False,tested,Bakersfield,Kern County,35.365724,-119.02761299999999,
+Bakersfield City,Williams Elementary,1201 Williams Street Bakersfield CA 93305-4858,,,False,tested,Bakersfield,Kern County,35.377728999999995,-118.977378,
+Standard Elementary,Wingland Elementary,701 Douglas Street Bakersfield CA 93308-2385,7.2,ppb,True,tested,,Kern County,35.426827,-119.040527,7.2
+Kern County Office of Education,Wonderful College Prep Academy,2070 Veneto Street Delano CA 93215,,,,not tested,Delano,Kern County,35.784717,-119.21226000000001,
+Private,Wonderful Prep Academy,20767 Highway 46 Lost Hills CA 93249,,,False,tested,Lost Hills,Kern County,35.615995,-119.70811499999999,
+Fairfax Elementary,Zephyr Lane Elementary,6327 Zephyr Lane Bakersfield CA 93307,,,False,tested,Bakersfield,Kern County,35.346978,-118.934502,

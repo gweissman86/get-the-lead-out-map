@@ -1,11 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Soledad Unified,Frank Ledesma Elementary,973 Vista De Soledad Soledad CA 93960-3489,NA,NA,NA,not tested,Soledad,Monterey County,36.439064,-121.329752
-Soledad Unified,Gabilan Elementary,330 North Walker Drive Soledad CA 93960,NA,NA,NA,not tested,Soledad,Monterey County,36.42815,-121.320528
-Soledad Unified,Jack Franscioni Elementary,779 Orchard Lane Soledad CA 93960-3375,NA,NA,NA,not tested,Soledad,Monterey County,36.436276,-121.31593
-Soledad Unified,Main Street Middle,441 Main Street Soledad CA 93960-2507,NA,NA,NA,not tested,Soledad,Monterey County,36.430358,-121.325912
-Soledad Unified,Pinnacles High,690 Main St Soledad CA 93960-2533,NA,NA,NA,not tested,Soledad,Monterey County,36.433165,-121.324227
-Soledad Unified,Rose Ferrero Elementary,400 Entrada Drive Soledad CA 93960-3148,NA,NA,NA,not tested,Soledad,Monterey County,36.441965,-121.325017
-Soledad Unified,San Vicente Elementary,1300 Metz Road Soledad CA 93960-2736,NA,NA,NA,not tested,Soledad,Monterey County,36.426669,-121.316015
-Soledad Unified,Soledad Adult,690 Main Street Soledad CA 93960-2533,NA,NA,NA,not tested,Soledad,Monterey County,36.433165,-121.324227
-Soledad Unified,Soledad High,425 Gabilan Drive Soledad CA 93960-3207,NA,NA,NA,not tested,Soledad,Monterey County,36.435973,-121.326711
-Soledad Unified,Soledad Preschool Center,1261 Metz Road Soledad CA 93960-2745,NA,NA,NA,not tested,Soledad,Monterey County,36.427281,-121.318787
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Soledad Unified,Frank Ledesma Elementary,973 Vista De Soledad Soledad CA 93960-3489,,,,not tested,Soledad,Monterey County,36.439064,-121.329752,
+Soledad Unified,Gabilan Elementary,330 North Walker Drive Soledad CA 93960,,,,not tested,Soledad,Monterey County,36.42815,-121.320528,
+Soledad Unified,Jack Franscioni Elementary,779 Orchard Lane Soledad CA 93960-3375,,,,not tested,Soledad,Monterey County,36.436276,-121.31593000000001,
+Soledad Unified,Main Street Middle,441 Main Street Soledad CA 93960-2507,,,,not tested,Soledad,Monterey County,36.430358,-121.32591200000002,
+Soledad Unified,Pinnacles High,690 Main St Soledad CA 93960-2533,,,,not tested,Soledad,Monterey County,36.433165,-121.32422700000001,
+Soledad Unified,Rose Ferrero Elementary,400 Entrada Drive Soledad CA 93960-3148,,,,not tested,Soledad,Monterey County,36.441965,-121.32501699999999,
+Soledad Unified,San Vicente Elementary,1300 Metz Road Soledad CA 93960-2736,,,,not tested,Soledad,Monterey County,36.426669,-121.316015,
+Soledad Unified,Soledad Adult,690 Main Street Soledad CA 93960-2533,,,,not tested,Soledad,Monterey County,36.433165,-121.32422700000001,
+Soledad Unified,Soledad High,425 Gabilan Drive Soledad CA 93960-3207,,,,not tested,Soledad,Monterey County,36.435973,-121.32671100000002,
+Soledad Unified,Soledad Preschool Center,1261 Metz Road Soledad CA 93960-2745,,,,not tested,Soledad,Monterey County,36.427281,-121.31878700000001,

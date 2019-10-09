@@ -1,2 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Black Oak Mine Unified,Divide High,4405 Highway 193 Greenwood CA 95635,NA,NA,NA,not tested,Greenwood,El Dorado County,38.9016,-120.900438
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Greenfield Union Elementary,Cesar Chavez Elementary,250 Apple Avenue Greenfield CA 93927-5354,,,,not tested,Greenfield,Monterey County,36.331872,-121.231705,
+South Monterey County Joint Union High,Greenfield High,225 South El Camino Real Greenfield CA 93927-6312,,,,not tested,Greenfield,Monterey County,36.321222999999996,-121.243799,
+Greenfield Union Elementary,Mary Chapa Academy,490 El Camino Real Greenfield CA 93927-4914,,,,not tested,Greenfield,Monterey County,36.326528,-121.248098,
+Greenfield Union Elementary,Oak Avenue Elementary,1239 Oak Avenue Greenfield CA 93927-5438,,,,not tested,Greenfield,Monterey County,36.317339000000004,-121.249509,
+Greenfield Union Elementary,Vista Verde Middle,1199 Elm Avenue Greenfield CA 93927-4624,,,,not tested,Greenfield,Monterey County,36.316337,-121.243343,

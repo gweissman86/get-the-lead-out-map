@@ -1,14 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-LAUSD,4TH STREET EARLY EDUCATION CENTER (Same Campus as 4th Street Elementary),"420 S AMALIA AVE, LOS ANGELES, CA 90022",NA,NA,NA,exempt,East Los Angeles,Los Angeles County,34.028683,-118.153319
-LAUSD,4TH STREET ELEMENTARY,"420 S AMALIA AVE, LOS ANGELES, CA 90022",NA,NA,NA,exempt,East Los Angeles,Los Angeles County,34.028683,-118.153319
-Los Angeles Unified,Brooklyn Avenue Elementary,4620 Cesar Chavez Avenue Los Angeles CA 90022-1148,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.039709,-118.164207
-Los Angeles Unified,David Wark Griffith Middle,4765 East Fourth Street Los Angeles CA 90022-1846,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.031283,-118.16205
-Los Angeles Unified,Ford Boulevard Elementary,1112 South Ford Boulevard Los Angeles CA 90022-2912,9.6,ppb,TRUE,tested,East Los Angeles,Los Angeles County,34.020241,-118.17142
-Los Angeles Unified,Fourth Street Elementary,420 South Amalia Avenue Los Angeles CA 90022-2628,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.028683,-118.153319
-LAUSD,HAMASAKI ELEMENTARY,"4865 E FIRST ST, LOS ANGELES, CA 90022",NA,NA,NA,exempt,East Los Angeles,Los Angeles County,34.037356,-118.160184
-Los Angeles Unified,Hamaski State Preschool,4865 E. First St. Los Angeles CA 90022,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.037356,-118.160184
-Montebello Unified,Joseph A. Gascon Elementary,630 South Leonard Street Los Angeles CA 90022-3508,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.020533,-118.141923
-Los Angeles Unified,KIPP Academy of Innovation,4800 East Cesar Chavez Avenue B Los Angeles CA 90022-1307,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.040253,-118.16141
-Los Angeles Unified,KIPP Iluminar Academy,4800 East Cesar Chavez Avenue Los Angeles CA 90022-1307,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.040253,-118.16141
-Los Angeles Unified,KIPP Sol Academy,4800 East Cesar Chavez Ave. Los Angeles CA 90022-1307,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.040253,-118.16141
-Los Angeles Unified,Morris K. Hamasaki Elementary,4865 East First Street Los Angeles CA 90022-1305,NA,NA,NA,not tested,East Los Angeles,Los Angeles County,34.037356,-118.160184
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Earlimart Elementary,Earlimart Middle,599 South Sutter Street Earlimart CA 93219-1970,,,,not tested,Earlimart,Tulare County,35.888161,-119.270711,

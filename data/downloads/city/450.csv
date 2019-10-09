@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ukiah Unified,Eagle Peak Middle,8601 West Road Redwood Valley CA 95470-9584,NA,NA,FALSE,tested,Redwood Valley,Mendocino County,39.267553,-123.21925
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ukiah Unified,Eagle Peak Middle,8601 West Road Redwood Valley CA 95470-9584,,,False,tested,Redwood Valley,Mendocino County,39.267553,-123.21925,

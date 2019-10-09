@@ -1,14 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-La Mesa-Spring Valley,Avondale Elementary,8401 Stansbury Street Spring Valley CA 91977-3737,NA,NA,NA,not tested,Spring Valley,San Diego County,32.718243,-117.017047
-La Mesa-Spring Valley,Avondale Elementary School,"8401 Stansbury St, Spring Valley, CA 91977",NA,NA,NA,exempt,Spring Valley,San Diego County,32.718243,-117.017047
-La Mesa-Spring Valley,Bancroft Elementary,8805 Tyler Street Spring Valley CA 91977,NA,NA,FALSE,tested,Spring Valley,San Diego County,32.729565,-117.007819
-La Mesa-Spring Valley,Bancroft Elementary/Quest Academy,8805 Tyler Street Spring Valley CA 91977-3336,NA,NA,FALSE,tested,Spring Valley,San Diego County,32.729565,-117.007819
-Private,Fred Finch Youth Center,3845 Spring Drive Room 18 Spring Valley CA 91977,NA,NA,FALSE,tested,Spring Valley,San Diego County,32.749066,-117.002741
-La Mesa-Spring Valley,Kempton Elementary School,"740 Kempton St, Spring Valley, CA 91977",NA,NA,NA,exempt,Spring Valley,San Diego County,32.710776,-117.002087
-La Mesa-Spring Valley,Kempton Street Elementary,740 Kempton Street Spring Valley CA 91977,NA,NA,NA,not tested,Spring Valley,San Diego County,32.710776,-117.002087
-La Mesa-Spring Valley,Kempton Street Literacy Academy,"740 Kempton St, Spring Valley, CA 91977",NA,NA,NA,exempt,Spring Valley,San Diego County,32.710776,-117.002087
-La Mesa-Spring Valley,La Presa Elementary,519 La Presa Street Spring Valley CA 91977-6011,NA,NA,NA,not tested,Spring Valley,San Diego County,32.70593,-116.993117
-La Mesa-Spring Valley,La Presa Elementary School,"519 La Presa Ave, Spring Valley, CA 91977",NA,NA,NA,exempt,Spring Valley,San Diego County,32.70593,-116.993117
-Grossmont Union High,Mount Miguel High,8585 Blossom Lane Spring Valley CA 91977-3765,NA,NA,FALSE,tested,Spring Valley,San Diego County,32.722171,-117.015297
-La Mesa-Spring Valley,"Science, Technology, Engineering, Arts, and Math Academy at La Presa",1001 Leland Street Spring Valley CA 91977-4819,NA,NA,NA,not tested,Spring Valley,San Diego County,32.711675,-117.005155
-La Mesa-Spring Valley,Sweetwater Springs Elementary,"1001 Leland Street, Spring Valley, CA 91977",NA,NA,NA,exempt,Spring Valley,San Diego County,32.711675,-117.005155
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+La Mesa-Spring Valley,Avondale Elementary,8401 Stansbury Street Spring Valley CA 91977-3737,,,,not tested,Spring Valley,San Diego County,32.718243,-117.01704699999999,
+La Mesa-Spring Valley,Avondale Elementary School,"8401 Stansbury St, Spring Valley, CA 91977",,,,exempt,Spring Valley,San Diego County,32.718243,-117.01704699999999,
+La Mesa-Spring Valley,Bancroft Elementary,8805 Tyler Street Spring Valley CA 91977,,,False,tested,Spring Valley,San Diego County,32.729565,-117.007819,
+La Mesa-Spring Valley,Bancroft Elementary/Quest Academy,8805 Tyler Street Spring Valley CA 91977-3336,,,False,tested,Spring Valley,San Diego County,32.729565,-117.007819,
+Private,Fred Finch Youth Center,3845 Spring Drive Room 18 Spring Valley CA 91977,,,False,tested,Spring Valley,San Diego County,32.749066,-117.00274099999999,
+La Mesa-Spring Valley,Kempton Elementary School,"740 Kempton St, Spring Valley, CA 91977",,,,exempt,Spring Valley,San Diego County,32.710776,-117.00208700000002,
+La Mesa-Spring Valley,Kempton Street Elementary,740 Kempton Street Spring Valley CA 91977,,,,not tested,Spring Valley,San Diego County,32.710776,-117.00208700000002,
+La Mesa-Spring Valley,Kempton Street Literacy Academy,"740 Kempton St, Spring Valley, CA 91977",,,,exempt,Spring Valley,San Diego County,32.710776,-117.00208700000002,
+La Mesa-Spring Valley,La Presa Elementary,519 La Presa Street Spring Valley CA 91977-6011,,,,not tested,Spring Valley,San Diego County,32.70593,-116.993117,
+La Mesa-Spring Valley,La Presa Elementary School,"519 La Presa Ave, Spring Valley, CA 91977",,,,exempt,Spring Valley,San Diego County,32.70593,-116.993117,
+Grossmont Union High,Mount Miguel High,8585 Blossom Lane Spring Valley CA 91977-3765,,,False,tested,Spring Valley,San Diego County,32.722171,-117.015297,
+La Mesa-Spring Valley,"Science, Technology, Engineering, Arts, and Math Academy at La Presa",1001 Leland Street Spring Valley CA 91977-4819,,,,not tested,Spring Valley,San Diego County,32.711675,-117.005155,
+La Mesa-Spring Valley,Sweetwater Springs Elementary,"1001 Leland Street, Spring Valley, CA 91977",,,,exempt,Spring Valley,San Diego County,32.711675,-117.005155,

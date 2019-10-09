@@ -1,4 +1,28 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mountain Valley Unified,Hayfork Elementary,6930 State Highway 3 Hayfork CA 96041-0070,10.365,ppb,TRUE,tested,Hayfork,Trinity County,40.553817,-123.182605
-Mountain Valley Unified,Hayfork High,231 Oak Street Hayfork CA 96041-0010,NA,NA,FALSE,tested,Hayfork,Trinity County,40.551219,-123.171169
-Private,The Learning Center,7450 State Highway 3 Hayfork CA 96041,NA,NA,FALSE,tested,Hayfork,Trinity County,40.554032,-123.176686
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hawthorne,Bud Carson Middle,13838 South Yukon Avenue Hawthorne CA 90250-7716,,,,not tested,Hawthorne,Los Angeles County,33.932901,-118.334893,
+Los Angeles Unified,Cimarron Avenue Elementary,11559 Cimarron Avenue Hawthorne CA 90250-1914,,,,not tested,Hawthorne,Los Angeles County,33.928894,-118.31521299999999,
+LAUSD,CIMARRON ELEMENTARY,"11559 CIMARRON AVE, HAWTHORNE,      CA 90250",,,,exempt,Hawthorne,Los Angeles County,33.928894,-118.31521299999999,
+Wiseburn Unified,Da Vinci Communications High,12495 Isis Avenue Hawthorne CA 90250-4147,,,,not tested,Hawthorne,Los Angeles County,33.919206,-118.37443600000002,
+Wiseburn Unified,Da Vinci Design,12501 Isis Avenue Hawthorne CA 90250-4149,,,,not tested,Hawthorne,Los Angeles County,33.918945,-118.37443400000001,
+Wiseburn Unified,Da Vinci Innovation Academy,13500 Aviation Blvd. Hawthorne CA 90250-6462,,,,not tested,Hawthorne,Los Angeles County,33.895571000000004,-118.37869199999999,
+Wiseburn Unified,Da Vinci Science,13500 Aviation Boulevard Hawthorne CA 90250-6462,,,,not tested,Hawthorne,Los Angeles County,33.895571000000004,-118.37869199999999,
+Wiseburn Unified,Dana Middle School,5504 W. 135th St.  Hawthorne CA 90250,,,False,tested,Hawthorne,Los Angeles County,33.909371,-118.37660600000001,
+Hawthorne,Eucalyptus,12044 South Eucalyptus Avenue Hawthorne CA 90250-3602,,,False,tested,Hawthorne,Los Angeles County,33.922435,-118.358595,
+Los Angeles Unified,Executive Preparatory Academy of Finance,2506 West Imperial Highway Hawthorne CA 90250-1953,,,,not tested,Hawthorne,Los Angeles County,33.930875,-118.356096,
+Lawndale Elementary,F. D. Roosevelt Elementary,3533 West Marine Boulevard Lawndale CA 90260-2400,,,False,tested,Hawthorne,Los Angeles County,33.895043,-118.333931,
+Centinela Valley Union High,Hawthorne High,4859 West El Segundo Boulevard Hawthorne CA 90250-4204,,,False,tested,Hawthorne,Los Angeles County,33.916407,-118.354295,
+Hawthorne,Hawthorne Math and Science Academy,4467 West Broadway Hawthorne CA 90250-3819,,,False,tested,Hawthorne,Los Angeles County,33.920347,-118.35413899999999,
+Hawthorne,Hawthorne Middle,4366 West 129th Street Hawthorne CA 90250-5211,,,False,tested,Hawthorne,Los Angeles County,33.915223,-118.351339,
+Hawthorne,Jefferson,4091 West 139th Street Hawthorne CA 90250-7303,,,False,tested,Hawthorne,Los Angeles County,33.905167999999996,-118.34633000000001,
+Wiseburn Unified,Juan De Anza Elementary,12110 Hindry Avenue Hawthorne CA 90250-3403,,,False,tested,Hawthorne,Los Angeles County,33.902784999999994,-118.373066,
+Lawndale Elementary,Kit Carson Elementary,3530 West 147th Street Hawthorne CA 90250-8518,,,False,tested,Hawthorne,Los Angeles County,33.898207,-118.33364399999999,
+Hawthorne,Kornblum,3620 West El Segundo Boulevard Hawthorne CA 90250-4819,,,,not tested,Hawthorne,Los Angeles County,33.916407,-118.354295,
+Inglewood Unified,Morningside High School,10500 South Yukon Avenue Inglewood CA 90303-2003,,,,not tested,Hawthorne,Los Angeles County,33.940688,-118.33506100000001,
+Wiseburn Unified,Peter Burnett Elementary,5403 W. 138th St.  Hawthorne CA 90250,,,False,tested,Hawthorne,Los Angeles County,33.906625,-118.374372,
+Hawthorne,Prairie Vista Middle,13600 South Prairie Avenue Hawthorne CA 90250-7306,,,False,tested,Hawthorne,Los Angeles County,33.931463,-118.343901,
+Hawthorne,Ramona,4617 West 136th Street Hawthorne CA 90250-5735,,,False,tested,Hawthorne,Los Angeles County,33.908621999999994,-118.364189,
+Los Angeles County Office of Education,Renaissance County Community,14600 Cerise Avenue Hawthorne CA 90250-8526,,,False,tested,Hawthorne,Los Angeles County,33.899387,-118.332901,
+Hawthorne,Washington,4339 West 129th Street Hawthorne CA 90250-5210,,,False,tested,Hawthorne,Los Angeles County,33.915393,-118.350625,
+Inglewood Unified,Worthington Elementary,11101 South Yukon Avenue Inglewood CA 90303-2728,,,False,tested,Hawthorne,Los Angeles County,33.934272,-118.335678,
+Hawthorne,York,11838 South York Avenue Hawthorne CA 90250-3125,,,False,tested,Hawthorne,Los Angeles County,33.926334000000004,-118.34448799999998,
+Hawthorne,Zela Davis,13435 South Yukon Avenue Hawthorne CA 90250-6228,,,,not tested,Hawthorne,Los Angeles County,33.932901,-118.334893,

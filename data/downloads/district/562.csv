@@ -1,32 +1,32 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pajaro Valley Unified,Amesti Elementary,25 Amesti Road Watsonville CA 95076-1121,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.945805,-121.76882
-Pajaro Valley Unified,Ann Soldo Elementary,1140 Menasco Drive Watsonville CA 95076-3454,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.925743,-121.743482
-Pajaro Valley Unified,Aptos Junior High,1001 Huntington Drive Aptos CA 95003-4104,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.977334,-121.882588
-Pajaro Valley Unified,Bradley Elementary,321 Corralitos Road Watsonville CA 95076-0522,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.976029,-121.807852
-Pajaro Valley Unified,Calabasas Elementary,202 Calabasas Road Watsonville CA 95076-1039,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.944161,-121.792828
-Pajaro Valley Unified,Ceiba College Preparatory Academy,260 West Riverside Drive Watsonville CA 95076,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.904626,-121.760579
-Pajaro Valley Unified,Cesar E. Chavez Middle,440 Arthur Road Watsonville CA 95076-3701,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.92259,-121.770178
-Pajaro Valley Unified,Diamond Technology Institute,112 Diamond Drive Watsonville CA 95076-3184,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.923888,-121.772392
-Pajaro Valley Unified,E. A. Hall Middle,201 Brewington Avenue Watsonville CA 95076-4022,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.919409,-121.75241
-Pajaro Valley Unified,Freedom Elementary,25 Holly Drive Freedom CA 95019-2606,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.931182,-121.782182
-Pajaro Valley Unified,H. A. Hyde Elementary,125 Alta Vista Street Watsonville CA 95076-3117,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.926092,-121.768786
-Pajaro Valley Unified,Hall District Elementary,300 Sill Road Watsonville CA 95076-5619,NA,NA,FALSE,tested,Watsonville,Monterey County,36.864877,-121.723066
-Pajaro Valley Unified,Lakeview Middle,2350 East Lake Avenue Watsonville CA 95076-1427,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.922399,-121.746922
-Pajaro Valley Unified,Landmark Elementary,235 Ohlone Parkway Watsonville CA 95076-6684,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.914222,-121.778399
-Pajaro Valley Unified,Linscott Charter,220 Elm Street Watsonville CA 95076-5025,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.910331,-121.750647
-Pajaro Valley Unified,Mar Vista Elementary,6860 Soquel Drive Aptos CA 95003-3225,5.6,ppb,TRUE,tested,NA,Santa Cruz County,36.986773,-121.919744
-Pajaro Valley Unified,Mintie White Elementary,515 Palm Avenue Watsonville CA 95076-3942,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.919255,-121.753858
-Pajaro Valley Unified,New School Community Day,165 Harkins Slough Road Watsonville CA 95076-4124,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.913872,-121.773305
-Pajaro Valley Unified,Ohlone Elementary,21 Bay Farms Road Watsonville CA 95076-5442,NA,NA,FALSE,tested,Watsonville,Monterey County,36.868722,-121.761739
-Pajaro Valley Unified,Pacific Coast Charter,294 Green Valley Road Watsonville CA 95076-1300,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.939625,-121.770015
-Pajaro Valley Unified,Pajaro Middle,250 Salinas Road Watsonville CA 95076-5229,NA,NA,FALSE,tested,Pajaro,Monterey County,36.899271,-121.748846
-Pajaro Valley Unified,Pajaro Valley High,500 Harkins Slough Road Watsonville CA 95076-9453,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.914566,-121.786553
-Pajaro Valley Unified,Radcliff Elementary,550 Rodriguez Street Watsonville CA 95076-4210,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.910907,-121.761165
-Pajaro Valley Unified,Rio del Mar Elementary,819 Pinehurst Drive Aptos CA 95003-5737,NA,NA,FALSE,tested,Aptos,Santa Cruz County,36.959623,-121.876631
-Pajaro Valley Unified,Rolling Hills Middle,130 Herman Avenue Watsonville CA 95076-2920,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.924595,-121.784717
-Pajaro Valley Unified,Starlight Elementary,225 Hammer Drive Watsonville CA 95076-3160,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.921259,-121.771542
-Pajaro Valley Unified,T. S. MacQuiddy Elementary,330 Martinelli Street Watsonville CA 95076-2810,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.926143,-121.751209
-Pajaro Valley Unified,Valencia Elementary,250 Aptos School Road Aptos CA 95003-4078,NA,NA,FALSE,tested,NA,Santa Cruz County,36.977007,-121.894175
-Pajaro Valley Unified,Watsonville Child Care Center,32 Madison Street Watsonville CA 95076,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.916448,-121.75325
-Pajaro Valley Unified,Watsonville High,250 East Beach Street Watsonville CA 95076-4831,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.91344,-121.752648
-Pajaro Valley Unified,Watsonville/Aptos Adult Education,294 Green Valley Rd Watsonville CA 95076-4210,NA,NA,NA,not tested,Watsonville,Santa Cruz County,36.939625,-121.770015
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pajaro Valley Unified,Amesti Elementary,25 Amesti Road Watsonville CA 95076-1121,,,,not tested,Watsonville,Santa Cruz County,36.945805,-121.76881999999999,
+Pajaro Valley Unified,Ann Soldo Elementary,1140 Menasco Drive Watsonville CA 95076-3454,,,,not tested,Watsonville,Santa Cruz County,36.925743,-121.743482,
+Pajaro Valley Unified,Aptos Junior High,1001 Huntington Drive Aptos CA 95003-4104,,,False,tested,Aptos,Santa Cruz County,36.977334,-121.88258799999998,
+Pajaro Valley Unified,Bradley Elementary,321 Corralitos Road Watsonville CA 95076-0522,,,,not tested,Watsonville,Santa Cruz County,36.976029,-121.807852,
+Pajaro Valley Unified,Calabasas Elementary,202 Calabasas Road Watsonville CA 95076-1039,,,,not tested,Watsonville,Santa Cruz County,36.944161,-121.792828,
+Pajaro Valley Unified,Ceiba College Preparatory Academy,260 West Riverside Drive Watsonville CA 95076,,,,not tested,Watsonville,Santa Cruz County,36.904626,-121.760579,
+Pajaro Valley Unified,Cesar E. Chavez Middle,440 Arthur Road Watsonville CA 95076-3701,,,,not tested,Watsonville,Santa Cruz County,36.92259,-121.770178,
+Pajaro Valley Unified,Diamond Technology Institute,112 Diamond Drive Watsonville CA 95076-3184,,,,not tested,Watsonville,Santa Cruz County,36.923888,-121.772392,
+Pajaro Valley Unified,E. A. Hall Middle,201 Brewington Avenue Watsonville CA 95076-4022,,,,not tested,Watsonville,Santa Cruz County,36.919409,-121.75241000000001,
+Pajaro Valley Unified,Freedom Elementary,25 Holly Drive Freedom CA 95019-2606,,,,not tested,Watsonville,Santa Cruz County,36.931182,-121.782182,
+Pajaro Valley Unified,H. A. Hyde Elementary,125 Alta Vista Street Watsonville CA 95076-3117,,,,not tested,Watsonville,Santa Cruz County,36.926092,-121.768786,
+Pajaro Valley Unified,Hall District Elementary,300 Sill Road Watsonville CA 95076-5619,,,False,tested,Watsonville,Monterey County,36.864877,-121.72306599999999,
+Pajaro Valley Unified,Lakeview Middle,2350 East Lake Avenue Watsonville CA 95076-1427,,,,not tested,Watsonville,Santa Cruz County,36.922399,-121.746922,
+Pajaro Valley Unified,Landmark Elementary,235 Ohlone Parkway Watsonville CA 95076-6684,,,,not tested,Watsonville,Santa Cruz County,36.914221999999995,-121.778399,
+Pajaro Valley Unified,Linscott Charter,220 Elm Street Watsonville CA 95076-5025,,,,not tested,Watsonville,Santa Cruz County,36.910331,-121.750647,
+Pajaro Valley Unified,Mar Vista Elementary,6860 Soquel Drive Aptos CA 95003-3225,5.6,ppb,True,tested,,Santa Cruz County,36.986773,-121.919744,5.6
+Pajaro Valley Unified,Mintie White Elementary,515 Palm Avenue Watsonville CA 95076-3942,,,,not tested,Watsonville,Santa Cruz County,36.919255,-121.75385800000001,
+Pajaro Valley Unified,New School Community Day,165 Harkins Slough Road Watsonville CA 95076-4124,,,,not tested,Watsonville,Santa Cruz County,36.913872,-121.77330500000001,
+Pajaro Valley Unified,Ohlone Elementary,21 Bay Farms Road Watsonville CA 95076-5442,,,False,tested,Watsonville,Monterey County,36.868722,-121.76173899999999,
+Pajaro Valley Unified,Pacific Coast Charter,294 Green Valley Road Watsonville CA 95076-1300,,,,not tested,Watsonville,Santa Cruz County,36.939625,-121.77001499999999,
+Pajaro Valley Unified,Pajaro Middle,250 Salinas Road Watsonville CA 95076-5229,,,False,tested,Pajaro,Monterey County,36.899271,-121.748846,
+Pajaro Valley Unified,Pajaro Valley High,500 Harkins Slough Road Watsonville CA 95076-9453,,,,not tested,Watsonville,Santa Cruz County,36.914566,-121.786553,
+Pajaro Valley Unified,Radcliff Elementary,550 Rodriguez Street Watsonville CA 95076-4210,,,,not tested,Watsonville,Santa Cruz County,36.910907,-121.76116499999999,
+Pajaro Valley Unified,Rio del Mar Elementary,819 Pinehurst Drive Aptos CA 95003-5737,,,False,tested,Aptos,Santa Cruz County,36.959623,-121.876631,
+Pajaro Valley Unified,Rolling Hills Middle,130 Herman Avenue Watsonville CA 95076-2920,,,,not tested,Watsonville,Santa Cruz County,36.924595000000004,-121.78471699999999,
+Pajaro Valley Unified,Starlight Elementary,225 Hammer Drive Watsonville CA 95076-3160,,,,not tested,Watsonville,Santa Cruz County,36.921259,-121.771542,
+Pajaro Valley Unified,T. S. MacQuiddy Elementary,330 Martinelli Street Watsonville CA 95076-2810,,,,not tested,Watsonville,Santa Cruz County,36.926142999999996,-121.751209,
+Pajaro Valley Unified,Valencia Elementary,250 Aptos School Road Aptos CA 95003-4078,,,False,tested,,Santa Cruz County,36.977007,-121.894175,
+Pajaro Valley Unified,Watsonville Child Care Center,32 Madison Street Watsonville CA 95076,,,,not tested,Watsonville,Santa Cruz County,36.916447999999995,-121.75325,
+Pajaro Valley Unified,Watsonville High,250 East Beach Street Watsonville CA 95076-4831,,,,not tested,Watsonville,Santa Cruz County,36.91344,-121.752648,
+Pajaro Valley Unified,Watsonville/Aptos Adult Education,294 Green Valley Rd Watsonville CA 95076-4210,,,,not tested,Watsonville,Santa Cruz County,36.939625,-121.77001499999999,

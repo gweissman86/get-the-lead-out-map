@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Diego County ROP,San Diego County ROP,6401 Linda Vista Road Room 408 San Diego CA 92111-7319,NA,NA,NA,not tested,San Diego,San Diego County,32.769578,-117.179848
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Diego County ROP,San Diego County ROP,6401 Linda Vista Road Room 408 San Diego CA 92111-7319,,,,not tested,San Diego,San Diego County,32.769578,-117.17984799999999,

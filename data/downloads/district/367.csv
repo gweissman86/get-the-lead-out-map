@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-LA County Office of Education,Tri Community,12721 S. Willowbrook Ave Compton CA 90222,NA,NA,FALSE,tested,Compton,Los Angeles County,33.916718,-118.232265
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+LA County Office of Education,Tri Community,12721 S. Willowbrook Ave Compton CA 90222,,,False,tested,Compton,Los Angeles County,33.916717999999996,-118.23226499999998,

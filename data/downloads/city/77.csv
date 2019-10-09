@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Calistoga Joint Unified,Calistoga Elementary,1327 Berry Street Calistoga CA 94515-1605,NA,NA,FALSE,tested,Calistoga,Napa County,38.579344,-122.583487
-Calistoga Joint Unified,Calistoga Junior-Senior High,1608 Lake Street Calistoga CA 94515-1359,NA,NA,FALSE,tested,Calistoga,Napa County,38.583372,-122.579924
-Calistoga Joint Unified,Palisades High (Continuation),1507 Grant Street Calistoga CA 94515-1315,NA,NA,FALSE,tested,Calistoga,Napa County,38.583103,-122.57795
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Calipatria Unified,Bill E. Young Jr. Middle,220 South International Boulevard Calipatria CA 92233-9724,,,False,tested,Calipatria,Imperial County,33.123896,-115.518988,
+Calipatria Unified,Calipatria High,601 West Main Street Calipatria CA 92233-9787,,,False,tested,Calipatria,Imperial County,33.125679999999996,-115.525085,
+Calipatria Unified,Fremont Primary,401 West Main Street Calipatria CA 92233-9787,,,False,tested,Calipatria,Imperial County,33.125774,-115.51901000000001,

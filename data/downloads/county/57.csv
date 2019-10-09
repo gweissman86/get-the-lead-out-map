@@ -1,167 +1,167 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Earlimart Elementary,Alila,850 West Washington Avenue Earlimart CA 93219,NA,NA,NA,not tested,NA,Tulare County,35.883584,-119.276153
-Allensworth Elementary,Allensworth Elementary,3320 Young Road Allensworth CA 93219-9709,NA,NA,FALSE,tested,NA,Tulare County,35.863385,-119.392497
-Alpaugh Unified,Alpaugh Elementary,5313 Rd 39 Alpaugh CA 93201-0009,NA,NA,FALSE,tested,Alpaugh,Tulare County,35.887343,-119.486357
-Alpaugh Unified,Alpaugh Junior-Senior High,5313 Road 39 Alpaugh CA 93201-0009,NA,NA,NA,not tested,Alpaugh,Tulare County,35.887343,-119.486357
-Tulare City,Alpine Vista,2975 East Alpine Avenue Tulare CA 93274-4265,NA,NA,FALSE,tested,NA,Tulare County,36.20214,-119.321055
-Alta Vista Elementary,Alta Vista Elementary,2293 East Crabtree Avenue Porterville CA 93257-5225,NA,NA,FALSE,tested,Porterville,Tulare County,36.058528,-118.966169
-Exeter Unified,Alternative Education,1107 E Rocky Hill Dr Exeter CA 93221,NA,NA,NA,not tested,Exeter,Tulare County,36.297049,-119.130822
-Visalia Unified,Annie R. Mitchell,2121 East Laura Avenue Visalia CA 93292-1407,NA,NA,FALSE,tested,Visalia,Tulare County,36.310094,-119.268252
-Porterville Unified,Bartlett Middle,335 North G Street Porterville CA 93257-3471,7.6,ppb,TRUE,tested,Porterville,Tulare County,36.071971,-119.02262
-Porterville Unified,Belleview Elementary,197 West Belleview Avenue Porterville CA 93257-2256,NA,NA,FALSE,tested,Porterville,Tulare County,36.073946,-119.020914
-Woodlake Unified,Bravo Lake High,450 West Sequoia Woodlake CA 93286-1240,NA,NA,FALSE,tested,Woodlake,Tulare County,36.422322,-119.093657
-Burton Elementary,Burton Elementary,2375 West Morton Street Porterville CA 93257-2557,NA,NA,FALSE,tested,Porterville,Tulare County,36.072343,-119.068666
-Burton Elementary,Burton Middle,1155 North Elderwood Street Porterville CA 93257-9089,5.6,ppb,TRUE,tested,Porterville,Tulare County,36.085283,-119.076495
-Porterville Unified,Butterfield Charter High,900 West Pioneer Avenue Porterville CA 93257-1240,NA,NA,FALSE,tested,Porterville,Tulare County,36.092205,-119.037692
-Lindsay Unified,Cairns High School,533 E Honolulu Lindsay CA 93247,NA,NA,NA,not tested,Lindsay,Tulare County,36.203899,-119.084706
-Terra Bella Union Elementary,Carl Smith Middle,23825 Avenue 92 Terra Bella CA 93270-9400,NA,NA,NA,not tested,NA,Tulare County,35.954219,-119.039092
-Woodlake Unified,Castle Rock Elementary,360 North Castle Rock Street Woodlake CA 93286-1250,NA,NA,FALSE,tested,Woodlake,Tulare County,36.418496,-119.089767
-Visalia Unified,Charter Home School Academy,211 West Tulare Avenue Visalia CA 93277-4813,NA,NA,FALSE,tested,Visalia,Tulare County,36.320042,-119.294201
-Tulare City,Cherry Avenue Middle,540 North Cherry Street Tulare CA 93274-2918,NA,NA,FALSE,tested,NA,Tulare County,36.215517,-119.336171
-Porterville Unified,Citrus High,261 East Mulberry Avenue Porterville CA 93257-4822,7.2,ppb,TRUE,tested,Porterville,Tulare County,36.082848,-119.011503
-Columbine Elementary,Columbine Elementary,2240 Road 160 Delano CA 93215-9420,NA,NA,NA,not tested,Delano,Tulare County,35.830602,-119.213361
-Visalia Unified,Conyer Elementary,814 South Sowell Visalia CA 93277-2467,NA,NA,FALSE,tested,Visalia,Tulare County,36.323001,-119.302346
-Visalia Unified,Cottonwood Creek Elementary,4222 South Dans Street Visalia CA 93277-7964,NA,NA,FALSE,tested,Visalia,Tulare County,36.292593,-119.324794
-Tulare Joint Union High,Countryside Community Day,1084 South Pratt Street Tulare CA 93274-6303,NA,NA,FALSE,tested,NA,Tulare County,36.189193,-119.357759
-Stone Corral Elementary,Crescent Valley Public Charter,"309 West Main Street, Suite 110 Visalia CA 93291-6257",NA,NA,NA,not tested,Visalia,Tulare County,36.329851,-119.294994
-Visalia Unified,Crestwood Elementary,3001 West Whitendale Avenue Visalia CA 93277-6077,NA,NA,FALSE,tested,Visalia,Tulare County,36.303336,-119.32384
-Visalia Unified,Crowley Elementary,214 East Ferguson Street Visalia CA 93291-2006,NA,NA,FALSE,tested,Visalia,Tulare County,36.350231,-119.290705
-Cutler-Orosi Joint Unified,Cutler Elementary,40532 Road 128 Cutler CA 93615-2109,NA,NA,NA,not tested,NA,Tulare County,36.525553,-119.284511
-Cutler-Orosi Joint Unified,Cutler-Orosi Community Day,14198 Avenue 384 Yettem CA 93670,NA,NA,NA,not tested,NA,Tulare County,36.486996,-119.25461
-Tulare City,Cypress Elementary,1870 South Laspina Street Tulare CA 93274-6962,NA,NA,FALSE,tested,NA,Tulare County,36.187788,-119.323795
-Farmersville Unified,Deep Creek Academy,281 South Farmersville Boulevard Farmersville CA 93223-1833,NA,NA,FALSE,tested,Farmersville,Tulare County,36.297482,-119.207342
-Dinuba Unified,Dinuba High,340 East Kern Street Dinuba CA 93618-1825,NA,NA,FALSE,tested,NA,Tulare County,36.539594,-119.384239
-Visalia Unified,Divisadero Middle,1200 South Divisadero Visalia CA 93277-4518,NA,NA,FALSE,tested,Visalia,Tulare County,36.319483,-119.308765
-Ducor Union Elementary,Ducor Union Elementary,23761 Avenue 56 Ducor CA 93218-0249,NA,NA,NA,not tested,NA,Tulare County,35.891078,-119.041977
-Earlimart Elementary,Earlimart Elementary,192 South Church Road Earlimart CA 93219-1970,NA,NA,NA,not tested,NA,Tulare County,35.88343,-119.268145
-Earlimart Elementary,Earlimart Middle,599 South Sutter Street Earlimart CA 93219-1970,NA,NA,NA,not tested,Earlimart,Tulare County,35.888161,-119.270711
-Visalia Unified,El Diamante High,5100 West Whitendale Avenue Visalia CA 93277-5604,NA,NA,FALSE,tested,Visalia,Tulare County,36.307019,-119.347192
-Cutler-Orosi Joint Unified,El Monte Middle,42111 Road 128 Orosi CA 93647-9749,NA,NA,FALSE,tested,NA,Tulare County,36.554749,-119.289283
-Exeter Unified,Exeter Union High,505 Rocky Hill Dr Exeter CA 93221-1325,NA,NA,NA,not tested,NA,Tulare County,36.298036,-119.134907
-Visalia Unified,Fairview Elementary,1051 Robin Drive Visalia CA 93291-1835,NA,NA,FALSE,tested,Visalia,Tulare County,36.353067,-119.303018
-Farmersville Unified,Farmersville High,631 East Walnut Avenue Farmersville CA 93223-2203,NA,NA,FALSE,tested,Farmersville,Tulare County,36.310687,-119.200769
-Farmersville Unified,Farmersville Junior High,650 North Virginia Street Farmersville CA 93223-1120,NA,NA,FALSE,tested,Farmersville,Tulare County,36.303191,-119.21464
-Visalia Unified,Four Creeks Elementary,1844 North Burke Street Visalia CA 93291-2217,NA,NA,FALSE,tested,Visalia,Tulare County,36.346481,-119.282649
-Woodlake Unified,Francis J. White Learning Center,700 North Cypress Street Woodlake CA 93286-1024,NA,NA,FALSE,tested,Woodlake,Tulare County,36.425677,-119.104184
-Tulare City,Frank Kohn Elementary,500 South Laspina Street Tulare CA 93274-5929,NA,NA,FALSE,tested,NA,Tulare County,36.204791,-119.320337
-Farmersville Unified,Freedom Elementary,575 East Citrus Farmersville CA 93223-1274,NA,NA,FALSE,tested,Farmersville,Tulare County,36.30755,-119.201795
-Tulare City,Garden Elementary,640 East Pleasant Avenue Tulare CA 93274-2124,NA,NA,FALSE,tested,NA,Tulare County,36.219441,-119.341499
-Farmersville Unified,George L. Snowden Elementary,301 South Farmersville Boulevard Farmersville CA 93223-1835,NA,NA,FALSE,tested,Farmersville,Tulare County,36.295424,-119.208136
-Visalia Unified,Golden Oak Elementary,1700 North Lovers Lane Visalia CA 93292-8013,NA,NA,FALSE,tested,Visalia,Tulare County,36.343152,-119.259772
-Cutler-Orosi Joint Unified,Golden Valley Elementary,41465 Road 127 Orosi CA 93647-2008,NA,NA,FALSE,tested,NA,Tulare County,36.541192,-119.290377
-Visalia Unified,Golden West High,1717 North McAuliff Road Visalia CA 93292-9310,NA,NA,FALSE,tested,Visalia,Tulare County,36.343211,-119.252147
-Visalia Unified,Goshen Elementary,6505 Avenue 308 Visalia CA 93291-8939,NA,NA,FALSE,tested,NA,Tulare County,36.348609,-119.206752
-Porterville Unified,Granite Hills High,1701 East Putnam Avenue Porterville CA 93257-8000,NA,NA,FALSE,tested,Porterville,Tulare County,36.067595,-118.979834
-Visalia Unified,Green Acres Middle,1147 North Mooney Boulevard Visalia CA 93291-3224,NA,NA,FALSE,tested,Visalia,Tulare County,36.339375,-119.315658
-Porterville Unified,Harmony Magnet Academy,19429 Road 228 Strathmore CA 93267,NA,NA,FALSE,tested,NA,Tulare County,36.142975,-119.064995
-Tulare City,Heritage Elementary,895 West Gail Avenue Tulare CA 93274-1236,NA,NA,FALSE,tested,NA,Tulare County,36.228501,-119.36127
-Visalia Unified,Highland Elementary,701 North Stevenson Street Visalia CA 93291-4811,NA,NA,FALSE,tested,Visalia,Tulare County,36.335719,-119.300741
-Visalia Unified,Houston Elementary,1200 North Giddings Street Visalia CA 93291-2851,NA,NA,FALSE,tested,Visalia,Tulare County,36.340893,-119.30444
-Visalia Unified,Hurley Elementary,6600 West Hurley Avenue Visalia CA 93291-8812,NA,NA,FALSE,tested,Visalia,Tulare County,36.335528,-119.364422
-Visalia Unified,Ivanhoe Elementary,16030 Avenue 332 Ivanhoe CA 93235-0158,NA,NA,NA,not tested,NA,Tulare County,36.393678,-119.214465
-Farmersville Unified,J. E. Hester Elementary,477 East Ash Street Farmersville CA 93223-1209,53.2,ppb,TRUE,tested,Farmersville,Tulare County,36.300973,-119.202155
-Lindsay Unified,Jefferson Elementary,333 North Westwood Avenue Lindsay CA 93247-1801,NA,NA,NA,not tested,Lindsay,Tulare County,36.204439,-119.102937
-Dinuba Unified,Jefferson Elementary,1660 East Sierra Way Dinuba CA 93618-1825,NA,NA,FALSE,tested,NA,Tulare County,36.53832,-119.377404
-Burton Elementary,Jim Maples Academy,252 North Westwood Porterville CA 93257-2542,NA,NA,FALSE,tested,Porterville,Tulare County,36.071229,-119.071002
-Dinuba Unified,John F. Kennedy Elementary,999 North Crawford Dinuba CA 93618-8700,NA,NA,NA,not tested,Dinuba,Tulare County,36.553231,-119.376925
-Lindsay Unified,John J. Cairns Continuation,290 N Harvard Lindsay CA 93247-2304,NA,NA,NA,not tested,Lindsay,Tulare County,36.206947,-119.08246
-Porterville Unified,John J. Doyle Elementary,1045 East Orange Avenue Porterville CA 93257-5125,5.9,ppb,TRUE,tested,Porterville,Tulare County,36.060289,-118.99397
-Lindsay Unified,Kennedy Elementary,1701 East Tulare Road Lindsay CA 93247-2262,NA,NA,NA,not tested,Lindsay,Tulare County,36.211936,-119.072013
-Visalia Unified,La Joya Middle,4711 West La Vida Visalia CA 93277-1219,NA,NA,FALSE,tested,Visalia,Tulare County,36.303637,-119.343176
-Tulare County Office of Education,La Sierra Military Academy,1735 East Houston Avenue Visalia CA 93292-2349,NA,NA,FALSE,tested,Visalia,Tulare County,36.340913,-119.274335
-Tulare City,Lincoln Elementary,909 East Cedar Avenue Tulare CA 93274-5615,NA,NA,FALSE,tested,NA,Tulare County,36.198937,-119.334703
-Dinuba Unified,Lincoln Elementary,850 North Eaton Avenue Dinuba CA 93618-1825,NA,NA,FALSE,tested,Dinuba,Tulare County,36.552104,-119.389289
-Lindsay Unified,Lindsay Senior High,1849 East Tulare Road Lindsay CA 93247-9711,NA,NA,NA,not tested,Lindsay,Tulare County,36.211894,-119.066887
-Visalia Unified,Linwood Elementary,3129 South Linwood Avenue Visalia CA 93277-6927,NA,NA,FALSE,tested,Visalia,Tulare County,36.302027,-119.341312
-Tulare City,Live Oak Middle,980 North Laspina Street Tulare CA 93274-2338,NA,NA,FALSE,tested,NA,Tulare County,36.219794,-119.319814
-Porterville Unified,Los Robles Elementary,500 East Mulberry Avenue Porterville CA 93257-6321,NA,NA,FALSE,tested,Porterville,Tulare County,36.084753,-119.005689
-Tulare City,Los Tules Middle,801 West Gail Avenue Tulare CA 93274-1236,NA,NA,FALSE,tested,NA,Tulare County,36.228508,-119.359171
-Cutler-Orosi Joint Unified,Lovell High,12724 Ave 392 Cutler CA 93615-9769,NA,NA,NA,not tested,NA,Tulare County,36.500565,-119.242489
-Visalia Unified,Manuel F. Hernandez,2133 North Leila Street Visalia CA 93291-8453,NA,NA,FALSE,tested,Visalia,Tulare County,36.348211,-119.329318
-Tulare City,Maple Elementary,640 West Cross Avenue Tulare CA 93274-2616,NA,NA,FALSE,tested,NA,Tulare County,36.212863,-119.357664
-Tulare County Office of Education,Midcounty Community School,2101 N. Shirk Rd. Visalia  CA 93291,NA,NA,FALSE,tested,Visalia,Tulare County,36.34852,-119.368179
-Tulare County Office of Education,Midcounty Community School,2101 N. Shirk Rd. Visalia CA 93291,NA,NA,NA,not tested,Visalia,Tulare County,36.346116,-119.367812
-Visalia Unified,Mineral King Elementary,3333 East Kaweah Avenue Visalia CA 93292-3313,NA,NA,FALSE,tested,Visalia,Tulare County,36.325203,-119.255459
-Tulare Joint Union High,Mission Oak High,3442 East Bardsley Avenue Tulare CA 93274-6148,NA,NA,FALSE,tested,NA,Tulare County,36.198836,-119.298979
-Tulare City,Mission Valley Elementary,1695 Bella Oaks Drive Tulare CA 93274-6268,NA,NA,FALSE,tested,NA,Tulare County,36.233643,-119.322225
-Porterville Unified,Monache High,960 North Newcomb Street Porterville CA 93257-1302,NA,NA,FALSE,tested,Porterville,Tulare County,36.081745,-119.049881
-Monson-Sultana Joint Union Elementary,Monson-Sultana Elementary,10643 Avenue 416 Dinuba CA 93618,NA,NA,NA,not tested,NA,Tulare County,36.546318,-119.443361
-Porterville Unified,Monte Vista Elementary,701 West Westfield Avenue Porterville CA 93257-1251,NA,NA,FALSE,tested,Porterville,Tulare County,36.086662,-119.033015
-Visalia Unified,Mountain View Elementary,2021 South Encina Visalia CA 93277-5349,NA,NA,FALSE,tested,Visalia,Tulare County,36.310989,-119.295424
-Visalia Unified,Mt. Whitney High,900 South Conyer Street Visalia CA 93277-2535,NA,NA,FALSE,tested,Visalia,Tulare County,36.322219,-119.2985
-Tulare City,Mulcahy Middle,1001 West Sonora Avenue Tulare CA 93274-5041,NA,NA,FALSE,tested,NA,Tulare County,36.199934,-119.361905
-Burton Elementary,Oak Grove Elementary,1873 West Mulberry Avenue Porterville CA 93257-6602,NA,NA,FALSE,tested,Porterville,Tulare County,36.083067,-119.059646
-Visalia Unified,Oak Grove Elementary,4445 West Ferguson Avenue Visalia CA 93291-9216,NA,NA,FALSE,tested,Visalia,Tulare County,36.347878,-119.339688
-Oak Valley Union Elementary,Oak Valley Elementary,24500 Road 68 Tulare CA 93274-9607,NA,NA,NA,not tested,NA,Tulare County,36.233571,-119.419952
-Porterville Unified,Olive Street Elementary,255 West Olive Avenue Porterville CA 93257-3446,5.4,ppb,TRUE,tested,Porterville,Tulare County,36.063391,-119.022232
-Cutler-Orosi Joint Unified,Orosi High,41815 Road 128 Orosi CA 93647-2008,NA,NA,FALSE,tested,NA,Tulare County,36.54877,-119.289167
-Cutler-Orosi Joint Unified,Palm Elementary,12915 Avenue 419 Orosi CA 93647-1916,NA,NA,FALSE,tested,NA,Tulare County,36.549282,-119.283703
-Visalia Unified,Pinkham Elementary,2200 East Tulare Avenue Visalia CA 93292-5288,NA,NA,FALSE,tested,Visalia,Tulare County,36.321092,-119.267687
-Porterville Unified,Pioneer Middle,225 East College Avenue Porterville CA 93257-6062,NA,NA,FALSE,tested,Porterville,Tulare County,36.048067,-119.013669
-Pixley Union Elementary,Pixley Elementary,300 North School Street Pixley CA 93256-9557,11.5,ppb,TRUE,tested,NA,Tulare County,35.971731,-119.281728
-Pixley Union Elementary,Pixley Middle,1520 East Court Street Pixley CA 93256-9750,NA,NA,NA,not tested,Pixley,Tulare County,35.972011,-119.28315
-Tulare City,Pleasant Elementary,1855 West Pleasant Avenue Tulare CA 93274-1765,NA,NA,FALSE,tested,NA,Tulare County,36.217453,-119.373131
-Pleasant View Elementary,Pleasant View Elementary,14004 Road 184 Porterville CA 93257-9214,NA,NA,NA,not tested,Porterville,Tulare County,36.043598,-119.160034
-Porterville Unified,Porterville High,465 West Olive Avenue Porterville CA 93257-3331,5.7,ppb,TRUE,tested,Porterville,Tulare County,36.063405,-119.028038
-Porterville Unified,Prospect Education Center,645 North Prospect Street Porterville CA 93257-1938,5.3,ppb,TRUE,tested,Porterville,Tulare County,36.077393,-119.043971
-Lindsay Unified,Reagan Elementary,340 North Harvard Lindsay CA 93247-2219,NA,NA,NA,not tested,Lindsay,Tulare County,36.207961,-119.082486
-Visalia Unified,Redwood High,1001 West Main Street Visalia CA 93291-5919,NA,NA,FALSE,tested,Visalia,Tulare County,36.328277,-119.303272
-Richgrove Elementary,Richgrove Elementary,20812 Grove Drive Richgrove CA 93261,NA,NA,NA,not tested,NA,Tulare County,35.798026,-119.098043
-Visalia Unified,Ridgeview Middle,3315 North Akers Street Visalia CA 93291,NA,NA,NA,not tested,Visalia,Tulare County,36.338526,-119.349846
-Visalia Unified,River Bend,1800 North Lovers Lane Visalia CA 93292-3198,NA,NA,NA,not tested,Visalia,Tulare County,36.344612,-119.259978
-Porterville Unified,Roche Elementary,388 North Roche Street Porterville CA 93257-3928,NA,NA,FALSE,tested,Porterville,Tulare County,36.072582,-119.009872
-Exeter Unified,Rocky Hill Elementary,313 Sequoia Drive Exeter CA 93221-1159,NA,NA,NA,not tested,NA,Tulare County,36.303289,-119.140758
-Tulare City,Roosevelt Elementary,1046 West Sonora Avenue Tulare CA 93274-5042,5.9,ppb,TRUE,tested,NA,Tulare County,36.202408,-119.361734
-Dinuba Unified,Roosevelt Elementary,1311 Euclid Avenue Dinuba CA 93618-1825,NA,NA,FALSE,tested,Dinuba,Tulare County,36.557684,-119.400968
-Visalia Unified,Royal Oaks Elementary,1323 Clover Drive Visalia CA 93277-4221,NA,NA,FALSE,tested,Visalia,Tulare County,36.3187,-119.321722
-Porterville Unified,Santa Fe Elementary,286 East Orange Avenue Porterville CA 93257-4950,NA,NA,FALSE,tested,Porterville,Tulare County,36.061307,-119.010436
-Visalia Unified,Sequoia High,901 North Mooney Boulevard Visalia CA 93291-3228,NA,NA,FALSE,tested,Visalia,Tulare County,36.337236,-119.315619
-Porterville Unified,Sequoia Middle,1450 West Castle Avenue Porterville CA 93257,NA,NA,FALSE,tested,Porterville,Tulare County,36.095441,-119.046542
-Visalia Unified,Shannon Ranch Elementary,3637 North Ranch Street Visalia CA 93291-8106,NA,NA,NA,not tested,Visalia,Tulare County,36.361805,-119.320567
-Tulare Joint Union High,Sierra Vista Charter High,351 North K Street Tulare CA 93274-4007,NA,NA,FALSE,tested,NA,Tulare County,36.211171,-119.346999
-Dinuba Unified,Sierra Vista High (Continuation),8470 Avenue 406 Dinuba CA 93618-1825,NA,NA,FALSE,tested,NA,Tulare County,36.528475,-119.384178
-Visalia Unified,Sierra Vista High School,200 S. Dollner St. Visalia CA 93291,NA,NA,FALSE,tested,Visalia,Tulare County,36.328778,-119.307928
-Tulare County Office of Education,Special Education,6200 South Mooney Blvd Visalia CA 93277,NA,NA,NA,not tested,Visalia,Tulare County,36.280282,-119.313391
-Springville Union Elementary,Springville Union Elementary,35424 Ward Avenue Springville CA 93265-0349,6.85,ppb,TRUE,tested,NA,Tulare County,36.130025,-118.822537
-Private,St. Aloysius,627 Beatrice Drive Tulare CA 93274,NA,NA,FALSE,tested,Tulare,Tulare County,36.217264,-119.346767
-Private,St. Anne,385 North F Street Porterville CA 93257,7,ppb,TRUE,tested,Porterville,Tulare County,36.072803,-119.021261
-Stone Corral Elementary,Stone Corral Elementary,15590 Avenue 383 Visalia CA 93292-9545,NA,NA,NA,not tested,Visalia,Tulare County,36.484471,-119.223854
-Strathmore Union Elementary,Strathmore Community Day,19938 Rd 230 Strathmore CA 93267,10.65,ppb,TRUE,tested,NA,Tulare County,36.147352,-119.058334
-Strathmore Union Elementary,Strathmore Elementary,23024 Avenue 198 Strathmore CA 93267,NA,NA,FALSE,tested,NA,Tulare County,36.150111,-119.057257
-Porterville Unified,Strathmore High,22568 Avenue 196 Strathmore CA 93267-0114,NA,NA,FALSE,tested,NA,Tulare County,36.144583,-119.065027
-Strathmore Union Elementary,Strathmore Middle School,19840 Orange Belt Dr. Strathmore CA 93267,NA,NA,FALSE,tested,Strathmore,Tulare County,36.149838,-119.061616
-Burton Elementary,Summit Charter Academy,175 South Mathew Street Porterville CA 93257-2710,NA,NA,FALSE,tested,Porterville,Tulare County,36.063019,-119.062606
-Private,Summit Charter Collegiate Academy,15550 North Redwood Road Porterville CA 93257,NA,NA,FALSE,tested,Porterville,Tulare County,36.070754,-119.078108
-Sunnyside Union Elementary,Sunnyside Elementary,21644 Avenue 196 Strathmore CA 93267-9795,NA,NA,FALSE,tested,NA,Tulare County,36.145654,-119.051585
-Visalia Unified,Sycamore Valley Academy,4230 West Tulare Avenue Visalia CA 93277-8300,NA,NA,NA,not tested,Visalia,Tulare County,36.320137,-119.337718
-Terra Bella Union Elementary,Terra Bella Elementary,9364 Road 238 Terra Bella CA 93270-9400,NA,NA,FALSE,tested,Terra Bella,Tulare County,35.959901,-119.039219
-Tipton Elementary,Tipton Elementary,370 North Evans Road Tipton CA 93272-9400,NA,NA,FALSE,tested,NA,Tulare County,36.063176,-119.309214
-Traver Joint Elementary,Traver Elementary,36736 Canal Drive Traver CA 93673-0069,NA,NA,NA,not tested,NA,Tulare County,36.457638,-119.48102
-Tulare Joint Union High,Tulare Adult Education,575 West Maple Tulare CA 93274-2606,NA,NA,FALSE,tested,Tulare,Tulare County,36.214239,-119.359062
-Private,Tulare Christian School,470 North Gem Street Tulare CA 93274,NA,NA,FALSE,tested,NA,Tulare County,36.212531,-119.339811
-Tulare Joint Union High,Tulare Technical Preparatory High,737 West Bardsley Avenue Tulare CA 93274-5005,NA,NA,FALSE,tested,NA,Tulare County,36.195939,-119.357121
-Tulare Joint Union High,Tulare Union High,755 East Tulare Avenue Tulare CA 93274-4353,NA,NA,FALSE,tested,NA,Tulare County,36.208408,-119.338013
-Tulare Joint Union High,Tulare Western High,824 West Maple Avenue Tulare CA 93274-2699,NA,NA,FALSE,tested,NA,Tulare County,36.215867,-119.359608
-Alpaugh Unified,Tule Continuation High,Avenue 52 and Boswell Avenue Alpaugh CA 93201-0009,NA,NA,FALSE,tested,Alpaugh,Tulare County,35.884149,-119.487351
-Tulare County Office of Education,University Preparatory High,"915 South Mooney Boulevard, Mariposa Building Visalia CA 93277",NA,NA,NA,not tested,Visalia,Tulare County,36.324066,-119.317547
-Delano Joint Union High,Valley High,1927 Randolph Street Delano CA 93215-1526,NA,NA,FALSE,tested,NA,Tulare County,35.781825,-119.232118
-Tulare County Office of Education,Valley Life Charter,3737 West Walnut Avenue Visalia CA 93277-3947,NA,NA,FALSE,tested,Visalia,Tulare County,36.312737,-119.332208
-Private,Valley Life Charter School Akers Campus,3737 S. Akers St. Visalia CA 93277,NA,NA,FALSE,tested,Visalia,Tulare County,36.294885,-119.349405
-Visalia Unified,Valley Oak Middle,2000 North Lovers Lane Visalia CA 93292-3104,NA,NA,FALSE,tested,Visalia,Tulare County,36.345735,-119.259545
-Porterville Unified,Vandalia Elementary,271 East College Avenue Porterville CA 93257-6062,NA,NA,FALSE,tested,Porterville,Tulare County,36.047939,-119.009828
-Visalia Unified,Veva Blunt Elementary,1119 South Chinowth Road Visalia CA 93277-1611,NA,NA,FALSE,tested,Visalia,Tulare County,36.320455,-119.336519
-Porterville Unified,Vine Street Community Day,140 South C Street Porterville CA 93257-4822,NA,NA,NA,not tested,Porterville,Tulare County,36.062839,-119.015907
-Visalia Unified,Visalia Charter Independent Study,1821 West Meadow Lane Visalia CA 93291-2247,NA,NA,FALSE,tested,Visalia,Tulare County,36.321487,-119.312972
-Visalia Unified,Visalia Technical Early College,2245 South Linwood Visalia CA 93277-5753,NA,NA,FALSE,tested,Visalia,Tulare County,36.34891,-119.340946
-Visalia Unified,Washington Elementary,500 South Garden Visalia CA 93277-2859,NA,NA,FALSE,tested,Visalia,Tulare County,36.324598,-119.289729
-Dinuba Unified,Washington Intermediate,1150 North Hayes Avenue Dinuba CA 93618-1825,6.15,ppb,TRUE,tested,NA,Tulare County,36.555322,-119.379247
-Porterville Unified,West Putnam Elementary,1345 West Putnam Avenue Porterville CA 93257-3043,NA,NA,NA,not tested,Porterville,Tulare County,36.068697,-119.047067
-Porterville Unified,Westfield Elementary,1151 West Pioneer Avenue Porterville CA 93257-1116,NA,NA,NA,not tested,Porterville,Tulare County,36.090186,-119.042977
-Burton Elementary,William R. Buckley Elementary,2573 West Westfield Avenue Porterville CA 93257-9067,NA,NA,FALSE,tested,Porterville,Tulare County,36.086621,-119.07411
-Visalia Unified,Willow Glen Elementary,310 North Akers Road Visalia CA 93291-5119,NA,NA,FALSE,tested,Visalia,Tulare County,36.332291,-119.348659
-Tulare City,Wilson Elementary,955 East Tulare Avenue Tulare CA 93274-4443,NA,NA,FALSE,tested,NA,Tulare County,36.208431,-119.334308
-Exeter Unified,Wilson Middle,710 West Maple Street Exeter CA 93221-1409,NA,NA,NA,not tested,NA,Tulare County,36.292619,-119.149369
-Kern County Office of Education,Wonderful College Prep Academy,1942 Randolph Street Delano CA 93215-1527,NA,NA,NA,not tested,NA,Tulare County,35.782096,-119.231916
-Woodlake Unified,Woodlake High,400 West Whitney Avenue Woodlake CA 93286-1298,NA,NA,FALSE,tested,Woodlake,Tulare County,36.42097,-119.103734
-Woodlake Unified,Woodlake Valley Middle,497 North Palm Street Woodlake CA 93286-1250,NA,NA,FALSE,tested,Woodlake,Tulare County,36.420186,-119.101081
-Woodville Union Elementary,Woodville Elementary,16541 Road 168 Porterville CA 93257-9205,NA,NA,FALSE,tested,Porterville,Tulare County,36.089152,-119.196779
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Earlimart Elementary,Alila,850 West Washington Avenue Earlimart CA 93219,,,,not tested,,Tulare County,35.883584,-119.27615300000001,
+Allensworth Elementary,Allensworth Elementary,3320 Young Road Allensworth CA 93219-9709,,,False,tested,,Tulare County,35.863385,-119.39249699999999,
+Alpaugh Unified,Alpaugh Elementary,5313 Rd 39 Alpaugh CA 93201-0009,,,False,tested,Alpaugh,Tulare County,35.887343,-119.48635700000001,
+Alpaugh Unified,Alpaugh Junior-Senior High,5313 Road 39 Alpaugh CA 93201-0009,,,,not tested,Alpaugh,Tulare County,35.887343,-119.48635700000001,
+Tulare City,Alpine Vista,2975 East Alpine Avenue Tulare CA 93274-4265,,,False,tested,,Tulare County,36.20214,-119.321055,
+Alta Vista Elementary,Alta Vista Elementary,2293 East Crabtree Avenue Porterville CA 93257-5225,,,False,tested,Porterville,Tulare County,36.058528,-118.966169,
+Exeter Unified,Alternative Education,1107 E Rocky Hill Dr Exeter CA 93221,,,,not tested,Exeter,Tulare County,36.297049,-119.130822,
+Visalia Unified,Annie R. Mitchell,2121 East Laura Avenue Visalia CA 93292-1407,,,False,tested,Visalia,Tulare County,36.310094,-119.268252,
+Porterville Unified,Bartlett Middle,335 North G Street Porterville CA 93257-3471,7.6,ppb,True,tested,Porterville,Tulare County,36.071971000000005,-119.02261999999999,10.0
+Porterville Unified,Belleview Elementary,197 West Belleview Avenue Porterville CA 93257-2256,,,False,tested,Porterville,Tulare County,36.073946,-119.02091399999999,
+Woodlake Unified,Bravo Lake High,450 West Sequoia Woodlake CA 93286-1240,,,False,tested,Woodlake,Tulare County,36.422321999999994,-119.09365700000001,
+Burton Elementary,Burton Elementary,2375 West Morton Street Porterville CA 93257-2557,,,False,tested,Porterville,Tulare County,36.072343,-119.068666,
+Burton Elementary,Burton Middle,1155 North Elderwood Street Porterville CA 93257-9089,5.6,ppb,True,tested,Porterville,Tulare County,36.085283000000004,-119.076495,5.6
+Porterville Unified,Butterfield Charter High,900 West Pioneer Avenue Porterville CA 93257-1240,,,False,tested,Porterville,Tulare County,36.092205,-119.03769199999999,
+Lindsay Unified,Cairns High School,533 E Honolulu Lindsay CA 93247,,,,not tested,Lindsay,Tulare County,36.203899,-119.08470600000001,
+Terra Bella Union Elementary,Carl Smith Middle,23825 Avenue 92 Terra Bella CA 93270-9400,,,,not tested,,Tulare County,35.954219,-119.039092,
+Woodlake Unified,Castle Rock Elementary,360 North Castle Rock Street Woodlake CA 93286-1250,,,False,tested,Woodlake,Tulare County,36.418496000000005,-119.089767,
+Visalia Unified,Charter Home School Academy,211 West Tulare Avenue Visalia CA 93277-4813,,,False,tested,Visalia,Tulare County,36.320042,-119.294201,
+Tulare City,Cherry Avenue Middle,540 North Cherry Street Tulare CA 93274-2918,,,False,tested,,Tulare County,36.215517,-119.336171,
+Porterville Unified,Citrus High,261 East Mulberry Avenue Porterville CA 93257-4822,7.2,ppb,True,tested,Porterville,Tulare County,36.082848,-119.011503,8.5
+Columbine Elementary,Columbine Elementary,2240 Road 160 Delano CA 93215-9420,,,,not tested,Delano,Tulare County,35.830602,-119.213361,
+Visalia Unified,Conyer Elementary,814 South Sowell Visalia CA 93277-2467,,,False,tested,Visalia,Tulare County,36.323001,-119.302346,
+Visalia Unified,Cottonwood Creek Elementary,4222 South Dans Street Visalia CA 93277-7964,,,False,tested,Visalia,Tulare County,36.292593,-119.324794,
+Tulare Joint Union High,Countryside Community Day,1084 South Pratt Street Tulare CA 93274-6303,,,False,tested,,Tulare County,36.189192999999996,-119.357759,
+Stone Corral Elementary,Crescent Valley Public Charter,"309 West Main Street, Suite 110 Visalia CA 93291-6257",,,,not tested,Visalia,Tulare County,36.329851,-119.29499399999999,
+Visalia Unified,Crestwood Elementary,3001 West Whitendale Avenue Visalia CA 93277-6077,,,False,tested,Visalia,Tulare County,36.303336,-119.32383999999999,
+Visalia Unified,Crowley Elementary,214 East Ferguson Street Visalia CA 93291-2006,,,False,tested,Visalia,Tulare County,36.350231,-119.290705,
+Cutler-Orosi Joint Unified,Cutler Elementary,40532 Road 128 Cutler CA 93615-2109,,,,not tested,,Tulare County,36.525553,-119.28451100000001,
+Cutler-Orosi Joint Unified,Cutler-Orosi Community Day,14198 Avenue 384 Yettem CA 93670,,,,not tested,,Tulare County,36.486996000000005,-119.25461000000001,
+Tulare City,Cypress Elementary,1870 South Laspina Street Tulare CA 93274-6962,,,False,tested,,Tulare County,36.187788,-119.32379499999999,
+Farmersville Unified,Deep Creek Academy,281 South Farmersville Boulevard Farmersville CA 93223-1833,,,False,tested,Farmersville,Tulare County,36.297482,-119.207342,
+Dinuba Unified,Dinuba High,340 East Kern Street Dinuba CA 93618-1825,,,False,tested,,Tulare County,36.539594,-119.384239,
+Visalia Unified,Divisadero Middle,1200 South Divisadero Visalia CA 93277-4518,,,False,tested,Visalia,Tulare County,36.319483,-119.308765,
+Ducor Union Elementary,Ducor Union Elementary,23761 Avenue 56 Ducor CA 93218-0249,,,,not tested,,Tulare County,35.891078,-119.041977,
+Earlimart Elementary,Earlimart Elementary,192 South Church Road Earlimart CA 93219-1970,,,,not tested,,Tulare County,35.88343,-119.26814499999999,
+Earlimart Elementary,Earlimart Middle,599 South Sutter Street Earlimart CA 93219-1970,,,,not tested,Earlimart,Tulare County,35.888161,-119.270711,
+Visalia Unified,El Diamante High,5100 West Whitendale Avenue Visalia CA 93277-5604,,,False,tested,Visalia,Tulare County,36.307019,-119.34719199999999,
+Cutler-Orosi Joint Unified,El Monte Middle,42111 Road 128 Orosi CA 93647-9749,,,False,tested,,Tulare County,36.554749,-119.28928300000001,
+Exeter Unified,Exeter Union High,505 Rocky Hill Dr Exeter CA 93221-1325,,,,not tested,,Tulare County,36.298035999999996,-119.13490700000001,
+Visalia Unified,Fairview Elementary,1051 Robin Drive Visalia CA 93291-1835,,,False,tested,Visalia,Tulare County,36.353066999999996,-119.303018,
+Farmersville Unified,Farmersville High,631 East Walnut Avenue Farmersville CA 93223-2203,,,False,tested,Farmersville,Tulare County,36.310687,-119.200769,
+Farmersville Unified,Farmersville Junior High,650 North Virginia Street Farmersville CA 93223-1120,,,False,tested,Farmersville,Tulare County,36.303191,-119.21463999999999,
+Visalia Unified,Four Creeks Elementary,1844 North Burke Street Visalia CA 93291-2217,,,False,tested,Visalia,Tulare County,36.346481,-119.28264899999999,
+Woodlake Unified,Francis J. White Learning Center,700 North Cypress Street Woodlake CA 93286-1024,,,False,tested,Woodlake,Tulare County,36.425677,-119.104184,
+Tulare City,Frank Kohn Elementary,500 South Laspina Street Tulare CA 93274-5929,,,False,tested,,Tulare County,36.204791,-119.32033700000001,
+Farmersville Unified,Freedom Elementary,575 East Citrus Farmersville CA 93223-1274,,,False,tested,Farmersville,Tulare County,36.30755,-119.20179499999999,
+Tulare City,Garden Elementary,640 East Pleasant Avenue Tulare CA 93274-2124,,,False,tested,,Tulare County,36.219440999999996,-119.341499,
+Farmersville Unified,George L. Snowden Elementary,301 South Farmersville Boulevard Farmersville CA 93223-1835,,,False,tested,Farmersville,Tulare County,36.295424,-119.20813600000001,
+Visalia Unified,Golden Oak Elementary,1700 North Lovers Lane Visalia CA 93292-8013,,,False,tested,Visalia,Tulare County,36.343152,-119.259772,
+Cutler-Orosi Joint Unified,Golden Valley Elementary,41465 Road 127 Orosi CA 93647-2008,,,False,tested,,Tulare County,36.541191999999995,-119.290377,
+Visalia Unified,Golden West High,1717 North McAuliff Road Visalia CA 93292-9310,,,False,tested,Visalia,Tulare County,36.343211,-119.252147,
+Visalia Unified,Goshen Elementary,6505 Avenue 308 Visalia CA 93291-8939,,,False,tested,,Tulare County,36.348609,-119.20675200000001,
+Porterville Unified,Granite Hills High,1701 East Putnam Avenue Porterville CA 93257-8000,,,False,tested,Porterville,Tulare County,36.067595000000004,-118.97983400000001,
+Visalia Unified,Green Acres Middle,1147 North Mooney Boulevard Visalia CA 93291-3224,,,False,tested,Visalia,Tulare County,36.339375,-119.31565800000001,
+Porterville Unified,Harmony Magnet Academy,19429 Road 228 Strathmore CA 93267,,,False,tested,,Tulare County,36.142975,-119.064995,
+Tulare City,Heritage Elementary,895 West Gail Avenue Tulare CA 93274-1236,,,False,tested,,Tulare County,36.228501,-119.36126999999999,
+Visalia Unified,Highland Elementary,701 North Stevenson Street Visalia CA 93291-4811,,,False,tested,Visalia,Tulare County,36.335719,-119.30074099999999,
+Visalia Unified,Houston Elementary,1200 North Giddings Street Visalia CA 93291-2851,,,False,tested,Visalia,Tulare County,36.340893,-119.30443999999999,
+Visalia Unified,Hurley Elementary,6600 West Hurley Avenue Visalia CA 93291-8812,,,False,tested,Visalia,Tulare County,36.335528000000004,-119.36442199999999,
+Visalia Unified,Ivanhoe Elementary,16030 Avenue 332 Ivanhoe CA 93235-0158,,,,not tested,,Tulare County,36.393678,-119.21446499999999,
+Farmersville Unified,J. E. Hester Elementary,477 East Ash Street Farmersville CA 93223-1209,53.2,ppb,True,tested,Farmersville,Tulare County,36.300973,-119.202155,53.2
+Lindsay Unified,Jefferson Elementary,333 North Westwood Avenue Lindsay CA 93247-1801,,,,not tested,Lindsay,Tulare County,36.204439,-119.10293700000001,
+Dinuba Unified,Jefferson Elementary,1660 East Sierra Way Dinuba CA 93618-1825,,,False,tested,,Tulare County,36.53832,-119.377404,
+Burton Elementary,Jim Maples Academy,252 North Westwood Porterville CA 93257-2542,,,False,tested,Porterville,Tulare County,36.071228999999995,-119.07100200000001,
+Dinuba Unified,John F. Kennedy Elementary,999 North Crawford Dinuba CA 93618-8700,,,,not tested,Dinuba,Tulare County,36.553231,-119.376925,
+Lindsay Unified,John J. Cairns Continuation,290 N Harvard Lindsay CA 93247-2304,,,,not tested,Lindsay,Tulare County,36.206947,-119.08246000000001,
+Porterville Unified,John J. Doyle Elementary,1045 East Orange Avenue Porterville CA 93257-5125,5.9,ppb,True,tested,Porterville,Tulare County,36.060289000000004,-118.99396999999999,5.9
+Lindsay Unified,Kennedy Elementary,1701 East Tulare Road Lindsay CA 93247-2262,,,,not tested,Lindsay,Tulare County,36.211936,-119.07201299999998,
+Visalia Unified,La Joya Middle,4711 West La Vida Visalia CA 93277-1219,,,False,tested,Visalia,Tulare County,36.303637,-119.343176,
+Tulare County Office of Education,La Sierra Military Academy,1735 East Houston Avenue Visalia CA 93292-2349,,,False,tested,Visalia,Tulare County,36.340913,-119.27433500000001,
+Tulare City,Lincoln Elementary,909 East Cedar Avenue Tulare CA 93274-5615,,,False,tested,,Tulare County,36.198937,-119.334703,
+Dinuba Unified,Lincoln Elementary,850 North Eaton Avenue Dinuba CA 93618-1825,,,False,tested,Dinuba,Tulare County,36.552104,-119.38928899999999,
+Lindsay Unified,Lindsay Senior High,1849 East Tulare Road Lindsay CA 93247-9711,,,,not tested,Lindsay,Tulare County,36.211894,-119.06688700000001,
+Visalia Unified,Linwood Elementary,3129 South Linwood Avenue Visalia CA 93277-6927,,,False,tested,Visalia,Tulare County,36.302027,-119.34131200000002,
+Tulare City,Live Oak Middle,980 North Laspina Street Tulare CA 93274-2338,,,False,tested,,Tulare County,36.219794,-119.319814,
+Porterville Unified,Los Robles Elementary,500 East Mulberry Avenue Porterville CA 93257-6321,,,False,tested,Porterville,Tulare County,36.084753000000006,-119.00568899999999,
+Tulare City,Los Tules Middle,801 West Gail Avenue Tulare CA 93274-1236,,,False,tested,,Tulare County,36.228508000000005,-119.35917099999999,
+Cutler-Orosi Joint Unified,Lovell High,12724 Ave 392 Cutler CA 93615-9769,,,,not tested,,Tulare County,36.500565,-119.24248899999999,
+Visalia Unified,Manuel F. Hernandez,2133 North Leila Street Visalia CA 93291-8453,,,False,tested,Visalia,Tulare County,36.348211,-119.32931799999999,
+Tulare City,Maple Elementary,640 West Cross Avenue Tulare CA 93274-2616,,,False,tested,,Tulare County,36.212863,-119.35766399999999,
+Tulare County Office of Education,Midcounty Community School,2101 N. Shirk Rd. Visalia  CA 93291,,,False,tested,Visalia,Tulare County,36.34852,-119.368179,
+Tulare County Office of Education,Midcounty Community School,2101 N. Shirk Rd. Visalia CA 93291,,,,not tested,Visalia,Tulare County,36.346115999999995,-119.36781200000001,
+Visalia Unified,Mineral King Elementary,3333 East Kaweah Avenue Visalia CA 93292-3313,,,False,tested,Visalia,Tulare County,36.325203,-119.255459,
+Tulare Joint Union High,Mission Oak High,3442 East Bardsley Avenue Tulare CA 93274-6148,,,False,tested,,Tulare County,36.198836,-119.298979,
+Tulare City,Mission Valley Elementary,1695 Bella Oaks Drive Tulare CA 93274-6268,,,False,tested,,Tulare County,36.233643,-119.322225,
+Porterville Unified,Monache High,960 North Newcomb Street Porterville CA 93257-1302,,,False,tested,Porterville,Tulare County,36.081745,-119.049881,
+Monson-Sultana Joint Union Elementary,Monson-Sultana Elementary,10643 Avenue 416 Dinuba CA 93618,,,,not tested,,Tulare County,36.546318,-119.44336100000001,
+Porterville Unified,Monte Vista Elementary,701 West Westfield Avenue Porterville CA 93257-1251,,,False,tested,Porterville,Tulare County,36.086662,-119.03301499999999,
+Visalia Unified,Mountain View Elementary,2021 South Encina Visalia CA 93277-5349,,,False,tested,Visalia,Tulare County,36.310989,-119.295424,
+Visalia Unified,Mt. Whitney High,900 South Conyer Street Visalia CA 93277-2535,,,False,tested,Visalia,Tulare County,36.322219,-119.2985,
+Tulare City,Mulcahy Middle,1001 West Sonora Avenue Tulare CA 93274-5041,,,False,tested,,Tulare County,36.199934000000006,-119.36190500000001,
+Burton Elementary,Oak Grove Elementary,1873 West Mulberry Avenue Porterville CA 93257-6602,,,False,tested,Porterville,Tulare County,36.083067,-119.059646,
+Visalia Unified,Oak Grove Elementary,4445 West Ferguson Avenue Visalia CA 93291-9216,,,False,tested,Visalia,Tulare County,36.347878,-119.339688,
+Oak Valley Union Elementary,Oak Valley Elementary,24500 Road 68 Tulare CA 93274-9607,,,,not tested,,Tulare County,36.233571000000005,-119.419952,
+Porterville Unified,Olive Street Elementary,255 West Olive Avenue Porterville CA 93257-3446,5.4,ppb,True,tested,Porterville,Tulare County,36.063390999999996,-119.022232,5.4
+Cutler-Orosi Joint Unified,Orosi High,41815 Road 128 Orosi CA 93647-2008,,,False,tested,,Tulare County,36.548770000000005,-119.28916699999999,
+Cutler-Orosi Joint Unified,Palm Elementary,12915 Avenue 419 Orosi CA 93647-1916,,,False,tested,,Tulare County,36.549282,-119.283703,
+Visalia Unified,Pinkham Elementary,2200 East Tulare Avenue Visalia CA 93292-5288,,,False,tested,Visalia,Tulare County,36.321092,-119.26768700000001,
+Porterville Unified,Pioneer Middle,225 East College Avenue Porterville CA 93257-6062,,,False,tested,Porterville,Tulare County,36.048066999999996,-119.013669,
+Pixley Union Elementary,Pixley Elementary,300 North School Street Pixley CA 93256-9557,11.5,ppb,True,tested,,Tulare County,35.971731,-119.281728,11.5
+Pixley Union Elementary,Pixley Middle,1520 East Court Street Pixley CA 93256-9750,,,,not tested,Pixley,Tulare County,35.972011,-119.28315,
+Tulare City,Pleasant Elementary,1855 West Pleasant Avenue Tulare CA 93274-1765,,,False,tested,,Tulare County,36.217453000000006,-119.373131,
+Pleasant View Elementary,Pleasant View Elementary,14004 Road 184 Porterville CA 93257-9214,,,,not tested,Porterville,Tulare County,36.043597999999996,-119.16003400000001,
+Porterville Unified,Porterville High,465 West Olive Avenue Porterville CA 93257-3331,5.7,ppb,True,tested,Porterville,Tulare County,36.063404999999996,-119.028038,5.7
+Porterville Unified,Prospect Education Center,645 North Prospect Street Porterville CA 93257-1938,5.3,ppb,True,tested,Porterville,Tulare County,36.077393,-119.043971,5.3
+Lindsay Unified,Reagan Elementary,340 North Harvard Lindsay CA 93247-2219,,,,not tested,Lindsay,Tulare County,36.207961,-119.08248600000002,
+Visalia Unified,Redwood High,1001 West Main Street Visalia CA 93291-5919,,,False,tested,Visalia,Tulare County,36.328277,-119.30327199999999,
+Richgrove Elementary,Richgrove Elementary,20812 Grove Drive Richgrove CA 93261,,,,not tested,,Tulare County,35.798026,-119.09804299999999,
+Visalia Unified,Ridgeview Middle,3315 North Akers Street Visalia CA 93291,,,,not tested,Visalia,Tulare County,36.338526,-119.349846,
+Visalia Unified,River Bend,1800 North Lovers Lane Visalia CA 93292-3198,,,,not tested,Visalia,Tulare County,36.344612,-119.259978,
+Porterville Unified,Roche Elementary,388 North Roche Street Porterville CA 93257-3928,,,False,tested,Porterville,Tulare County,36.072582000000004,-119.009872,
+Exeter Unified,Rocky Hill Elementary,313 Sequoia Drive Exeter CA 93221-1159,,,,not tested,,Tulare County,36.303289,-119.140758,
+Tulare City,Roosevelt Elementary,1046 West Sonora Avenue Tulare CA 93274-5042,5.9,ppb,True,tested,,Tulare County,36.202408,-119.36173400000001,8.1
+Dinuba Unified,Roosevelt Elementary,1311 Euclid Avenue Dinuba CA 93618-1825,,,False,tested,Dinuba,Tulare County,36.557684,-119.40096799999999,
+Visalia Unified,Royal Oaks Elementary,1323 Clover Drive Visalia CA 93277-4221,,,False,tested,Visalia,Tulare County,36.3187,-119.321722,
+Porterville Unified,Santa Fe Elementary,286 East Orange Avenue Porterville CA 93257-4950,,,False,tested,Porterville,Tulare County,36.061307,-119.01043600000001,
+Visalia Unified,Sequoia High,901 North Mooney Boulevard Visalia CA 93291-3228,,,False,tested,Visalia,Tulare County,36.337236,-119.315619,
+Porterville Unified,Sequoia Middle,1450 West Castle Avenue Porterville CA 93257,,,False,tested,Porterville,Tulare County,36.095440999999994,-119.04654199999999,
+Visalia Unified,Shannon Ranch Elementary,3637 North Ranch Street Visalia CA 93291-8106,,,,not tested,Visalia,Tulare County,36.361805,-119.320567,
+Tulare Joint Union High,Sierra Vista Charter High,351 North K Street Tulare CA 93274-4007,,,False,tested,,Tulare County,36.211171,-119.346999,
+Dinuba Unified,Sierra Vista High (Continuation),8470 Avenue 406 Dinuba CA 93618-1825,,,False,tested,,Tulare County,36.528475,-119.384178,
+Visalia Unified,Sierra Vista High School,200 S. Dollner St. Visalia CA 93291,,,False,tested,Visalia,Tulare County,36.328778,-119.307928,
+Tulare County Office of Education,Special Education,6200 South Mooney Blvd Visalia CA 93277,,,,not tested,Visalia,Tulare County,36.280282,-119.313391,
+Springville Union Elementary,Springville Union Elementary,35424 Ward Avenue Springville CA 93265-0349,6.85,ppb,True,tested,,Tulare County,36.130025,-118.82253700000001,7.3
+Private,St. Aloysius,627 Beatrice Drive Tulare CA 93274,,,False,tested,Tulare,Tulare County,36.217264,-119.34676699999999,
+Private,St. Anne,385 North F Street Porterville CA 93257,7.0,ppb,True,tested,Porterville,Tulare County,36.072803,-119.02126100000001,7.0
+Stone Corral Elementary,Stone Corral Elementary,15590 Avenue 383 Visalia CA 93292-9545,,,,not tested,Visalia,Tulare County,36.484471,-119.223854,
+Strathmore Union Elementary,Strathmore Community Day,19938 Rd 230 Strathmore CA 93267,10.65,ppb,True,tested,,Tulare County,36.147352000000005,-119.058334,16.0
+Strathmore Union Elementary,Strathmore Elementary,23024 Avenue 198 Strathmore CA 93267,,,False,tested,,Tulare County,36.150110999999995,-119.057257,
+Porterville Unified,Strathmore High,22568 Avenue 196 Strathmore CA 93267-0114,,,False,tested,,Tulare County,36.144583000000004,-119.065027,
+Strathmore Union Elementary,Strathmore Middle School,19840 Orange Belt Dr. Strathmore CA 93267,,,False,tested,Strathmore,Tulare County,36.149838,-119.06161599999999,
+Burton Elementary,Summit Charter Academy,175 South Mathew Street Porterville CA 93257-2710,,,False,tested,Porterville,Tulare County,36.063019,-119.062606,
+Private,Summit Charter Collegiate Academy,15550 North Redwood Road Porterville CA 93257,,,False,tested,Porterville,Tulare County,36.070754,-119.07810800000001,
+Sunnyside Union Elementary,Sunnyside Elementary,21644 Avenue 196 Strathmore CA 93267-9795,,,False,tested,,Tulare County,36.145654,-119.051585,
+Visalia Unified,Sycamore Valley Academy,4230 West Tulare Avenue Visalia CA 93277-8300,,,,not tested,Visalia,Tulare County,36.320137,-119.337718,
+Terra Bella Union Elementary,Terra Bella Elementary,9364 Road 238 Terra Bella CA 93270-9400,,,False,tested,Terra Bella,Tulare County,35.959901,-119.03921899999999,
+Tipton Elementary,Tipton Elementary,370 North Evans Road Tipton CA 93272-9400,,,False,tested,,Tulare County,36.063176,-119.30921399999998,
+Traver Joint Elementary,Traver Elementary,36736 Canal Drive Traver CA 93673-0069,,,,not tested,,Tulare County,36.457638,-119.48102,
+Tulare Joint Union High,Tulare Adult Education,575 West Maple Tulare CA 93274-2606,,,False,tested,Tulare,Tulare County,36.214239,-119.35906200000001,
+Private,Tulare Christian School,470 North Gem Street Tulare CA 93274,,,False,tested,,Tulare County,36.212531,-119.33981100000001,
+Tulare Joint Union High,Tulare Technical Preparatory High,737 West Bardsley Avenue Tulare CA 93274-5005,,,False,tested,,Tulare County,36.195939,-119.35712099999999,
+Tulare Joint Union High,Tulare Union High,755 East Tulare Avenue Tulare CA 93274-4353,,,False,tested,,Tulare County,36.208408,-119.33801299999999,
+Tulare Joint Union High,Tulare Western High,824 West Maple Avenue Tulare CA 93274-2699,,,False,tested,,Tulare County,36.215866999999996,-119.35960800000001,
+Alpaugh Unified,Tule Continuation High,Avenue 52 and Boswell Avenue Alpaugh CA 93201-0009,,,False,tested,Alpaugh,Tulare County,35.884149,-119.487351,
+Tulare County Office of Education,University Preparatory High,"915 South Mooney Boulevard, Mariposa Building Visalia CA 93277",,,,not tested,Visalia,Tulare County,36.324065999999995,-119.31754699999999,
+Delano Joint Union High,Valley High,1927 Randolph Street Delano CA 93215-1526,,,False,tested,,Tulare County,35.781825,-119.232118,
+Tulare County Office of Education,Valley Life Charter,3737 West Walnut Avenue Visalia CA 93277-3947,,,False,tested,Visalia,Tulare County,36.312737,-119.33220800000001,
+Private,Valley Life Charter School Akers Campus,3737 S. Akers St. Visalia CA 93277,,,False,tested,Visalia,Tulare County,36.294885,-119.349405,
+Visalia Unified,Valley Oak Middle,2000 North Lovers Lane Visalia CA 93292-3104,,,False,tested,Visalia,Tulare County,36.345735,-119.25954499999999,
+Porterville Unified,Vandalia Elementary,271 East College Avenue Porterville CA 93257-6062,,,False,tested,Porterville,Tulare County,36.047939,-119.009828,
+Visalia Unified,Veva Blunt Elementary,1119 South Chinowth Road Visalia CA 93277-1611,,,False,tested,Visalia,Tulare County,36.320454999999995,-119.336519,
+Porterville Unified,Vine Street Community Day,140 South C Street Porterville CA 93257-4822,,,,not tested,Porterville,Tulare County,36.062839000000004,-119.01590700000001,
+Visalia Unified,Visalia Charter Independent Study,1821 West Meadow Lane Visalia CA 93291-2247,,,False,tested,Visalia,Tulare County,36.321487,-119.312972,
+Visalia Unified,Visalia Technical Early College,2245 South Linwood Visalia CA 93277-5753,,,False,tested,Visalia,Tulare County,36.34891,-119.340946,
+Visalia Unified,Washington Elementary,500 South Garden Visalia CA 93277-2859,,,False,tested,Visalia,Tulare County,36.324597999999995,-119.28972900000001,
+Dinuba Unified,Washington Intermediate,1150 North Hayes Avenue Dinuba CA 93618-1825,6.15,ppb,True,tested,,Tulare County,36.555322,-119.37924699999999,7.2
+Porterville Unified,West Putnam Elementary,1345 West Putnam Avenue Porterville CA 93257-3043,,,,not tested,Porterville,Tulare County,36.068697,-119.047067,
+Porterville Unified,Westfield Elementary,1151 West Pioneer Avenue Porterville CA 93257-1116,,,,not tested,Porterville,Tulare County,36.090185999999996,-119.04297700000001,
+Burton Elementary,William R. Buckley Elementary,2573 West Westfield Avenue Porterville CA 93257-9067,,,False,tested,Porterville,Tulare County,36.086621,-119.07411,
+Visalia Unified,Willow Glen Elementary,310 North Akers Road Visalia CA 93291-5119,,,False,tested,Visalia,Tulare County,36.332291,-119.34865900000001,
+Tulare City,Wilson Elementary,955 East Tulare Avenue Tulare CA 93274-4443,,,False,tested,,Tulare County,36.208431,-119.33430800000001,
+Exeter Unified,Wilson Middle,710 West Maple Street Exeter CA 93221-1409,,,,not tested,,Tulare County,36.292619,-119.149369,
+Kern County Office of Education,Wonderful College Prep Academy,1942 Randolph Street Delano CA 93215-1527,,,,not tested,,Tulare County,35.782096,-119.231916,
+Woodlake Unified,Woodlake High,400 West Whitney Avenue Woodlake CA 93286-1298,,,False,tested,Woodlake,Tulare County,36.420970000000004,-119.103734,
+Woodlake Unified,Woodlake Valley Middle,497 North Palm Street Woodlake CA 93286-1250,,,False,tested,Woodlake,Tulare County,36.420186,-119.10108100000001,
+Woodville Union Elementary,Woodville Elementary,16541 Road 168 Porterville CA 93257-9205,,,False,tested,Porterville,Tulare County,36.089152,-119.196779,

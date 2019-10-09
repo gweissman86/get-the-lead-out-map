@@ -1,111 +1,111 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Roseville Joint Union High,Adelante High (Continuation),350 Atlantic Street Roseville CA 95678-1849,NA,NA,FALSE,tested,Roseville,Placer County,38.75286,-121.280166
-Auburn Union Elementary,Alta Vista Community Charter,173 Oak Street Auburn CA 95603-4318,NA,NA,FALSE,tested,Auburn,Placer County,38.908487,-121.063474
-Alta-Dutch Flat Union Elementary,Alta-Dutch Flat Elementary,34050 Alta-Bonny Nook Road Alta CA 95701-9999,NA,NA,FALSE,tested,NA,Placer County,39.207595,-120.809017
-Rocklin Unified,Antelope Creek Elementary,6185 Springview Drive Rocklin CA 95677-2900,NA,NA,FALSE,tested,Rocklin,Placer County,38.777744,-121.257284
-Auburn Union Elementary,Auburn Elementary,11400 Lariat Ranch Road Auburn CA 95603-5001,NA,NA,FALSE,tested,NA,Placer County,38.932566,-121.102957
-Roseville City Elementary,Barbara Chilton Middle,4501 Bob Doyle Drive Roseville CA 95747-9048,NA,NA,FALSE,tested,Roseville,Placer County,38.777173,-121.372057
-Roseville City Elementary,Blue Oaks Elementary,8150 Horncastle Avenue Roseville CA 95747-6773,NA,NA,FALSE,tested,Roseville,Placer County,38.783825,-121.331171
-Ackerman Charter,Bowman Charter,13777 Bowman Road Auburn CA 95603-3147,NA,NA,FALSE,tested,Auburn,Placer County,38.935346,-121.056089
-Roseville City Elementary,Bradford Woodbridge Fundamental Elementary,515 Niles Avenue Roseville CA 95678-1543,NA,NA,FALSE,tested,Roseville,Placer County,38.756233,-121.289834
-Rocklin Unified,Breen Elementary,2751 Breen Drive Rocklin CA 95765-5158,NA,NA,FALSE,tested,Rocklin,Placer County,38.818613,-121.261178
-Western Placer Unified,Carlin C. Coppin Elementary,150 12th Street Lincoln CA 95648-2058,NA,NA,FALSE,tested,Lincoln,Placer County,38.901707,-121.28434
-Roseville City Elementary,Catheryn Gates Elementary,1051 Trehowell Drive Roseville CA 95678-6108,NA,NA,FALSE,tested,Roseville,Placer County,38.775849,-121.28085
-Rocklin Unified,Cobblestone Elementary,5740 Cobblestone Drive Rocklin CA 95765-4193,NA,NA,FALSE,tested,Rocklin,Placer County,38.801955,-121.263752
-Colfax Elementary,Colfax Elementary,24825 Ben Taylor Road Colfax CA 95713-9553,NA,NA,FALSE,tested,Colfax,Placer County,39.104417,-120.962892
-Placer Union High,Colfax High,24995 Ben Taylor Road Colfax CA 95713-9556,5.98,ppb,TRUE,tested,Colfax,Placer County,39.107284,-120.965928
-Dry Creek Joint Elementary,Coyote Ridge Elementary,1751 Morning Star Drive Roseville CA 95747-4975,NA,NA,NA,not tested,Roseville,Placer County,38.759318,-121.353934
-Newcastle Elementary,Creekside Charter,1916 Chamonix Place Olympic Valley CA 96146,NA,NA,NA,not tested,Tahoe City,Placer County,39.198786,-120.239542
-Western Placer Unified,Creekside Oaks Elementary,2030 First Street Lincoln CA 95648-2173,NA,NA,FALSE,tested,Lincoln,Placer County,38.8876,-121.315937
-Dry Creek Joint Elementary,Creekview Ranch,8779 Cook Riolo Road Roseville CA 95747-9258,NA,NA,FALSE,tested,Roseville,Placer County,38.750423,-121.337023
-Roseville City Elementary,Crestmont Elementary,1501 Sheridan Avenue Roseville CA 95661-5724,NA,NA,FALSE,tested,Roseville,Placer County,38.721979,-121.254155
-Placer Union High,Del Oro High,3301 Taylor Road Loomis CA 95650-9502,NA,NA,FALSE,tested,NA,Placer County,38.828095,-121.188976
-Roseville City Elementary,Diamond Creek Elementary,3151 Hopscotch Way Roseville CA 95747-7163,NA,NA,FALSE,tested,Roseville,Placer County,38.807446,-121.334166
-Auburn Union Elementary,EV Cain 21st Century STEM Charter,150 Palm Avenue Auburn CA 95603-3712,NA,NA,FALSE,tested,Auburn,Placer County,38.906804,-121.078458
-Eureka Union,Excelsior Elementary,2701 Eureka Road Roseville CA 95661-6447,NA,NA,FALSE,tested,Roseville,Placer County,38.737266,-121.238138
-Roseville City Elementary,Ferris Spanger Elementary,699 Shasta Street Roseville CA 95678-1634,NA,NA,FALSE,tested,Roseville,Placer County,38.758228,-121.284331
-Roseville City Elementary,Fiddyment Farm,4001 Brick Mason Circle Roseville CA 95747-4218,NA,NA,FALSE,tested,Roseville,Placer County,38.806211,-121.357605
-Western Placer Unified,First Street,1400 First Street Lincoln CA 95648-1688,NA,NA,FALSE,tested,Lincoln,Placer County,38.887061,-121.3009
-Nevada County Office of Education,Forest Charter - Auburn,11952 Masters Court  Auburn CA 95603,NA,NA,FALSE,tested,NA,Placer County,38.937337,-121.096287
-Nevada County Office of Education,Forest Charter - Foresthll,23221 Forest Hill Road Foresthill CA 95631,NA,NA,FALSE,tested,NA,Placer County,39.014221,-120.837929
-Foresthill Union Elementary,Foresthill Divide,22888 Foresthill Road Foresthill CA 95631-9216,NA,NA,FALSE,tested,NA,Placer County,39.011116,-120.844006
-Placer Union High,Foresthill High,23319 Foresthill Road Foresthill CA 95631-9229,NA,NA,FALSE,tested,NA,Placer County,39.015667,-120.836262
-Western Placer Unified,Foskett Ranch Elementary,1561 Joiner Parkway Lincoln CA 95648-2969,NA,NA,NA,not tested,Lincoln,Placer County,38.906828,-121.317538
-Loomis Union Elementary,Franklin Elementary,7050 Franklin School Road Loomis CA 95650-8952,NA,NA,FALSE,tested,Loomis,Placer County,38.787711,-121.172231
-Roseville City Elementary,George A. Buljan Middle,100 Hallissy Drive Roseville CA 95678-5922,NA,NA,FALSE,tested,Roseville,Placer County,38.778811,-121.301087
-Roseville City Elementary,George Cirby Elementary,814 Darling Way Roseville CA 95678-4419,NA,NA,FALSE,tested,Roseville,Placer County,38.736551,-121.280685
-Roseville City Elementary,George Sargeant Elementary,1200 Ridgecrest Way Roseville CA 95661-7308,NA,NA,FALSE,tested,Roseville,Placer County,38.728778,-121.23776
-Western Placer Unified,Glen Edwards Middle,204 L Street Lincoln CA 95648-1674,NA,NA,FALSE,tested,Lincoln,Placer County,38.889013,-121.299255
-Roseville Joint Union High,Granite Bay High,1 Grizzly Way Granite Bay CA 95746-7194,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731927,-121.211864
-Rocklin Unified,Granite Oaks Middle,2600 Wyckford Drive Rocklin CA 95765-5289,NA,NA,FALSE,tested,Rocklin,Placer County,38.821188,-121.25373
-Eureka Union,Greenhills Elementary,8200 Greenhills Way Granite Bay CA 95746-4300,NA,NA,FALSE,tested,Granite Bay,Placer County,38.750316,-121.216498
-Loomis Union Elementary,H. Clarke Powers Elementary,3296 Humphrey Road Loomis CA 95650-9043,NA,NA,FALSE,tested,NA,Placer County,38.830061,-121.201147
-Newcastle Elementary,Harvest Ridge Cooperative Charter/Placer Academy,9050 Old State Highway Newcastle CA 95658-9515,NA,NA,NA,not tested,NA,Placer County,38.87394,-121.135731
-Dry Creek Joint Elementary,Heritage Oak Elementary,2271 Americana Drive Roseville CA 95747-7688,NA,NA,NA,not tested,Roseville,Placer County,38.757743,-121.314099
-Western Placer Unified,Horizon Charter,2800 Nicolaus Rd Suite 100 Lincoln CA 95648-1757,NA,NA,FALSE,tested,Lincoln,Placer County,38.897697,-121.329428
-Roseville Joint Union High,Independence High (Alternative),125 Berry Street Roseville CA 95678-1310,NA,NA,FALSE,tested,Roseville,Placer County,38.757944,-121.275097
-Roseville City Elementary,Junction Elementary,2150 Ellison Drive Roseville CA 95747-8898,NA,NA,FALSE,tested,Roseville,Placer County,38.777366,-121.365152
-Tahoe-Truckee Unified,Kings Beach Elementary,8125 Steelhead Kings Beach CA 96143-1177,NA,NA,FALSE,tested,NA,Placer County,39.240108,-120.024619
-Western Placer Unified,Lincoln Crossing Elementary,635 Groveland Lane Lincoln CA 95648-8013,NA,NA,FALSE,tested,Lincoln,Placer County,38.878213,-121.304989
-Western Placer Unified,Lincoln High,790 J Street Lincoln CA 95648-1614,NA,NA,FALSE,tested,Lincoln,Placer County,38.894251,-121.298518
-Loomis Union Elementary,Loomis Basin Charter School,5438 Laird Road Loomis CA 95650,NA,NA,FALSE,tested,NA,Placer County,38.789392,-121.17007
-Loomis Union Elementary,Loomis Elementary,3505 Taylor Road Loomis CA 95650-9501,NA,NA,FALSE,tested,NA,Placer County,38.823734,-121.191791
-Placer Union High,Lynn MacDonald Center,3775 Richardson Dr. Auburn CA 95602-9350,NA,NA,FALSE,tested,Auburn,Placer County,38.952328,-121.107814
-Eureka Union,Maidu Elementary,1950 Johnson Ranch Drive Roseville CA 95661-3749,NA,NA,FALSE,tested,Roseville,Placer County,38.738603,-121.247271
-Rocklin Unified,Maria Montessori Charter Academy,1850 Wildcat Boulevard Rocklin CA 95765-5471,NA,NA,FALSE,tested,Rocklin,Placer County,38.822017,-121.285322
-Newcastle Elementary,Newcastle Charter,8951 Valley View Drive Newcastle CA 95658-9723,NA,NA,NA,not tested,NA,Placer County,38.871822,-121.135699
-Newcastle Elementary,Newcastle Elementary,8951 Valley View Drive Newcastle CA 95658-9723,NA,NA,NA,not tested,NA,Placer County,38.871822,-121.135699
-Tahoe-Truckee Unified,North Tahoe High,2945 Polaris Road Tahoe City CA 96145-5099,NA,NA,NA,not tested,Tahoe City,Placer County,39.19504,-120.120499
-Tahoe-Truckee Unified,North Tahoe School,2945 Polaris Rd Tahoe City CA 96145-5099,NA,NA,NA,not tested,Tahoe City,Placer County,39.19504,-120.120499
-Eureka Union,Oakhills Elementary,9233 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731043,-121.206479
-Roseville Joint Union High,Oakmont High,1710 Cirby Way Roseville CA 95661-5520,NA,NA,FALSE,tested,Roseville,Placer County,38.727676,-121.260288
-Eureka Union,Olive Ranch School,5280 Stirling St Granite Bay CA 95746,NA,NA,FALSE,tested,NA,Placer County,38.751934,-121.205048
-Eureka Union,Olympus Junior High,2625 La Croix Drive Roseville CA 95661-3959,NA,NA,FALSE,tested,Roseville,Placer County,38.748001,-121.233866
-Newcastle Elementary,Onorato Educational Center,925 Kentucky Greens Way Newcastle CA 95658,NA,NA,NA,not tested,NA,Placer County,38.868223,-121.138811
-Roseville City Elementary,Orchard Ranch Elementary,4375 Brookstone Dr Roseville CA 95747,NA,NA,FALSE,tested,Roseville,Placer County,38.787647,-121.392368
-Rocklin Unified,Parker Whitney Elementary,5145 Topaz Avenue Rocklin CA 95677-2232,NA,NA,FALSE,tested,Rocklin,Placer County,38.793261,-121.254882
-Private,Pathways Charter School,655 Menlo Dr Rocklin CA 95765,NA,NA,FALSE,tested,Rocklin,Placer County,38.811999,-121.29766
-Loomis Union Elementary,Penryn Elementary,6885 English Colony Way Penryn CA 95663-9531,NA,NA,NA,not tested,NA,Placer County,38.854735,-121.176193
-Western Placer Unified,Phoenix High (Continuation),870 J Street Lincoln CA 95648-1757,NA,NA,FALSE,tested,Lincoln,Placer County,38.896261,-121.296732
-Private,Pine Hills Adventist Academy,13500 Richards Lane Auburn CA 95603,NA,NA,FALSE,tested,Auburn,Placer County,38.941694,-121.063518
-Loomis Union Elementary,Placer Elementary,8650 Horseshoe Bar Road Loomis CA 95650-9777,NA,NA,FALSE,tested,NA,Placer County,38.809474,-121.14265
-Placer Union High,Placer High,275 Orange Street Auburn CA 95603-5115,NA,NA,FALSE,tested,Auburn,Placer County,38.895195,-121.070033
-Private,Placer Learning Center,5477 Eureka Road Granite Bay CA 95746,NA,NA,FALSE,tested,NA,Placer County,38.736379,-121.199001
-Placer Union High,Placer School for Adults,390 Finley Street Auburn CA 95603-5217,NA,NA,NA,not tested,Auburn,Placer County,38.89608,-121.068027
-Dry Creek Joint Elementary,Quail Glen Elementary,1250 Canevari Drive Roseville CA 95747-6833,NA,NA,NA,not tested,Roseville,Placer County,38.773471,-121.334964
-Eureka Union,Ridgeview Elementary,9177 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731801,-121.206785
-Roseville City Elementary,Robert C. Cooley Middle,9300 Prairie Woods Way Roseville CA 95747-7129,NA,NA,FALSE,tested,Roseville,Placer County,38.79522,-121.334106
-Auburn Union Elementary,Rock Creek Elementary,3050 Bell Road Auburn CA 95603-7849,NA,NA,FALSE,tested,NA,Placer County,38.942051,-121.102301
-Rocklin Unified,Rock Creek Elementary,2140 Collet Quarry Drive Rocklin CA 95765-4244,NA,NA,FALSE,tested,Rocklin,Placer County,38.796926,-121.280668
-Rocklin Unified,Rocklin Academy at Meyers Street,5035 Meyers Street Rocklin CA 95677-2811,NA,NA,FALSE,tested,Rocklin,Placer County,38.790461,-121.227804
-Rocklin Unified,Rocklin Academy at Turnstone,6532 Turnstone Way Rocklin CA 95765-5865,NA,NA,NA,not tested,Rocklin,Placer County,38.802455,-121.286131
-Newcastle Elementary,Rocklin Academy Gateway,6550 Lonetree Boulevard Rocklin CA 95765-5874,NA,NA,FALSE,tested,Rocklin,Placer County,38.804056,-121.293697
-Rocklin Unified,Rocklin Elementary,5025 Meyers Street Rocklin CA 95677-2811,NA,NA,FALSE,tested,Rocklin,Placer County,38.791139,-121.228946
-Rocklin Unified,Rocklin High,5301 Victory Lane Rocklin CA 95765-4988,NA,NA,FALSE,tested,Rocklin,Placer County,38.813507,-121.2554
-Rocklin Unified,Rocklin Independent Charter Academy,3250 Victory Drive Rocklin CA 95765-4992,NA,NA,NA,not tested,Rocklin,Placer County,38.815653,-121.255202
-Roseville Joint Union High,Roseville High,1 Tiger Way Roseville CA 95678-1706,NA,NA,FALSE,tested,Roseville,Placer County,38.756372,-121.275839
-Rocklin Unified,Ruhkala Elementary,6530 Turnstone Way Rocklin CA 95765-5865,NA,NA,FALSE,tested,Rocklin,Placer County,38.802264,-121.286176
-Western Placer Unified,Sheridan,4730 H Street Sheridan CA 95681-0268,NA,NA,FALSE,tested,NA,Placer County,38.982552,-121.373576
-Rocklin Unified,Sierra Elementary,6811 Camborne Way Rocklin CA 95677-4484,5.51,ppb,TRUE,tested,Rocklin,Placer County,38.772252,-121.217125
-Dry Creek Joint Elementary,Silverado Middle,2525 Country Club Drive Roseville CA 95747-6009,NA,NA,NA,not tested,Roseville,Placer County,38.757803,-121.326357
-Auburn Union Elementary,Skyridge Elementary,800 Perkins Way Auburn CA 95603-5709,NA,NA,FALSE,tested,Auburn,Placer County,38.875067,-121.072992
-Rocklin Unified,Spring View Middle,5040 Fifth Street Rocklin CA 95677-2322,NA,NA,FALSE,tested,Rocklin,Placer County,38.795097,-121.242007
-Roseville City Elementary,Stoneridge Elementary,2501 Alexandra Drive Roseville CA 95661-4087,NA,NA,FALSE,tested,Roseville,Placer County,38.7583,-121.234265
-Rocklin Unified,Sunset Ranch Elementary,2500 Bridlewood Drive Rocklin CA 95765-5441,NA,NA,FALSE,tested,Rocklin,Placer County,38.827499,-121.27691
-Private,Tahoe Expedition Academy,8561 Speckled Ave Kings Beach CA 96143,NA,NA,FALSE,tested,NA,Placer County,39.243366,-120.023447
-Tahoe-Truckee Unified,Tahoe Lake Elementary,375 Grove Street Tahoe City CA 96161-0856,NA,NA,NA,not tested,NA,Placer County,39.174001,-120.141972
-Roseville City Elementary,Thomas Jefferson Elementary,750 Central Park Drive Roseville CA 95678-3513,NA,NA,FALSE,tested,Roseville,Placer County,38.787235,-121.276642
-Western Placer Unified,Twelve Bridges Elementary,2450 Eastridge Drive Lincoln CA 95648-8282,NA,NA,FALSE,tested,Lincoln,Placer County,38.846299,-121.268643
-Western Placer Unified,Twelve Bridges Middle,770 Westview Drive Lincoln CA 95648-7823,NA,NA,FALSE,tested,Lincoln,Placer County,38.8429,-121.285633
-Rocklin Unified,Twin Oaks Elementary,2835 Club Drive Rocklin CA 95765-4949,NA,NA,FALSE,tested,Rocklin,Placer County,38.809863,-121.266451
-Rocklin Unified,Valley View Elementary,3000 Crest Drive Rocklin CA 95765-5093,NA,NA,FALSE,tested,Rocklin,Placer County,38.815339,-121.24125
-Roseville City Elementary,Vencil Brown Elementary,250 Trestle Drive Roseville CA 95678-5923,NA,NA,FALSE,tested,Roseville,Placer County,38.780524,-121.296263
-Rocklin Unified,Victory High,3250 Victory Dr Rocklin CA 95765-4992,NA,NA,FALSE,tested,Rocklin,Placer County,38.815653,-121.255202
-Roseville City Elementary,Warren T. Eich Middle,1509 Sierra Gardens Drive Roseville CA 95661-4804,NA,NA,FALSE,tested,Roseville,Placer County,38.737333,-121.261418
-Placer Hills Union Elementary,Weimar Hills,200 West Weimar Crossroad Weimar CA 95736-0255,5.42,ppb,TRUE,tested,Colfax,Placer County,39.044044,-120.977798
-Rocklin Unified,Western Sierra Collegiate Academy,660 Menlo Drive Rocklin CA 95765-3713,NA,NA,FALSE,tested,Rocklin,Placer County,38.812052,-121.297875
-Rocklin Unified,Whitney High,701 Wildcat Boulevard Rocklin CA 95765-5469,6.245,ppb,TRUE,tested,Rocklin,Placer County,38.819924,-121.281609
-Roseville City Elementary,William Kaseberg Elementary,1040 Main Street Roseville CA 95678-2067,NA,NA,FALSE,tested,Roseville,Placer County,38.752721,-121.304023
-Eureka Union,Willma Cavitt Junior High,7200 Fuller Drive Granite Bay CA 95746-6247,5.1,ppb,TRUE,tested,NA,Placer County,38.739944,-121.166279
-Center Joint Unified,Wilson C. Riles Middle,4747 PFE Road Roseville CA 95747-9776,NA,NA,FALSE,tested,Roseville,Placer County,38.729233,-121.32159
-Roseville Joint Union High,Woodcreek High,2551 Woodcreek Oaks Boulevard Roseville CA 95747-6074,NA,NA,FALSE,tested,Roseville,Placer County,38.762233,-121.333884
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Roseville Joint Union High,Adelante High (Continuation),350 Atlantic Street Roseville CA 95678-1849,,,False,tested,Roseville,Placer County,38.75286,-121.280166,
+Auburn Union Elementary,Alta Vista Community Charter,173 Oak Street Auburn CA 95603-4318,,,False,tested,Auburn,Placer County,38.908487,-121.063474,
+Alta-Dutch Flat Union Elementary,Alta-Dutch Flat Elementary,34050 Alta-Bonny Nook Road Alta CA 95701-9999,,,False,tested,,Placer County,39.207595,-120.809017,
+Rocklin Unified,Antelope Creek Elementary,6185 Springview Drive Rocklin CA 95677-2900,,,False,tested,Rocklin,Placer County,38.777744,-121.25728400000001,
+Auburn Union Elementary,Auburn Elementary,11400 Lariat Ranch Road Auburn CA 95603-5001,,,False,tested,,Placer County,38.932565999999994,-121.102957,
+Roseville City Elementary,Barbara Chilton Middle,4501 Bob Doyle Drive Roseville CA 95747-9048,,,False,tested,Roseville,Placer County,38.777173,-121.37205700000001,
+Roseville City Elementary,Blue Oaks Elementary,8150 Horncastle Avenue Roseville CA 95747-6773,,,False,tested,Roseville,Placer County,38.783825,-121.331171,
+Ackerman Charter,Bowman Charter,13777 Bowman Road Auburn CA 95603-3147,,,False,tested,Auburn,Placer County,38.935346,-121.05608899999999,
+Roseville City Elementary,Bradford Woodbridge Fundamental Elementary,515 Niles Avenue Roseville CA 95678-1543,,,False,tested,Roseville,Placer County,38.756233,-121.28983400000001,
+Rocklin Unified,Breen Elementary,2751 Breen Drive Rocklin CA 95765-5158,,,False,tested,Rocklin,Placer County,38.818613,-121.261178,
+Western Placer Unified,Carlin C. Coppin Elementary,150 12th Street Lincoln CA 95648-2058,,,False,tested,Lincoln,Placer County,38.901707,-121.28433999999999,
+Roseville City Elementary,Catheryn Gates Elementary,1051 Trehowell Drive Roseville CA 95678-6108,,,False,tested,Roseville,Placer County,38.775849,-121.28085,
+Rocklin Unified,Cobblestone Elementary,5740 Cobblestone Drive Rocklin CA 95765-4193,,,False,tested,Rocklin,Placer County,38.801955,-121.263752,
+Colfax Elementary,Colfax Elementary,24825 Ben Taylor Road Colfax CA 95713-9553,,,False,tested,Colfax,Placer County,39.104417,-120.962892,
+Placer Union High,Colfax High,24995 Ben Taylor Road Colfax CA 95713-9556,5.98,ppb,True,tested,Colfax,Placer County,39.107284,-120.965928,6.38
+Dry Creek Joint Elementary,Coyote Ridge Elementary,1751 Morning Star Drive Roseville CA 95747-4975,,,,not tested,Roseville,Placer County,38.759318,-121.35393400000001,
+Newcastle Elementary,Creekside Charter,1916 Chamonix Place Olympic Valley CA 96146,,,,not tested,Tahoe City,Placer County,39.198786,-120.23954199999999,
+Western Placer Unified,Creekside Oaks Elementary,2030 First Street Lincoln CA 95648-2173,,,False,tested,Lincoln,Placer County,38.8876,-121.315937,
+Dry Creek Joint Elementary,Creekview Ranch,8779 Cook Riolo Road Roseville CA 95747-9258,,,False,tested,Roseville,Placer County,38.750423,-121.337023,
+Roseville City Elementary,Crestmont Elementary,1501 Sheridan Avenue Roseville CA 95661-5724,,,False,tested,Roseville,Placer County,38.721979,-121.25415500000001,
+Placer Union High,Del Oro High,3301 Taylor Road Loomis CA 95650-9502,,,False,tested,,Placer County,38.828095000000005,-121.188976,
+Roseville City Elementary,Diamond Creek Elementary,3151 Hopscotch Way Roseville CA 95747-7163,,,False,tested,Roseville,Placer County,38.807446,-121.334166,
+Auburn Union Elementary,EV Cain 21st Century STEM Charter,150 Palm Avenue Auburn CA 95603-3712,,,False,tested,Auburn,Placer County,38.906804,-121.07845800000001,
+Eureka Union,Excelsior Elementary,2701 Eureka Road Roseville CA 95661-6447,,,False,tested,Roseville,Placer County,38.737266,-121.23813799999999,
+Roseville City Elementary,Ferris Spanger Elementary,699 Shasta Street Roseville CA 95678-1634,,,False,tested,Roseville,Placer County,38.758228,-121.28433100000001,
+Roseville City Elementary,Fiddyment Farm,4001 Brick Mason Circle Roseville CA 95747-4218,,,False,tested,Roseville,Placer County,38.806211,-121.357605,
+Western Placer Unified,First Street,1400 First Street Lincoln CA 95648-1688,,,False,tested,Lincoln,Placer County,38.887060999999996,-121.3009,
+Nevada County Office of Education,Forest Charter - Auburn,11952 Masters Court  Auburn CA 95603,,,False,tested,,Placer County,38.937337,-121.09628700000002,
+Nevada County Office of Education,Forest Charter - Foresthll,23221 Forest Hill Road Foresthill CA 95631,,,False,tested,,Placer County,39.014221,-120.837929,
+Foresthill Union Elementary,Foresthill Divide,22888 Foresthill Road Foresthill CA 95631-9216,,,False,tested,,Placer County,39.011115999999994,-120.84400600000001,
+Placer Union High,Foresthill High,23319 Foresthill Road Foresthill CA 95631-9229,,,False,tested,,Placer County,39.015667,-120.836262,
+Western Placer Unified,Foskett Ranch Elementary,1561 Joiner Parkway Lincoln CA 95648-2969,,,,not tested,Lincoln,Placer County,38.906828000000004,-121.31753799999998,
+Loomis Union Elementary,Franklin Elementary,7050 Franklin School Road Loomis CA 95650-8952,,,False,tested,Loomis,Placer County,38.787711,-121.17223100000001,
+Roseville City Elementary,George A. Buljan Middle,100 Hallissy Drive Roseville CA 95678-5922,,,False,tested,Roseville,Placer County,38.778811,-121.30108700000001,
+Roseville City Elementary,George Cirby Elementary,814 Darling Way Roseville CA 95678-4419,,,False,tested,Roseville,Placer County,38.736551,-121.280685,
+Roseville City Elementary,George Sargeant Elementary,1200 Ridgecrest Way Roseville CA 95661-7308,,,False,tested,Roseville,Placer County,38.728778000000005,-121.23776000000001,
+Western Placer Unified,Glen Edwards Middle,204 L Street Lincoln CA 95648-1674,,,False,tested,Lincoln,Placer County,38.889013,-121.299255,
+Roseville Joint Union High,Granite Bay High,1 Grizzly Way Granite Bay CA 95746-7194,,,False,tested,Granite Bay,Placer County,38.731927,-121.21186399999999,
+Rocklin Unified,Granite Oaks Middle,2600 Wyckford Drive Rocklin CA 95765-5289,,,False,tested,Rocklin,Placer County,38.821188,-121.25373,
+Eureka Union,Greenhills Elementary,8200 Greenhills Way Granite Bay CA 95746-4300,,,False,tested,Granite Bay,Placer County,38.750316,-121.216498,
+Loomis Union Elementary,H. Clarke Powers Elementary,3296 Humphrey Road Loomis CA 95650-9043,,,False,tested,,Placer County,38.830061,-121.20114699999999,
+Newcastle Elementary,Harvest Ridge Cooperative Charter/Placer Academy,9050 Old State Highway Newcastle CA 95658-9515,,,,not tested,,Placer County,38.873940000000005,-121.135731,
+Dry Creek Joint Elementary,Heritage Oak Elementary,2271 Americana Drive Roseville CA 95747-7688,,,,not tested,Roseville,Placer County,38.757743,-121.314099,
+Western Placer Unified,Horizon Charter,2800 Nicolaus Rd Suite 100 Lincoln CA 95648-1757,,,False,tested,Lincoln,Placer County,38.897696999999994,-121.32942800000001,
+Roseville Joint Union High,Independence High (Alternative),125 Berry Street Roseville CA 95678-1310,,,False,tested,Roseville,Placer County,38.757944,-121.275097,
+Roseville City Elementary,Junction Elementary,2150 Ellison Drive Roseville CA 95747-8898,,,False,tested,Roseville,Placer County,38.777366,-121.365152,
+Tahoe-Truckee Unified,Kings Beach Elementary,8125 Steelhead Kings Beach CA 96143-1177,,,False,tested,,Placer County,39.240108,-120.024619,
+Western Placer Unified,Lincoln Crossing Elementary,635 Groveland Lane Lincoln CA 95648-8013,,,False,tested,Lincoln,Placer County,38.878213,-121.30498899999999,
+Western Placer Unified,Lincoln High,790 J Street Lincoln CA 95648-1614,,,False,tested,Lincoln,Placer County,38.894251000000004,-121.29851799999999,
+Loomis Union Elementary,Loomis Basin Charter School,5438 Laird Road Loomis CA 95650,,,False,tested,,Placer County,38.789392,-121.17007,
+Loomis Union Elementary,Loomis Elementary,3505 Taylor Road Loomis CA 95650-9501,,,False,tested,,Placer County,38.823734,-121.191791,
+Placer Union High,Lynn MacDonald Center,3775 Richardson Dr. Auburn CA 95602-9350,,,False,tested,Auburn,Placer County,38.952328,-121.10781399999999,
+Eureka Union,Maidu Elementary,1950 Johnson Ranch Drive Roseville CA 95661-3749,,,False,tested,Roseville,Placer County,38.738603000000005,-121.247271,
+Rocklin Unified,Maria Montessori Charter Academy,1850 Wildcat Boulevard Rocklin CA 95765-5471,,,False,tested,Rocklin,Placer County,38.822016999999995,-121.285322,
+Newcastle Elementary,Newcastle Charter,8951 Valley View Drive Newcastle CA 95658-9723,,,,not tested,,Placer County,38.871821999999995,-121.135699,
+Newcastle Elementary,Newcastle Elementary,8951 Valley View Drive Newcastle CA 95658-9723,,,,not tested,,Placer County,38.871821999999995,-121.135699,
+Tahoe-Truckee Unified,North Tahoe High,2945 Polaris Road Tahoe City CA 96145-5099,,,,not tested,Tahoe City,Placer County,39.195040000000006,-120.120499,
+Tahoe-Truckee Unified,North Tahoe School,2945 Polaris Rd Tahoe City CA 96145-5099,,,,not tested,Tahoe City,Placer County,39.195040000000006,-120.120499,
+Eureka Union,Oakhills Elementary,9233 Twin School Road Granite Bay CA 95746-7100,,,False,tested,Granite Bay,Placer County,38.731043,-121.206479,
+Roseville Joint Union High,Oakmont High,1710 Cirby Way Roseville CA 95661-5520,,,False,tested,Roseville,Placer County,38.727676,-121.26028799999999,
+Eureka Union,Olive Ranch School,5280 Stirling St Granite Bay CA 95746,,,False,tested,,Placer County,38.751934000000006,-121.205048,
+Eureka Union,Olympus Junior High,2625 La Croix Drive Roseville CA 95661-3959,,,False,tested,Roseville,Placer County,38.748001,-121.23386599999999,
+Newcastle Elementary,Onorato Educational Center,925 Kentucky Greens Way Newcastle CA 95658,,,,not tested,,Placer County,38.868223,-121.138811,
+Roseville City Elementary,Orchard Ranch Elementary,4375 Brookstone Dr Roseville CA 95747,,,False,tested,Roseville,Placer County,38.787647,-121.39236799999999,
+Rocklin Unified,Parker Whitney Elementary,5145 Topaz Avenue Rocklin CA 95677-2232,,,False,tested,Rocklin,Placer County,38.793261,-121.25488200000001,
+Private,Pathways Charter School,655 Menlo Dr Rocklin CA 95765,,,False,tested,Rocklin,Placer County,38.811999,-121.29766000000001,
+Loomis Union Elementary,Penryn Elementary,6885 English Colony Way Penryn CA 95663-9531,,,,not tested,,Placer County,38.854735,-121.176193,
+Western Placer Unified,Phoenix High (Continuation),870 J Street Lincoln CA 95648-1757,,,False,tested,Lincoln,Placer County,38.896260999999996,-121.296732,
+Private,Pine Hills Adventist Academy,13500 Richards Lane Auburn CA 95603,,,False,tested,Auburn,Placer County,38.941694,-121.06351799999999,
+Loomis Union Elementary,Placer Elementary,8650 Horseshoe Bar Road Loomis CA 95650-9777,,,False,tested,,Placer County,38.809474,-121.14265,
+Placer Union High,Placer High,275 Orange Street Auburn CA 95603-5115,,,False,tested,Auburn,Placer County,38.895195,-121.07003300000001,
+Private,Placer Learning Center,5477 Eureka Road Granite Bay CA 95746,,,False,tested,,Placer County,38.736379,-121.199001,
+Placer Union High,Placer School for Adults,390 Finley Street Auburn CA 95603-5217,,,,not tested,Auburn,Placer County,38.89608,-121.068027,
+Dry Creek Joint Elementary,Quail Glen Elementary,1250 Canevari Drive Roseville CA 95747-6833,,,,not tested,Roseville,Placer County,38.773471,-121.33496399999999,
+Eureka Union,Ridgeview Elementary,9177 Twin School Road Granite Bay CA 95746-7100,,,False,tested,Granite Bay,Placer County,38.731801000000004,-121.20678500000001,
+Roseville City Elementary,Robert C. Cooley Middle,9300 Prairie Woods Way Roseville CA 95747-7129,,,False,tested,Roseville,Placer County,38.79522,-121.334106,
+Auburn Union Elementary,Rock Creek Elementary,3050 Bell Road Auburn CA 95603-7849,,,False,tested,,Placer County,38.942051,-121.102301,
+Rocklin Unified,Rock Creek Elementary,2140 Collet Quarry Drive Rocklin CA 95765-4244,,,False,tested,Rocklin,Placer County,38.796926,-121.28066799999999,
+Rocklin Unified,Rocklin Academy at Meyers Street,5035 Meyers Street Rocklin CA 95677-2811,,,False,tested,Rocklin,Placer County,38.790461,-121.227804,
+Rocklin Unified,Rocklin Academy at Turnstone,6532 Turnstone Way Rocklin CA 95765-5865,,,,not tested,Rocklin,Placer County,38.802455,-121.28613100000001,
+Newcastle Elementary,Rocklin Academy Gateway,6550 Lonetree Boulevard Rocklin CA 95765-5874,,,False,tested,Rocklin,Placer County,38.804056,-121.293697,
+Rocklin Unified,Rocklin Elementary,5025 Meyers Street Rocklin CA 95677-2811,,,False,tested,Rocklin,Placer County,38.791139,-121.228946,
+Rocklin Unified,Rocklin High,5301 Victory Lane Rocklin CA 95765-4988,,,False,tested,Rocklin,Placer County,38.813507,-121.2554,
+Rocklin Unified,Rocklin Independent Charter Academy,3250 Victory Drive Rocklin CA 95765-4992,,,,not tested,Rocklin,Placer County,38.815653000000005,-121.255202,
+Roseville Joint Union High,Roseville High,1 Tiger Way Roseville CA 95678-1706,,,False,tested,Roseville,Placer County,38.756372,-121.27583899999999,
+Rocklin Unified,Ruhkala Elementary,6530 Turnstone Way Rocklin CA 95765-5865,,,False,tested,Rocklin,Placer County,38.802264,-121.286176,
+Western Placer Unified,Sheridan,4730 H Street Sheridan CA 95681-0268,,,False,tested,,Placer County,38.982552,-121.373576,
+Rocklin Unified,Sierra Elementary,6811 Camborne Way Rocklin CA 95677-4484,5.51,ppb,True,tested,Rocklin,Placer County,38.772252,-121.217125,5.51
+Dry Creek Joint Elementary,Silverado Middle,2525 Country Club Drive Roseville CA 95747-6009,,,,not tested,Roseville,Placer County,38.757803,-121.326357,
+Auburn Union Elementary,Skyridge Elementary,800 Perkins Way Auburn CA 95603-5709,,,False,tested,Auburn,Placer County,38.875067,-121.072992,
+Rocklin Unified,Spring View Middle,5040 Fifth Street Rocklin CA 95677-2322,,,False,tested,Rocklin,Placer County,38.795097,-121.242007,
+Roseville City Elementary,Stoneridge Elementary,2501 Alexandra Drive Roseville CA 95661-4087,,,False,tested,Roseville,Placer County,38.7583,-121.234265,
+Rocklin Unified,Sunset Ranch Elementary,2500 Bridlewood Drive Rocklin CA 95765-5441,,,False,tested,Rocklin,Placer County,38.827498999999996,-121.27691000000002,
+Private,Tahoe Expedition Academy,8561 Speckled Ave Kings Beach CA 96143,,,False,tested,,Placer County,39.243365999999995,-120.02344699999999,
+Tahoe-Truckee Unified,Tahoe Lake Elementary,375 Grove Street Tahoe City CA 96161-0856,,,,not tested,,Placer County,39.174001000000004,-120.141972,
+Roseville City Elementary,Thomas Jefferson Elementary,750 Central Park Drive Roseville CA 95678-3513,,,False,tested,Roseville,Placer County,38.787234999999995,-121.276642,
+Western Placer Unified,Twelve Bridges Elementary,2450 Eastridge Drive Lincoln CA 95648-8282,,,False,tested,Lincoln,Placer County,38.846299,-121.268643,
+Western Placer Unified,Twelve Bridges Middle,770 Westview Drive Lincoln CA 95648-7823,,,False,tested,Lincoln,Placer County,38.8429,-121.285633,
+Rocklin Unified,Twin Oaks Elementary,2835 Club Drive Rocklin CA 95765-4949,,,False,tested,Rocklin,Placer County,38.809863,-121.266451,
+Rocklin Unified,Valley View Elementary,3000 Crest Drive Rocklin CA 95765-5093,,,False,tested,Rocklin,Placer County,38.815339,-121.24125,
+Roseville City Elementary,Vencil Brown Elementary,250 Trestle Drive Roseville CA 95678-5923,,,False,tested,Roseville,Placer County,38.780524,-121.29626299999998,
+Rocklin Unified,Victory High,3250 Victory Dr Rocklin CA 95765-4992,,,False,tested,Rocklin,Placer County,38.815653000000005,-121.255202,
+Roseville City Elementary,Warren T. Eich Middle,1509 Sierra Gardens Drive Roseville CA 95661-4804,,,False,tested,Roseville,Placer County,38.737333,-121.26141799999999,
+Placer Hills Union Elementary,Weimar Hills,200 West Weimar Crossroad Weimar CA 95736-0255,5.42,ppb,True,tested,Colfax,Placer County,39.044044,-120.97779799999999,5.42
+Rocklin Unified,Western Sierra Collegiate Academy,660 Menlo Drive Rocklin CA 95765-3713,,,False,tested,Rocklin,Placer County,38.812052,-121.297875,
+Rocklin Unified,Whitney High,701 Wildcat Boulevard Rocklin CA 95765-5469,6.245,ppb,True,tested,Rocklin,Placer County,38.819924,-121.281609,6.63
+Roseville City Elementary,William Kaseberg Elementary,1040 Main Street Roseville CA 95678-2067,,,False,tested,Roseville,Placer County,38.752721,-121.304023,
+Eureka Union,Willma Cavitt Junior High,7200 Fuller Drive Granite Bay CA 95746-6247,5.1,ppb,True,tested,,Placer County,38.739944,-121.166279,5.1
+Center Joint Unified,Wilson C. Riles Middle,4747 PFE Road Roseville CA 95747-9776,,,False,tested,Roseville,Placer County,38.729233,-121.32158999999999,
+Roseville Joint Union High,Woodcreek High,2551 Woodcreek Oaks Boulevard Roseville CA 95747-6074,,,False,tested,Roseville,Placer County,38.762233,-121.33388400000001,

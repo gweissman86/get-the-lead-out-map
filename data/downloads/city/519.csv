@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-West Sonoma County Union High,Analy High,6950 Analy Avenue Sebastopol CA 95472-3401,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.406771,-122.826114
-Sebastopol Union Elementary,Brook Haven Elementary,7905 Valentine Avenue Sebastopol CA 95472-3214,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.402173,-122.83699
-West Sonoma County Union High,Laguna High,445 Taft Street Sebastopol CA 95472-3443,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.405996,-122.823829
-Sebastopol Union Elementary,Park Side Elementary,7450 Bodega Avenue Sebastopol CA 95472-3651,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.400683,-122.827837
-Twin Hills Union Elementary,Sunridge Charter,7285 Hayden Avenue Sebastopol CA 95472-4359,NA,NA,FALSE,tested,Sebastopol,Sonoma County,38.393823,-122.822038
-West Sonoma County Union High,West Sonoma County Consortium,462 Johnson Street Sebastopol CA 95472-3431,11,ppb,TRUE,tested,Sebastopol,Sonoma County,38.406654,-122.822328
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+West Sonoma County Union High,Analy High,6950 Analy Avenue Sebastopol CA 95472-3401,,,False,tested,Sebastopol,Sonoma County,38.406771,-122.82611399999999,
+Sebastopol Union Elementary,Brook Haven Elementary,7905 Valentine Avenue Sebastopol CA 95472-3214,,,False,tested,Sebastopol,Sonoma County,38.402173,-122.83698999999999,
+West Sonoma County Union High,Laguna High,445 Taft Street Sebastopol CA 95472-3443,,,False,tested,Sebastopol,Sonoma County,38.405996,-122.823829,
+Sebastopol Union Elementary,Park Side Elementary,7450 Bodega Avenue Sebastopol CA 95472-3651,,,False,tested,Sebastopol,Sonoma County,38.400683,-122.82783700000002,
+Twin Hills Union Elementary,Sunridge Charter,7285 Hayden Avenue Sebastopol CA 95472-4359,,,False,tested,Sebastopol,Sonoma County,38.393823,-122.82203799999999,
+West Sonoma County Union High,West Sonoma County Consortium,462 Johnson Street Sebastopol CA 95472-3431,11.0,ppb,True,tested,Sebastopol,Sonoma County,38.406653999999996,-122.822328,11.0

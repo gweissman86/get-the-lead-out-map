@@ -1,4 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Calipatria Unified,Bill E. Young Jr. Middle,220 South International Boulevard Calipatria CA 92233-9724,NA,NA,FALSE,tested,Calipatria,Imperial County,33.123896,-115.518988
-Calipatria Unified,Calipatria High,601 West Main Street Calipatria CA 92233-9787,NA,NA,FALSE,tested,Calipatria,Imperial County,33.12568,-115.525085
-Calipatria Unified,Fremont Primary,401 West Main Street Calipatria CA 92233-9787,NA,NA,FALSE,tested,Calipatria,Imperial County,33.125774,-115.51901
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Beaumont Unified,Beaumont Senior High,39139 Cherry Valley Blvd Beaumont CA 92223-4484,,,False,tested,Calimesa,Riverside County,33.96167,-117.036723,
+Beaumont Unified,Brookside Elementary,38755 Brookside Avenue Beaumont CA 92223-4244,,,False,tested,Calimesa,Riverside County,33.961375,-116.985504,
+Yucaipa-Calimesa Joint Unified,Mesa View Middle,800 Mustang Way Calimesa CA 92399-1080,,,False,tested,Calimesa,Riverside County,33.997409999999995,-117.069558,
+Beaumont Unified,Tournament Hills Elementary,36611 Champions Drive Beaumont CA 92223-9712,,,False,tested,Calimesa,Riverside County,33.954064,-117.02623200000001,

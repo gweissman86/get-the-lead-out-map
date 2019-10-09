@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Duarte Unified,Andres Duarte Elementary,1433 Crestfield Drive Duarte CA 91010-2206,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.137539,-117.951761
-Duarte Unified,Beardslee Elementary,1212 East Kellwil Way Duarte CA 91010-3322,6.2,ppb,TRUE,tested,Duarte,Los Angeles County,34.128622,-117.979284
-Duarte Unified,Duarte High,1565 East Central Avenue Duarte CA 91010-2505,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.135927,-117.984322
-Duarte Unified,Maxwell Elementary,733 Euclid Avenue Duarte CA 91010-3114,6.3,ppb,TRUE,tested,Duarte,Los Angeles County,34.128346,-117.990237
-Duarte Unified,Mt. Olive Innovation and Technology High,1400 Mount Olive Drive Duarte CA 91010-2675,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.137441,-117.955533
-Duarte Unified,Royal Oaks Elementary,2499 Royal Oaks Drive Duarte CA 91010-2148,11,ppb,TRUE,tested,Duarte,Los Angeles County,34.143486,-117.951692
-Duarte Unified,Valley View Elementary,237 Melcanyon Road Duarte CA 91010-1528,NA,NA,FALSE,tested,Duarte,Los Angeles County,34.149443,-117.940287
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Duarte Unified,Andres Duarte Elementary,1433 Crestfield Drive Duarte CA 91010-2206,,,False,tested,Duarte,Los Angeles County,34.137539000000004,-117.951761,
+Duarte Unified,Beardslee Elementary,1212 East Kellwil Way Duarte CA 91010-3322,6.2,ppb,True,tested,Duarte,Los Angeles County,34.128622,-117.979284,6.2
+Duarte Unified,Duarte High,1565 East Central Avenue Duarte CA 91010-2505,,,False,tested,Duarte,Los Angeles County,34.135927,-117.98432199999999,
+Duarte Unified,Maxwell Elementary,733 Euclid Avenue Duarte CA 91010-3114,6.3,ppb,True,tested,Duarte,Los Angeles County,34.128346,-117.99023700000001,6.3
+Duarte Unified,Mt. Olive Innovation and Technology High,1400 Mount Olive Drive Duarte CA 91010-2675,,,False,tested,Duarte,Los Angeles County,34.137440999999995,-117.955533,
+Duarte Unified,Royal Oaks Elementary,2499 Royal Oaks Drive Duarte CA 91010-2148,11.0,ppb,True,tested,Duarte,Los Angeles County,34.143485999999996,-117.951692,11.0
+Duarte Unified,Valley View Elementary,237 Melcanyon Road Duarte CA 91010-1528,,,False,tested,Duarte,Los Angeles County,34.149443,-117.94028700000001,

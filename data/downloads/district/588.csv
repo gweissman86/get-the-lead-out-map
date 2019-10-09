@@ -1,16 +1,16 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pittsburg Unified,Black Diamond High (Continuation),1131 Stoneman Avenue Pittsburg CA 94565-5466,NA,NA,FALSE,tested,NA,Contra Costa County,38.003175,-121.874172
-Pittsburg Unified,Foothill Elementary,1200 Jensen Drive Pittsburg CA 94565-6399,NA,NA,FALSE,tested,NA,Contra Costa County,37.995443,-121.876417
-Pittsburg Unified,Heights Elementary,163 Alturas Avenue Pittsburg CA 94565-5883,NA,NA,FALSE,tested,NA,Contra Costa County,38.007723,-121.896989
-Pittsburg Unified,Highlands Elementary,4141 Harbor Street Pittsburg CA 94565-6199,NA,NA,FALSE,tested,NA,Contra Costa County,38.025839,-121.878565
-Pittsburg Unified,Hillview Junior High,333 Yosemite Drive Pittsburg CA 94565-5285,NA,NA,FALSE,tested,NA,Contra Costa County,38.002692,-121.888554
-Pittsburg Unified,Los Medanos Elementary,610 Crowley Avenue Pittsburg CA 94565-4798,NA,NA,FALSE,tested,NA,Contra Costa County,38.01552,-121.898808
-Pittsburg Unified,Marina Vista Elementary,50 East Eighth Street Pittsburg CA 94565-2442,NA,NA,FALSE,tested,Pittsburg,Contra Costa County,38.029197,-121.885819
-Pittsburg Unified,Martin Luther King Jr. Junior High,2012 Carion Court Pittsburg CA 94565-4116,NA,NA,FALSE,tested,Pittsburg,Contra Costa County,38.015113,-121.87077
-Pittsburg Unified,Parkside Elementary,985 West 17th Street Pittsburg CA 94565-3716,6.7,ppb,TRUE,tested,NA,Contra Costa County,38.022733,-121.898544
-Pittsburg Unified,Pittsburg Adult Education Center,20 East 10th Street Pittsburg CA 94565-2599,7.7,ppb,TRUE,tested,NA,Contra Costa County,38.028085,-121.886147
-Pittsburg Unified,Pittsburg Senior High,1750 Harbor Street Pittsburg CA 94565-4615,NA,NA,FALSE,tested,NA,Contra Costa County,38.019479,-121.881436
-Pittsburg Unified,Rancho Medanos Junior High,2301 Range Road Pittsburg CA 94565-5495,NA,NA,FALSE,tested,NA,Contra Costa County,38.024525,-121.918119
-Pittsburg Unified,Stoneman Elementary,2929 Loveridge Road Pittsburg CA 94565-5132,NA,NA,FALSE,tested,NA,Contra Costa County,38.006843,-121.8713
-Pittsburg Unified,Willow Cove Elementary,1880 Hanlon Way Pittsburg CA 94565-3835,NA,NA,FALSE,tested,NA,Contra Costa County,38.023023,-121.92719
-Pittsburg Unified,Youth Development Center,1001 Stoneman Ave Pittsburg CA 94565,NA,NA,FALSE,tested,NA,Contra Costa County,38.003891,-121.877803
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pittsburg Unified,Black Diamond High (Continuation),1131 Stoneman Avenue Pittsburg CA 94565-5466,,,False,tested,,Contra Costa County,38.003175,-121.874172,
+Pittsburg Unified,Foothill Elementary,1200 Jensen Drive Pittsburg CA 94565-6399,,,False,tested,,Contra Costa County,37.995443,-121.87641699999999,
+Pittsburg Unified,Heights Elementary,163 Alturas Avenue Pittsburg CA 94565-5883,,,False,tested,,Contra Costa County,38.007723,-121.89698899999999,
+Pittsburg Unified,Highlands Elementary,4141 Harbor Street Pittsburg CA 94565-6199,,,False,tested,,Contra Costa County,38.025839000000005,-121.878565,
+Pittsburg Unified,Hillview Junior High,333 Yosemite Drive Pittsburg CA 94565-5285,,,False,tested,,Contra Costa County,38.002691999999996,-121.888554,
+Pittsburg Unified,Los Medanos Elementary,610 Crowley Avenue Pittsburg CA 94565-4798,,,False,tested,,Contra Costa County,38.01552,-121.898808,
+Pittsburg Unified,Marina Vista Elementary,50 East Eighth Street Pittsburg CA 94565-2442,,,False,tested,Pittsburg,Contra Costa County,38.029196999999996,-121.885819,
+Pittsburg Unified,Martin Luther King Jr. Junior High,2012 Carion Court Pittsburg CA 94565-4116,,,False,tested,Pittsburg,Contra Costa County,38.015113,-121.87077,
+Pittsburg Unified,Parkside Elementary,985 West 17th Street Pittsburg CA 94565-3716,6.7,ppb,True,tested,,Contra Costa County,38.022733,-121.898544,6.7
+Pittsburg Unified,Pittsburg Adult Education Center,20 East 10th Street Pittsburg CA 94565-2599,7.7,ppb,True,tested,,Contra Costa County,38.028085,-121.886147,7.7
+Pittsburg Unified,Pittsburg Senior High,1750 Harbor Street Pittsburg CA 94565-4615,,,False,tested,,Contra Costa County,38.019479,-121.88143600000001,
+Pittsburg Unified,Rancho Medanos Junior High,2301 Range Road Pittsburg CA 94565-5495,,,False,tested,,Contra Costa County,38.024525,-121.91811899999999,
+Pittsburg Unified,Stoneman Elementary,2929 Loveridge Road Pittsburg CA 94565-5132,,,False,tested,,Contra Costa County,38.006842999999996,-121.8713,
+Pittsburg Unified,Willow Cove Elementary,1880 Hanlon Way Pittsburg CA 94565-3835,,,False,tested,,Contra Costa County,38.023022999999995,-121.92719,
+Pittsburg Unified,Youth Development Center,1001 Stoneman Ave Pittsburg CA 94565,,,False,tested,,Contra Costa County,38.003890999999996,-121.877803,

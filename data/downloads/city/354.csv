@@ -1,10 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Monterey County Office of Education,Bay View Academy,222 Casa Verde Avenue Monterey CA 93940-3753,8,ppb,TRUE,tested,Monterey,Monterey County,36.60116,-121.866979
-Big Sur Unified,Big Sur Charter,135 Webster Street Monterey CA 93940-3119,NA,NA,FALSE,tested,Monterey,Monterey County,36.596087,-121.894659
-Big Sur Unified,Big Sur Charter,304 Foam Street Monterey CA 93940-3119,NA,NA,NA,not tested,Monterey,Monterey County,36.611168,-121.898599
-Monterey Peninsula Unified,Foothill Elementary,1700 Via Casoli Monterey CA 93940-6442,NA,NA,FALSE,tested,Monterey,Monterey County,36.577727,-121.855128
-Monterey Peninsula Unified,La Mesa Elementary,1 La Mesa Way Monterey CA 93940-4894,NA,NA,FALSE,tested,Monterey,Monterey County,36.58165,-121.879046
-Monterey Peninsula Unified,Monte Vista,251 Soledad Drive Monterey CA 93940-4848,NA,NA,FALSE,tested,Monterey,Monterey County,36.589033,-121.90781
-Monterey Peninsula Unified,Monterey High,101 Herrmann Drive Monterey CA 93940-2538,6,ppb,TRUE,tested,Monterey,Monterey County,36.595115,-121.900182
-Private,Trinity Christian High School,601 East Franklin Street Monterey CA 93940,NA,NA,FALSE,tested,Monterey,Monterey County,36.599119,-121.888798
-Monterey Peninsula Unified,Walter Colton,100 Toda Vista Drive Monterey CA 93940-4237,6,ppb,TRUE,tested,Monterey,Monterey County,36.591627,-121.91333
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Private,El Montecito,1455 E Valley Rd Montecito CA 93108,,,False,tested,Montecito,Santa Barbara County,34.436553,-119.634165,
+Private,Laguna Blanca School,260 San Ysidro Rd Montecito CA 93108,,,False,tested,Montecito,Santa Barbara County,34.428022999999996,-119.631018,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Summerville Elementary,Summerville Elementary,18451 Carter Street Tuolumne CA 95379-9715,6.5,ppb,TRUE,tested,NA,Tuolumne County,37.958063,-120.236151
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Summerville Elementary,Summerville Elementary,18451 Carter Street Tuolumne CA 95379-9715,6.5,ppb,True,tested,,Tuolumne County,37.958063,-120.236151,6.5

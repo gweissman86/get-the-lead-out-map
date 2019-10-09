@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Oro Grande Elementary,Mojave River Academy,16519 Victor Street Suite 404 Victorville CA 92395-3968,NA,NA,NA,not tested,Victorville,San Bernardino County,34.521162,-117.303947
-Oro Grande Elementary,Oro Grande Elementary,19175 Third Street Oro Grande CA 92368-0386,NA,NA,FALSE,tested,Oro Grande,San Bernardino County,34.598429,-117.332307
-Oro Grande Elementary,Riverside Preparatory,19900 National Trial HWY Oro Grande CA 92368,NA,NA,FALSE,tested,Oro Grande,San Bernardino County,34.595649,-117.336536
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Oro Grande Elementary,Mojave River Academy,16519 Victor Street Suite 404 Victorville CA 92395-3968,,,,not tested,Victorville,San Bernardino County,34.521162,-117.303947,
+Oro Grande Elementary,Oro Grande Elementary,19175 Third Street Oro Grande CA 92368-0386,,,False,tested,Oro Grande,San Bernardino County,34.598428999999996,-117.332307,
+Oro Grande Elementary,Riverside Preparatory,19900 National Trial HWY Oro Grande CA 92368,,,False,tested,Oro Grande,San Bernardino County,34.595649,-117.33653600000001,

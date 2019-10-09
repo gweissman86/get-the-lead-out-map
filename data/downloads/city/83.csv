@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Camptonville Elementary,Camptonville Elementary,16585 School Street Camptonville CA 95922-0278,NA,NA,FALSE,tested,Camptonville,Yuba County,39.452922,-121.048917
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Mountain Empire Unified,Camp Lockett Middle School,957 Forrest Gate Road Campo CA 91906,,,,not tested,Campo,San Diego County,32.608693,-116.473431,

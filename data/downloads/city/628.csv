@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Yucaipa-Calimesa Joint Unified,Calimesa Elementary,13523 Second Street Yucaipa CA 92399-5339,NA,NA,FALSE,tested,Yucaipa,San Bernardino County,34.007883,-117.042262
-Yucaipa-Calimesa Joint Unified,Oak View High School & Education Center,12358 Sixth Street Yucaipa CA 92399-2423,6.2,ppb,TRUE,tested,Yucaipa,San Bernardino County,34.029098,-117.062169
-Yucaipa-Calimesa Joint Unified,Valley Elementary,12333 Eighth Street Yucaipa CA 92399-2157,NA,NA,FALSE,tested,Yucaipa,San Bernardino County,34.029798,-117.069091
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Yucaipa-Calimesa Joint Unified,Calimesa Elementary,13523 Second Street Yucaipa CA 92399-5339,,,False,tested,Yucaipa,San Bernardino County,34.007883,-117.04226200000001,
+Yucaipa-Calimesa Joint Unified,Oak View High School & Education Center,12358 Sixth Street Yucaipa CA 92399-2423,6.2,ppb,True,tested,Yucaipa,San Bernardino County,34.029098,-117.062169,6.6
+Yucaipa-Calimesa Joint Unified,Valley Elementary,12333 Eighth Street Yucaipa CA 92399-2157,,,False,tested,Yucaipa,San Bernardino County,34.029798,-117.06909099999999,

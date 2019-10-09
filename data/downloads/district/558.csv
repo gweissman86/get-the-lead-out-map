@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pacific Elementary,Pacific Elementary,50 Ocean Street Davenport CA 95017,NA,NA,NA,not tested,NA,Santa Cruz County,37.01176,-122.194613
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pacific Elementary,Pacific Elementary,50 Ocean Street Davenport CA 95017,,,,not tested,,Santa Cruz County,37.011759999999995,-122.19461299999999,

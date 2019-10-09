@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Burton Elementary,Burton Elementary,2375 West Morton Street Porterville CA 93257-2557,NA,NA,FALSE,tested,Porterville,Tulare County,36.072343,-119.068666
-Burton Elementary,Burton Middle,1155 North Elderwood Street Porterville CA 93257-9089,5.6,ppb,TRUE,tested,Porterville,Tulare County,36.085283,-119.076495
-Burton Elementary,Jim Maples Academy,252 North Westwood Porterville CA 93257-2542,NA,NA,FALSE,tested,Porterville,Tulare County,36.071229,-119.071002
-Burton Elementary,Oak Grove Elementary,1873 West Mulberry Avenue Porterville CA 93257-6602,NA,NA,FALSE,tested,Porterville,Tulare County,36.083067,-119.059646
-Burton Elementary,Summit Charter Academy,175 South Mathew Street Porterville CA 93257-2710,NA,NA,FALSE,tested,Porterville,Tulare County,36.063019,-119.062606
-Burton Elementary,William R. Buckley Elementary,2573 West Westfield Avenue Porterville CA 93257-9067,NA,NA,FALSE,tested,Porterville,Tulare County,36.086621,-119.07411
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Burton Elementary,Burton Elementary,2375 West Morton Street Porterville CA 93257-2557,,,False,tested,Porterville,Tulare County,36.072343,-119.068666,
+Burton Elementary,Burton Middle,1155 North Elderwood Street Porterville CA 93257-9089,5.6,ppb,True,tested,Porterville,Tulare County,36.085283000000004,-119.076495,5.6
+Burton Elementary,Jim Maples Academy,252 North Westwood Porterville CA 93257-2542,,,False,tested,Porterville,Tulare County,36.071228999999995,-119.07100200000001,
+Burton Elementary,Oak Grove Elementary,1873 West Mulberry Avenue Porterville CA 93257-6602,,,False,tested,Porterville,Tulare County,36.083067,-119.059646,
+Burton Elementary,Summit Charter Academy,175 South Mathew Street Porterville CA 93257-2710,,,False,tested,Porterville,Tulare County,36.063019,-119.062606,
+Burton Elementary,William R. Buckley Elementary,2573 West Westfield Avenue Porterville CA 93257-9067,,,False,tested,Porterville,Tulare County,36.086621,-119.07411,

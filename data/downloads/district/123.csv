@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Castle Rock Union Elementary,Castle Rock Elementary,29373 Main Street Castella CA 96017-0180,19,ppb,TRUE,tested,NA,Shasta County,41.140087,-122.31807
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Castle Rock Union Elementary,Castle Rock Elementary,29373 Main Street Castella CA 96017-0180,19.0,ppb,True,tested,,Shasta County,41.140087,-122.31806999999999,19.0

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-New Hope Elementary,New Hope Elementary,26675 North Sacramento Boulevard Thornton CA 95686-0238,NA,NA,FALSE,tested,Thornton,San Joaquin County,38.229601,-121.424821
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+New Hope Elementary,New Hope Elementary,26675 North Sacramento Boulevard Thornton CA 95686-0238,,,False,tested,Thornton,San Joaquin County,38.229601,-121.424821,

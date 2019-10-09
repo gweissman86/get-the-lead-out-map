@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hornbrook Elementary,Hornbrook Elementary,15430 Oregon Rd. 15430 Oregon Road Hornbrook CA 96044-0169,NA,NA,FALSE,tested,Hornbrook,Siskiyou County,41.911134,-122.561297
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hornbrook Elementary,Hornbrook Elementary,15430 Oregon Rd. 15430 Oregon Road Hornbrook CA 96044-0169,,,False,tested,Hornbrook,Siskiyou County,41.911134000000004,-122.561297,

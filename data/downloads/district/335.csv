@@ -1,20 +1,20 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Jefferson Elementary,Anthony C. Traina Elementary,4256 Windsong Drive Tracy CA 95377-8739,NA,NA,NA,not tested,Tracy,San Joaquin County,37.700297,-121.443223
-Jefferson Elementary,Benjamin Franklin Intermediate,700 Stewart Avenue Colma CA 94015-3519,6.1,ppb,TRUE,tested,Broadmoor,San Mateo County,37.695055,-122.482228
-Jefferson Elementary,Daniel Webster Elementary,425 El Dorado Drive Daly City CA 94015-2126,NA,NA,FALSE,tested,Daly City,San Mateo County,37.678935,-122.47798
-Jefferson Elementary,Fernando Rivera Intermediate,1255 Southgate Avenue Daly City CA 94015-3920,NA,NA,FALSE,tested,Daly City,San Mateo County,37.676562,-122.486301
-Jefferson Elementary,Franklin Delano Roosevelt Elementary,1200 Skyline Drive Daly City CA 94015-4728,NA,NA,FALSE,tested,Daly City,San Mateo County,37.66221,-122.488089
-Jefferson Elementary,Garden Village Elementary,208 Garden Lane Colma CA 94015-1628,NA,NA,FALSE,tested,Daly City,San Mateo County,37.694383,-122.477992
-Jefferson Elementary,General Pershing Elementary,631 Hanover Street Daly City CA 94014,NA,NA,FALSE,tested,Daly City,San Mateo County,37.70678,-122.449863
-Jefferson Elementary,George Washington Elementary,251 Whittier Street Daly City CA 94014-1337,NA,NA,FALSE,tested,Daly City,San Mateo County,37.707234,-122.44657
-Jefferson Elementary,Jefferson,7500 West Linne Road Tracy CA 95304-9278,NA,NA,NA,not tested,Tracy,San Joaquin County,37.695034,-121.396679
-Jefferson Elementary,John F. Kennedy Elementary,785 Price Street Daly City CA 94014-2163,6.65,ppb,TRUE,tested,Daly City,San Mateo County,37.694731,-122.456485
-Jefferson Elementary,Margaret Pauline Brown Elementary,305 Eastmoor Avenue Daly City CA 94015-2038,13,ppb,TRUE,tested,Daly City,San Mateo County,37.684717,-122.478034
-Jefferson Elementary,Marjorie H. Tobias Elementary,725 Southgate Avenue Daly City CA 94015-3659,9.6,ppb,TRUE,tested,Daly City,San Mateo County,37.692535,-122.491001
-Jefferson Elementary,Monticello Elementary,1001 Cambridge Place Tracy CA 95377-7500,NA,NA,NA,not tested,Tracy,San Joaquin County,37.707201,-121.437799
-Jefferson Elementary,Susan B. Anthony Elementary,575 Abbot Avenue Daly City CA 94014-2774,NA,NA,FALSE,tested,Daly City,San Mateo County,37.688841,-122.458067
-Jefferson Elementary,Thomas Edison Elementary,1267 Southgate Avenue Daly City CA 94015-3920,NA,NA,FALSE,tested,Daly City,San Mateo County,37.6762,-122.485406
-Jefferson Elementary,Thomas R. Pollicita Middle,550 East Market Street Daly City CA 94014-2103,NA,NA,FALSE,tested,Daly City,San Mateo County,37.690416,-122.459888
-Jefferson Elementary,Tom Hawkins Elementary,475 Darlene Lane Tracy CA 95377-7039,NA,NA,NA,not tested,Tracy,San Joaquin County,37.705326,-121.419475
-Jefferson Elementary,Westlake Elementary,80 Fieldcrest Drive Daly City CA 94015-1004,NA,NA,FALSE,tested,Daly City,San Mateo County,37.705293,-122.480047
-Jefferson Elementary,Woodrow Wilson Elementary,43 Miriam Street Daly City CA 94014-3814,NA,NA,FALSE,tested,Daly City,San Mateo County,37.704164,-122.465247
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Jefferson Elementary,Anthony C. Traina Elementary,4256 Windsong Drive Tracy CA 95377-8739,,,,not tested,Tracy,San Joaquin County,37.700297,-121.443223,
+Jefferson Elementary,Benjamin Franklin Intermediate,700 Stewart Avenue Colma CA 94015-3519,6.1,ppb,True,tested,Broadmoor,San Mateo County,37.695054999999996,-122.482228,6.1
+Jefferson Elementary,Daniel Webster Elementary,425 El Dorado Drive Daly City CA 94015-2126,,,False,tested,Daly City,San Mateo County,37.678934999999996,-122.47798,
+Jefferson Elementary,Fernando Rivera Intermediate,1255 Southgate Avenue Daly City CA 94015-3920,,,False,tested,Daly City,San Mateo County,37.676562,-122.486301,
+Jefferson Elementary,Franklin Delano Roosevelt Elementary,1200 Skyline Drive Daly City CA 94015-4728,,,False,tested,Daly City,San Mateo County,37.662209999999995,-122.48808899999999,
+Jefferson Elementary,Garden Village Elementary,208 Garden Lane Colma CA 94015-1628,,,False,tested,Daly City,San Mateo County,37.694383,-122.47799199999999,
+Jefferson Elementary,General Pershing Elementary,631 Hanover Street Daly City CA 94014,,,False,tested,Daly City,San Mateo County,37.70678,-122.449863,
+Jefferson Elementary,George Washington Elementary,251 Whittier Street Daly City CA 94014-1337,,,False,tested,Daly City,San Mateo County,37.707234,-122.44657,
+Jefferson Elementary,Jefferson,7500 West Linne Road Tracy CA 95304-9278,,,,not tested,Tracy,San Joaquin County,37.695034,-121.396679,
+Jefferson Elementary,John F. Kennedy Elementary,785 Price Street Daly City CA 94014-2163,6.65,ppb,True,tested,Daly City,San Mateo County,37.694731,-122.45648500000001,7.3
+Jefferson Elementary,Margaret Pauline Brown Elementary,305 Eastmoor Avenue Daly City CA 94015-2038,13.0,ppb,True,tested,Daly City,San Mateo County,37.684717,-122.47803400000001,13.0
+Jefferson Elementary,Marjorie H. Tobias Elementary,725 Southgate Avenue Daly City CA 94015-3659,9.6,ppb,True,tested,Daly City,San Mateo County,37.692535,-122.491001,15.0
+Jefferson Elementary,Monticello Elementary,1001 Cambridge Place Tracy CA 95377-7500,,,,not tested,Tracy,San Joaquin County,37.707201,-121.437799,
+Jefferson Elementary,Susan B. Anthony Elementary,575 Abbot Avenue Daly City CA 94014-2774,,,False,tested,Daly City,San Mateo County,37.688841,-122.45806699999999,
+Jefferson Elementary,Thomas Edison Elementary,1267 Southgate Avenue Daly City CA 94015-3920,,,False,tested,Daly City,San Mateo County,37.6762,-122.48540600000001,
+Jefferson Elementary,Thomas R. Pollicita Middle,550 East Market Street Daly City CA 94014-2103,,,False,tested,Daly City,San Mateo County,37.690416,-122.45988799999999,
+Jefferson Elementary,Tom Hawkins Elementary,475 Darlene Lane Tracy CA 95377-7039,,,,not tested,Tracy,San Joaquin County,37.705326,-121.419475,
+Jefferson Elementary,Westlake Elementary,80 Fieldcrest Drive Daly City CA 94015-1004,,,False,tested,Daly City,San Mateo County,37.705293,-122.480047,
+Jefferson Elementary,Woodrow Wilson Elementary,43 Miriam Street Daly City CA 94014-3814,,,False,tested,Daly City,San Mateo County,37.704164,-122.46524699999999,

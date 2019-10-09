@@ -1,4 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cloverdale Unified,Cloverdale High and Adult,509 North Cloverdale Blvd Cloverdale CA 95425-3324,NA,NA,NA,not tested,Cloverdale,Sonoma County,38.811033,-123.021372
-Cloverdale Unified,Jefferson Elementary,315 North Street Cloverdale CA 95425-3251,NA,NA,NA,not tested,Cloverdale,Sonoma County,38.811783,-123.024802
-Cloverdale Unified,Washington,129 South Washington Street Cloverdale CA 95425-3620,NA,NA,NA,not tested,Cloverdale,Sonoma County,38.802821,-123.018398
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Konocti Unified,Burns Valley,3620 Pine Street Clearlake CA 95422-6420,,,False,tested,Clearlake,Lake County,38.960014,-122.64465600000001,
+Lake County Office of Education,Clearlake Creativity,6945 Old Highway 53 Clearlake CA 95422-9381,5.5,ppb,True,tested,Clearlake,Lake County,38.932679,-122.62465,5.5
+Konocti Unified,Konocti Education Center,15850-A Dam Road Extention Clearlake CA 95422,,,False,tested,Clearlake,Lake County,38.93383,-122.61547,
+Konocti Unified,Pomo,3350 Acacia Street Clearlake CA 95422-7110,,,,not tested,Clearlake,Lake County,38.972044,-122.64988799999999,

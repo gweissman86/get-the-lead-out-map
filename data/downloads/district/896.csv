@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Yuba County Office of Education,Harry P B Carden,1023 14th Street Marysville CA 95901-4149,NA,NA,NA,not tested,NA,Yuba County,39.149713,-121.599768
-Yuba County Office of Education,Thomas E. Mathews Community,1010 I Street Marysville CA 95901-5132,NA,NA,FALSE,tested,NA,Yuba County,39.145972,-121.597618
-Yuba County Office of Education,Virginia School,801 Olive St Wheatland CA 95692,NA,NA,FALSE,tested,NA,Yuba County,39.014561,-121.417799
-Yuba County Office of Education,Yuba County Career Preparatory Charter,1104 E Street Marysville CA 95901-4825,NA,NA,FALSE,tested,NA,Yuba County,39.147097,-121.59164
-Yuba County Office of Education,Yuba County Special Education,935 14th Street Marysville CA 95901-4149,NA,NA,NA,not tested,NA,Yuba County,39.149826,-121.598426
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Yuba County Office of Education,Harry P B Carden,1023 14th Street Marysville CA 95901-4149,,,,not tested,,Yuba County,39.149713,-121.599768,
+Yuba County Office of Education,Thomas E. Mathews Community,1010 I Street Marysville CA 95901-5132,,,False,tested,,Yuba County,39.145972,-121.597618,
+Yuba County Office of Education,Virginia School,801 Olive St Wheatland CA 95692,,,False,tested,,Yuba County,39.014561,-121.417799,
+Yuba County Office of Education,Yuba County Career Preparatory Charter,1104 E Street Marysville CA 95901-4825,,,False,tested,,Yuba County,39.147096999999995,-121.59163999999998,
+Yuba County Office of Education,Yuba County Special Education,935 14th Street Marysville CA 95901-4149,,,,not tested,,Yuba County,39.149826000000004,-121.598426,

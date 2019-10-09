@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Stony Creek Joint Unified,Elk Creek Elementary,3430 County Rd 309 Elk Creek CA 95939-0068,NA,NA,FALSE,tested,NA,Glenn County,39.612559,-122.578426
-Stony Creek Joint Unified,Elk Creek Junior-Senior High,3430 County Rod 309 Elk Creek CA 95939-9708,11.3,ppb,TRUE,tested,Elk Creek,Glenn County,39.607093,-122.538884
-Stony Creek Joint Unified,Indian Valley Elementary,5180 Lodoga Stonyford Road Stonyford CA 95979,NA,NA,NA,not tested,NA,Colusa County,39.380669,-122.551007
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Stony Creek Joint Unified,Elk Creek Elementary,3430 County Rd 309 Elk Creek CA 95939-0068,,,False,tested,,Glenn County,39.612559000000005,-122.57842600000001,
+Stony Creek Joint Unified,Elk Creek Junior-Senior High,3430 County Rod 309 Elk Creek CA 95939-9708,11.3,ppb,True,tested,Elk Creek,Glenn County,39.607093,-122.53888400000001,11.3
+Stony Creek Joint Unified,Indian Valley Elementary,5180 Lodoga Stonyford Road Stonyford CA 95979,,,,not tested,,Colusa County,39.380669,-122.55100700000001,

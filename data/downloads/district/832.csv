@@ -1,18 +1,18 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ukiah Unified,Accelerated Achievement Academy,1031 North State Street Ukiah CA 95482-3413,NA,NA,FALSE,tested,NA,Mendocino County,39.162756,-123.210065
-Ukiah Unified,Calpella Elementary,151 Moore Street Ukiah CA 95482-9547,NA,NA,FALSE,tested,Ukiah,Mendocino County,39.233857,-123.205838
-Ukiah Unified,Eagle Peak Middle,8601 West Road Redwood Valley CA 95470-9584,NA,NA,FALSE,tested,Redwood Valley,Mendocino County,39.267553,-123.21925
-Ukiah Unified,Frank Zeek Elementary,1060 North Bush Street Ukiah CA 95482-3865,5.3,ppb,TRUE,tested,NA,Mendocino County,39.161391,-123.214681
-Ukiah Unified,Grace Hudson Elementary,251 Jefferson Lane Ukiah CA 95482-6617,NA,NA,FALSE,tested,NA,Mendocino County,39.12365,-123.209002
-Ukiah Unified,Nokomis Elementary,495 Washington Street Ukiah CA 95482-6324,8.4,ppb,TRUE,tested,Ukiah,Mendocino County,39.133976,-123.213885
-Ukiah Unified,Oak Manor Elementary,400 Oak Manor Drive Ukiah CA 95482-5120,9.3,ppb,TRUE,tested,NA,Mendocino County,39.148326,-123.192402
-Ukiah Unified,Pomolita Middle,740 North Spring Street Ukiah CA 95482-3937,NA,NA,FALSE,tested,NA,Mendocino County,39.155012,-123.21605
-Ukiah Unified,Preschool Village,1100 North Bush St. Ukiah CA 95482,NA,NA,NA,not tested,NA,Mendocino County,39.16453,-123.215176
-Ukiah Unified,Redwood Academy of Ukiah,1059 North State Street Ukiah CA 95482-3413,NA,NA,FALSE,tested,NA,Mendocino County,39.163613,-123.210315
-Ukiah Unified,River Oak Charter,555 Leslie Street Ukiah CA 95482-5507,NA,NA,FALSE,tested,NA,Mendocino County,39.146852,-123.201263
-Ukiah Unified,South Valley High (Continuation),445 South Dora Street Ukiah CA 95482-4753,5.9,ppb,TRUE,tested,NA,Mendocino County,39.146888,-123.211715
-Ukiah Unified,Tree of Life Charter,241 Ford Road Ukiah CA 95482-3440,9.65,ppb,TRUE,tested,NA,Mendocino County,39.167254,-123.201734
-Ukiah Unified,Ukiah Adult,1056 North Bush Street Ukiah CA 95482-3737,7.45,ppb,TRUE,tested,NA,Mendocino County,39.16129,-123.214657
-Ukiah Unified,Ukiah High,1000 Low Gap Road Ukiah CA 95482-3737,NA,NA,FALSE,tested,NA,Mendocino County,39.160668,-123.217925
-Ukiah Unified,Ukiah Independent Study Academy,1000 Low Gap Road B Ukiah CA 95482-3737,NA,NA,FALSE,tested,NA,Mendocino County,39.160668,-123.217925
-Ukiah Unified,Yokayo Elementary,790 South Dora Street Ukiah CA 95482-5348,9,ppb,TRUE,tested,NA,Mendocino County,39.144524,-123.211097
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ukiah Unified,Accelerated Achievement Academy,1031 North State Street Ukiah CA 95482-3413,,,False,tested,,Mendocino County,39.162756,-123.21006499999999,
+Ukiah Unified,Calpella Elementary,151 Moore Street Ukiah CA 95482-9547,,,False,tested,Ukiah,Mendocino County,39.233857,-123.20583799999999,
+Ukiah Unified,Eagle Peak Middle,8601 West Road Redwood Valley CA 95470-9584,,,False,tested,Redwood Valley,Mendocino County,39.267553,-123.21925,
+Ukiah Unified,Frank Zeek Elementary,1060 North Bush Street Ukiah CA 95482-3865,5.3,ppb,True,tested,,Mendocino County,39.161390999999995,-123.214681,5.3
+Ukiah Unified,Grace Hudson Elementary,251 Jefferson Lane Ukiah CA 95482-6617,,,False,tested,,Mendocino County,39.12365,-123.209002,
+Ukiah Unified,Nokomis Elementary,495 Washington Street Ukiah CA 95482-6324,8.4,ppb,True,tested,Ukiah,Mendocino County,39.133976000000004,-123.213885,8.4
+Ukiah Unified,Oak Manor Elementary,400 Oak Manor Drive Ukiah CA 95482-5120,9.3,ppb,True,tested,,Mendocino County,39.148326000000004,-123.192402,9.3
+Ukiah Unified,Pomolita Middle,740 North Spring Street Ukiah CA 95482-3937,,,False,tested,,Mendocino County,39.155012,-123.21605,
+Ukiah Unified,Preschool Village,1100 North Bush St. Ukiah CA 95482,,,,not tested,,Mendocino County,39.16453,-123.215176,
+Ukiah Unified,Redwood Academy of Ukiah,1059 North State Street Ukiah CA 95482-3413,,,False,tested,,Mendocino County,39.163613,-123.210315,
+Ukiah Unified,River Oak Charter,555 Leslie Street Ukiah CA 95482-5507,,,False,tested,,Mendocino County,39.146852,-123.20126299999998,
+Ukiah Unified,South Valley High (Continuation),445 South Dora Street Ukiah CA 95482-4753,5.9,ppb,True,tested,,Mendocino County,39.146888,-123.21171499999998,5.9
+Ukiah Unified,Tree of Life Charter,241 Ford Road Ukiah CA 95482-3440,9.65,ppb,True,tested,,Mendocino County,39.167254,-123.201734,11.0
+Ukiah Unified,Ukiah Adult,1056 North Bush Street Ukiah CA 95482-3737,7.45,ppb,True,tested,,Mendocino County,39.16129,-123.214657,8.9
+Ukiah Unified,Ukiah High,1000 Low Gap Road Ukiah CA 95482-3737,,,False,tested,,Mendocino County,39.160668,-123.217925,
+Ukiah Unified,Ukiah Independent Study Academy,1000 Low Gap Road B Ukiah CA 95482-3737,,,False,tested,,Mendocino County,39.160668,-123.217925,
+Ukiah Unified,Yokayo Elementary,790 South Dora Street Ukiah CA 95482-5348,9.0,ppb,True,tested,,Mendocino County,39.144524,-123.211097,9.0

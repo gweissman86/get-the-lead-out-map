@@ -1,20 +1,20 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-ABC Unified,ABC Adult,12254 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878895,-118.071268
-ABC Unified,Bragg Elementary,11501 Bos Street Cerritos CA 90703-6742,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.856177,-118.089485
-ABC Unified,Carmenita Middle,13435 East 166th Street Cerritos CA 90703-2301,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.880378,-118.071542
-ABC Unified,Carver (Charles J.) Elementary,19200 East Ely Street Cerritos CA 90703-7157,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.85614,-118.0686
-ABC Unified,Cerritos Elementary,13600 East 183rd Street Cerritos CA 90703-8951,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.865148,-118.041165
-ABC Unified,Cerritos High,12500 East 183rd Street Cerritos CA 90703-8450,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.865404,-118.064576
-Los Angeles Unified,District Offices,16700 Norwalk Blvd Cerritos  CA 90703,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.879699,-118.072594
-ABC Unified,Elliott (William F) Elementary,18415 Cortner Avenue Artesia CA 90703-8402,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.864728,-118.070246
-ABC Unified,Gahr (Richard) High,11111 Artesia Boulevard Cerritos CA 90703-2533,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.874873,-118.096358
-ABC Unified,Gonsalves (Joe A.) Elementary,13650 Park Street Cerritos CA 90703-1413,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878637,-118.041282
-ABC Unified,Haskell (Pliny Fisk) Middle,11525 Del Amo Boulevard Cerritos CA 90703-7404,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.848096,-118.087857
-ABC Unified,Leal (Frank C.) Elementary,12920 Droxford Street Cerritos CA 90703-6068,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.861074,-118.056689
-ABC Unified,Nixon (Patricia) Elementary,19600 Jacob Avenue Cerritos CA 90703-7526,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.852771,-118.07646
-Los Angeles Unified,Nutritional Services 083,12255 Cuesta Drive Cerritos CA 90703,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.879076,-118.071317
-ABC Unified,Stowers(Cecil B.) Elementary,13350 Beach Street Cerritos CA 90703-1331,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.876433,-118.047499
-ABC Unified,Tetzlaff (Martin B.) Middle,12351 East Del Amo Boulevard Cerritos CA 90703-7635,NA,NA,NA,not tested,Cerritos,Los Angeles County,33.847002,-118.068975
-ABC Unified,Tracy (Wilbur) High (Continuation),12222 Cuesta Drive Cerritos CA 90703-2801,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.87894,-118.072014
-ABC Unified,Whitney (Gretchen) High,16800 Shoemaker Avenue Cerritos CA 90703-1244,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.877783,-118.053555
-ABC Unified,Wittmann (Helen) Elementary,16801 Yvette Avenue Cerritos CA 90703-1245,NA,NA,FALSE,tested,Cerritos,Los Angeles County,33.878112,-118.057171
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ceres Unified,Argus High (Continuation),2555 Lawrence Street Ceres CA 95307-0307,,,False,tested,Ceres,Stanislaus County,37.590540999999995,-120.948315,
+Ceres Unified,Blaker-Kinser Junior High,1601 Kinser Road Ceres CA 95307-0307,,,False,tested,Ceres,Stanislaus County,37.591274,-120.96861499999999,
+Ceres Unified,Carroll Fowler Elementary,2611 Garrison Street Ceres CA 95307-2736,,,False,tested,Ceres,Stanislaus County,37.598782,-120.946149,
+Ceres Unified,Caswell Elementary,1800 North Central Avenue Ceres CA 95307-1807,,,False,tested,Ceres,Stanislaus County,37.602540999999995,-120.95688500000001,
+Ceres Unified,Central Valley High,4033 Central Avenue Ceres CA 95307-7507,,,False,tested,Ceres,Stanislaus County,37.579741999999996,-120.95701499999998,
+Ceres Unified,Ceres High,2320 Central Avenue Ceres CA 95307-2502,,,False,tested,Ceres,Stanislaus County,37.596394000000004,-120.95680800000001,
+Ceres Unified,Cesar Chavez Junior High,2701 Eastgate Boulevard Ceres CA 95307-5054,7.0,ppb,True,tested,Ceres,Stanislaus County,37.594429,-120.926767,7.0
+Ceres Unified,Don Pedro Elementary,2300 Don Pedro Road Ceres CA 95307-4134,,,False,tested,Ceres,Stanislaus County,37.582869,-120.953424,
+Ceres Unified,Hanline Elementary,4231 Central Avenue Ceres CA 95307,,,False,tested,Ceres,Stanislaus County,37.576985,-120.957052,
+Ceres Unified,Joel J. Hidahl Elementary,2351 East Redwood Road Ceres CA 95307-5052,,,False,tested,Ceres,Stanislaus County,37.574692,-120.95356399999999,
+Ceres Unified,La Rosa Elementary,2800 Eastgate Boulevard Ceres CA 95307-5053,,,False,tested,Ceres,Stanislaus County,37.594429,-120.926767,
+Ceres Unified,Lucas Elementary,3500 Rose Avenue Ceres CA 95307-3865,,,False,tested,Ceres,Stanislaus County,37.597625,-120.94328300000001,
+Ceres Unified,Mae Hensley Junior High,1806 Moffet Road Ceres CA 95307-1936,,,False,tested,Ceres,Stanislaus County,37.603246999999996,-120.947519,
+Ceres Unified,Patricia Kay Beaver Elementary,4927 Central Avenue Ceres CA 95307,,,False,tested,Ceres,Stanislaus County,37.566796999999994,-120.957168,
+Ceres Unified,Samuel Vaughn Elementary,3618 Helen Perry Road Ceres CA 95307-7456,5.3,ppb,True,tested,Ceres,Stanislaus County,37.602038,-120.92320500000001,5.3
+Ceres Unified,Sinclear Elementary,1211 Hackett Road Ceres CA 95307-7357,,,False,tested,Ceres,Stanislaus County,37.587906,-120.975619,
+Modesto City Elementary,Tuolumne Elementary,707 Herndon Road Modesto CA 95351-4210,,,False,tested,Ceres,Stanislaus County,37.619721000000006,-120.97542299999999,
+Ceres Unified,Walter White Elementary,2904 Sixth Street Ceres CA 95307-3336,,,False,tested,Ceres,Stanislaus County,37.591736,-120.950418,
+Ceres Unified,Whitmore Charter School of Art & Technology,3435 Don Pedro  Ceres CA 95307-9436,,,False,tested,Ceres,Stanislaus County,37.584514,-120.93309199999999,

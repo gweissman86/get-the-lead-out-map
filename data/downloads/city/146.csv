@@ -1,11 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pomona Unified,Armstrong Elementary,22750 Beaverhead Drive Diamond Bar CA 91765-1566,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,34.021402,-117.818467
-Walnut Valley Unified,Castle Rock Elementary,2975 Castle Rock Road Diamond Bar CA 91765-3420,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.972052,-117.844052
-Walnut Valley Unified,Chaparral Middle,1408 South Spruce Tree Drive Diamond Bar CA 91765-2571,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.996586,-117.816904
-Walnut Valley Unified,Diamond Bar High,21400 Pathfinder Road Diamond Bar CA 91765-2747,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.981287,-117.838918
-Pomona Unified,Diamond Point Elementary,24150 Sunset Crossing Road Diamond Bar CA 91765-1454,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,34.033054,-117.797028
-Pomona Unified,Golden Springs Elementary,245 South Ballena Drive Diamond Bar CA 91765-1758,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,34.024664,-117.801441
-Pomona Unified,Lorbeer Middle,501 Diamond Bar Boulevard Diamond Bar CA 91765-2002,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.98688,-117.824332
-Walnut Valley Unified,Maple Hill Elementary,1350 Maple Hill Road Diamond Bar CA 91765-2436,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.996775,-117.824794
-Pomona Unified,Pantera Elementary,801 Pantera Drive Diamond Bar CA 91765-4637,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,34.010807,-117.790964
-Walnut Valley Unified,Quail Summit Elementary,23330 East Quail Summit Drive Diamond Bar CA 91765-3031,NA,NA,NA,not tested,Diamond Bar,Los Angeles County,33.995744,-117.811082
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Palm Springs Unified,Bella Vista Elementary,65750 Avenida Jalisco Desert Hot Springs CA 92240-1674,,,False,tested,Desert Hot Springs,Riverside County,33.981446000000005,-116.51213200000001,
+Palm Springs Unified,Bubbling Wells Elementary,67501 Camino Campanero Desert Hot Springs CA 92240-6869,,,False,tested,Desert Hot Springs,Riverside County,33.939465999999996,-116.49094099999999,
+Palm Springs Unified,Cabot Yerxa Elementary,67067 Desert View Desert Hot Springs CA 92240-4103,,,False,tested,Desert Hot Springs,Riverside County,33.957195,-116.49140600000001,
+Palm Springs Unified,Desert Hot Springs High,65850 Pierson Boulevard Desert Hot Springs CA 92240-3000,,,False,tested,Desert Hot Springs,Riverside County,33.964513000000004,-116.51758600000001,
+Palm Springs Unified,Desert Springs Middle,66 755 Two Bunch Palms Trail Desert Hot Springs CA 92240-5775,,,False,tested,Desert Hot Springs,Riverside County,33.945008,-116.496948,
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr.  Desert Hot Springs CA 92240,,,False,tested,Desert Hot Springs,Riverside County,33.96396,-116.51033600000001,
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr. Desert Hot Springs CA 92240,,,,not tested,Desert Hot Springs,Riverside County,33.963584999999995,-116.510251,
+Palm Springs Unified,Julius Corsini Elementary,68750 Hacienda Drive Desert Hot Springs CA 92240-6551,,,False,tested,Desert Hot Springs,Riverside County,33.950192,-116.46068400000001,
+Palm Springs Unified,Painted Hills Middle,9250 Sonora Drive Desert Hot Springs CA 92240-1585,,,False,tested,Desert Hot Springs,Riverside County,33.982803000000004,-116.52143899999999,
+Palm Springs Unified,Two Bunch Palms Elementary,14250 West Drive Desert Hot Springs CA 92240-5655,,,False,tested,Desert Hot Springs,Riverside County,33.945459,-116.510049,

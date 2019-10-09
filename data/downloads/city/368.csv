@@ -1,13 +1,13 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Nevada City Elementary,Deer Creek Elementary,805 Lindley Avenue Nevada City CA 95959-2911,NA,NA,FALSE,tested,Nevada City,Nevada County,39.25092,-121.028265
-Nevada City Elementary,Earle Jamieson Educational Options,112 Nevada City Highway Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.244827,-121.030694
-Nevada County Office of Education,Forest Charter - Nevada City,470 Searls Avenue Nevada City CA 95959-3030,NA,NA,NA,not tested,Nevada City,Nevada County,39.255202,-121.023546
-Nevada City Elementary,Nevada City Charter,750 Hoover Lane Nevada City CA 95959-2910,NA,NA,NA,not tested,Nevada City,Nevada County,39.255395,-121.031433
-Nevada City Elementary,Nevada City Elementary SAEL,505 Main Street Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.265183,-121.018906
-Nevada County Office of Education,Nevada County Special Education,400 Hoover Lane Nevada City CA 95959-2944,NA,NA,NA,not tested,Nevada City,Nevada County,39.253893,-121.031605
-Nevada Joint Union High,Nevada Union High,11761 Ridge Road B Grass Valley CA 95945-5025,NA,NA,FALSE,tested,Nevada City,Nevada County,39.240002,-121.05492
-Nevada City Elementary,Seven Hills Intermediate,700 Hoover Lane Nevada City CA 95959-2910,NA,NA,FALSE,tested,Nevada City,Nevada County,39.254828,-121.030036
-Nevada City Elementary,Terence K. McAteer Center,400 Hoover Ln Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.253893,-121.031605
-Nevada County Office of Education,Twin Ridges Home Study Charter,111 New Mohawk Road Nevada City CA 95959-3226,NA,NA,NA,not tested,Nevada City,Nevada County,39.248259,-121.016083
-Nevada City Elementary,Twin Ridges Home Study Charter Schol,111 New Mohawk Road Nevada City CA 95959,NA,NA,FALSE,tested,Nevada City,Nevada County,39.248259,-121.016083
-Nevada County Office of Education,Yuba River Charter,505 Main Street Nevada City CA 95959-2218,NA,NA,NA,not tested,Nevada City,Nevada County,39.26529,-121.018759
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Nevada City Elementary,Deer Creek Elementary,805 Lindley Avenue Nevada City CA 95959-2911,,,False,tested,Nevada City,Nevada County,39.25092,-121.02826499999999,
+Nevada City Elementary,Earle Jamieson Educational Options,112 Nevada City Highway Nevada City CA 95959,,,False,tested,Nevada City,Nevada County,39.244827,-121.030694,
+Nevada County Office of Education,Forest Charter - Nevada City,470 Searls Avenue Nevada City CA 95959-3030,,,,not tested,Nevada City,Nevada County,39.255202000000004,-121.023546,
+Nevada City Elementary,Nevada City Charter,750 Hoover Lane Nevada City CA 95959-2910,,,,not tested,Nevada City,Nevada County,39.255395,-121.031433,
+Nevada City Elementary,Nevada City Elementary SAEL,505 Main Street Nevada City CA 95959,,,False,tested,Nevada City,Nevada County,39.265183,-121.018906,
+Nevada County Office of Education,Nevada County Special Education,400 Hoover Lane Nevada City CA 95959-2944,,,,not tested,Nevada City,Nevada County,39.253893,-121.031605,
+Nevada Joint Union High,Nevada Union High,11761 Ridge Road B Grass Valley CA 95945-5025,,,False,tested,Nevada City,Nevada County,39.240002000000004,-121.05492,
+Nevada City Elementary,Seven Hills Intermediate,700 Hoover Lane Nevada City CA 95959-2910,,,False,tested,Nevada City,Nevada County,39.254828,-121.03003600000001,
+Nevada City Elementary,Terence K. McAteer Center,400 Hoover Ln Nevada City CA 95959,,,False,tested,Nevada City,Nevada County,39.253893,-121.031605,
+Nevada County Office of Education,Twin Ridges Home Study Charter,111 New Mohawk Road Nevada City CA 95959-3226,,,,not tested,Nevada City,Nevada County,39.248259000000004,-121.01608300000001,
+Nevada City Elementary,Twin Ridges Home Study Charter Schol,111 New Mohawk Road Nevada City CA 95959,,,False,tested,Nevada City,Nevada County,39.248259000000004,-121.01608300000001,
+Nevada County Office of Education,Yuba River Charter,505 Main Street Nevada City CA 95959-2218,,,,not tested,Nevada City,Nevada County,39.26529,-121.018759,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Rim of the World Unified,Charles Hoffman Elementary,2851 Running Springs School Road Running Springs CA 92352-0430,16.5,ppb,TRUE,tested,Running Springs,San Bernardino County,34.201851,-117.09327
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Rim of the World Unified,Charles Hoffman Elementary,2851 Running Springs School Road Running Springs CA 92352-0430,16.5,ppb,True,tested,Running Springs,San Bernardino County,34.201851,-117.09326999999999,43.0

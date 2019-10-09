@@ -1,29 +1,29 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Palm Springs Unified,Agua Caliente Elementary,30-800 San Luis Rey Plaza Cathedral City CA 92234-6045,NA,NA,NA,not tested,Cathedral City,Riverside County,33.825088,-116.489606
-Palm Springs Unified,Bella Vista Elementary,65750 Avenida Jalisco Desert Hot Springs CA 92240-1674,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.981446,-116.512132
-Palm Springs Unified,Bubbling Wells Elementary,67501 Camino Campanero Desert Hot Springs CA 92240-6869,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.939466,-116.490941
-Palm Springs Unified,Cabot Yerxa Elementary,67067 Desert View Desert Hot Springs CA 92240-4103,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.957195,-116.491406
-Palm Springs Unified,Cahuilla Elementary,833 East Mesquite Avenue Palm Springs CA 92264-8414,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.808163,-116.538469
-Palm Springs Unified,Cathedral City Elementary,69300 Converse Road Cathedral City CA 92234-7040,NA,NA,NA,not tested,NA,Riverside County,33.790675,-116.453292
-Palm Springs Unified,Cathedral City High,69250 Dinah Shore Drive Cathedral City CA 92234-4713,NA,NA,NA,not tested,NA,Riverside County,33.801556,-116.453114
-Palm Springs Unified,Cielo Vista Charter,650 South Paseo Dorotea Palm Springs CA 92264-1406,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.812954,-116.501403
-Palm Springs Unified,Della S. Lindley Elementary,31-495 Robert Road Thousand Palms CA 92276-3343,NA,NA,NA,not tested,Thousand Palms,Riverside County,33.821009,-116.397662
-Palm Springs Unified,Desert Hot Springs High,65850 Pierson Boulevard Desert Hot Springs CA 92240-3000,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.964513,-116.517586
-Palm Springs Unified,Desert Springs Middle,66 755 Two Bunch Palms Trail Desert Hot Springs CA 92240-5775,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.945008,-116.496948
-Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr.  Desert Hot Springs CA 92240,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.96396,-116.510336
-Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr. Desert Hot Springs CA 92240,NA,NA,NA,not tested,Desert Hot Springs,Riverside County,33.963585,-116.510251
-Palm Springs Unified,James Workman Middle,69 300 30th Avenue Cathedral City CA 92234-4921,NA,NA,NA,not tested,Cathedral City,Riverside County,33.831397,-116.452539
-Palm Springs Unified,Julius Corsini Elementary,68750 Hacienda Drive Desert Hot Springs CA 92240-6551,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.950192,-116.460684
-Palm Springs Unified,Katherine Finchy Elementary,777 East Tachevah Drive Palm Springs CA 92262-4903,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.837531,-116.538991
-Palm Springs Unified,Landau Elementary,30310 Landau Boulevard Cathedral City CA 92234-5200,NA,NA,NA,not tested,NA,Riverside County,33.828776,-116.475493
-Palm Springs Unified,Mt. San Jacinto High,30800 Landau Boulevard Cathedral City CA 92234-5159,NA,NA,NA,not tested,NA,Riverside County,33.826061,-116.475498
-Palm Springs Unified,Nellie N. Coffman Middle,34-603 Plumley Road Cathedral City CA 92234-6326,NA,NA,NA,not tested,Cathedral City,Riverside County,33.797179,-116.449853
-Palm Springs Unified,Painted Hills Middle,9250 Sonora Drive Desert Hot Springs CA 92240-1585,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.982803,-116.521439
-Palm Springs Unified,Palm Springs High,2401 East Baristo Road Palm Springs CA 92262-7217,6.1,ppb,TRUE,tested,Palm Springs,Riverside County,33.818077,-116.521209
-Palm Springs Unified,Rancho Mirage Elementary,42-985 Indian Trail Road Rancho Mirage CA 92270-4104,NA,NA,NA,not tested,Rancho Mirage,Riverside County,33.74068,-116.421454
-Palm Springs Unified,Rancho Mirage High,31001 Rattler Road Rancho Mirage CA 92270-2702,NA,NA,NA,not tested,NA,Riverside County,33.826166,-116.43216
-Palm Springs Unified,Raymond Cree Middle,1011 Vista Chino Palm Springs CA 92262-3207,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.844915,-116.501953
-Palm Springs Unified,Rio Vista Elementary,67 700 Verona Road Cathedral City CA 92234-5508,NA,NA,NA,not tested,Cathedral City,Riverside County,33.852654,-116.48121
-Palm Springs Unified,Sunny Sands Elementary,69 310 McCallum Way Cathedral City CA 92234-2997,NA,NA,NA,not tested,Cathedral City,Riverside County,33.824142,-116.453402
-Palm Springs Unified,Two Bunch Palms Elementary,14250 West Drive Desert Hot Springs CA 92240-5655,NA,NA,FALSE,tested,Desert Hot Springs,Riverside County,33.945459,-116.510049
-Palm Springs Unified,Vista del Monte Elementary,2744 North Via Miraleste Palm Springs CA 92262-2274,NA,NA,FALSE,tested,Palm Springs,Riverside County,33.855076,-116.540725
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Palm Springs Unified,Agua Caliente Elementary,30-800 San Luis Rey Plaza Cathedral City CA 92234-6045,,,,not tested,Cathedral City,Riverside County,33.825088,-116.48960600000001,
+Palm Springs Unified,Bella Vista Elementary,65750 Avenida Jalisco Desert Hot Springs CA 92240-1674,,,False,tested,Desert Hot Springs,Riverside County,33.981446000000005,-116.51213200000001,
+Palm Springs Unified,Bubbling Wells Elementary,67501 Camino Campanero Desert Hot Springs CA 92240-6869,,,False,tested,Desert Hot Springs,Riverside County,33.939465999999996,-116.49094099999999,
+Palm Springs Unified,Cabot Yerxa Elementary,67067 Desert View Desert Hot Springs CA 92240-4103,,,False,tested,Desert Hot Springs,Riverside County,33.957195,-116.49140600000001,
+Palm Springs Unified,Cahuilla Elementary,833 East Mesquite Avenue Palm Springs CA 92264-8414,,,False,tested,Palm Springs,Riverside County,33.808163,-116.53846899999999,
+Palm Springs Unified,Cathedral City Elementary,69300 Converse Road Cathedral City CA 92234-7040,,,,not tested,,Riverside County,33.790675,-116.45329199999999,
+Palm Springs Unified,Cathedral City High,69250 Dinah Shore Drive Cathedral City CA 92234-4713,,,,not tested,,Riverside County,33.801556,-116.45311399999999,
+Palm Springs Unified,Cielo Vista Charter,650 South Paseo Dorotea Palm Springs CA 92264-1406,,,False,tested,Palm Springs,Riverside County,33.812954,-116.501403,
+Palm Springs Unified,Della S. Lindley Elementary,31-495 Robert Road Thousand Palms CA 92276-3343,,,,not tested,Thousand Palms,Riverside County,33.821009000000004,-116.39766200000001,
+Palm Springs Unified,Desert Hot Springs High,65850 Pierson Boulevard Desert Hot Springs CA 92240-3000,,,False,tested,Desert Hot Springs,Riverside County,33.964513000000004,-116.51758600000001,
+Palm Springs Unified,Desert Springs Middle,66 755 Two Bunch Palms Trail Desert Hot Springs CA 92240-5775,,,False,tested,Desert Hot Springs,Riverside County,33.945008,-116.496948,
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr.  Desert Hot Springs CA 92240,,,False,tested,Desert Hot Springs,Riverside County,33.96396,-116.51033600000001,
+Palm Springs Unified,Edward L. Wenzlaff Education Center (Alternative School),11625 West Dr. Desert Hot Springs CA 92240,,,,not tested,Desert Hot Springs,Riverside County,33.963584999999995,-116.510251,
+Palm Springs Unified,James Workman Middle,69 300 30th Avenue Cathedral City CA 92234-4921,,,,not tested,Cathedral City,Riverside County,33.831396999999996,-116.45253899999999,
+Palm Springs Unified,Julius Corsini Elementary,68750 Hacienda Drive Desert Hot Springs CA 92240-6551,,,False,tested,Desert Hot Springs,Riverside County,33.950192,-116.46068400000001,
+Palm Springs Unified,Katherine Finchy Elementary,777 East Tachevah Drive Palm Springs CA 92262-4903,,,False,tested,Palm Springs,Riverside County,33.837531,-116.538991,
+Palm Springs Unified,Landau Elementary,30310 Landau Boulevard Cathedral City CA 92234-5200,,,,not tested,,Riverside County,33.828776,-116.475493,
+Palm Springs Unified,Mt. San Jacinto High,30800 Landau Boulevard Cathedral City CA 92234-5159,,,,not tested,,Riverside County,33.826060999999996,-116.475498,
+Palm Springs Unified,Nellie N. Coffman Middle,34-603 Plumley Road Cathedral City CA 92234-6326,,,,not tested,Cathedral City,Riverside County,33.797179,-116.449853,
+Palm Springs Unified,Painted Hills Middle,9250 Sonora Drive Desert Hot Springs CA 92240-1585,,,False,tested,Desert Hot Springs,Riverside County,33.982803000000004,-116.52143899999999,
+Palm Springs Unified,Palm Springs High,2401 East Baristo Road Palm Springs CA 92262-7217,6.1,ppb,True,tested,Palm Springs,Riverside County,33.818077,-116.52120900000001,6.1
+Palm Springs Unified,Rancho Mirage Elementary,42-985 Indian Trail Road Rancho Mirage CA 92270-4104,,,,not tested,Rancho Mirage,Riverside County,33.74068,-116.421454,
+Palm Springs Unified,Rancho Mirage High,31001 Rattler Road Rancho Mirage CA 92270-2702,,,,not tested,,Riverside County,33.826166,-116.43216000000001,
+Palm Springs Unified,Raymond Cree Middle,1011 Vista Chino Palm Springs CA 92262-3207,,,False,tested,Palm Springs,Riverside County,33.844915,-116.501953,
+Palm Springs Unified,Rio Vista Elementary,67 700 Verona Road Cathedral City CA 92234-5508,,,,not tested,Cathedral City,Riverside County,33.852654,-116.48121,
+Palm Springs Unified,Sunny Sands Elementary,69 310 McCallum Way Cathedral City CA 92234-2997,,,,not tested,Cathedral City,Riverside County,33.824141999999995,-116.453402,
+Palm Springs Unified,Two Bunch Palms Elementary,14250 West Drive Desert Hot Springs CA 92240-5655,,,False,tested,Desert Hot Springs,Riverside County,33.945459,-116.510049,
+Palm Springs Unified,Vista del Monte Elementary,2744 North Via Miraleste Palm Springs CA 92262-2274,,,False,tested,Palm Springs,Riverside County,33.855076000000004,-116.540725,

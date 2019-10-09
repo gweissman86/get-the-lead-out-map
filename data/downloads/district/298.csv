@@ -1,38 +1,38 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hacienda la Puente Unified,Baldwin Academy,1616 Griffith Avenue La Puente CA 91744-1237,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.048513,-117.94252
-Hacienda la Puente Unified,Bixby Elementary,16446 Wedgeworth Drive Hacienda Heights CA 91745-3044,NA,NA,FALSE,tested,NA,Los Angeles County,33.997401,-117.947979
-Hacienda la Puente Unified,California Elementary,1111 California Avenue La Puente CA 91744-1927,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.059147,-117.940136
-Hacienda la Puente Unified,Cedarlane Academy,16333 Cedarlane Drive Hacienda Heights CA 91745-2947,NA,NA,FALSE,tested,NA,Los Angeles County,33.998738,-117.950909
-Hacienda la Puente Unified,Del Valle Elementary,801 North Del Valle Street La Puente CA 91744-3017,7.2,ppb,TRUE,tested,La Puente,Los Angeles County,34.03273,-117.944076
-Hacienda la Puente Unified,Fairgrove Academy,15540 Fairgrove Avenue La Puente CA 91744-1620,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.041876,-117.947406
-Hacienda la Puente Unified,Glen A. Wilson High,16455 Wedgeworth Drive Hacienda Heights CA 91745-3045,NA,NA,FALSE,tested,NA,Los Angeles County,33.997547,-117.947683
-Hacienda la Puente Unified,"Grandview, College Preparatory Academy",795 North Grandview Lane Valinda CA 91744-4259,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.031893,-117.924428
-Hacienda la Puente Unified,Grazide Elementary,2850 Leopold Avenue Hacienda Heights CA 91745-5425,NA,NA,FALSE,tested,NA,Los Angeles County,33.982976,-117.963097
-Hacienda la Puente Unified,Hacienda La Puente Adult Education,14101 East Nelson Ave. La Puente CA 91746-2640,NA,NA,NA,not tested,La Puente,Los Angeles County,34.043299,-117.980571
-Hacienda la Puente Unified,Kwis Elementary,1925 South Kwis Avenue Hacienda Heights CA 91745-3331,NA,NA,NA,not tested,NA,Los Angeles County,34.000066,-117.973638
-Hacienda la Puente Unified,La Puente High,15615 East Nelson Avenue La Puente CA 91744-3910,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.024968,-117.955656
-Hacienda la Puente Unified,Lassalette,14333 Lassalette Street La Puente CA 91744-2441,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.044476,-117.971434
-Hacienda la Puente Unified,Los Altos Elementary,15565 Los Altos Drive Hacienda Heights CA 91745-5216,NA,NA,FALSE,tested,Hacienda Heights,Los Angeles County,33.988442,-117.977663
-Hacienda la Puente Unified,Los Altos High,15325 East Los Robles Avenue Hacienda Heights CA 91745-2717,8.6,ppb,TRUE,tested,NA,Los Angeles County,34.011631,-117.988311
-Hacienda la Puente Unified,Los Molinos Elementary,3112 Las Marias Avenue Hacienda Heights CA 91745-6218,NA,NA,FALSE,tested,NA,Los Angeles County,33.983783,-117.978664
-Hacienda la Puente Unified,Los Robles Academy,1530 South Ridley Avenue Hacienda Heights CA 91745-3245,NA,NA,FALSE,tested,NA,Los Angeles County,34.010843,-117.988118
-Hacienda la Puente Unified,Mesa Robles,16060 Mesa Robles Drive Hacienda Heights CA 91745-4858,13,ppb,TRUE,tested,NA,Los Angeles County,33.993252,-117.960807
-Hacienda la Puente Unified,Nelson Elementary,330 North California Avenue La Puente CA 91744-3718,5.3,ppb,TRUE,tested,La Puente,Los Angeles County,34.033663,-117.966893
-Hacienda la Puente Unified,Newton Middle,15616 Newton Street Hacienda Heights CA 91745-4141,NA,NA,FALSE,tested,NA,Los Angeles County,33.997722,-117.973928
-Hacienda la Puente Unified,Orange Grove Middle,14505 Orange Grove Avenue Hacienda Heights CA 91745-2554,NA,NA,FALSE,tested,NA,Los Angeles County,34.010809,-117.996402
-Hacienda la Puente Unified,Palm Canyon,15151 Palm Avenue Hacienda Heights CA 91745-2000,NA,NA,FALSE,tested,NA,Los Angeles County,34.012033,-117.978697
-Hacienda la Puente Unified,Palm Elementary,14740 East Palm Avenue Hacienda Heights CA 91745-1938,NA,NA,FALSE,tested,Hacienda Heights,Los Angeles County,34.014952,-117.987415
-Hacienda la Puente Unified,Puente Hills High,15430 Shadybend Drive B Hacienda Heights CA 91746-2829,NA,NA,NA,not tested,NA,Los Angeles County,34.010567,-117.971731
-Hacienda la Puente Unified,Sierra Vista Middle,15801 Sierra Vista Court La Puente CA 91744-4040,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.030649,-117.947273
-Hacienda la Puente Unified,Sparks Elementary,15151 East Temple Avenue La Puente CA 91744-3765,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.034596,-117.959063
-Hacienda la Puente Unified,Sparks Middle,15100 Giordano Street La Puente CA 91744-2718,5.9,ppb,TRUE,tested,La Puente,Los Angeles County,34.035232,-117.955613
-Hacienda la Puente Unified,Sunset Elementary,800 North Tonopah Avenue La Puente CA 91744-2460,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.044884,-117.967692
-Hacienda la Puente Unified,Temple Academy,635 California Avenue La Puente CA 91744-2602,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.066259,-117.932599
-Hacienda la Puente Unified,Valinda School of Academics,1030 Indian Summer Avenue Valinda CA 91744-2333,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.037593,-117.929523
-Hacienda la Puente Unified,Valley Alternative High (Continuation),15430 Shadybend Dr. Hacienda Heights CA 91745-2121,NA,NA,FALSE,tested,NA,Los Angeles County,34.007476,-117.957487
-Hacienda la Puente Unified,Valley Community Day,15430 Shadybend Drive Hacienda Heights CA 91745-2121,NA,NA,FALSE,tested,NA,Los Angeles County,34.007476,-117.957487
-Hacienda la Puente Unified,Wedgeworth Elementary,16949 Wedgeworth Drive Hacienda Heights CA 91745-3124,NA,NA,FALSE,tested,NA,Los Angeles County,33.995922,-117.936679
-Hacienda la Puente Unified,William Workman High,16303 East Temple Avenue City Of Industry CA 91744-4162,6.7,ppb,TRUE,tested,City of Industry,Los Angeles County,34.028627,-117.93744
-Hacienda la Puente Unified,Willow Adult,14101 East Nelson Avenue La Puente CA 91746-2041,NA,NA,FALSE,tested,La Puente,Los Angeles County,34.043299,-117.980571
-Hacienda la Puente Unified,Wing Lane Elementary,16605 Wing Lane Valinda CA 91744-4156,NA,NA,FALSE,tested,NA,Los Angeles County,34.027968,-117.928673
-Hacienda la Puente Unified,Workman Elementary,16000 Workman Street La Puente CA 91744-4738,5.9,ppb,TRUE,tested,La Puente,Los Angeles County,34.021617,-117.944493
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hacienda la Puente Unified,Baldwin Academy,1616 Griffith Avenue La Puente CA 91744-1237,,,False,tested,La Puente,Los Angeles County,34.048513,-117.94252,
+Hacienda la Puente Unified,Bixby Elementary,16446 Wedgeworth Drive Hacienda Heights CA 91745-3044,,,False,tested,,Los Angeles County,33.997401,-117.947979,
+Hacienda la Puente Unified,California Elementary,1111 California Avenue La Puente CA 91744-1927,,,False,tested,La Puente,Los Angeles County,34.059146999999996,-117.94013600000001,
+Hacienda la Puente Unified,Cedarlane Academy,16333 Cedarlane Drive Hacienda Heights CA 91745-2947,,,False,tested,,Los Angeles County,33.998738,-117.95090900000001,
+Hacienda la Puente Unified,Del Valle Elementary,801 North Del Valle Street La Puente CA 91744-3017,7.2,ppb,True,tested,La Puente,Los Angeles County,34.03273,-117.944076,7.2
+Hacienda la Puente Unified,Fairgrove Academy,15540 Fairgrove Avenue La Puente CA 91744-1620,,,False,tested,La Puente,Los Angeles County,34.041876,-117.947406,
+Hacienda la Puente Unified,Glen A. Wilson High,16455 Wedgeworth Drive Hacienda Heights CA 91745-3045,,,False,tested,,Los Angeles County,33.997547,-117.94768300000001,
+Hacienda la Puente Unified,"Grandview, College Preparatory Academy",795 North Grandview Lane Valinda CA 91744-4259,,,False,tested,La Puente,Los Angeles County,34.031893,-117.924428,
+Hacienda la Puente Unified,Grazide Elementary,2850 Leopold Avenue Hacienda Heights CA 91745-5425,,,False,tested,,Los Angeles County,33.982976,-117.96309699999999,
+Hacienda la Puente Unified,Hacienda La Puente Adult Education,14101 East Nelson Ave. La Puente CA 91746-2640,,,,not tested,La Puente,Los Angeles County,34.043299,-117.980571,
+Hacienda la Puente Unified,Kwis Elementary,1925 South Kwis Avenue Hacienda Heights CA 91745-3331,,,,not tested,,Los Angeles County,34.000066,-117.973638,
+Hacienda la Puente Unified,La Puente High,15615 East Nelson Avenue La Puente CA 91744-3910,,,False,tested,La Puente,Los Angeles County,34.024968,-117.955656,
+Hacienda la Puente Unified,Lassalette,14333 Lassalette Street La Puente CA 91744-2441,,,False,tested,La Puente,Los Angeles County,34.044476,-117.971434,
+Hacienda la Puente Unified,Los Altos Elementary,15565 Los Altos Drive Hacienda Heights CA 91745-5216,,,False,tested,Hacienda Heights,Los Angeles County,33.988442,-117.97766299999999,
+Hacienda la Puente Unified,Los Altos High,15325 East Los Robles Avenue Hacienda Heights CA 91745-2717,8.6,ppb,True,tested,,Los Angeles County,34.011631,-117.98831100000001,8.6
+Hacienda la Puente Unified,Los Molinos Elementary,3112 Las Marias Avenue Hacienda Heights CA 91745-6218,,,False,tested,,Los Angeles County,33.983783,-117.978664,
+Hacienda la Puente Unified,Los Robles Academy,1530 South Ridley Avenue Hacienda Heights CA 91745-3245,,,False,tested,,Los Angeles County,34.010843,-117.988118,
+Hacienda la Puente Unified,Mesa Robles,16060 Mesa Robles Drive Hacienda Heights CA 91745-4858,13.0,ppb,True,tested,,Los Angeles County,33.993252000000005,-117.960807,13.0
+Hacienda la Puente Unified,Nelson Elementary,330 North California Avenue La Puente CA 91744-3718,5.3,ppb,True,tested,La Puente,Los Angeles County,34.033663,-117.966893,5.3
+Hacienda la Puente Unified,Newton Middle,15616 Newton Street Hacienda Heights CA 91745-4141,,,False,tested,,Los Angeles County,33.997721999999996,-117.973928,
+Hacienda la Puente Unified,Orange Grove Middle,14505 Orange Grove Avenue Hacienda Heights CA 91745-2554,,,False,tested,,Los Angeles County,34.010809,-117.996402,
+Hacienda la Puente Unified,Palm Canyon,15151 Palm Avenue Hacienda Heights CA 91745-2000,,,False,tested,,Los Angeles County,34.012033,-117.978697,
+Hacienda la Puente Unified,Palm Elementary,14740 East Palm Avenue Hacienda Heights CA 91745-1938,,,False,tested,Hacienda Heights,Los Angeles County,34.014952,-117.98741499999998,
+Hacienda la Puente Unified,Puente Hills High,15430 Shadybend Drive B Hacienda Heights CA 91746-2829,,,,not tested,,Los Angeles County,34.010567,-117.971731,
+Hacienda la Puente Unified,Sierra Vista Middle,15801 Sierra Vista Court La Puente CA 91744-4040,,,False,tested,La Puente,Los Angeles County,34.030649,-117.947273,
+Hacienda la Puente Unified,Sparks Elementary,15151 East Temple Avenue La Puente CA 91744-3765,,,False,tested,La Puente,Los Angeles County,34.034596,-117.95906299999999,
+Hacienda la Puente Unified,Sparks Middle,15100 Giordano Street La Puente CA 91744-2718,5.9,ppb,True,tested,La Puente,Los Angeles County,34.035232,-117.95561299999999,5.9
+Hacienda la Puente Unified,Sunset Elementary,800 North Tonopah Avenue La Puente CA 91744-2460,,,False,tested,La Puente,Los Angeles County,34.044884,-117.967692,
+Hacienda la Puente Unified,Temple Academy,635 California Avenue La Puente CA 91744-2602,,,False,tested,La Puente,Los Angeles County,34.066259,-117.932599,
+Hacienda la Puente Unified,Valinda School of Academics,1030 Indian Summer Avenue Valinda CA 91744-2333,,,False,tested,La Puente,Los Angeles County,34.037593,-117.929523,
+Hacienda la Puente Unified,Valley Alternative High (Continuation),15430 Shadybend Dr. Hacienda Heights CA 91745-2121,,,False,tested,,Los Angeles County,34.007476000000004,-117.95748700000001,
+Hacienda la Puente Unified,Valley Community Day,15430 Shadybend Drive Hacienda Heights CA 91745-2121,,,False,tested,,Los Angeles County,34.007476000000004,-117.95748700000001,
+Hacienda la Puente Unified,Wedgeworth Elementary,16949 Wedgeworth Drive Hacienda Heights CA 91745-3124,,,False,tested,,Los Angeles County,33.995922,-117.936679,
+Hacienda la Puente Unified,William Workman High,16303 East Temple Avenue City Of Industry CA 91744-4162,6.7,ppb,True,tested,City of Industry,Los Angeles County,34.028627,-117.93744,6.7
+Hacienda la Puente Unified,Willow Adult,14101 East Nelson Avenue La Puente CA 91746-2041,,,False,tested,La Puente,Los Angeles County,34.043299,-117.980571,
+Hacienda la Puente Unified,Wing Lane Elementary,16605 Wing Lane Valinda CA 91744-4156,,,False,tested,,Los Angeles County,34.027968,-117.928673,
+Hacienda la Puente Unified,Workman Elementary,16000 Workman Street La Puente CA 91744-4738,5.9,ppb,True,tested,La Puente,Los Angeles County,34.021617,-117.944493,5.9

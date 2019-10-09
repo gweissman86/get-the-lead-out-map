@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Strathmore Union Elementary,Strathmore Middle School,19840 Orange Belt Dr. Strathmore CA 93267,NA,NA,FALSE,tested,Strathmore,Tulare County,36.149838,-119.061616
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Strathmore Union Elementary,Strathmore Middle School,19840 Orange Belt Dr. Strathmore CA 93267,,,False,tested,Strathmore,Tulare County,36.149838,-119.06161599999999,

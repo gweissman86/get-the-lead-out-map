@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hanford Joint Union High,Earl F. Johnson High (Continuation),1201 North Douty Hanford CA 93230-2156,89,ppb,TRUE,tested,Hanford,Kings County,36.338061,-119.645928
-Hanford Joint Union High,Hanford Adult,905 Campus Drive Hanford CA 93230,10,ppb,TRUE,tested,Hanford,Kings County,36.333846,-119.663173
-Hanford Joint Union High,Hanford Community Day,120 East Grangeville Boulevard Hanford CA 93230-3067,NA,NA,FALSE,tested,Hanford,Kings County,36.342708,-119.644791
-Hanford Joint Union High,Hanford High,120 East Grangeville Boulevard Hanford CA 93230-3067,NA,NA,NA,not tested,Hanford,Kings County,36.342708,-119.644791
-Hanford Joint Union High,Hanford Night (Continuation),1201 North Douty rd Hanford CA 93230-3067,NA,NA,NA,not tested,Hanford,Kings County,36.337563,-119.645653
-Hanford Joint Union High,Hanford West High,1150 West Lacey Boulevard Hanford CA 93230-3575,66,ppb,TRUE,tested,Hanford,Kings County,36.328072,-119.662623
-Hanford Joint Union High,Sierra Pacific High,1259 North 13th Avenue Hanford CA 93230-9219,NA,NA,FALSE,tested,Hanford,Kings County,36.337257,-119.689886
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hanford Joint Union High,Earl F. Johnson High (Continuation),1201 North Douty Hanford CA 93230-2156,89.0,ppb,True,tested,Hanford,Kings County,36.338060999999996,-119.645928,89.0
+Hanford Joint Union High,Hanford Adult,905 Campus Drive Hanford CA 93230,10.0,ppb,True,tested,Hanford,Kings County,36.333846,-119.663173,10.0
+Hanford Joint Union High,Hanford Community Day,120 East Grangeville Boulevard Hanford CA 93230-3067,,,False,tested,Hanford,Kings County,36.342708,-119.644791,
+Hanford Joint Union High,Hanford High,120 East Grangeville Boulevard Hanford CA 93230-3067,,,,not tested,Hanford,Kings County,36.342708,-119.644791,
+Hanford Joint Union High,Hanford Night (Continuation),1201 North Douty rd Hanford CA 93230-3067,,,,not tested,Hanford,Kings County,36.337563,-119.645653,
+Hanford Joint Union High,Hanford West High,1150 West Lacey Boulevard Hanford CA 93230-3575,66.0,ppb,True,tested,Hanford,Kings County,36.328072,-119.662623,120.0
+Hanford Joint Union High,Sierra Pacific High,1259 North 13th Avenue Hanford CA 93230-9219,,,False,tested,Hanford,Kings County,36.337257,-119.68988600000002,

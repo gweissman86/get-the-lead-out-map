@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lagunita Elementary,Lagunita Elementary,975 San Juan Grade Road Salinas CA 93907-8438,6.1,ppb,TRUE,tested,Salinas,Monterey County,36.718729,-121.652566
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lagunita Elementary,Lagunita Elementary,975 San Juan Grade Road Salinas CA 93907-8438,6.1,ppb,True,tested,Salinas,Monterey County,36.718728999999996,-121.652566,6.1

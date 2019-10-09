@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-SF Unified School District,Hilltop HS (Pregnant Minors),1325 Florida St. San Francisco  CA 94110,NA,NA,FALSE,tested,SF,SF,37.750696,-122.409767
-SF Unified School District,Las Americas ES,801 Treat St. San Francisco CA 94110,NA,NA,NA,not tested,SF,San Francisco County,37.757183,-122.413323
-SF Unified School District,Noriega ES,1775-44th Avenue San Francisco  CA 94110,NA,NA,FALSE,tested,SF,SF,37.75396,-122.503675
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+SF Unified School District,Hilltop HS (Pregnant Minors),1325 Florida St. San Francisco  CA 94110,,,False,tested,SF,SF,37.750696000000005,-122.40976699999999,
+SF Unified School District,Las Americas ES,801 Treat St. San Francisco CA 94110,,,,not tested,SF,San Francisco County,37.757183000000005,-122.41332299999999,
+SF Unified School District,Noriega ES,1775-44th Avenue San Francisco  CA 94110,,,False,tested,SF,SF,37.75396,-122.503675,

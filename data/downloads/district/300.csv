@@ -1,14 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hanford Elementary,George Washington Elementary,2245 North Fairmont Hanford CA 93232-1448,10.9,ppb,TRUE,tested,Hanford,Kings County,36.352862,-119.638
-Hanford Elementary,Hamilton Elementary,1269 Leland Way Hanford CA 93230,5.75,ppb,TRUE,tested,Hanford,Kings County,36.349221,-119.625438
-Hanford Elementary,Hanford Elementary Community Day,601 West Florinda St Hanford CA 93230-3628,NA,NA,NA,not tested,Hanford,Kings County,36.334771,-119.654412
-Hanford Elementary,Hanford Elementary School District Service Facility Kitchen,924 Katie Hammond Lane Hanford CA 93239,NA,NA,FALSE,tested,Hanford,Kings County,36.338125,-119.631702
-Hanford Elementary,Jefferson Charter Academy,511 West Malone Street Hanford CA 93230-2827,8.55,ppb,TRUE,tested,Hanford,Kings County,36.338915,-119.652354
-Hanford Elementary,John F. Kennedy Junior High,1000 East Florinda Street Hanford CA 93232,5.1,ppb,TRUE,tested,Hanford,Kings County,36.334851,-119.63613
-Hanford Elementary,Joseph M. Simas,1875 Fitzgerald Hanford CA 93230-7906,12,ppb,TRUE,tested,Hanford,Kings County,36.351926,-119.668458
-Hanford Elementary,Lee Richmond Elementary,939 Katie Hammond Street Hanford CA 93230-3158,92,ppb,TRUE,tested,Hanford,Kings County,36.337546,-119.631098
-Hanford Elementary,Lincoln Elementary,832 South Harris Street Hanford CA 93230-5436,7.85,ppb,TRUE,tested,Hanford,Kings County,36.316229,-119.642705
-Hanford Elementary,Martin Luther King Jr. Elementary,820 Hume Avenue Hanford CA 93230-6309,5.4,ppb,TRUE,tested,Hanford,Kings County,36.305587,-119.663867
-Hanford Elementary,Monroe Elementary,300 Monroe Drive Hanford CA 93230-1729,NA,NA,FALSE,tested,Hanford,Kings County,36.350073,-119.649187
-Hanford Elementary,Roosevelt Elementary,870 Davis Street Hanford CA 93230-5612,5.9,ppb,TRUE,tested,Hanford,Kings County,36.317625,-119.657745
-Hanford Elementary,Woodrow Wilson Junior High,601 West Florinda Street Hanford CA 93230-3629,7,ppb,TRUE,tested,Hanford,Kings County,36.334771,-119.654412
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hanford Elementary,George Washington Elementary,2245 North Fairmont Hanford CA 93232-1448,10.9,ppb,True,tested,Hanford,Kings County,36.352862,-119.63799999999999,15.0
+Hanford Elementary,Hamilton Elementary,1269 Leland Way Hanford CA 93230,5.75,ppb,True,tested,Hanford,Kings County,36.349221,-119.62543799999999,6.0
+Hanford Elementary,Hanford Elementary Community Day,601 West Florinda St Hanford CA 93230-3628,,,,not tested,Hanford,Kings County,36.334771,-119.65441200000001,
+Hanford Elementary,Hanford Elementary School District Service Facility Kitchen,924 Katie Hammond Lane Hanford CA 93239,,,False,tested,Hanford,Kings County,36.338125,-119.631702,
+Hanford Elementary,Jefferson Charter Academy,511 West Malone Street Hanford CA 93230-2827,8.55,ppb,True,tested,Hanford,Kings County,36.338915,-119.652354,12.0
+Hanford Elementary,John F. Kennedy Junior High,1000 East Florinda Street Hanford CA 93232,5.1,ppb,True,tested,Hanford,Kings County,36.334851,-119.63613000000001,5.1
+Hanford Elementary,Joseph M. Simas,1875 Fitzgerald Hanford CA 93230-7906,12.0,ppb,True,tested,Hanford,Kings County,36.351926,-119.668458,800.0
+Hanford Elementary,Lee Richmond Elementary,939 Katie Hammond Street Hanford CA 93230-3158,92.0,ppb,True,tested,Hanford,Kings County,36.337546,-119.631098,92.0
+Hanford Elementary,Lincoln Elementary,832 South Harris Street Hanford CA 93230-5436,7.85,ppb,True,tested,Hanford,Kings County,36.316229,-119.642705,13.0
+Hanford Elementary,Martin Luther King Jr. Elementary,820 Hume Avenue Hanford CA 93230-6309,5.4,ppb,True,tested,Hanford,Kings County,36.305587,-119.663867,5.4
+Hanford Elementary,Monroe Elementary,300 Monroe Drive Hanford CA 93230-1729,,,False,tested,Hanford,Kings County,36.350072999999995,-119.64918700000001,
+Hanford Elementary,Roosevelt Elementary,870 Davis Street Hanford CA 93230-5612,5.9,ppb,True,tested,Hanford,Kings County,36.317625,-119.65774499999999,8.1
+Hanford Elementary,Woodrow Wilson Junior High,601 West Florinda Street Hanford CA 93230-3629,7.0,ppb,True,tested,Hanford,Kings County,36.334771,-119.65441200000001,7.0

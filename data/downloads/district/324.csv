@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Huntington Beach Union High,Coast High,17231 Gothard Street Huntington Beach CA 92647-5421,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.712354,-118.000315
-Huntington Beach Union High,Edison High,21400 Magnolia Huntington Beach CA 92646-6306,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.665035,-117.971213
-Huntington Beach Union High,Fountain Valley High,17816 Bushard Fountain Valley CA 92708-4598,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.705789,-117.960559
-Huntington Beach Union High,Huntington Beach High,1905 Main Street Huntington Beach CA 92648-2705,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.675358,-118.001859
-Huntington Beach Union High,Marina High,15871 Springdale Street Huntington Beach CA 92649-1727,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.730772,-118.024185
-Huntington Beach Union High,Ocean View High,17071 Gothard Street Huntington Beach CA 92647-5417,6.4,ppb,TRUE,tested,Huntington Beach,Orange County,33.714019,-118.000172
-Huntington Beach Union High,Valley Vista High (Continuation),9600 Dolphin Street Fountain Valley CA 92708-4603,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.707806,-117.961099
-Huntington Beach Union High,Westminster High,14325 Goldenwest Street Westminster CA 92683-4905,NA,NA,FALSE,tested,Westminster,Orange County,33.753195,-118.009772
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Huntington Beach Union High,Coast High,17231 Gothard Street Huntington Beach CA 92647-5421,,,False,tested,Huntington Beach,Orange County,33.712354,-118.00031499999999,
+Huntington Beach Union High,Edison High,21400 Magnolia Huntington Beach CA 92646-6306,,,False,tested,Huntington Beach,Orange County,33.665034999999996,-117.97121299999999,
+Huntington Beach Union High,Fountain Valley High,17816 Bushard Fountain Valley CA 92708-4598,,,False,tested,Fountain Valley,Orange County,33.705789,-117.960559,
+Huntington Beach Union High,Huntington Beach High,1905 Main Street Huntington Beach CA 92648-2705,,,False,tested,Huntington Beach,Orange County,33.675358,-118.00185900000001,
+Huntington Beach Union High,Marina High,15871 Springdale Street Huntington Beach CA 92649-1727,,,False,tested,Huntington Beach,Orange County,33.730771999999995,-118.024185,
+Huntington Beach Union High,Ocean View High,17071 Gothard Street Huntington Beach CA 92647-5417,6.4,ppb,True,tested,Huntington Beach,Orange County,33.714019,-118.00017199999999,6.4
+Huntington Beach Union High,Valley Vista High (Continuation),9600 Dolphin Street Fountain Valley CA 92708-4603,,,False,tested,Fountain Valley,Orange County,33.707806,-117.961099,
+Huntington Beach Union High,Westminster High,14325 Goldenwest Street Westminster CA 92683-4905,,,False,tested,Westminster,Orange County,33.753195,-118.009772,

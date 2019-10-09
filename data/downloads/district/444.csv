@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mariposa County Office of Education,Monarch Academy,5082 Old Highway North Mariposa CA 95338,NA,NA,FALSE,tested,NA,Mariposa County,37.490439,-119.966173
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Mariposa County Office of Education,Monarch Academy,5082 Old Highway North Mariposa CA 95338,,,False,tested,,Mariposa County,37.490439,-119.966173,

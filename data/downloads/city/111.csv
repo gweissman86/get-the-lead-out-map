@@ -1,4 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Colfax Elementary,Colfax Elementary,24825 Ben Taylor Road Colfax CA 95713-9553,NA,NA,FALSE,tested,Colfax,Placer County,39.104417,-120.962892
-Placer Union High,Colfax High,24995 Ben Taylor Road Colfax CA 95713-9556,5.98,ppb,TRUE,tested,Colfax,Placer County,39.107284,-120.965928
-Placer Hills Union Elementary,Weimar Hills,200 West Weimar Crossroad Weimar CA 95736-0255,5.42,ppb,TRUE,tested,Colfax,Placer County,39.044044,-120.977798
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Coalinga-Huron Unified,Annie E. Cheney Kindergarten,149 Adams Street Coalinga CA 93210-2927,6.9,ppb,True,tested,Coalinga,Fresno County,36.142329,-120.36482,6.9
+Coalinga-Huron Unified,Cambridge High,516 Baker Street Coalinga CA 93210-2927,9.8,ppb,True,tested,Coalinga,Fresno County,36.145157,-120.359921,9.8
+Coalinga-Huron Unified,Coalinga High,750 Van Ness Avenue Coalinga CA 93210-1541,13.0,ppb,True,tested,Coalinga,Fresno County,36.144332,-120.363274,13.0
+Coalinga-Huron Unified,Coalinga Middle,265 Cambridge Avenue Coalinga CA 93210-1255,,,False,tested,Coalinga,Fresno County,36.150914,-120.360723,
+Coalinga-Huron Unified,Henry F. Bishop Elementary,1501 Sunset Avenue Coalinga CA 93210-1359,,,False,tested,Coalinga,Fresno County,36.150094,-120.36427900000001,
+Coalinga-Huron Unified,Nell Dawson Elementary,1303 Sunset Avenue Coalinga CA 93210-2927,,,False,tested,Coalinga,Fresno County,36.14776,-120.364313,
+Coalinga-Huron Unified,Sunset Elementary,985 Sunset Avenue Coalinga CA 93210-1347,,,False,tested,Coalinga,Fresno County,36.145936,-120.364521,

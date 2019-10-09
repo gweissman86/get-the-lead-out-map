@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Redding Elementary,Bonny View Elementary,5080 Bidwell Road Redding CA 96001-4255,6.9,ppb,TRUE,tested,Redding,Shasta County,40.543858,-122.378374
-Redding Elementary,Cypress Elementary,2150 Civic Center Drive Redding CA 96001-2704,NA,NA,FALSE,tested,Redding,Shasta County,40.575909,-122.380327
-Redding Elementary,Juniper,375 Ellis Street Redding CA 96001-3644,NA,NA,FALSE,tested,Redding,Shasta County,40.563444,-122.381893
-Redding Elementary,Manzanita Elementary,1240 Manzanita Hills Avenue Redding CA 96001-1348,7.3,ppb,TRUE,tested,Redding,Shasta County,40.581696,-122.41198
-Redding Elementary,Sequoia Middle,1805 Sequoia Street Redding CA 96001-1247,NA,NA,FALSE,tested,Redding,Shasta County,40.583274,-122.381207
-Redding Elementary,Stellar Charter,5885 E Bonnyview Road Redding CA 96001-4535,NA,NA,FALSE,tested,Redding,Shasta County,40.531769,-122.374369
-Redding Elementary,Sycamore Elementary,1926 Sycamore Drive Redding CA 96001-4870,NA,NA,FALSE,tested,Redding,Shasta County,40.523471,-122.388783
-Redding Elementary,Turtle Bay,1330 Arboretum Drive Redding CA 96003-3603,NA,NA,FALSE,tested,Redding,Shasta County,40.597452,-122.383725
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Redding Elementary,Bonny View Elementary,5080 Bidwell Road Redding CA 96001-4255,6.9,ppb,True,tested,Redding,Shasta County,40.543858,-122.378374,13.2
+Redding Elementary,Cypress Elementary,2150 Civic Center Drive Redding CA 96001-2704,,,False,tested,Redding,Shasta County,40.575909,-122.38032700000001,
+Redding Elementary,Juniper,375 Ellis Street Redding CA 96001-3644,,,False,tested,Redding,Shasta County,40.563444,-122.38189299999999,
+Redding Elementary,Manzanita Elementary,1240 Manzanita Hills Avenue Redding CA 96001-1348,7.3,ppb,True,tested,Redding,Shasta County,40.581696,-122.41198,7.3
+Redding Elementary,Sequoia Middle,1805 Sequoia Street Redding CA 96001-1247,,,False,tested,Redding,Shasta County,40.583273999999996,-122.381207,
+Redding Elementary,Stellar Charter,5885 E Bonnyview Road Redding CA 96001-4535,,,False,tested,Redding,Shasta County,40.531769,-122.374369,
+Redding Elementary,Sycamore Elementary,1926 Sycamore Drive Redding CA 96001-4870,,,False,tested,Redding,Shasta County,40.523471,-122.388783,
+Redding Elementary,Turtle Bay,1330 Arboretum Drive Redding CA 96003-3603,,,False,tested,Redding,Shasta County,40.597452000000004,-122.383725,

@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kentfield Elementary,Adaline E. Kent Middle,800 College Avenue Kentfield CA 94904-2549,NA,NA,FALSE,tested,NA,Marin County,37.952692,-122.547638
-Kentfield Elementary,Anthony G. Bacich Elementary,699 Sir Francis Drake Boulevard Kentfield CA 94904-1639,NA,NA,FALSE,tested,NA,Marin County,37.953675,-122.544372
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Kentfield Elementary,Adaline E. Kent Middle,800 College Avenue Kentfield CA 94904-2549,,,False,tested,,Marin County,37.952692,-122.54763799999999,
+Kentfield Elementary,Anthony G. Bacich Elementary,699 Sir Francis Drake Boulevard Kentfield CA 94904-1639,,,False,tested,,Marin County,37.953675,-122.544372,

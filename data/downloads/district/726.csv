@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-SBE - Ridgecrest Charter,Ridgecrest Charter,325 South Downs Street Ridgecrest CA 93555-4531,NA,NA,FALSE,tested,Ridgecrest,Kern County,35.605243,-117.688129
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+SBE - Ridgecrest Charter,Ridgecrest Charter,325 South Downs Street Ridgecrest CA 93555-4531,,,False,tested,Ridgecrest,Kern County,35.605243,-117.688129,

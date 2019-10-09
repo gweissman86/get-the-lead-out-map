@@ -1,15 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Bonita Unified,Allen Avenue Elementary,740 East Allen Avenue San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.117448,-117.792945
-Bonita Unified,Arma J. Shull Elementary,825 North Amelia San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.116902,-117.820311
-Bonita Unified,Bonita High,3102 D Street La Verne CA 91750-4023,NA,NA,FALSE,tested,NA,Los Angeles County,34.108619,-117.765088
-Bonita Unified,Chaparral High (Continuation),121 West Allen Avenue San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.11763,-117.807652
-Bonita Unified,Fred Ekstrand Elementary,400 North Walnut Avenue San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.11079,-117.802654
-Bonita Unified,Gladstone Elementary,1314 West Gladstone San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.113565,-117.834241
-Bonita Unified,Grace Miller Elementary,1629 Holly Oak Street La Verne CA 91773-1437,NA,NA,FALSE,tested,NA,Los Angeles County,34.109176,-117.775058
-Bonita Unified,J. Marion Roynon Elementary,2715 E Street La Verne CA 91750-1437,NA,NA,NA,not tested,NA,Los Angeles County,34.104076,-117.767839
-Bonita Unified,La Verne Heights Elementary,1550 Baseline Road La Verne CA 91773-1437,NA,NA,NA,not tested,NA,Los Angeles County,34.120801,-117.774512
-Bonita Unified,Lone Hill Middle,700 South Lone Hill San Dimas CA 91773-1437,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.097196,-117.827787
-Bonita Unified,Oak Mesa Elementary,5200 Wheeler Avenue La Verne CA 91750-1546,NA,NA,FALSE,tested,NA,Los Angeles County,34.129507,-117.775994
-Bonita Unified,Ramona Middle,3490 Ramona Avenue San Dimas CA 91773-1437,NA,NA,FALSE,tested,La Verne,Los Angeles County,34.115923,-117.788595
-Bonita Unified,San Dimas High,800 West Covina Boulevard San Dimas CA 91773-1473,NA,NA,FALSE,tested,San Dimas,Los Angeles County,34.09926,-117.822532
-Bonita Unified,Vista (Alternative),127 West Allen Avenue San Dimas CA 91773-1473,NA,NA,NA,not tested,San Dimas,Los Angeles County,34.11763,-117.807766
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Bonita Unified,Allen Avenue Elementary,740 East Allen Avenue San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.117447999999996,-117.79294499999999,
+Bonita Unified,Arma J. Shull Elementary,825 North Amelia San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.116902,-117.820311,
+Bonita Unified,Bonita High,3102 D Street La Verne CA 91750-4023,,,False,tested,,Los Angeles County,34.108619,-117.76508799999999,
+Bonita Unified,Chaparral High (Continuation),121 West Allen Avenue San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.11763,-117.807652,
+Bonita Unified,Fred Ekstrand Elementary,400 North Walnut Avenue San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.11079,-117.802654,
+Bonita Unified,Gladstone Elementary,1314 West Gladstone San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.113565,-117.83424099999999,
+Bonita Unified,Grace Miller Elementary,1629 Holly Oak Street La Verne CA 91773-1437,,,False,tested,,Los Angeles County,34.109176,-117.775058,
+Bonita Unified,J. Marion Roynon Elementary,2715 E Street La Verne CA 91750-1437,,,,not tested,,Los Angeles County,34.104076,-117.767839,
+Bonita Unified,La Verne Heights Elementary,1550 Baseline Road La Verne CA 91773-1437,,,,not tested,,Los Angeles County,34.120801,-117.77451200000002,
+Bonita Unified,Lone Hill Middle,700 South Lone Hill San Dimas CA 91773-1437,,,False,tested,San Dimas,Los Angeles County,34.097196000000004,-117.82778700000001,
+Bonita Unified,Oak Mesa Elementary,5200 Wheeler Avenue La Verne CA 91750-1546,,,False,tested,,Los Angeles County,34.129507000000004,-117.775994,
+Bonita Unified,Ramona Middle,3490 Ramona Avenue San Dimas CA 91773-1437,,,False,tested,La Verne,Los Angeles County,34.115922999999995,-117.788595,
+Bonita Unified,San Dimas High,800 West Covina Boulevard San Dimas CA 91773-1473,,,False,tested,San Dimas,Los Angeles County,34.09926,-117.82253200000001,
+Bonita Unified,Vista (Alternative),127 West Allen Avenue San Dimas CA 91773-1473,,,,not tested,San Dimas,Los Angeles County,34.11763,-117.80776599999999,

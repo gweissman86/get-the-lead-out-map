@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Colton-Redlands-Yucaipa ROP,Colton-Redlands-Yucaipa ROP,1214 Indiana Court Redlands CA 92374-2896,NA,NA,NA,not tested,Redlands,San Bernardino County,34.069867,-117.2057
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Colton-Redlands-Yucaipa ROP,Colton-Redlands-Yucaipa ROP,1214 Indiana Court Redlands CA 92374-2896,,,,not tested,Redlands,San Bernardino County,34.069866999999995,-117.2057,

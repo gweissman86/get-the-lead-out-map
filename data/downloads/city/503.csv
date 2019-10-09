@@ -1,46 +1,46 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-William S. Hart Union High,Academy of the Canyons,26455 Rockwell Canyon Road Santa Clarita CA 91355-1803,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.408167,-118.567917
-William S. Hart Union High,Arroyo Seco Junior High,27171 North Vista Delgado Drive Valencia CA 91354-2244,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.439676,-118.538281
-William S. Hart Union High,Bowman (Jereann) High (Continuation),21508 Centre Pointe Parkway Santa Clarita CA 91350-2947,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.412895,-118.500513
-Saugus Union,Bridgeport Elementary,23670 Newhall Ranch Road Santa Clarita CA 91355-1640,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.442889,-118.575346
-William S. Hart Union High,Canyon High,19300 West Nadal Street Canyon Country CA 91351-1253,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.429794,-118.472162
-Sulphur Springs Union,Canyon Springs Community Elementary,19059 Vicci Street Canyon Country CA 91351-3380,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.419118,-118.468214
-Saugus Union,Cedarcreek Elementary,27792 Camp Plenty Road Canyon Country CA 91351-2099,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.425148,-118.476163
-Saugus Union,Charles Helmers Elementary,27300 North Grandview Drive Valencia CA 91354-1800,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.437087,-118.551996
-Newhall,Dr. J. Michael McGrath Elementary,21501 Deputy Jake Way Newhall CA 91321-4687,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.376081,-118.513723
-Saugus Union,Emblem Academy,22635 Espuella Drive Saugus CA 91350-2370,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.429073,-118.532588
-Sulphur Springs Union,Fair Oaks Ranch Community,26933 North Silverbell Lane Santa Clarita CA 91387-3802,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.403348,-118.448718
-Sulphur Springs Union,Golden Oak Community,25201 Via Princessa Santa Clarita CA 91321-1429,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.399221,-118.532752
-William S. Hart Union High,Golden Valley High,27051 Robert C. Lee Parkway Santa Clarita CA 91321-0500,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.399583,-118.492535
-Hart ROP,Hart ROP,21515 Centre Point Parkway Santa Clarita CA 91350-2947,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.412348,-118.513205
-Saugus Union,Highlands Elementary,27332 Catala Avenue Saugus CA 91350-2146,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.441278,-118.523979
-Saugus Union,James Foster Elementary,22500 Pamplico Drive Saugus CA 91350-3667,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.451964,-118.529646
-William S. Hart Union High,La Mesa Junior High,26623 May Way Santa Clarita CA 91351-5577,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.408623,-118.480971
-William S. Hart Union High,Learning Post High (Alternative),26455 Rockwell Canyon Rd Santa Clarita CA 91355-1803,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.408167,-118.567917
-Sulphur Springs Union,Leona H. Cox Community Elementary,18643 Oakmoor Canyon Country CA 91351-2936,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.426901,-118.459509
-Newhall,Meadows Elementary,25577 North Fedala Road Valencia CA 91355-2536,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.391334,-118.554932
-Sulphur Springs Union,Mint Canyon Community Elementary,16400 Sierra Highway Canyon Country CA 91351-1414,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.405627,-118.464782
-William S. Hart Union High,Mission View Public,26334 Citrus Street Santa Clarita CA 91355-5323,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.416062,-118.553233
-Sulphur Springs Union,Mitchell Community Elementary,16821 West Goodvale Street Canyon Country CA 91387-1714,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.428686,-118.429763
-Saugus Union,Mountainview Elementary,22201 West Cypress Place Saugus CA 91350-4212,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.471193,-118.522578
-Newhall,Newhall Elementary,24607 North Walnut Street Newhall CA 91321-1751,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.381765,-118.532083
-Saugus Union,North Park Elementary,23335 West Sunset Hills Drive Valencia CA 91355-4917,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.453047,-118.550411
-Newhall,Old Orchard Elementary,25141 North Avenida Rondel Valencia CA 91355-3205,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.381218,-118.547888
-Newhall,Peachland Avenue Elementary,24800 Peachland Avenue Newhall CA 91321-3430,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.374486,-118.545625
-Sulphur Springs Union,Pinetree Community Elementary,29156 Lotusgarden Drive Canyon Country CA 91387-1840,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.435905,-118.40313
-William S. Hart Union High,Placerita Junior High,25015 North Newhall Avenue Newhall CA 91321-1098,7.5,ppb,TRUE,tested,Santa Clarita,Los Angeles County,34.389754,-118.540909
-Saugus Union,Plum Canyon Elementary,28360 North Alfred Way Saugus CA 91350-3839,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.447424,-118.484588
-Saugus Union,Rio Vista Elementary,20417 Cedarcreek Street Canyon Country CA 91351-6670,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.425443,-118.492493
-Saugus Union,Rosedell Elementary,27853 Urbandale Avenue Saugus CA 91350-1914,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.447087,-118.506307
-Saugus Union,Santa Clarita Elementary,27177 Seco Canyon Road Saugus CA 91350-1550,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.444289,-118.534548
-William S. Hart Union High,Saugus High,21900 Centurion Way Saugus CA 91350-1607,6.1,ppb,TRUE,tested,Santa Clarita,Los Angeles County,34.443711,-118.51863
-William S. Hart Union High,Sequoia School,21445 Centre Pointe Parkway Santa Clarita CA 91350-2684,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.413668,-118.514336
-William S. Hart Union High,Sierra Vista Junior High,19425 West Stillmore Street Canyon Country CA 91351-2750,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.418486,-118.474342
-Saugus Union,Skyblue Mesa Elementary,28040 Hardesty Avenue Canyon Country CA 91351-1116,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.433401,-118.482754
-Saugus Union,Tesoro del Valle Elementary,29171 North Bernardo Way Valencia CA 91354-1599,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.468819,-118.558778
-William S. Hart Union High,Valencia High,27801 North Dickason Drive Valencia CA 91355-1208,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.439115,-118.563179
-Newhall,Valencia Valley Elementary,23601 Carrizo Drive Valencia CA 91355-2182,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.407669,-118.544291
-Sulphur Springs Union,Valley View Community Elementary,19414 Sierra Estates Drive Newhall CA 91321-2196,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.397464,-118.475192
-Saugus Union,West Creek Academy,28767 North West Hills Drive Valencia CA 91354-3092,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.458789,-118.5686
-Newhall,Wiley Canyon Elementary,24240 La Glorita Circle Newhall CA 91321-2304,NA,NA,NA,not tested,Santa Clarita,Los Angeles County,34.376503,-118.559843
-William S. Hart Union High,William S. Hart High,24825 North Newhall Avenue Newhall CA 91321-1576,NA,NA,FALSE,tested,Santa Clarita,Los Angeles County,34.384055,-118.536133
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+William S. Hart Union High,Academy of the Canyons,26455 Rockwell Canyon Road Santa Clarita CA 91355-1803,,,False,tested,Santa Clarita,Los Angeles County,34.408167,-118.567917,
+William S. Hart Union High,Arroyo Seco Junior High,27171 North Vista Delgado Drive Valencia CA 91354-2244,,,False,tested,Santa Clarita,Los Angeles County,34.439676,-118.53828100000001,
+William S. Hart Union High,Bowman (Jereann) High (Continuation),21508 Centre Pointe Parkway Santa Clarita CA 91350-2947,,,False,tested,Santa Clarita,Los Angeles County,34.412895,-118.50051299999998,
+Saugus Union,Bridgeport Elementary,23670 Newhall Ranch Road Santa Clarita CA 91355-1640,,,False,tested,Santa Clarita,Los Angeles County,34.442889,-118.575346,
+William S. Hart Union High,Canyon High,19300 West Nadal Street Canyon Country CA 91351-1253,,,False,tested,Santa Clarita,Los Angeles County,34.429794,-118.47216200000001,
+Sulphur Springs Union,Canyon Springs Community Elementary,19059 Vicci Street Canyon Country CA 91351-3380,,,False,tested,Santa Clarita,Los Angeles County,34.419118,-118.46821399999999,
+Saugus Union,Cedarcreek Elementary,27792 Camp Plenty Road Canyon Country CA 91351-2099,,,False,tested,Santa Clarita,Los Angeles County,34.425148,-118.47616299999999,
+Saugus Union,Charles Helmers Elementary,27300 North Grandview Drive Valencia CA 91354-1800,,,False,tested,Santa Clarita,Los Angeles County,34.437087,-118.551996,
+Newhall,Dr. J. Michael McGrath Elementary,21501 Deputy Jake Way Newhall CA 91321-4687,,,,not tested,Santa Clarita,Los Angeles County,34.376081,-118.513723,
+Saugus Union,Emblem Academy,22635 Espuella Drive Saugus CA 91350-2370,,,False,tested,Santa Clarita,Los Angeles County,34.429072999999995,-118.53258799999999,
+Sulphur Springs Union,Fair Oaks Ranch Community,26933 North Silverbell Lane Santa Clarita CA 91387-3802,,,False,tested,Santa Clarita,Los Angeles County,34.403348,-118.448718,
+Sulphur Springs Union,Golden Oak Community,25201 Via Princessa Santa Clarita CA 91321-1429,,,False,tested,Santa Clarita,Los Angeles County,34.399221000000004,-118.532752,
+William S. Hart Union High,Golden Valley High,27051 Robert C. Lee Parkway Santa Clarita CA 91321-0500,,,False,tested,Santa Clarita,Los Angeles County,34.399583,-118.492535,
+Hart ROP,Hart ROP,21515 Centre Point Parkway Santa Clarita CA 91350-2947,,,,not tested,Santa Clarita,Los Angeles County,34.412348,-118.513205,
+Saugus Union,Highlands Elementary,27332 Catala Avenue Saugus CA 91350-2146,,,False,tested,Santa Clarita,Los Angeles County,34.441278000000004,-118.523979,
+Saugus Union,James Foster Elementary,22500 Pamplico Drive Saugus CA 91350-3667,,,False,tested,Santa Clarita,Los Angeles County,34.451964000000004,-118.529646,
+William S. Hart Union High,La Mesa Junior High,26623 May Way Santa Clarita CA 91351-5577,,,False,tested,Santa Clarita,Los Angeles County,34.408623,-118.480971,
+William S. Hart Union High,Learning Post High (Alternative),26455 Rockwell Canyon Rd Santa Clarita CA 91355-1803,,,False,tested,Santa Clarita,Los Angeles County,34.408167,-118.567917,
+Sulphur Springs Union,Leona H. Cox Community Elementary,18643 Oakmoor Canyon Country CA 91351-2936,,,False,tested,Santa Clarita,Los Angeles County,34.426901,-118.45950900000001,
+Newhall,Meadows Elementary,25577 North Fedala Road Valencia CA 91355-2536,,,,not tested,Santa Clarita,Los Angeles County,34.391334,-118.55493200000001,
+Sulphur Springs Union,Mint Canyon Community Elementary,16400 Sierra Highway Canyon Country CA 91351-1414,,,False,tested,Santa Clarita,Los Angeles County,34.405627,-118.464782,
+William S. Hart Union High,Mission View Public,26334 Citrus Street Santa Clarita CA 91355-5323,,,,not tested,Santa Clarita,Los Angeles County,34.416062,-118.553233,
+Sulphur Springs Union,Mitchell Community Elementary,16821 West Goodvale Street Canyon Country CA 91387-1714,,,False,tested,Santa Clarita,Los Angeles County,34.428686,-118.429763,
+Saugus Union,Mountainview Elementary,22201 West Cypress Place Saugus CA 91350-4212,,,False,tested,Santa Clarita,Los Angeles County,34.471193,-118.522578,
+Newhall,Newhall Elementary,24607 North Walnut Street Newhall CA 91321-1751,,,,not tested,Santa Clarita,Los Angeles County,34.381765,-118.53208300000001,
+Saugus Union,North Park Elementary,23335 West Sunset Hills Drive Valencia CA 91355-4917,,,False,tested,Santa Clarita,Los Angeles County,34.453047,-118.55041100000001,
+Newhall,Old Orchard Elementary,25141 North Avenida Rondel Valencia CA 91355-3205,,,,not tested,Santa Clarita,Los Angeles County,34.381218,-118.54788799999999,
+Newhall,Peachland Avenue Elementary,24800 Peachland Avenue Newhall CA 91321-3430,,,,not tested,Santa Clarita,Los Angeles County,34.374486,-118.545625,
+Sulphur Springs Union,Pinetree Community Elementary,29156 Lotusgarden Drive Canyon Country CA 91387-1840,,,False,tested,Santa Clarita,Los Angeles County,34.435905,-118.40313,
+William S. Hart Union High,Placerita Junior High,25015 North Newhall Avenue Newhall CA 91321-1098,7.5,ppb,True,tested,Santa Clarita,Los Angeles County,34.389753999999996,-118.54090900000001,7.5
+Saugus Union,Plum Canyon Elementary,28360 North Alfred Way Saugus CA 91350-3839,,,False,tested,Santa Clarita,Los Angeles County,34.447424,-118.48458799999999,
+Saugus Union,Rio Vista Elementary,20417 Cedarcreek Street Canyon Country CA 91351-6670,,,False,tested,Santa Clarita,Los Angeles County,34.425443,-118.492493,
+Saugus Union,Rosedell Elementary,27853 Urbandale Avenue Saugus CA 91350-1914,,,False,tested,Santa Clarita,Los Angeles County,34.447086999999996,-118.506307,
+Saugus Union,Santa Clarita Elementary,27177 Seco Canyon Road Saugus CA 91350-1550,,,False,tested,Santa Clarita,Los Angeles County,34.444289000000005,-118.534548,
+William S. Hart Union High,Saugus High,21900 Centurion Way Saugus CA 91350-1607,6.1,ppb,True,tested,Santa Clarita,Los Angeles County,34.443711,-118.51863,6.1
+William S. Hart Union High,Sequoia School,21445 Centre Pointe Parkway Santa Clarita CA 91350-2684,,,False,tested,Santa Clarita,Los Angeles County,34.413668,-118.51433600000001,
+William S. Hart Union High,Sierra Vista Junior High,19425 West Stillmore Street Canyon Country CA 91351-2750,,,False,tested,Santa Clarita,Los Angeles County,34.418486,-118.474342,
+Saugus Union,Skyblue Mesa Elementary,28040 Hardesty Avenue Canyon Country CA 91351-1116,,,False,tested,Santa Clarita,Los Angeles County,34.433401,-118.482754,
+Saugus Union,Tesoro del Valle Elementary,29171 North Bernardo Way Valencia CA 91354-1599,,,False,tested,Santa Clarita,Los Angeles County,34.468819,-118.558778,
+William S. Hart Union High,Valencia High,27801 North Dickason Drive Valencia CA 91355-1208,,,False,tested,Santa Clarita,Los Angeles County,34.439115,-118.563179,
+Newhall,Valencia Valley Elementary,23601 Carrizo Drive Valencia CA 91355-2182,,,False,tested,Santa Clarita,Los Angeles County,34.407669,-118.54429099999999,
+Sulphur Springs Union,Valley View Community Elementary,19414 Sierra Estates Drive Newhall CA 91321-2196,,,False,tested,Santa Clarita,Los Angeles County,34.397464,-118.47519199999999,
+Saugus Union,West Creek Academy,28767 North West Hills Drive Valencia CA 91354-3092,,,False,tested,Santa Clarita,Los Angeles County,34.458789,-118.5686,
+Newhall,Wiley Canyon Elementary,24240 La Glorita Circle Newhall CA 91321-2304,,,,not tested,Santa Clarita,Los Angeles County,34.376503,-118.55984299999999,
+William S. Hart Union High,William S. Hart High,24825 North Newhall Avenue Newhall CA 91321-1576,,,False,tested,Santa Clarita,Los Angeles County,34.384055,-118.536133,

@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Washington Unified,Alyce Norman Learning Center,1200 Anna Street  West Sacramento CA 95605,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.596198,-121.531679
-Washington Unified,Bridgeway Island Elementary,3255 Half Moon Bay Circle West Sacramento CA 95691-5861,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.54118,-121.567433
-Washington Unified,River City High,1 Raider Lane West Sacramento CA 95691-4619,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.546916,-121.539327
-Washington Unified,Southport Elementary,2747 Linden Road West Sacramento CA 95691-4258,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.551773,-121.54858
-Washington Unified,Stonegate Elementary,2500 La Jolla Street West Sacramento CA 95691-4947,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.552593,-121.524542
-Washington Unified,Washington Unified School District Office,930 Westacre Road West Sacramento CA 95691-3224,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.577632,-121.531105
-Washington Unified,Westmore Oaks Elementary,1100 Clarendon Street West Sacramento CA 95691-3605,NA,NA,FALSE,tested,West Sacramento,Yolo County,38.572814,-121.53791
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Washington Unified,Alyce Norman Learning Center,1200 Anna Street  West Sacramento CA 95605,,,False,tested,West Sacramento,Yolo County,38.596198,-121.531679,
+Washington Unified,Bridgeway Island Elementary,3255 Half Moon Bay Circle West Sacramento CA 95691-5861,,,False,tested,West Sacramento,Yolo County,38.54118,-121.56743300000001,
+Washington Unified,River City High,1 Raider Lane West Sacramento CA 95691-4619,,,False,tested,West Sacramento,Yolo County,38.546915999999996,-121.539327,
+Washington Unified,Southport Elementary,2747 Linden Road West Sacramento CA 95691-4258,,,False,tested,West Sacramento,Yolo County,38.551773,-121.54858,
+Washington Unified,Stonegate Elementary,2500 La Jolla Street West Sacramento CA 95691-4947,,,False,tested,West Sacramento,Yolo County,38.552593,-121.524542,
+Washington Unified,Washington Unified School District Office,930 Westacre Road West Sacramento CA 95691-3224,,,False,tested,West Sacramento,Yolo County,38.577632,-121.53110500000001,
+Washington Unified,Westmore Oaks Elementary,1100 Clarendon Street West Sacramento CA 95691-3605,,,False,tested,West Sacramento,Yolo County,38.572814,-121.53791000000001,

@@ -1,10 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Altos Elementary,Almond Elementary,550 Almond Avenue Los Altos CA 94022-2312,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385082,-122.100526
-Los Altos Elementary,Ardis G. Egan Junior High,100 West Portola Avenue Los Altos CA 94022-1210,5.2,ppb,TRUE,tested,Los Altos,Santa Clara County,37.396124,-122.116366
-Los Altos Elementary,Covington Elementary,205 Covington Road Los Altos CA 94024-4030,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.370465,-122.107404
-Los Altos Elementary,Gardner Bullis Elementary,25890 Fremont Road Los Altos Hills CA 94022-2617,NA,NA,FALSE,tested,Los Altos Hills,Santa Clara County,37.381583,-122.130392
-Los Altos Elementary,Georgina P. Blach Junior High,1120 Covington Road Los Altos CA 94024-5005,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.363867,-122.081682
-Los Altos Elementary,Loyola Elementary,770 Berry Avenue Los Altos CA 94024-5413,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.361362,-122.092284
-Los Altos Elementary,Oak Avenue Elementary,1501 Oak Avenue Los Altos CA 94024-5831,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.356843,-122.071846
-Los Altos Elementary,Santa Rita Elementary,700 Los Altos Avenue Los Altos CA 94022-1631,NA,NA,FALSE,tested,Long Beach,Los Angeles County,33.775444,-118.125129
-Los Altos Elementary,Springer Elementary,1120 Rose Avenue Mountain View CA 94040-4058,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.370939,-122.091476
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Los Altos Elementary,Almond Elementary,550 Almond Avenue Los Altos CA 94022-2312,,,False,tested,Los Altos,Santa Clara County,37.385082000000004,-122.100526,
+Los Altos Elementary,Ardis G. Egan Junior High,100 West Portola Avenue Los Altos CA 94022-1210,5.2,ppb,True,tested,Los Altos,Santa Clara County,37.396124,-122.11636599999999,5.2
+Los Altos Elementary,Covington Elementary,205 Covington Road Los Altos CA 94024-4030,,,False,tested,Los Altos,Santa Clara County,37.370465,-122.107404,
+Los Altos Elementary,Gardner Bullis Elementary,25890 Fremont Road Los Altos Hills CA 94022-2617,,,False,tested,Los Altos Hills,Santa Clara County,37.381583,-122.13039199999999,
+Los Altos Elementary,Georgina P. Blach Junior High,1120 Covington Road Los Altos CA 94024-5005,,,False,tested,Los Altos,Santa Clara County,37.363867,-122.081682,
+Los Altos Elementary,Loyola Elementary,770 Berry Avenue Los Altos CA 94024-5413,,,False,tested,Los Altos,Santa Clara County,37.361362,-122.092284,
+Los Altos Elementary,Oak Avenue Elementary,1501 Oak Avenue Los Altos CA 94024-5831,,,False,tested,Los Altos,Santa Clara County,37.356843,-122.071846,
+Los Altos Elementary,Santa Rita Elementary,700 Los Altos Avenue Los Altos CA 94022-1631,,,False,tested,Long Beach,Los Angeles County,33.775444,-118.125129,
+Los Altos Elementary,Springer Elementary,1120 Rose Avenue Mountain View CA 94040-4058,,,False,tested,Los Altos,Santa Clara County,37.370939,-122.091476,

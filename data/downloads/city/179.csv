@@ -1,2 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Exeter Unified,Alternative Education,1107 E Rocky Hill Dr Exeter CA 93221,NA,NA,NA,not tested,Exeter,Tulare County,36.297049,-119.130822
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Eureka City Schools,Alice Birney Elementary,717 South Avenue Eureka CA 95503-5041,,,False,tested,Eureka,Humboldt County,40.777503,-124.17911000000001,
+Eureka City Schools,Catherine L. Zane Middle,2155 S Street Eureka CA 95501-3140,,,False,tested,Eureka,Humboldt County,40.787817,-124.14895600000001,
+Cutten Elementary,Cutten Elementary,4182 Walnut Drive Eureka CA 95503-6223,,,False,tested,Eureka,Humboldt County,40.766511,-124.14308,
+Eureka City Schools,Eureka Senior High,1915 J Street Eureka CA 95501-3052,,,False,tested,Eureka,Humboldt County,40.789770000000004,-124.158786,
+Freshwater Elementary,Freshwater Charter Middle,75 Greenwood Heights Drive Eureka CA 95503-9569,,,False,tested,Eureka,Humboldt County,40.786017,-124.082047,
+Freshwater Elementary,Freshwater Elementary,75 Greenwood Heights Dr. Eureka CA 95503-9569,,,False,tested,Eureka,Humboldt County,40.786017,-124.082047,
+Eureka City Schools,Grant Elementary,3901 G Street Eureka CA 95503-6009,,,False,tested,Eureka,Humboldt County,40.771025,-124.16238999999999,
+Eureka City Schools,Lafayette Elementary,3100 Park Street Eureka CA 95501-1544,,,False,tested,Eureka,Humboldt County,40.79439,-124.13209099999999,
+South Bay Union Elementary,Pine Hill Elementary,5230 Vance Avenue Eureka CA 95503-6351,,,False,tested,Eureka,Humboldt County,40.758287,-124.181643,
+Cutten Elementary,Ridgewood Elementary,2060 Ridgewood Drive Eureka CA 95503-6687,5.6,ppb,True,tested,Eureka,Humboldt County,40.732436,-124.14707800000001,5.6
+South Bay Union Elementary,South Bay Elementary,6077 Loma Avenue Eureka CA 95503-6869,,,False,tested,Eureka,Humboldt County,40.73465,-124.207291,
+Eureka City Schools,Washington Elementary,3322 Dolbeer Street Eureka CA 95503-5633,,,False,tested,Eureka,Humboldt County,40.778213,-124.142129,
+Eureka City Schools,Winship Middle,2500 Cypress Avenue Eureka CA 95503-6213,,,False,tested,Eureka,Humboldt County,40.765001,-124.138222,
+Eureka City Schools,Zoe Barnum High,216 West Harris Street Eureka CA 95501-4074,,,False,tested,Eureka,Humboldt County,40.780565,-124.17327900000001,

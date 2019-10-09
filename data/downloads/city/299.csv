@@ -1,3 +1,12 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Linden Unified,Linden Elementary,18100 West Front Street Linden CA 95236-9701,NA,NA,FALSE,tested,Linden,San Joaquin County,38.020016,-121.094538
-Linden Unified,Linden High,18527 East Front Street Linden CA 95236-9703,NA,NA,FALSE,tested,Linden,San Joaquin County,38.020641,-121.088082
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Western Placer Unified,Carlin C. Coppin Elementary,150 12th Street Lincoln CA 95648-2058,,,False,tested,Lincoln,Placer County,38.901707,-121.28433999999999,
+Western Placer Unified,Creekside Oaks Elementary,2030 First Street Lincoln CA 95648-2173,,,False,tested,Lincoln,Placer County,38.8876,-121.315937,
+Western Placer Unified,First Street,1400 First Street Lincoln CA 95648-1688,,,False,tested,Lincoln,Placer County,38.887060999999996,-121.3009,
+Western Placer Unified,Foskett Ranch Elementary,1561 Joiner Parkway Lincoln CA 95648-2969,,,,not tested,Lincoln,Placer County,38.906828000000004,-121.31753799999998,
+Western Placer Unified,Glen Edwards Middle,204 L Street Lincoln CA 95648-1674,,,False,tested,Lincoln,Placer County,38.889013,-121.299255,
+Western Placer Unified,Horizon Charter,2800 Nicolaus Rd Suite 100 Lincoln CA 95648-1757,,,False,tested,Lincoln,Placer County,38.897696999999994,-121.32942800000001,
+Western Placer Unified,Lincoln Crossing Elementary,635 Groveland Lane Lincoln CA 95648-8013,,,False,tested,Lincoln,Placer County,38.878213,-121.30498899999999,
+Western Placer Unified,Lincoln High,790 J Street Lincoln CA 95648-1614,,,False,tested,Lincoln,Placer County,38.894251000000004,-121.29851799999999,
+Western Placer Unified,Phoenix High (Continuation),870 J Street Lincoln CA 95648-1757,,,False,tested,Lincoln,Placer County,38.896260999999996,-121.296732,
+Western Placer Unified,Twelve Bridges Elementary,2450 Eastridge Drive Lincoln CA 95648-8282,,,False,tested,Lincoln,Placer County,38.846299,-121.268643,
+Western Placer Unified,Twelve Bridges Middle,770 Westview Drive Lincoln CA 95648-7823,,,False,tested,Lincoln,Placer County,38.8429,-121.285633,

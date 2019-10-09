@@ -1,18 +1,16 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,Arcata Christian,1700 Union Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.874009,-124.075295
-Arcata Elementary,Arcata Elementary,2400 Baldwin Street Arcata CA 95521-5168,NA,NA,FALSE,tested,Arcata,Humboldt County,40.882387,-124.086332
-Northern Humboldt Union High,Arcata High,1720 M Street Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
-Arcata Elementary,Coastal Grove Charter,1897 S Street Arcata CA 95521-5474,NA,NA,FALSE,tested,Arcata,Humboldt County,40.876966,-124.09863
-Arcata Elementary,Fuente Nueva Charter,1730 Janes Road Arcata CA 95521-9623,NA,NA,FALSE,tested,Arcata,Humboldt County,40.880507,-124.100576
-Northern Humboldt Union High,Laurel Tree Charter,4555 Valley West Boulevard Arcata CA 95521-4683,NA,NA,FALSE,tested,Arcata,Humboldt County,40.89871,-124.081544
-Humboldt County Office of Education,Northcoast Performing Arts and Preparatory Academy Middle,285 Bayside Road Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.856032,-124.071069
-Humboldt County Office of Education,Northcoast Preparatory and Performing Arts Academy,1761 11th Street Arcata CA 95521-5403,NA,NA,FALSE,tested,Arcata,Humboldt County,40.872745,-124.096423
-Humboldt County Office of Education,Northern United Charter School Arcata Learning Center,1539 F Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.873682,-124.08291
-Northern Humboldt Union High,Pacific Coast High (Continuation),1720 M Street B Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
-Pacific Union Elementary,Pacific Union Elementary,3001 Janes Road Arcata CA 95521-4701,NA,NA,FALSE,tested,Arcata,Humboldt County,40.894707,-124.092478
-Arcata Elementary,Redwood Coast Montessori,1611 Peninsula Drive Arcata CA 95521-9658,NA,NA,FALSE,tested,Arcata,Humboldt County,40.845518,-124.169336
-Northern Humboldt Union High,Six Rivers Charter High,1720 M St. Arcata CA 95521-5741,NA,NA,FALSE,tested,Arcata,Humboldt County,40.875587,-124.089782
-Private,Six Rivers Montessori,1222 Hallen Drive Arcata CA 95521,5.9,ppb,TRUE,tested,Arcata,Humboldt County,40.900746,-124.07982
-Arcata Elementary,Sunny Brae Middle,1430 Buttermilk Lane Arcata CA 95521-6910,NA,NA,FALSE,tested,Arcata,Humboldt County,40.857432,-124.066797
-Pacific Union Elementary,Trillium Charter,1464 Spear Avenue Arcata CA 95521-4882,NA,NA,FALSE,tested,Arcata,Humboldt County,40.890111,-124.086858
-Arcata Elementary,Union Street Charter,470 Union Street Arcata CA 95521-6429,5.4,ppb,TRUE,tested,Arcata,Humboldt County,40.862904,-124.076942
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Arcadia Unified,Arcadia Adult,150 South Third Ave. Arcadia CA 91006-3703,,,False,tested,Arcadia,Los Angeles County,34.138328,-118.023255,
+Arcadia Unified,Arcadia High,180 Campus Drive Arcadia CA 91007-6958,6.3,ppb,True,tested,Arcadia,Los Angeles County,34.130677,-118.037145,6.3
+Arcadia Unified,Baldwin Stocker Elementary,422 West Lemon Avenue Arcadia CA 91007-6902,,,False,tested,Arcadia,Los Angeles County,34.118186,-118.046447,
+Arcadia Unified,Camino Grove Elementary,700 Camino Grove Avenue Arcadia CA 91007-6902,,,False,tested,Arcadia,Los Angeles County,34.124761,-118.017191,
+Arcadia Unified,First Avenue Middle,301 South First Avenue Arcadia CA 91006-3802,,,False,tested,Arcadia,Los Angeles County,34.145538,-118.028452,
+Arcadia Unified,Foothills Middle,171 East Sycamore Avenue Arcadia CA 91006-2452,,,False,tested,Arcadia,Los Angeles County,34.152928,-118.02681100000001,
+Arcadia Unified,Highland Oaks Elementary,10 Virginia Drive Arcadia CA 91006-1899,,,False,tested,Arcadia,Los Angeles County,34.159895,-118.03095800000001,
+Arcadia Unified,Holly Avenue Elementary,360 West Duarte Road Arcadia CA 91007-3097,,,False,tested,Arcadia,Los Angeles County,34.127515,-118.044395,
+Arcadia Unified,Hugo Reid Elementary,1000 Hugo Reid Drive Arcadia CA 91007-6179,,,False,tested,Arcadia,Los Angeles County,34.138056,-118.06279099999999,
+Acton-Agua Dulce Unified,Method Schools High,317 East Foothill Boulevard Arcadia CA 91006-1848,,,,not tested,Arcadia,Los Angeles County,34.151171000000005,-118.02236699999999,
+Acton-Agua Dulce Unified,Method Schools K-8,317 East Foothill Blvd Arcadia CA 91006-1848,,,,not tested,Arcadia,Los Angeles County,34.151171000000005,-118.02236699999999,
+Private,Our Lady of the Angels Academy,1100 West Duarte Arcadia CA 91007,,,False,tested,Arcadia,Los Angeles County,34.124047999999995,-118.06475800000001,
+Private,Pearl Preparatory,1307 East Longden Avenue Arcadia CA 91006,,,False,tested,Arcadia,Los Angeles County,34.11561,-118.004576,
+Arcadia Unified,Rancho Learning Center (Alternative),150 South Third Avenue Arcadia CA 91006-3703,,,,not tested,Arcadia,Los Angeles County,34.138328,-118.023255,
+Arcadia Unified,Richard Henry Dana Middle,1401 South First Avenue Arcadia CA 91006-4134,,,False,tested,Arcadia,Los Angeles County,34.124809,-118.029002,

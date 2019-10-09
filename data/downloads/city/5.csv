@@ -1,15 +1,26 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Alhambra Unified,Alhambra High,101 South Second Street Alhambra CA 91801-3716,5.6,ppb,TRUE,tested,Alhambra,Los Angeles County,34.093074,-118.128818
-LAUSD,BILL CRUZ EARLY EDUCATION CENTER,"1020 S. VALENCIA ST., LOS ANGELES, CA 90015",NA,NA,NA,exempt,Alhambra,Los Angeles County,34.084001,-118.113064
-Alhambra Unified,Century High,20 South Marengo Avenue Alhambra CA 91801-1947,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.09119,-118.141924
-Alhambra Unified,Emery Park Elementary,2821 West Commonwealth Avenue Alhambra CA 91803-1099,5.8,ppb,TRUE,tested,Alhambra,Los Angeles County,34.087886,-118.154417
-Alhambra Unified,Fremont Elementary,2001 South Elm Street Alhambra CA 91803-2905,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.070439,-118.150805
-Alhambra Unified,Garfield Elementary,110 West McLean Street Alhambra CA 91801-1364,6.5,ppb,TRUE,tested,Alhambra,Los Angeles County,34.101424,-118.132933
-Alhambra Unified,Granada Elementary,100 South Granada Avenue Alhambra CA 91801-4021,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.098323,-118.116877
-Alhambra Unified,Marguerita Elementary,1603 South Marguerita Avenue Alhambra CA 91803-3199,6.1,ppb,TRUE,tested,Alhambra,Los Angeles County,34.075371,-118.138246
-Alhambra Unified,Mark Keppel High,501 East Hellman Avenue Alhambra CA  91801-5716,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.069874,-118.116617
-Alhambra Unified,Mark Keppel High,501 East Hellman Ave Alhambra CA 91801-5716,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.069874,-118.116617
-Alhambra Unified,Martha Baldwin Elementary,900 South Almansor Street Alhambra CA 91801-4854,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.085618,-118.116848
-Alhambra Unified,Park Elementary,301 North Marengo Avenue Alhambra CA 91801-1917,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.09536,-118.142151
-Alhambra Unified,Ramona Elementary,509 West Norwood Place Alhambra CA 91803-3217,NA,NA,FALSE,tested,Alhambra,Los Angeles County,34.076193,-118.128589
-Alhambra Unified,William Northrup Elementary,409 South Atlantic Boulevard Alhambra CA 91801-3643,8.2,ppb,TRUE,tested,Alhambra,Los Angeles County,34.08602,-118.135552
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Alameda Unified,Alameda Adult,1300 Third Street Alameda CA 94501,,,,not tested,Alameda,Alameda County,37.770959000000005,-122.288416,
+Alameda Unified,Alameda High,2201 Encinal Avenue Alameda CA 94501-4406,,,False,tested,Alameda,Alameda County,37.764247999999995,-122.248057,
+Alameda Unified,Alameda Science and Technology Institute,555 Atlantic Avenue Alameda CA 94501-2109,,,False,tested,Alameda,Alameda County,37.779937,-122.273448,
+Alameda Unified,Amelia Earhart Elementary,400 Packet Landing Road Alameda CA 94502-6534,,,False,tested,Alameda,Alameda County,37.744661,-122.238152,
+Alameda Unified,Bay Farm,200 Aughinbaugh Way Alameda CA 94502-7451,,,False,tested,Alameda,Alameda County,37.738034000000006,-122.25202900000001,
+Alameda Unified,Donald D. Lum Elementary,1801 Sandcreek Way Alameda CA 94501-6024,,,,not tested,Alameda,Alameda County,37.76204,-122.259003,
+East Side Union High,East Bay Regional Occupation Center/Agency (ROC/P),1900 Third Street Room 23 Alameda CA 94501-1851,,,,not tested,Alameda,Alameda County,37.779125,-122.287676,
+Alameda Unified,Edison Elementary,2700 Buena Vista Avenue Alameda CA 94501-1610,,,False,tested,Alameda,Alameda County,37.764441999999995,-122.23483200000001,
+Alameda Unified,Encinal Junior/Senior High,210 Central Avenue Alameda CA 94501-3246,,,False,tested,Alameda,Alameda County,37.773607,-122.28995900000001,
+Alameda Unified,Frank Otis Elementary,3010 Fillmore Street Alameda CA 94501-5544,,,False,tested,Alameda,Alameda County,37.753753,-122.238297,
+Alameda Unified,Franklin Elementary,1433 San Antonio Avenue Alameda CA 94501-4039,,,False,tested,Alameda,Alameda County,37.769179,-122.26185900000002,
+Alameda Unified,Henry Haight Elementary,2025 Santa Clara Avenue Alameda CA 94501-2720,,,False,tested,Alameda,Alameda County,37.769866,-122.250234,
+Alameda Unified,Island High (Continuation),1900 Third Street Alameda CA 94501-1851,7.6,ppb,True,tested,Alameda,Alameda County,37.779689000000005,-122.28783200000001,7.6
+Alameda Unified,Lincoln Middle,1250 Fernside Boulevard Alameda CA 94501-4808,,,False,tested,Alameda,Alameda County,37.766942,-122.23205,
+Alameda Unified,Nea Community Learning Center,1900 Third St Alameda CA 94501-1851,,,False,tested,Alameda,Alameda County,37.779689000000005,-122.28783200000001,
+Alameda Unified,Rising Star Montessori Cottage Campus,770 Santa Clara Avenue Alameda CA 94501,,,False,tested,Alameda,Alameda County,37.773337,-122.27383799999998,
+Private,Rising Star Montessori School,1421 High Street Alameda CA 94501,,,False,tested,Alameda,Alameda County,37.758713,-122.231544,
+Alameda Unified,Ruby Bridges Elementary,351 Jack London Avenue Alameda CA 94501-3901,,,False,tested,Alameda,Alameda County,37.781841,-122.285496,
+Private,St. Joseph Elementary,1910 San Antonio Avenue Alameda CA 94501,,,False,tested,Alameda,Alameda County,37.766109,-122.25526299999999,
+Private,St. Joseph Notre Dame High School,1011 Chestnut Street Alameda CA 94501,8.0,ppb,True,tested,Alameda,Alameda County,37.765243,-122.255137,8.0
+Private,St. Philip Neri Elementary,1335 High Street Alameda CA 94501,,,False,tested,Alameda,Alameda County,37.757284999999996,-122.23313799999998,
+Alameda Unified,The Academy of Alameda,401 Pacific Avenue Alameda CA 94501-1837,7.2,ppb,True,tested,Alameda,Alameda County,37.776383,-122.28546899999999,7.2
+Alameda Unified,The Academy of Alameda Elementary,401 Pacific Ave. Alameda CA 94501-1837,,,False,tested,Alameda,Alameda County,37.776383,-122.28546899999999,
+Private,The Child Unique Montessori School,2226 Encinal Avenue Alameda CA 94501,,,False,tested,Alameda,Alameda County,37.763805,-122.247474,
+Alameda Unified,William G. Paden Elementary,444 Central Avenue Alameda CA 94501-3615,,,False,tested,Alameda,Alameda County,37.770809,-122.28369199999999,

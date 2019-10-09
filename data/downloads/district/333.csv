@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Jamestown Elementary,Jamestown Elementary,18299 Fifth Avenue Jamestown CA 95327-9671,NA,NA,FALSE,tested,Jamestown,Tuolumne County,37.954028,-120.417197
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Jamestown Elementary,Jamestown Elementary,18299 Fifth Avenue Jamestown CA 95327-9671,,,False,tested,Jamestown,Tuolumne County,37.954028,-120.417197,

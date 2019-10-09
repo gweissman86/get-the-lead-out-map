@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-ABC Unified,Burbank (Luther) Elementary,17711 Roseton Avenue Artesia CA 90701-3837,NA,NA,NA,not tested,Artesia,Los Angeles County,33.870228,-118.087244
-ABC Unified,Juarez (Benito) Elementary,11939 Aclare Street Cerritos CA 90703-2709,NA,NA,FALSE,tested,Artesia,Los Angeles County,33.874513,-118.078883
-ABC Unified,Kennedy (John F.) Elementary,17500 Belshire Avenue Artesia CA 90701-4352,NA,NA,NA,not tested,Artesia,Los Angeles County,33.87219,-118.070616
-ABC Unified,Niemes (John H.) Elementary,16715 Jersey Avenue Artesia CA 90701-1750,NA,NA,NA,not tested,Artesia,Los Angeles County,33.880036,-118.085722
-Private,Our Lady of Fatima,18626 Clarkdale Avenue Artesia CA 90701,NA,NA,FALSE,tested,Artesia,Los Angeles County,33.861906,-118.078956
-ABC Unified,Ross (Faye) Middle,17707 Elaine Avenue Artesia CA 90701-4018,NA,NA,NA,not tested,Artesia,Los Angeles County,33.872951,-118.076916
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lucia Mar Unified,Arroyo Grande High,495 Valley Road Arroyo Grande CA 93420-3928,,,False,tested,Arroyo Grande,San Luis Obispo County,35.114596,-120.581172,
+Lucia Mar Unified,Harloe Elementary,901 Fair Oaks Avenue Arroyo Grande CA 93420-3827,9.7,ppb,True,tested,Arroyo Grande,San Luis Obispo County,35.112626,-120.592473,9.7
+Lucia Mar Unified,Lopez Continuation High,1055 Mesa View Drive Arroyo Grande CA 93420-3311,,,False,tested,Arroyo Grande,San Luis Obispo County,35.066165000000005,-120.594369,
+Lucia Mar Unified,Mesa Middle,2555 Halcyon Road Arroyo Grande CA 93420-6539,,,False,tested,Arroyo Grande,San Luis Obispo County,35.07589,-120.581469,
+Lucia Mar Unified,Ocean View Elementary,1208 Linda Drive Arroyo Grande CA 93420-2466,,,False,tested,Arroyo Grande,San Luis Obispo County,35.123509999999996,-120.598378,
+Lucia Mar Unified,Paulding Middle,600 Crown Hill Street Arroyo Grande CA 93420-2869,,,False,tested,Arroyo Grande,San Luis Obispo County,35.126505,-120.571826,

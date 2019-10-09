@@ -1,14 +1,26 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Norwalk-La Mirada Unified,Arlie F. Hutchinson Middle,13900 Estero Road La Mirada CA 90638-3615,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.904473,-118.024705
-Norwalk-La Mirada Unified,Eastwood Elementary,15730 Pescados Drive La Mirada CA 90638-4999,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.89745,-117.995794
-Norwalk-La Mirada Unified,Escalona Elementary,15135 Escalona Road La Mirada CA 90638-4601,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.894213,-118.011724
-Norwalk-La Mirada Unified,Foster Road Elementary,13930 East Foster Road La Mirada CA 90638-2820,NA,NA,NA,not tested,La Mirada,Los Angeles County,33.909125,-118.034115
-Norwalk-La Mirada Unified,Gardenhill Elementary,14607 East Gardenhill Drive La Mirada CA 90638-2099,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.911132,-118.022972
-East Whittier City Elementary,Granada Middle,15337 Lemon Drive Whittier CA 90604-3251,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.923397,-118.002488
-Norwalk-La Mirada Unified,Grow & Learn Center,14540 San Cristobal Road La Mirada CA 90638,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.898036,-118.022902
-Private,"Heights Christian Schools, Bluefield Campus",12900 Bluefield Avenue La Mirada CA 90638,7.7,ppb,TRUE,tested,La Mirada,Los Angeles County,33.914311,-118.007616
-Norwalk-La Mirada Unified,John Foster Dulles Elementary,12726 Meadowgreen Road La Mirada CA 90638-2637,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.915194,-117.989778
-Norwalk-La Mirada Unified,La Mirada High,13520 Adelfa Drive La Mirada CA 90638-3103,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.9085,-118.004163
-Norwalk-La Mirada Unified,La Pluma Elementary,14420 La Pluma Drive La Mirada CA 90638-4029,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.901864,-118.001139
-Norwalk-La Mirada Unified,Los Coyotes Middle,14640 Mercado Avenue La Mirada CA 90638-4210,NA,NA,FALSE,tested,La Mirada,Los Angeles County,33.898577,-117.990351
-Norwalk-La Mirada Unified,Reginald M. Benton Middle,15709 East Olive Branch Road La Mirada CA 90638-2435,NA,NA,NA,not tested,La Mirada,Los Angeles County,33.913366,-117.996758
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Cajon Valley Union,Avocado Elementary,3845 Avocado School Road La Mesa CA 91941-7319,,,False,tested,La Mesa,San Diego County,32.750637,-116.959827,
+San Diego Unified,Benchley/Weinberger Elementary,6269 Twin Lake Drive San Diego CA 92119-3051,,,False,tested,La Mesa,San Diego County,32.794213,-117.03119,
+Private,Christ Lutheran Elementary,7929 La Mesa Boulevard La Mesa CA 91942,,,False,tested,La Mesa,San Diego County,32.764886,-117.026574,
+San Diego Unified,Clay Elementary,6506 Solita Avenue San Diego CA 92115-4244,10.5,ppb,True,tested,La Mesa,San Diego County,32.763605,-117.057842,10.5
+Mountain Empire Unified,College Preparatory Middle,5150 Jackson Drive La Mesa CA 91942-9001,,,,not tested,La Mesa,San Diego County,32.777802,-117.01833500000001,
+Grossmont Union High,Grossmont High,1100 Murray Drive La Mesa CA 91944-1043,,,False,tested,La Mesa,San Diego County,32.780012,-116.99982,
+Grossmont Union High,Helix High,7323 University Avenue La Mesa CA 91941-6055,,,False,tested,La Mesa,San Diego County,32.768476,-117.01456599999999,
+Julian Union Elementary,"Julian charter School, Innovation Centre La Mesa",5300 Jackson Drive La Mesa CA 91942,,,False,tested,La Mesa,San Diego County,32.775649,-117.013906,
+La Mesa-Spring Valley,La Mesa Arts Academy,4200 Parks Avenue La Mesa CA 91942-6212,10.0,ppb,True,tested,La Mesa,San Diego County,32.755398,-117.03037900000001,10.0
+La Mesa-Spring Valley,La Mesa Dale Elementary,4370 Parks Avenue La Mesa CA 91941-5214,,,False,tested,La Mesa,San Diego County,32.757715000000005,-117.032242,
+La Mesa-Spring Valley,La Mesa-Spring Valley Home Independent Study,4811 Glen Street La Mesa CA 91942-5474,,,False,tested,La Mesa,San Diego County,32.766465999999994,-117.008799,
+San Diego Unified,Learning Choice Academy,4215 Spring Street Suite A-104 La Mesa CA 91941-7983,,,False,tested,La Mesa,San Diego County,32.755668,-117.013547,
+La Mesa-Spring Valley,Lemon Avenue Elementary,8787 Lemon Avenue La Mesa CA 91941-5214,10.0,ppb,True,tested,La Mesa,San Diego County,32.768121,-117.008403,10.0
+La Mesa-Spring Valley,Maryland Avenue Elementary,5400 Maryland Avenue La Mesa CA 91941-5214,13.0,ppb,True,tested,La Mesa,San Diego County,32.777703,-117.03826000000001,13.0
+Private,Mt. Helix Academy,5955 Severin Drive La Mesa CA 91942,,,False,tested,La Mesa,San Diego County,32.786784000000004,-116.99873799999999,
+La Mesa-Spring Valley,Murdock Elementary,4354 Conrad Drive La Mesa CA 91941-5214,,,False,tested,La Mesa,San Diego County,32.759278,-116.98566799999999,
+La Mesa-Spring Valley,Murray Manor Elementary,8305 El Paso Street La Mesa CA 91942-2704,,,False,tested,La Mesa,San Diego County,32.788321999999994,-117.019807,
+La Mesa-Spring Valley,Northmont Elementary,9405 Gregory Street La Mesa CA 91942-3811,,,False,tested,La Mesa,San Diego County,32.790843,-116.99391299999999,
+La Mesa-Spring Valley,Parkway Middle,9009 Park Plaza Drive La Mesa CA 91942-3400,,,False,tested,La Mesa,San Diego County,32.79096,-117.00490500000001,
+La Mesa-Spring Valley,Rolando Elementary,6925 Tower Street La Mesa CA 91941-5214,,,False,tested,La Mesa,San Diego County,32.763159,-117.048704,
+Private,Shepherd of the Hills Lutheran,9191 Fletcher Parkway La Mesa CA 91942,,,False,tested,La Mesa,San Diego County,32.794061,-117.00157,
+Private,St. Martin of Tours Academy,7708 El Cajon Boulevard La Mesa CA 91942,,,False,tested,La Mesa,San Diego County,32.768524,-117.031682,
+Private,Trinity Christian School,3902 Kenwood Drive Spring Valley CA 91977,,,False,tested,La Mesa,San Diego County,32.74977,-117.00745500000001,
+Lemon Grove,Vista La Mesa Academy,3900 Violet Street La Mesa CA 91941-7542,,,False,tested,La Mesa,San Diego County,32.748521999999994,-117.045,
+Private,Warren-Walker School/La Mesa,5150 Wilson Street La Mesa CA 91941,,,False,tested,La Mesa,San Diego County,32.773075,-117.007159,

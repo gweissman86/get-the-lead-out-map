@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Roseville Joint Union High,Granite Bay High,1 Grizzly Way Granite Bay CA 95746-7194,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731927,-121.211864
-Eureka Union,Greenhills Elementary,8200 Greenhills Way Granite Bay CA 95746-4300,NA,NA,FALSE,tested,Granite Bay,Placer County,38.750316,-121.216498
-Eureka Union,Oakhills Elementary,9233 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731043,-121.206479
-Eureka Union,Ridgeview Elementary,9177 Twin School Road Granite Bay CA 95746-7100,NA,NA,FALSE,tested,Granite Bay,Placer County,38.731801,-121.206785
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Colton Joint Unified,Grand Terrace Elementary,12066 Vivienda Avenue Grand Terrace CA 92313-5026,6.8,ppb,True,tested,Grand Terrace,San Bernardino County,34.035358,-117.321013,6.8
+Colton Joint Unified,Grand Terrace High School at the Ray Abril Jr. Educational Complex,21810 Main Street Grand Terrace CA 92313-5810,,,False,tested,Grand Terrace,San Bernardino County,34.021718,-117.32820900000002,
+Colton Joint Unified,Terrace Hills Middle,22579 DeBerry Street Grand Terrace CA 92313-5515,6.75,ppb,True,tested,Grand Terrace,San Bernardino County,34.029686,-117.31205600000001,8.0
+Colton Joint Unified,Terrace View Elementary,22731 Grand Terrace Road Grand Terrace CA 92313-4921,10.4,ppb,True,tested,Grand Terrace,San Bernardino County,34.042728000000004,-117.30862900000001,13.0

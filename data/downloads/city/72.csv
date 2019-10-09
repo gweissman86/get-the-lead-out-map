@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Buttonwillow Union Elementary,Buttonwillow Elementary,42600 Highway 58 Buttonwillow CA 93206-9726,NA,NA,NA,not tested,Buttonwillow,Kern County,35.400192,-119.476526
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fall River Joint Unified,Burney Elementary,37403 Toronto Street Burney CA 96013-4381,5.3,ppb,True,tested,Burney,Shasta County,40.882487,-121.654362,5.3

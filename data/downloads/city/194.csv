@@ -1,16 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fountain Valley Elementary,Courreges (Roch) Elementary,18313 Santa Carlotta Fountain Valley CA 92708-5616,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.696647,-117.976067
-Fountain Valley Elementary,Cox (James H.) Elementary,17615 Los Jardines East Fountain Valley CA 92708-5340,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.707484,-117.939004
-Garden Grove Unified,Ethan B. Allen Elementary,16200 Bushard Street Fountain Valley CA 92708-1505,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.715969,-117.963197
-Huntington Beach Union High,Fountain Valley High,17816 Bushard Fountain Valley CA 92708-4598,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.705789,-117.960559
-Fountain Valley Elementary,Fulton (Harry C.) Middle,8778 El Lago Street Fountain Valley CA 92708-4320,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.705379,-117.975924
-Fountain Valley Elementary,Gisler (Robert) Elementary,18720 Las Flores Street Fountain Valley CA 92708-7113,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.693843,-117.949741
-Orange County Department of Education,Harbor Learning Center,15872 Harbor Boulevard Fountain Valley CA 92708,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.731936,-117.919035
-Garden Grove Unified,James Monroe Elementary,16225 Newhope Street Fountain Valley CA 92708-1703,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.727865,-117.928671
-Garden Grove Unified,Los Amigos High,16566 Newhope Street Fountain Valley CA 92708-2403,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.721861,-117.92629
-Garden Grove Unified,Mamie L. Northcutt Elementary,11303 Sandstone Street Fountain Valley CA 92708-3025,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.71901,-117.931646
-Fountain Valley Elementary,Masuda (Kazuo) Middle,17415 Los Jardines West Fountain Valley CA 92708-4846,5.6,ppb,TRUE,tested,Fountain Valley,Orange County,33.709297,-117.94338
-Fountain Valley Elementary,Plavan (Urbain H.) Elementary,9675 Warner Avenue Fountain Valley CA 92708-2823,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.716138,-117.959421
-Fountain Valley Elementary,Tamura (Hisamatsu) Elementary,17340 Santa Suzanne Street Fountain Valley CA 92708-3307,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.711794,-117.976083
-Huntington Beach Union High,Valley Vista High (Continuation),9600 Dolphin Street Fountain Valley CA 92708-4603,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.707806,-117.961099
-Ocean View,Vista View Middle,16250 Hickory Street Fountain Valley CA 92708-1404,6.3,ppb,TRUE,tested,Fountain Valley,Orange County,33.727256,-117.970746
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Mateo-Foster City,Audubon Elementary,841 Gull Avenue Foster City CA 94404-1427,,,False,tested,Foster City,San Mateo County,37.567170000000004,-122.259322,
+San Mateo-Foster City,Bowditch Middle,1450 Tarpon Street Foster City CA 94404-1938,,,False,tested,Foster City,San Mateo County,37.560347,-122.250543,
+San Mateo-Foster City,Brewer Island Elementary,1151 Polynesia Drive Foster City CA 94404-1749,,,False,tested,Foster City,San Mateo County,37.560764,-122.260798,
+San Mateo-Foster City,Foster City Elementary,461 Beach Park Boulevard Foster City CA 94404-2713,6.1,ppb,True,tested,Foster City,San Mateo County,37.545507,-122.273119,6.1
+San Mateo-Foster City,San Mateo-Foster City Special Education Preschool,1170 Chess Drive Foster City CA 94404-1107,,,,not tested,Foster City,San Mateo County,37.565938,-122.273101,

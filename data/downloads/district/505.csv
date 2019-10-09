@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Muroc Joint Unified,Bailey Elementary School,1595 Bailey Avenue Edwards CA 93523-1513,NA,NA,FALSE,tested,Edwards AFB,Kern County,34.927778,-117.938932
-Muroc Joint Unified,Boron Junior-Senior High,26831 Prospect Street Boron CA 93516-1539,5.2,ppb,TRUE,tested,Boron,Kern County,35.004871,-117.655181
-Muroc Joint Unified,Desert Junior-Senior High,1575 Payne Avenue Edwards CA 93523-1301,NA,NA,FALSE,tested,Edwards AFB,Kern County,34.922633,-117.948343
-Muroc Joint Unified,West Boron Elementary,12300 Del Oro Street Boron CA 93516-1310,5.3,ppb,TRUE,tested,Boron,Kern County,35.004146,-117.693983
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Muroc Joint Unified,Bailey Elementary School,1595 Bailey Avenue Edwards CA 93523-1513,,,False,tested,Edwards AFB,Kern County,34.927778,-117.93893200000001,
+Muroc Joint Unified,Boron Junior-Senior High,26831 Prospect Street Boron CA 93516-1539,5.2,ppb,True,tested,Boron,Kern County,35.004871,-117.655181,7.1
+Muroc Joint Unified,Desert Junior-Senior High,1575 Payne Avenue Edwards CA 93523-1301,,,False,tested,Edwards AFB,Kern County,34.922633000000005,-117.948343,
+Muroc Joint Unified,West Boron Elementary,12300 Del Oro Street Boron CA 93516-1310,5.3,ppb,True,tested,Boron,Kern County,35.004146,-117.693983,5.3

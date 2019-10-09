@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sutter Union High,Sutter High,2665 Acacia St Sutter CA 95982,NA,NA,FALSE,tested,NA,Sutter County,38.870692,-121.704008
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Sutter Union High,Sutter High,2665 Acacia St Sutter CA 95982,,,False,tested,,Sutter County,38.870692,-121.704008,

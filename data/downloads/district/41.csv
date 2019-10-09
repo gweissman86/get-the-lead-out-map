@@ -1,44 +1,44 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Bakersfield City,Bessie E. Owens Intermediate,815 Eureka Street Bakersfield CA 93305-5911,NA,NA,FALSE,tested,Bakersfield,Kern County,35.372158,-118.992544
-Bakersfield City,Bessie E. Owens Primary,815 Potomac Avenue Bakersfield CA 93307-1450,NA,NA,FALSE,tested,Bakersfield,Kern County,35.364908,-118.978591
-Bakersfield City,Caroline Harris Elementary,4110 Garnsey Lane Bakersfield CA 93309-1740,NA,NA,FALSE,tested,Bakersfield,Kern County,35.363545,-119.04823
-Bakersfield City,Casa Loma Elementary,525 East Casa Loma Drive Bakersfield CA 93307-3732,NA,NA,FALSE,tested,Bakersfield,Kern County,35.339544,-118.995602
-Bakersfield City,Cesar E. Chavez Elementary,4201 Mesa Marin Drive Bakersfield CA 93306-5024,NA,NA,FALSE,tested,Bakersfield,Kern County,35.39265,-118.881778
-Bakersfield City,Chipman Junior High,2905 Eissler Street Bakersfield CA 93306-1898,NA,NA,FALSE,tested,Bakersfield,Kern County,35.402071,-118.938625
-Bakersfield City,College Heights Elementary,2551 Sunny Lane Bakersfield CA 93305-2842,NA,NA,FALSE,tested,Bakersfield,Kern County,35.394869,-118.971807
-Bakersfield City,Colonel Howard Nichols Elementary,3401 Renegade Avenue Bakersfield CA 93306-2054,NA,NA,FALSE,tested,Bakersfield,Kern County,35.402732,-118.955589
-Bakersfield City,Compton Junior High,3211 Pico Avenue Bakersfield CA 93306-3598,NA,NA,FALSE,tested,Bakersfield,Kern County,35.390234,-118.95607
-Bakersfield City,Curran Middle,1116 Lymric Way Bakersfield CA 93309-4157,NA,NA,FALSE,tested,Bakersfield,Kern County,35.34497,-119.04625
-Bakersfield City,Downtown Elementary,2021 M Street Bakersfield CA 93301-4636,NA,NA,FALSE,tested,Bakersfield,Kern County,35.377298,-119.015344
-Bakersfield City,Dr. Douglas K. Fletcher Elementary,9801 Highland Knolls Drive Bakersfield CA 93306-2836,NA,NA,FALSE,tested,Bakersfield,Kern County,35.392796,-118.893378
-Bakersfield City,Dr. Juliet Thorner Elementary,5501 Thorner Street Bakersfield CA 93306-7300,NA,NA,FALSE,tested,Bakersfield,Kern County,35.403594,-118.917744
-Bakersfield City,Emerson Middle,801 Fourth Street Bakersfield CA 93304-2220,NA,NA,FALSE,tested,Bakersfield,Kern County,35.360312,-119.011225
-Bakersfield City,Evergreen Elementary,2600 Rose Marie Drive Bakersfield CA 93304-4259,NA,NA,FALSE,tested,NA,Kern County,35.344077,-119.032444
-Bakersfield City,Frank West Elementary,2400 Benton Street Bakersfield CA 93304-5052,NA,NA,FALSE,tested,Bakersfield,Kern County,35.334169,-119.028076
-Bakersfield City,Franklin Elementary,2400 Truxtun Avenue Bakersfield CA 93301-3405,NA,NA,FALSE,tested,Bakersfield,Kern County,35.373459,-119.029502
-Bakersfield City,Fremont Elementary,607 Texas Street Bakersfield CA 93307-1635,NA,NA,FALSE,tested,Bakersfield,Kern County,35.35771,-118.967516
-Bakersfield City,Harding Elementary,3201 Pico Avenue Bakersfield CA 93306-3531,6.1,ppb,TRUE,tested,Bakersfield,Kern County,35.390233,-118.956077
-Bakersfield City,Henry Eissler Elementary,2901 Eissler Street Bakersfield CA 93306-1851,NA,NA,FALSE,tested,Bakersfield,Kern County,35.402065,-118.938625
-Bakersfield City,Horace Mann Elementary,2710 Niles Street Bakersfield CA 93306-4108,NA,NA,FALSE,tested,NA,Kern County,35.375914,-118.958237
-Bakersfield City,Hort Elementary,2301 Park Drive Bakersfield CA 93306-4942,NA,NA,FALSE,tested,Bakersfield,Kern County,35.378356,-118.918554
-Bakersfield City,Jefferson Elementary,816 Lincoln Street Bakersfield CA 93305-3713,NA,NA,FALSE,tested,Bakersfield,Kern County,35.386926,-118.987269
-Bakersfield City,Leo G. Pauly Elementary,313 Planz Road Bakersfield CA 93304-5848,NA,NA,FALSE,tested,Bakersfield,Kern County,35.324854,-119.00682
-Bakersfield City,Longfellow Elementary,1900 Stockton Street Bakersfield CA 93305-3432,NA,NA,FALSE,tested,Bakersfield,Kern County,35.389415,-119.000793
-Bakersfield City,McKinley Elementary,601 Fourth Street Bakersfield CA 93304-2221,NA,NA,FALSE,tested,Bakersfield,Kern County,35.359441,-119.009731
-Bakersfield City,Mt. Vernon Elementary,2161 Potomac Avenue Bakersfield CA 93307-2426,NA,NA,FALSE,tested,NA,Kern County,35.365048,-118.968602
-Bakersfield City,Munsey Elementary,3801 Brave Avenue Bakersfield CA 93309-3378,NA,NA,FALSE,tested,NA,Kern County,35.348508,-119.044663
-Bakersfield City,Myra A. Noble Elementary,1015 Noble Avenue Bakersfield CA 93305-1933,NA,NA,FALSE,tested,Bakersfield,Kern County,35.399257,-118.983172
-Bakersfield City,Paul L. Cato Middle,4115 Vineland Road Bakersfield CA 93306-2835,NA,NA,FALSE,tested,Bakersfield,Kern County,35.389754,-118.895642
-Bakersfield City,Pioneer Drive Elementary,4404 Pioneer Drive Bakersfield CA 93306-5730,NA,NA,FALSE,tested,NA,Kern County,35.368865,-118.935269
-Bakersfield City,Rafer Johnson,1001 10th Street Bakersfield CA 93304-1507,NA,NA,FALSE,tested,Bakersfield,Kern County,35.366404,-119.013119
-Bakersfield City,Ramon Garza Elementary,2901 Center Street Bakersfield CA 93306-5303,NA,NA,FALSE,tested,NA,Kern County,35.372193,-118.954012
-Bakersfield City,Roosevelt Elementary,2324 Verde Street Bakersfield CA 93304-2747,NA,NA,FALSE,tested,Bakersfield,Kern County,35.356154,-119.028523
-Bakersfield City,Sequoia Middle,900 Belle Terrace Bakersfield CA 93304-3704,NA,NA,FALSE,tested,NA,Kern County,35.346722,-119.039068
-Bakersfield City,Sierra Middle,3017 Center Street Bakersfield CA 93306-5399,NA,NA,FALSE,tested,NA,Kern County,35.372203,-118.951476
-Bakersfield City,Stella I. Hills Elementary,3800 Jewett Avenue Bakersfield CA 93301-1316,NA,NA,FALSE,tested,Bakersfield,Kern County,35.394428,-119.01419
-Bakersfield City,Voorhies Elementary,6001 Pioneer Drive Bakersfield CA 93306-6032,NA,NA,FALSE,tested,NA,Kern County,35.368829,-118.918517
-Bakersfield City,Walter Stiern Middle,2551 Morning Drive Bakersfield CA 93306-4927,NA,NA,FALSE,tested,Bakersfield,Kern County,35.384771,-118.914755
-Bakersfield City,Washington Middle,1101 Noble Avenue Bakersfield CA 93305-1928,8.1,ppb,TRUE,tested,Bakersfield,Kern County,35.399262,-118.981732
-Bakersfield City,Wayside Elementary,1000 Ming Avenue Bakersfield CA 93307-3914,NA,NA,FALSE,tested,Bakersfield,Kern County,35.339532,-119.015346
-Bakersfield City,William Penn Elementary,2201 San Emidio Street Bakersfield CA 93304-1125,NA,NA,FALSE,tested,Bakersfield,Kern County,35.365724,-119.027613
-Bakersfield City,Williams Elementary,1201 Williams Street Bakersfield CA 93305-4858,NA,NA,FALSE,tested,Bakersfield,Kern County,35.377729,-118.977378
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Bakersfield City,Bessie E. Owens Intermediate,815 Eureka Street Bakersfield CA 93305-5911,,,False,tested,Bakersfield,Kern County,35.372158,-118.992544,
+Bakersfield City,Bessie E. Owens Primary,815 Potomac Avenue Bakersfield CA 93307-1450,,,False,tested,Bakersfield,Kern County,35.364908,-118.978591,
+Bakersfield City,Caroline Harris Elementary,4110 Garnsey Lane Bakersfield CA 93309-1740,,,False,tested,Bakersfield,Kern County,35.363545,-119.04823,
+Bakersfield City,Casa Loma Elementary,525 East Casa Loma Drive Bakersfield CA 93307-3732,,,False,tested,Bakersfield,Kern County,35.339544000000004,-118.995602,
+Bakersfield City,Cesar E. Chavez Elementary,4201 Mesa Marin Drive Bakersfield CA 93306-5024,,,False,tested,Bakersfield,Kern County,35.39265,-118.881778,
+Bakersfield City,Chipman Junior High,2905 Eissler Street Bakersfield CA 93306-1898,,,False,tested,Bakersfield,Kern County,35.402071,-118.938625,
+Bakersfield City,College Heights Elementary,2551 Sunny Lane Bakersfield CA 93305-2842,,,False,tested,Bakersfield,Kern County,35.394869,-118.97180700000001,
+Bakersfield City,Colonel Howard Nichols Elementary,3401 Renegade Avenue Bakersfield CA 93306-2054,,,False,tested,Bakersfield,Kern County,35.402732,-118.95558899999999,
+Bakersfield City,Compton Junior High,3211 Pico Avenue Bakersfield CA 93306-3598,,,False,tested,Bakersfield,Kern County,35.390234,-118.95607,
+Bakersfield City,Curran Middle,1116 Lymric Way Bakersfield CA 93309-4157,,,False,tested,Bakersfield,Kern County,35.34497,-119.04625,
+Bakersfield City,Downtown Elementary,2021 M Street Bakersfield CA 93301-4636,,,False,tested,Bakersfield,Kern County,35.377297999999996,-119.015344,
+Bakersfield City,Dr. Douglas K. Fletcher Elementary,9801 Highland Knolls Drive Bakersfield CA 93306-2836,,,False,tested,Bakersfield,Kern County,35.392796000000004,-118.893378,
+Bakersfield City,Dr. Juliet Thorner Elementary,5501 Thorner Street Bakersfield CA 93306-7300,,,False,tested,Bakersfield,Kern County,35.403594,-118.917744,
+Bakersfield City,Emerson Middle,801 Fourth Street Bakersfield CA 93304-2220,,,False,tested,Bakersfield,Kern County,35.360312,-119.011225,
+Bakersfield City,Evergreen Elementary,2600 Rose Marie Drive Bakersfield CA 93304-4259,,,False,tested,,Kern County,35.344077,-119.032444,
+Bakersfield City,Frank West Elementary,2400 Benton Street Bakersfield CA 93304-5052,,,False,tested,Bakersfield,Kern County,35.334169,-119.028076,
+Bakersfield City,Franklin Elementary,2400 Truxtun Avenue Bakersfield CA 93301-3405,,,False,tested,Bakersfield,Kern County,35.373459000000004,-119.02950200000001,
+Bakersfield City,Fremont Elementary,607 Texas Street Bakersfield CA 93307-1635,,,False,tested,Bakersfield,Kern County,35.35771,-118.96751599999999,
+Bakersfield City,Harding Elementary,3201 Pico Avenue Bakersfield CA 93306-3531,6.1,ppb,True,tested,Bakersfield,Kern County,35.390233,-118.95607700000001,6.1
+Bakersfield City,Henry Eissler Elementary,2901 Eissler Street Bakersfield CA 93306-1851,,,False,tested,Bakersfield,Kern County,35.402065,-118.938625,
+Bakersfield City,Horace Mann Elementary,2710 Niles Street Bakersfield CA 93306-4108,,,False,tested,,Kern County,35.375914,-118.95823700000001,
+Bakersfield City,Hort Elementary,2301 Park Drive Bakersfield CA 93306-4942,,,False,tested,Bakersfield,Kern County,35.378356,-118.918554,
+Bakersfield City,Jefferson Elementary,816 Lincoln Street Bakersfield CA 93305-3713,,,False,tested,Bakersfield,Kern County,35.386926,-118.987269,
+Bakersfield City,Leo G. Pauly Elementary,313 Planz Road Bakersfield CA 93304-5848,,,False,tested,Bakersfield,Kern County,35.324853999999995,-119.00681999999999,
+Bakersfield City,Longfellow Elementary,1900 Stockton Street Bakersfield CA 93305-3432,,,False,tested,Bakersfield,Kern County,35.389415,-119.00079299999999,
+Bakersfield City,McKinley Elementary,601 Fourth Street Bakersfield CA 93304-2221,,,False,tested,Bakersfield,Kern County,35.359441,-119.009731,
+Bakersfield City,Mt. Vernon Elementary,2161 Potomac Avenue Bakersfield CA 93307-2426,,,False,tested,,Kern County,35.365048,-118.968602,
+Bakersfield City,Munsey Elementary,3801 Brave Avenue Bakersfield CA 93309-3378,,,False,tested,,Kern County,35.348508,-119.04466299999999,
+Bakersfield City,Myra A. Noble Elementary,1015 Noble Avenue Bakersfield CA 93305-1933,,,False,tested,Bakersfield,Kern County,35.399257,-118.983172,
+Bakersfield City,Paul L. Cato Middle,4115 Vineland Road Bakersfield CA 93306-2835,,,False,tested,Bakersfield,Kern County,35.389753999999996,-118.895642,
+Bakersfield City,Pioneer Drive Elementary,4404 Pioneer Drive Bakersfield CA 93306-5730,,,False,tested,,Kern County,35.368865,-118.93526899999999,
+Bakersfield City,Rafer Johnson,1001 10th Street Bakersfield CA 93304-1507,,,False,tested,Bakersfield,Kern County,35.366403999999996,-119.01311899999999,
+Bakersfield City,Ramon Garza Elementary,2901 Center Street Bakersfield CA 93306-5303,,,False,tested,,Kern County,35.372192999999996,-118.954012,
+Bakersfield City,Roosevelt Elementary,2324 Verde Street Bakersfield CA 93304-2747,,,False,tested,Bakersfield,Kern County,35.356154,-119.02852299999999,
+Bakersfield City,Sequoia Middle,900 Belle Terrace Bakersfield CA 93304-3704,,,False,tested,,Kern County,35.346722,-119.039068,
+Bakersfield City,Sierra Middle,3017 Center Street Bakersfield CA 93306-5399,,,False,tested,,Kern County,35.372203000000006,-118.951476,
+Bakersfield City,Stella I. Hills Elementary,3800 Jewett Avenue Bakersfield CA 93301-1316,,,False,tested,Bakersfield,Kern County,35.394428000000005,-119.01418999999999,
+Bakersfield City,Voorhies Elementary,6001 Pioneer Drive Bakersfield CA 93306-6032,,,False,tested,,Kern County,35.368829,-118.918517,
+Bakersfield City,Walter Stiern Middle,2551 Morning Drive Bakersfield CA 93306-4927,,,False,tested,Bakersfield,Kern County,35.384771,-118.914755,
+Bakersfield City,Washington Middle,1101 Noble Avenue Bakersfield CA 93305-1928,8.1,ppb,True,tested,Bakersfield,Kern County,35.399262,-118.98173200000001,12.0
+Bakersfield City,Wayside Elementary,1000 Ming Avenue Bakersfield CA 93307-3914,,,False,tested,Bakersfield,Kern County,35.339532,-119.015346,
+Bakersfield City,William Penn Elementary,2201 San Emidio Street Bakersfield CA 93304-1125,,,False,tested,Bakersfield,Kern County,35.365724,-119.02761299999999,
+Bakersfield City,Williams Elementary,1201 Williams Street Bakersfield CA 93305-4858,,,False,tested,Bakersfield,Kern County,35.377728999999995,-118.977378,

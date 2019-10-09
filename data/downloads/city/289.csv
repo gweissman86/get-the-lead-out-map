@@ -1,6 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Larkspur-Corte Madera,Hall Middle,200 Doherty Drive Larkspur CA 94939-1532,NA,NA,FALSE,tested,Larkspur,Marin County,37.938134,-122.526519
-Tamalpais Union High,Redwood High,395 Doherty Drive Larkspur CA 94939-1536,NA,NA,FALSE,tested,Larkspur,Marin County,37.937996,-122.534694
-Tamalpais Union High,San Andreas High (Continuation),599 William Avenue Larkspur CA 94939-1554,NA,NA,FALSE,tested,Larkspur,Marin County,37.934279,-122.528317
-Tamalpais Union High,Tamalpais Adult/Community Education,375 Doherty Drive Larkspur CA 94939-1536,NA,NA,NA,not tested,Larkspur,Marin County,37.937999,-122.534682
-Tamalpais Union High,Tamiscal High (Alternative),305 Doherty Drive Larkspur CA 94939-0605,NA,NA,FALSE,tested,Larkspur,Marin County,37.938011,-122.534642
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Mark West Union Elementary,Mark West Charter,5350 Faught Rd Santa Rosa CA 95403-1205,,,False,tested,Larkfield-Wikiup,Sonoma County,38.513658,-122.75975600000001,
+Mark West Union Elementary,San Miguel Elementary,5350 Faught Road Santa Rosa CA 95403-1205,,,False,tested,Larkfield-Wikiup,Sonoma County,38.513658,-122.75975600000001,
+Private,St. Rose,4300 Old Redwood Highway Santa Rosa CA 95403,,,False,tested,Larkfield-Wikiup,Sonoma County,38.493198,-122.740619,

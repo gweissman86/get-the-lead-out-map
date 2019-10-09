@@ -1,2 +1,12 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Bella Vista Elementary,Bella Vista Elementary,22661 Old Alturas Road Bella Vista CA 96008-9792,NA,NA,FALSE,tested,Bella Vista,Shasta County,40.639356,-122.233152
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Beaumont Unified,21st Century Learning Institute,939 Michigan Avenue Beaumont CA 92223,,,,not tested,Beaumont,Riverside County,33.934655,-116.968962,
+Beaumont Unified,Anna Hause Elementary,1015 Carnation Lane Beaumont CA 92223-7827,,,False,tested,Beaumont,Riverside County,33.934946999999994,-116.95971399999999,
+Beaumont Unified,Beaumont Adult,1575 Cherry Avenue Beaumont CA 92223,,,False,tested,Beaumont,Riverside County,33.937104999999995,-116.96439299999999,
+Beaumont Unified,Beaumont USD Preschool,715 Wellwood Avenue Beaumont CA 92223-2122,,,False,tested,Beaumont,Riverside County,33.931715999999994,-116.98286999999999,
+Beaumont Unified,Glen View High,905 Michigan Avenue Beaumont CA 92223,,,False,tested,Beaumont,Riverside County,33.934202,-116.96896399999999,
+Beaumont Unified,Highland Academy,715 Wellwood Avenue Beaumont CA 92223-7442,,,,not tested,Beaumont,Riverside County,33.931715999999994,-116.98286999999999,
+Beaumont Unified,Mountain View Middle,200 Cougar Way Beaumont CA 92223-8634,,,False,tested,Beaumont,Riverside County,33.954914,-116.980551,
+Beaumont Unified,Palm Elementary,751 Palm Avenue Beaumont CA 92223-0187,,,False,tested,Beaumont,Riverside County,33.931732000000004,-116.971722,
+Beaumont Unified,San Gorgonio Middle,1591 Cherry Ave Beaumont CA 92223-5121,,,False,tested,Beaumont,Riverside County,33.937104999999995,-116.96439299999999,
+Beaumont Unified,Sundance Elementary,1520 East Eighth Street Beaumont CA 92223-2416,,,False,tested,Beaumont,Riverside County,33.933469,-116.954126,
+Beaumont Unified,Three Rings Ranch Elementary,1040 Claiborne Avenue Beaumont CA 92223-7200,,,False,tested,Beaumont,Riverside County,33.936890000000005,-116.99481100000001,

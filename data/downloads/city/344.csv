@@ -1,38 +1,17 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Capistrano Unified,Bathgate Elementary,27642 Napoli Way Mission Viejo CA 92692-5276,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.580725,-117.64851
-Capistrano Unified,Carl Hankey Elementary,27252 Nubles Street Mission Viejo CA 92692-3433,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.569588,-117.654886
-Capistrano Unified,Castille Elementary,24042 Via la Coruna Mission Viejo CA 92691-3529,11,ppb,TRUE,tested,Mission Viejo,Orange County,33.614556,-117.658027
-Saddleback Valley Unified,Cordillera Elem,"25952 Cordillera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6101,-117.677676
-Saddleback Valley Unified,Cordillera Elementary,25952 Cordillera Drive Mission Viejo CA 92691-4099,NA,NA,NA,not tested,Mission Viejo,Orange County,33.6101,-117.677676
-Saddleback Valley Unified,De Portola Elem.,"27031 Preciados Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.601471,-117.659954
-Saddleback Valley Unified,De Portola Elementary,27031 Preciados Drive Mission Viejo CA 92691-5214,NA,NA,NA,not tested,Mission Viejo,Orange County,33.601471,-117.659954
-Saddleback Valley Unified,Del Cerro Elementary,24382 Regina Street Mission Viejo CA 92691-4735,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.607649,-117.681047
-Saddleback Valley Unified School Distict,Del Cerro Elementary School,"24382 Regina St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.608417,-117.68135
-Saddleback Valley Unified,Del Lago Elementary,27181 Entidad Street Mission Viejo CA 92691-1029,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.648302,-117.655106
-Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473,-117.656948
-Saddleback Valley Unified,Del Lago Elementary,"27181 Entidad, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.6473,-117.656948
-Saddleback Valley Unified,Esperanza,25121 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.597054,-117.667657
-Saddleback Valley Unified,Esperanza Sp. Educ.,"25121 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.597054,-117.667657
-Saddleback Valley Unified,Glen Yermo Elementary,26400 Trabuco Road Mission Viejo CA 92691-1999,NA,NA,NA,not tested,Mission Viejo,Orange County,33.613253,-117.656855
-Saddleback Valley Unified,Glen Yermo.,"26400 Trabuco Rd, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.613253,-117.656855
-Saddleback Valley Unified,La Paz Inter.,"25151 Pradera Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.597618,-117.666497
-Saddleback Valley Unified,La Paz Intermediate,25151 Pradera Drive Mission Viejo CA 92691-5310,NA,NA,NA,not tested,Mission Viejo,Orange County,33.597618,-117.666497
-Saddleback Valley Unified School Distict,La Tierra Early Childhood Center,"24150 Lindley St, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.611581,-117.691372
-Saddleback Valley Unified,La Tierra Early Childhood Center,24150 Lindley Street Mission Viejo CA 92691-3719,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.610772,-117.691402
-Capistrano Unified,Ladera Ranch Elementary,29551 Sienna Parkway Ladera Ranch CA 92694-0789,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.55353,-117.637021
-Capistrano Unified,Ladera Ranch Middle,29551 Sienna Pkwy Ladera Ranch CA 92694-0789,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.55353,-117.637021
-Saddleback Valley Unified,Linda Vista Elem.,"25222 Pericia Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.596442,-117.666715
-Saddleback Valley Unified,Los Alisos Intermediate,25171 Moor Avenue Mission Viejo CA 92691-3099,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.616819,-117.690919
-Saddleback Valley Unified School Distict,Los Alisos Intermediate School,"25171 Moor Ave, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.615852,-117.691308
-Saddleback Valley Unified,Mission Viejo High,25025 Chrisanta Drive Mission Viejo CA 92691-5326,NA,NA,NA,not tested,Mission Viejo,Orange County,33.599402,-117.67186
-Saddleback Valley Unified,Mission Viejo HS,"25025 Chrisanta Dr, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.599402,-117.67186
-Saddleback Valley Unified,Montevideo Elem.,"24071 Carrillo, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.613166,-117.667381
-Saddleback Valley Unified,Montevideo Elementary,24071 Carrillo Drive Mission Viejo CA 92691-4222,NA,NA,NA,not tested,Mission Viejo,Orange County,33.613166,-117.667381
-Capistrano Unified,Newhart Middle,25001 Veterans Way Mission Viejo CA 92692-2735,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.6,-117.64998
-Capistrano Unified,Oxford Preparatory Academy - South Orange County,23000 Via Santa Maria Mission Viejo CA 92692-1827,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.629017,-117.658553
-Capistrano Unified,Philip J. Reilly Elementary/Special Education,24171 Pavion Mission Viejo CA 92692-2200,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.61446,-117.634563
-Saddleback Valley Unified,Silverado Cont. HS,"25632 Peter A Hartman Way, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.620997,-117.683403
-Saddleback Valley Unified,Trabuco Hills High,27501 Cordova Road Mission Viejo CA 92691-1027,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.653879,-117.652071
-Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.652933,-117.650591
-Saddleback Valley Unified,Trabuco Hills High School,"27501 Mustang Run, Mission Viejo, CA 92691",NA,NA,NA,exempt,Mission Viejo,Orange County,33.652933,-117.650591
-Capistrano Unified,Viejo Elementary,26782 Via Grande Mission Viejo CA 92691-6133,NA,NA,FALSE,tested,Mission Viejo,Orange County,33.571543,-117.668816
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Milpitas Unified,Alexander Rose Elementary,250 Roswell Drive Milpitas CA 95035-5945,7.800000000000002,ppb,True,tested,Milpitas,Santa Clara County,37.433170000000004,-121.87751499999999,9.8
+Milpitas Unified,Anthony Spangler Elementary,140 North Abbott Milpitas CA 95035-4849,,,False,tested,Milpitas,Santa Clara County,37.430690000000006,-121.914574,
+Milpitas Unified,Calaveras Hills,1331 East Calaveras Blvd. Milpitas CA 95035-5707,11.0,ppb,True,tested,Milpitas,Santa Clara County,37.436249,-121.88310800000001,11.0
+Milpitas Unified,Curtner Elementary,275 Redwood Milpitas CA 95035-3843,9.9,ppb,True,tested,Milpitas,Santa Clara County,37.440014,-121.911951,11.0
+Milpitas Unified,John Sinnott Elementary,2025 Yellowstone Avenue Milpitas CA 95035-6951,,,False,tested,Milpitas,Santa Clara County,37.425047,-121.87175,
+Milpitas Unified,Joseph Weller Elementary,345 Boulder Drive Milpitas CA 95035-2869,,,False,tested,Milpitas,Santa Clara County,37.458326,-121.90586699999999,
+Milpitas Unified,Marshall Pomeroy Elementary,1505 Escuela Parkway Milpitas CA 95035-3213,6.6,ppb,True,tested,Milpitas,Santa Clara County,37.453963,-121.902098,7.5
+Milpitas Unified,Milpitas Adult,1331 East Calaveras Boulevard Milpitas CA 95035-5707,,,,not tested,Milpitas,Santa Clara County,37.436249,-121.88310800000001,
+Milpitas Unified,Milpitas High,1285 Escuela Parkway Milpitas CA 95035-3221,,,False,tested,Milpitas,Santa Clara County,37.452521000000004,-121.901234,
+Milpitas Unified,Pearl Zanker Elementary,1585 Fallen Leaf Drive Milpitas CA 95035-6762,,,False,tested,Milpitas,Santa Clara County,37.407701,-121.905726,
+Milpitas Unified,Rancho Milpitas Middle,1915 Yellowstone Avenue Milpitas CA 95035-6992,10.0,ppb,True,tested,Milpitas,Santa Clara County,37.424814000000005,-121.872773,13.0
+Milpitas Unified,Robert Randall Elementary,1300 Edsel Drive Milpitas CA 95035-5701,,,False,tested,Milpitas,Santa Clara County,37.430487,-121.88239399999999,
+Milpitas Unified,Rose Child Development Center,205A Rosewell Drive Milpitas CA 95035,,,,not tested,Milpitas,Santa Clara County,37.433575,-121.87782,
+Milpitas Unified,Sunnyhills Child Development Center,365 Dixon Road Milpitas CA 95035,8.55,ppb,True,tested,Milpitas,Santa Clara County,37.459919,-121.904596,12.0
+Milpitas Unified,Thomas Russell Middle,1500 Escuela Parkway Milpitas CA 95035-3220,6.75,ppb,True,tested,Milpitas,Santa Clara County,37.453635,-121.90166,8.4
+Milpitas Unified,William Burnett Elementary,400 Fanyon Milpitas CA 95035-4630,7.5,ppb,True,tested,Milpitas,Santa Clara County,37.440709999999996,-121.88186,7.5

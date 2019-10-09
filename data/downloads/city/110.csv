@@ -1,8 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Coalinga-Huron Unified,Annie E. Cheney Kindergarten,149 Adams Street Coalinga CA 93210-2927,6.9,ppb,TRUE,tested,Coalinga,Fresno County,36.142329,-120.36482
-Coalinga-Huron Unified,Cambridge High,516 Baker Street Coalinga CA 93210-2927,9.8,ppb,TRUE,tested,Coalinga,Fresno County,36.145157,-120.359921
-Coalinga-Huron Unified,Coalinga High,750 Van Ness Avenue Coalinga CA 93210-1541,13,ppb,TRUE,tested,Coalinga,Fresno County,36.144332,-120.363274
-Coalinga-Huron Unified,Coalinga Middle,265 Cambridge Avenue Coalinga CA 93210-1255,NA,NA,FALSE,tested,Coalinga,Fresno County,36.150914,-120.360723
-Coalinga-Huron Unified,Henry F. Bishop Elementary,1501 Sunset Avenue Coalinga CA 93210-1359,NA,NA,FALSE,tested,Coalinga,Fresno County,36.150094,-120.364279
-Coalinga-Huron Unified,Nell Dawson Elementary,1303 Sunset Avenue Coalinga CA 93210-2927,NA,NA,FALSE,tested,Coalinga,Fresno County,36.14776,-120.364313
-Coalinga-Huron Unified,Sunset Elementary,985 Sunset Avenue Coalinga CA 93210-1347,NA,NA,FALSE,tested,Coalinga,Fresno County,36.145936,-120.364521
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Coachella Valley Unified,Cahuilla Desert Academy Junior High,82-489 Avenue 52 Coachella CA 92236-9718,,,False,tested,Coachella,Riverside County,33.669177000000005,-116.224069,
+Coachella Valley Unified,Cesar Chavez Elementary,49-601 Avenida de Oro Coachella CA 92236-1326,,,False,tested,Coachella,Riverside County,33.688843,-116.186516,
+Coachella Valley Unified,Coral Mountain Academy,51 375 Van Buren Street Coachella CA 92236-9751,,,False,tested,Coachella,Riverside County,33.67548,-116.199215,
+Riverside County Office of Education,"Imagine Schools, Riverside County",84-090 Avenue 50 Coachella CA 92236-9663,,,False,tested,Coachella,Riverside County,33.686648,-116.197744,
+Coachella Valley Unified,NOVA Academy - Coachella,52 780 Frederick Street Coachella CA 92236-7319,,,,not tested,Coachella,Riverside County,33.664853,-116.190436,
+Coachella Valley Unified,Peter Pendleton Elementary,84-750 Calle Rojo Coachella CA 92236-2837,,,False,tested,Coachella,Riverside County,33.668707,-116.18798799999999,
+Coachella Valley Unified,Valle del Sol Elementary,51 433 Education Way Coachella CA 92236-3737,,,False,tested,Coachella,Riverside County,33.674347,-116.15872399999999,
+Coachella Valley Unified,Valley View Elementary,85-270 Valley Road Coachella CA 92236-3038,,,False,tested,Coachella,Riverside County,33.667026,-116.178427,

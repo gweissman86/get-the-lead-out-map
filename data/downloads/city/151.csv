@@ -1,2 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Douglas City Elementary,Douglas City Elementary,100 School Road Douglas City CA 96024-0280,NA,NA,FALSE,tested,Douglas City,Trinity County,40.655649,-122.954266
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Butte Valley Unified,Butte Valley Elementary and Middle School,615 West Third Street Dorris CA 97601,,,,not tested,Dorris,Siskiyou County,41.96399,-121.92418700000002,
+Butte Valley Unified,Butte Valley High,615 West Third St Dorris CA 96023-0728,6.3,ppb,True,tested,Dorris,Siskiyou County,41.96399,-121.92418700000002,6.3
+Butte Valley Unified,Cascade High,615 West 3rd St Dorris CA 96023-0709,,,,not tested,Dorris,Siskiyou County,41.964188,-121.922629,
+Butte Valley Unified,Picard Community Day Elementary,615 West 3 Street Dorris CA 96023,,,,not tested,Dorris,Siskiyou County,41.96399,-121.92418700000002,

@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Keyes Union,Barbara Spratling Middle,5277 Washington Road Hughson CA 95326-9112,NA,NA,FALSE,tested,Hughson,Stanislaus County,37.560441,-120.903477
-Keyes Union,Keyes Elementary,4400 Maud Avenue Keyes CA 95328,5.6,ppb,TRUE,tested,NA,Stanislaus County,37.553416,-120.909543
-Keyes Union,Keyes to Learning Charter,5709 Ninth Street Keyes CA 95328,8.2,ppb,TRUE,tested,Keyes,Stanislaus County,37.553278,-120.907875
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Keyes Union,Barbara Spratling Middle,5277 Washington Road Hughson CA 95326-9112,,,False,tested,Hughson,Stanislaus County,37.560441,-120.903477,
+Keyes Union,Keyes Elementary,4400 Maud Avenue Keyes CA 95328,5.6,ppb,True,tested,,Stanislaus County,37.553416,-120.909543,5.6
+Keyes Union,Keyes to Learning Charter,5709 Ninth Street Keyes CA 95328,8.2,ppb,True,tested,Keyes,Stanislaus County,37.553278000000006,-120.907875,8.2

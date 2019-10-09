@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pixley Union Elementary,Pixley Middle,1520 East Court Street Pixley CA 93256-9750,NA,NA,NA,not tested,Pixley,Tulare County,35.972011,-119.28315
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pixley Union Elementary,Pixley Middle,1520 East Court Street Pixley CA 93256-9750,,,,not tested,Pixley,Tulare County,35.972011,-119.28315,

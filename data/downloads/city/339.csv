@@ -1,4 +1,28 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Middletown Unified,Cobb Mountain Elementary,15895 Highway 175 Middletown CA 95461-0338,NA,NA,NA,not tested,Middletown,Lake County,38.830394,-122.721888
-Private,Middletown Christian School,20800 Highway 29 Middletown CA 95461,NA,NA,FALSE,tested,Middletown,Lake County,38.760529,-122.602491
-Middletown Unified,Middletown High,20932 Big Canyon Road B Middletown CA 95461-0338,NA,NA,FALSE,tested,Middletown,Lake County,38.755814,-122.615067
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Merced City Elementary,Ada Givens Elementary,2900 Green Street Merced CA 95340-3253,,,False,tested,Merced,Merced County,37.304731,-120.453666,
+Merced City Elementary,Alicia Reyes Elementary,123 South N Street Merced CA 95340,6.6,ppb,True,tested,Merced,Merced County,37.286349,-120.494914,6.6
+Merced City Elementary,Allan Peterson Elementary,848 East Donna Drive Merced CA 95340-0600,,,False,tested,Merced,Merced County,37.327557,-120.46128200000001,
+Merced City Elementary,Charles Wright Elementary,900 East 20th Street Merced CA 95340-4052,,,False,tested,Merced,Merced County,37.296820000000004,-120.463117,
+Merced City Elementary,Don Stowell Elementary,251 East 11th Street Merced CA 95340-6228,,,False,tested,Merced,Merced County,37.291261,-120.47605700000001,
+Merced City Elementary,Donn B. Chenoweth Elementary,3200 Parsons Avenue Merced CA 95340-1624,11.0,ppb,True,tested,Merced,Merced County,37.321417,-120.44995700000001,11.0
+Merced Union High,El Capitan High,100 West Farmland Merced CA 95348-8632,,,False,tested,Merced,Merced County,37.368398,-120.47016200000002,
+Weaver Union,Farmdale Elementary,100 Winder Avenue Merced CA 95341-8855,,,False,tested,Merced,Merced County,37.277164,-120.477899,
+Merced City Elementary,Herbert H. Cruickshank Middle,601 Mercy Avenue Merced CA 95340-8334,,,False,tested,Merced,Merced County,37.340090999999994,-120.46518999999999,
+Merced City Elementary,Herbert Hoover Middle,800 East 26th Street Merced CA 95340-3108,,,False,tested,Merced,Merced County,37.303340000000006,-120.46338999999999,
+Merced City Elementary,John C. Fremont Elementary,1120 West 22nd Street Merced CA 95340-3540,,,False,tested,Merced,Merced County,37.309028999999995,-120.490852,
+Merced City Elementary,John Muir Elementary,300 West 26th Street Merced CA 95340-2912,,,False,tested,Merced,Merced County,37.308811999999996,-120.475454,
+Merced City Elementary,Luther Burbank Elementary,609 East Alexander Avenue Merced CA 95340-2214,,,False,tested,Merced,Merced County,37.315346000000005,-120.46408100000001,
+Merced City Elementary,Margaret Sheehy Elementary,1240 West Sixth Street Merced CA 95340-6516,,,False,tested,Merced,Merced County,37.29407,-120.50153700000001,
+Merced Union High,Merced High,205 West Olive Avenue Merced CA 95348-3100,,,False,tested,Merced,Merced County,37.318984,-120.47300200000001,
+Merced County Office of Education,Merced Scholars Charter,1850 Wardrobe Av Building H Merced CA 95341-6407,,,False,tested,Merced,Merced County,37.294487,-120.5089,
+Private,Our Lady of Mercy,1400 East 27th Street Merced CA 95340,,,False,tested,Merced,Merced County,37.304266999999996,-120.45773700000001,
+Private,Providence Christian School,2142 East Yosemite Avenue Merced CA 95340,,,False,tested,Merced,Merced County,37.332209999999996,-120.44653400000001,
+Merced City Elementary,Rudolph Rivera Elementary,945 Buena Vista Drive Merced CA 95348-2302,,,False,tested,Merced,Merced County,37.327399,-120.483949,
+Merced City Elementary,Rudolph Rivera Middle,801 Buena Vista Drive Merced CA 95348-2302,9.1,ppb,True,tested,Merced,Merced County,37.326361,-120.482592,9.1
+Merced Union High,Sequoia High,1900 G St Merced CA 95340-5043,,,,not tested,Merced,Merced County,37.300512,-120.47428300000001,
+Private,St. Paul Lutheran School,2916 North McKee Road Merced CA 95340,,,False,tested,Merced,Merced County,37.31204,-120.443141,
+Merced City Elementary,Tenaya Middle,760 West Eighth Street Merced CA 95340-5935,,,False,tested,Merced,Merced County,37.292739000000005,-120.49349699999999,
+Merced County Office of Education,Valley Merced Community,1850 Wardrobe Ave Merced CA 95341-6407,,,False,tested,Merced,Merced County,37.295522999999996,-120.507296,
+Weaver Union,Weaver Middle,3076 East Childs Avenue Merced CA 95341-9583,,,False,tested,Merced,Merced County,37.289773,-120.43123999999999,
+Private,Wolfe Education,632 W 13th St Merced CA 95341,,,False,tested,Merced,Merced County,37.297809,-120.4879,
+Merced Union High,Yosemite High (Continuation),1900 G Merced CA 95340-5043,,,,not tested,Merced,Merced County,37.302957,-120.48432700000001,

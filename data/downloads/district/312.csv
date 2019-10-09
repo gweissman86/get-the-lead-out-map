@@ -1,24 +1,24 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hesperia Unified,Canyon Ridge High,12850 Muscatel Avenue Hesperia CA 92344-5566,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.412525,-117.381799
-Hesperia Unified,Carmel Elementary,9321 Glendale Avenue Hesperia CA 92345-5600,NA,NA,FALSE,tested,NA,San Bernardino County,34.42345,-117.2418
-Hesperia Unified,Cedar Middle,13565 Cedar Street Hesperia CA 92345-0139,NA,NA,FALSE,tested,NA,San Bernardino County,34.404779,-117.367089
-Hesperia Unified,Cottonwood Elementary,8850 Cottonwood Hesperia CA 92345-3702,NA,NA,FALSE,tested,NA,San Bernardino County,34.411424,-117.338351
-Hesperia Unified,Cypress School of the Arts,10365 Cypress Hesperia CA 92345-2821,NA,NA,FALSE,tested,NA,San Bernardino County,34.438824,-117.325377
-Hesperia Unified,Eucalyptus Elementary,11224 Tenth Avenue Hesperia CA 92345-2302,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.454462,-117.318768
-Hesperia Unified,Hesperia High,9898 Maple Avenue Hesperia CA 92345-3643,NA,NA,FALSE,tested,NA,San Bernardino County,34.430651,-117.346614
-Hesperia Unified,Hesperia Junior High,10275 Cypress Hesperia CA 92345-2819,NA,NA,FALSE,tested,NA,San Bernardino County,34.437499,-117.325674
-Hesperia Unified,Hollyvale Elementary,11645 Hollyvale Avenue Victorville CA 92392-9081,NA,NA,FALSE,tested,Victorville,San Bernardino County,34.46183,-117.386272
-Hesperia Unified,Joshua Circle Elementary,10140 Eighth Avenue Hesperia CA 92345-2801,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.434607,-117.316738
-Hesperia Unified,Juniper Elementary,9400 I Avenue Hesperia CA 92345-6210,NA,NA,FALSE,tested,NA,San Bernardino County,34.422143,-117.282481
-Hesperia Unified,Kingston Elementary,7473 Kingston Avenue Hesperia CA 92345-7316,12,ppb,TRUE,tested,NA,San Bernardino County,34.387466,-117.274896
-Hesperia Unified,"Krystal School of Science, Math & Technology",17160 Krystal Drive Hesperia CA 92345-7214,NA,NA,FALSE,tested,NA,San Bernardino County,34.378291,-117.288688
-Hesperia Unified,Lime Street Elementary,16852 Lime Street Hesperia CA 92345-5934,NA,NA,FALSE,tested,NA,San Bernardino County,34.405272,-117.297173
-Hesperia Unified,Maple Elementary,10616 Maple Street Hesperia CA 92345-2436,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.443833,-117.347666
-Hesperia Unified,Mesa Grande Elementary,9172 Third Street Hesperia CA 92345-3643,8.2,ppb,TRUE,tested,Hesperia,San Bernardino County,34.419108,-117.308737
-Hesperia Unified,Mesquite Trails Elementary,13884 Mesquite Hesperia CA 92345-8485,NA,NA,FALSE,tested,NA,San Bernardino County,34.397784,-117.359824
-Hesperia Unified,Mission Crest Elementary,13065 Muscatel Street Hesperia CA 92345-5572,NA,NA,FALSE,tested,NA,San Bernardino County,34.410362,-117.318503
-Hesperia Unified,Mojave High,16633 Lemon Hesperia CA 92345-2133,NA,NA,NA,not tested,NA,San Bernardino County,34.445066,-117.302125
-Hesperia Unified,Oak Hills High,7625 Cataba Road Oak Hills CA 92344-8713,NA,NA,NA,not tested,Oak Hills,San Bernardino County,34.388503,-117.384621
-Hesperia Unified,Ranchero Middle,17607 Ranchero Road Hesperia CA 92345-7336,NA,NA,FALSE,tested,NA,San Bernardino County,34.383185,-117.308529
-Hesperia Unified,Sultana High,17311 Sultana Avenue Hesperia CA 92345-6567,NA,NA,FALSE,tested,Hesperia,San Bernardino County,34.41046,-117.286874
-Hesperia Unified,Topaz Preparatory Academy,14110 Beech Street Hesperia CA 92345-8003,NA,NA,FALSE,tested,NA,San Bernardino County,34.432627,-117.355299
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hesperia Unified,Canyon Ridge High,12850 Muscatel Avenue Hesperia CA 92344-5566,,,False,tested,Hesperia,San Bernardino County,34.412525,-117.381799,
+Hesperia Unified,Carmel Elementary,9321 Glendale Avenue Hesperia CA 92345-5600,,,False,tested,,San Bernardino County,34.42345,-117.2418,
+Hesperia Unified,Cedar Middle,13565 Cedar Street Hesperia CA 92345-0139,,,False,tested,,San Bernardino County,34.404779,-117.36708899999999,
+Hesperia Unified,Cottonwood Elementary,8850 Cottonwood Hesperia CA 92345-3702,,,False,tested,,San Bernardino County,34.411424,-117.338351,
+Hesperia Unified,Cypress School of the Arts,10365 Cypress Hesperia CA 92345-2821,,,False,tested,,San Bernardino County,34.438824,-117.325377,
+Hesperia Unified,Eucalyptus Elementary,11224 Tenth Avenue Hesperia CA 92345-2302,,,False,tested,Hesperia,San Bernardino County,34.454462,-117.31876799999999,
+Hesperia Unified,Hesperia High,9898 Maple Avenue Hesperia CA 92345-3643,,,False,tested,,San Bernardino County,34.430651,-117.34661399999999,
+Hesperia Unified,Hesperia Junior High,10275 Cypress Hesperia CA 92345-2819,,,False,tested,,San Bernardino County,34.437499,-117.32567399999999,
+Hesperia Unified,Hollyvale Elementary,11645 Hollyvale Avenue Victorville CA 92392-9081,,,False,tested,Victorville,San Bernardino County,34.46183,-117.38627199999999,
+Hesperia Unified,Joshua Circle Elementary,10140 Eighth Avenue Hesperia CA 92345-2801,,,False,tested,Hesperia,San Bernardino County,34.434607,-117.31673799999999,
+Hesperia Unified,Juniper Elementary,9400 I Avenue Hesperia CA 92345-6210,,,False,tested,,San Bernardino County,34.422143,-117.282481,
+Hesperia Unified,Kingston Elementary,7473 Kingston Avenue Hesperia CA 92345-7316,12.0,ppb,True,tested,,San Bernardino County,34.387465999999996,-117.274896,12.0
+Hesperia Unified,"Krystal School of Science, Math & Technology",17160 Krystal Drive Hesperia CA 92345-7214,,,False,tested,,San Bernardino County,34.378291,-117.288688,
+Hesperia Unified,Lime Street Elementary,16852 Lime Street Hesperia CA 92345-5934,,,False,tested,,San Bernardino County,34.405272,-117.297173,
+Hesperia Unified,Maple Elementary,10616 Maple Street Hesperia CA 92345-2436,,,False,tested,Hesperia,San Bernardino County,34.443833000000005,-117.34766599999999,
+Hesperia Unified,Mesa Grande Elementary,9172 Third Street Hesperia CA 92345-3643,8.2,ppb,True,tested,Hesperia,San Bernardino County,34.419108,-117.30873700000001,8.2
+Hesperia Unified,Mesquite Trails Elementary,13884 Mesquite Hesperia CA 92345-8485,,,False,tested,,San Bernardino County,34.397784,-117.359824,
+Hesperia Unified,Mission Crest Elementary,13065 Muscatel Street Hesperia CA 92345-5572,,,False,tested,,San Bernardino County,34.410362,-117.318503,
+Hesperia Unified,Mojave High,16633 Lemon Hesperia CA 92345-2133,,,,not tested,,San Bernardino County,34.445066,-117.302125,
+Hesperia Unified,Oak Hills High,7625 Cataba Road Oak Hills CA 92344-8713,,,,not tested,Oak Hills,San Bernardino County,34.388503,-117.384621,
+Hesperia Unified,Ranchero Middle,17607 Ranchero Road Hesperia CA 92345-7336,,,False,tested,,San Bernardino County,34.383185,-117.30852900000001,
+Hesperia Unified,Sultana High,17311 Sultana Avenue Hesperia CA 92345-6567,,,False,tested,Hesperia,San Bernardino County,34.41046,-117.286874,
+Hesperia Unified,Topaz Preparatory Academy,14110 Beech Street Hesperia CA 92345-8003,,,False,tested,,San Bernardino County,34.432627000000004,-117.355299,

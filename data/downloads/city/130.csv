@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Chatom Union,Mountain View Middle,10001 Crows Landing Road Turlock CA 95313-9798,NA,NA,NA,not tested,Crows Landing,Stanislaus County,37.491493,-120.995221
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Rim of the World Unified,Valley of Enchantment Elementary,22836 Fir Lane Crestline CA 92325,,,False,tested,Crestline,San Bernardino County,34.247226,-117.305108,

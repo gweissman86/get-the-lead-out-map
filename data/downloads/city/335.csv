@@ -1,4 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mendota Unified,McCabe Elementary,250 South Derrick Street Mendota CA 93640-2049,NA,NA,FALSE,tested,Mendota,Fresno County,36.759651,-120.386697
-Mendota Unified,Mendota Junior High,1258 East Belmont Avenue Mendota CA 93640-2049,NA,NA,NA,not tested,Mendota,Fresno County,36.748086,-120.382679
-Mendota Unified,Washington Elementary,1599 Fifth Street Mendota CA 93640-2359,NA,NA,FALSE,tested,Mendota,Fresno County,36.755838,-120.382788
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Coachella Valley Unified,Mecca Elementary,65250 Cahuilla Street Mecca CA 92254-6602,,,False,tested,Mecca,Riverside County,33.576356,-116.07585800000001,
+Coachella Valley Unified,Saul Martinez Elementary,65 705 Johnson Street Mecca CA 92254-9367,,,False,tested,Mecca,Riverside County,33.572437,-116.06155600000001,

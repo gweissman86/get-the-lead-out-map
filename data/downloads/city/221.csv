@@ -1,7 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cabrillo Unified,Alvin S. Hatch Elementary,490 Miramontes Avenue Half Moon Bay CA 94019-1824,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.463276,-122.436628
-Cabrillo Unified,El Granada Elementary,400 Santiago Street Half Moon Bay CA 94019-5003,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.499687,-122.464106
-Cabrillo Unified,Farallone View Elementary School,1100 LeConte and Kanoff Montara CA 94037,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.543147,-122.507911
-Cabrillo Unified,Half Moon Bay High,Lewis Foster Drive Half Moon Bay CA 94019,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.469654,-122.432161
-Cabrillo Unified,Manuel F. Cunha Intermediate,498 Kelly Avenue Half Moon Bay CA 94019-6102,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.464182,-122.435665
-Cabrillo Unified,Pilarcitos Alternative High (Continuation),498 Kelly Avenue Half Moon Bay CA 94019-6102,NA,NA,NA,not tested,Half Moon Bay,San Mateo County,37.464182,-122.435665
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hacienda la Puente Unified,Los Altos Elementary,15565 Los Altos Drive Hacienda Heights CA 91745-5216,,,False,tested,Hacienda Heights,Los Angeles County,33.988442,-117.97766299999999,
+Hacienda la Puente Unified,Palm Elementary,14740 East Palm Avenue Hacienda Heights CA 91745-1938,,,False,tested,Hacienda Heights,Los Angeles County,34.014952,-117.98741499999998,

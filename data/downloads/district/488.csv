@@ -1,14 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Moorpark Unified,Arroyo West Elementary,4117 Country Hill Road Moorpark CA 93021-2798,NA,NA,FALSE,tested,Moorpark,Ventura County,34.267017,-118.904861
-Moorpark Unified,Campus Canyon Elementary,15300 Monroe Avenue Moorpark CA 93021-3200,NA,NA,FALSE,tested,Moorpark,Ventura County,34.300625,-118.844487
-Moorpark Unified,Chaparral Middle,280 Poindexter Road Moorpark CA 93021-1864,7.5,ppb,TRUE,tested,Moorpark,Ventura County,34.283917,-118.886034
-Moorpark Unified,Community High,4500 Tierra Rejada Rd. Moorpark CA 93021-1852,NA,NA,NA,not tested,Moorpark,Ventura County,34.27091,-118.897498
-Moorpark Unified,Flory Academy of Sciences and Technology,240 Flory Avenue Moorpark CA 93021-1863,NA,NA,FALSE,tested,Moorpark,Ventura County,34.27998,-118.880896
-Moorpark Unified,IvyTech Charter,6591 Collins Drive Suite E4 Moorpark CA 93021-1492,NA,NA,NA,not tested,Moorpark,Ventura County,34.294269,-118.843795
-Moorpark Unified,Mesa Verde Middle,14000 Peach Hill Road Moorpark CA 93021-3554,NA,NA,FALSE,tested,Moorpark,Ventura County,34.270939,-118.867022
-Moorpark Unified,Moorpark Adult Education,4500 Tierra Rejada Road B Moorpark CA 93021-9772,NA,NA,NA,not tested,Moorpark,Ventura County,34.27091,-118.897498
-Moorpark Unified,Moorpark High,4500 Tierra Rejada Road Moorpark CA 93021-9772,NA,NA,FALSE,tested,Moorpark,Ventura County,34.27091,-118.897498
-Moorpark Unified,Mountain Meadows Elementary,4200 Mountain Meadow Drive Moorpark CA 93021-2700,NA,NA,FALSE,tested,Moorpark,Ventura County,34.266085,-118.901181
-Moorpark Unified,Peach Hill Academy,13400 Christian Barrett Drive Moorpark CA 93021-2817,NA,NA,FALSE,tested,Moorpark,Ventura County,34.266544,-118.874525
-Moorpark Unified,The High School at Moorpark College,7075 Campus Road Moorpark CA 93021-1605,NA,NA,NA,not tested,Moorpark,Ventura County,34.297559,-118.8359
-Moorpark Unified,Walnut Canyon Elementary,280 Casey Road Moorpark CA 93021-1131,NA,NA,FALSE,tested,Moorpark,Ventura County,34.287892,-118.885274
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Moorpark Unified,Arroyo West Elementary,4117 Country Hill Road Moorpark CA 93021-2798,,,False,tested,Moorpark,Ventura County,34.267016999999996,-118.90486100000001,
+Moorpark Unified,Campus Canyon Elementary,15300 Monroe Avenue Moorpark CA 93021-3200,,,False,tested,Moorpark,Ventura County,34.300625,-118.84448700000002,
+Moorpark Unified,Chaparral Middle,280 Poindexter Road Moorpark CA 93021-1864,7.5,ppb,True,tested,Moorpark,Ventura County,34.283916999999995,-118.88603400000001,7.5
+Moorpark Unified,Community High,4500 Tierra Rejada Rd. Moorpark CA 93021-1852,,,,not tested,Moorpark,Ventura County,34.27091,-118.897498,
+Moorpark Unified,Flory Academy of Sciences and Technology,240 Flory Avenue Moorpark CA 93021-1863,,,False,tested,Moorpark,Ventura County,34.27998,-118.88089599999999,
+Moorpark Unified,IvyTech Charter,6591 Collins Drive Suite E4 Moorpark CA 93021-1492,,,,not tested,Moorpark,Ventura County,34.294269,-118.843795,
+Moorpark Unified,Mesa Verde Middle,14000 Peach Hill Road Moorpark CA 93021-3554,,,False,tested,Moorpark,Ventura County,34.270939,-118.86702199999999,
+Moorpark Unified,Moorpark Adult Education,4500 Tierra Rejada Road B Moorpark CA 93021-9772,,,,not tested,Moorpark,Ventura County,34.27091,-118.897498,
+Moorpark Unified,Moorpark High,4500 Tierra Rejada Road Moorpark CA 93021-9772,,,False,tested,Moorpark,Ventura County,34.27091,-118.897498,
+Moorpark Unified,Mountain Meadows Elementary,4200 Mountain Meadow Drive Moorpark CA 93021-2700,,,False,tested,Moorpark,Ventura County,34.266085,-118.90118100000001,
+Moorpark Unified,Peach Hill Academy,13400 Christian Barrett Drive Moorpark CA 93021-2817,,,False,tested,Moorpark,Ventura County,34.266544,-118.874525,
+Moorpark Unified,The High School at Moorpark College,7075 Campus Road Moorpark CA 93021-1605,,,,not tested,Moorpark,Ventura County,34.297559,-118.8359,
+Moorpark Unified,Walnut Canyon Elementary,280 Casey Road Moorpark CA 93021-1131,,,False,tested,Moorpark,Ventura County,34.287892,-118.885274,

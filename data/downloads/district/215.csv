@@ -1,13 +1,13 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-El Monte City,Cherrylee Elementary,5025 Buffington Road El Monte CA 91732-1499,NA,NA,NA,not tested,El Monte,Los Angeles County,34.092756,-118.008557
-El Monte City,Cleminson Elementary,5213 North Daleview Avenue Temple City CA 91780-3524,NA,NA,NA,not tested,Temple City,Los Angeles County,34.098932,-118.032161
-El Monte City,Columbia Elementary,3400 North California El Monte CA 91731-3136,NA,NA,NA,not tested,El Monte,Los Angeles County,34.083577,-118.036174
-El Monte City,Cortada Elementary,3111 North Potrero Avenue El Monte CA 91733-1213,NA,NA,NA,not tested,El Monte,Los Angeles County,34.065312,-118.056241
-El Monte City,Gidley Elementary,10226 East Lower Azusa Road El Monte CA 91731-1175,NA,NA,NA,not tested,Temple City,Los Angeles County,34.091325,-118.044054
-El Monte City,Legore Elementary,11121 Bryant Road El Monte CA 91731-2053,NA,NA,NA,not tested,El Monte,Los Angeles County,34.080419,-118.028704
-El Monte City,New Lexington Elementary,10410 East Bodger Street El Monte CA 91733-1314,NA,NA,NA,not tested,El Monte,Los Angeles County,34.063699,-118.044616
-El Monte City,Potrero Elementary,2611 North Potrero Avenue El Monte CA 91733-1803,NA,NA,NA,not tested,El Monte,Los Angeles County,34.059611,-118.056419
-El Monte City,Shirpser Elementary,4020 North Gibson Road El Monte CA 91731-1816,NA,NA,NA,not tested,El Monte,Los Angeles County,34.079324,-118.049735
-El Monte City,Thompson Elementary,4544 Maxson Road El Monte CA 91732-1798,NA,NA,NA,not tested,El Monte,Los Angeles County,34.082395,-118.00461
-El Monte City,Wilkerson Elementary,2700 North Doreen Avenue El Monte CA 91733-2235,NA,NA,NA,not tested,El Monte,Los Angeles County,34.061479,-118.044534
-El Monte City,Wright Elementary,11317 East McGirk Road El Monte CA 91732-1899,NA,NA,NA,not tested,El Monte,Los Angeles County,34.085403,-118.022532
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+El Monte City,Cherrylee Elementary,5025 Buffington Road El Monte CA 91732-1499,,,,not tested,El Monte,Los Angeles County,34.092756,-118.00855700000001,
+El Monte City,Cleminson Elementary,5213 North Daleview Avenue Temple City CA 91780-3524,,,,not tested,Temple City,Los Angeles County,34.098932,-118.03216100000002,
+El Monte City,Columbia Elementary,3400 North California El Monte CA 91731-3136,,,,not tested,El Monte,Los Angeles County,34.083577000000005,-118.036174,
+El Monte City,Cortada Elementary,3111 North Potrero Avenue El Monte CA 91733-1213,,,,not tested,El Monte,Los Angeles County,34.065312,-118.05624099999999,
+El Monte City,Gidley Elementary,10226 East Lower Azusa Road El Monte CA 91731-1175,,,,not tested,Temple City,Los Angeles County,34.091325,-118.044054,
+El Monte City,Legore Elementary,11121 Bryant Road El Monte CA 91731-2053,,,,not tested,El Monte,Los Angeles County,34.080419,-118.028704,
+El Monte City,New Lexington Elementary,10410 East Bodger Street El Monte CA 91733-1314,,,,not tested,El Monte,Los Angeles County,34.063699,-118.04461599999999,
+El Monte City,Potrero Elementary,2611 North Potrero Avenue El Monte CA 91733-1803,,,,not tested,El Monte,Los Angeles County,34.059611,-118.05641899999999,
+El Monte City,Shirpser Elementary,4020 North Gibson Road El Monte CA 91731-1816,,,,not tested,El Monte,Los Angeles County,34.079324,-118.04973500000001,
+El Monte City,Thompson Elementary,4544 Maxson Road El Monte CA 91732-1798,,,,not tested,El Monte,Los Angeles County,34.082395,-118.00461000000001,
+El Monte City,Wilkerson Elementary,2700 North Doreen Avenue El Monte CA 91733-2235,,,,not tested,El Monte,Los Angeles County,34.061479,-118.04453400000001,
+El Monte City,Wright Elementary,11317 East McGirk Road El Monte CA 91732-1899,,,,not tested,El Monte,Los Angeles County,34.085403,-118.02253200000001,

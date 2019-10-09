@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Geyserville Unified,Geyserville Elementary,21485 Geyserville Avenue Geyserville CA 95441-0108,NA,NA,FALSE,tested,NA,Sonoma County,38.710673,-122.911852
-Geyserville Unified,Geyserville New Tech Academy,1300 Moody Ln Geyserville CA 95441-9670,NA,NA,NA,not tested,NA,Sonoma County,38.71912,-122.891409
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Geyserville Unified,Geyserville Elementary,21485 Geyserville Avenue Geyserville CA 95441-0108,,,False,tested,,Sonoma County,38.710673,-122.911852,
+Geyserville Unified,Geyserville New Tech Academy,1300 Moody Ln Geyserville CA 95441-9670,,,,not tested,,Sonoma County,38.719120000000004,-122.89140900000001,

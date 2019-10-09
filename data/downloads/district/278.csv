@@ -1,11 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Glendora Unified,Cullen Elementary,440 North Live Oak Avenue Glendora CA 91741-2734,NA,NA,FALSE,tested,Glendora,Los Angeles County,34.14253,-117.854813
-Glendora Unified,Glendora High,1600 East Foothill Boulevard Glendora CA 91741-3024,7.4,ppb,TRUE,tested,Glendora,Los Angeles County,34.136068,-117.835868
-Glendora Unified,Goddard Middle,859 East Sierra Madre Avenue Glendora CA 91741-2858,NA,NA,FALSE,tested,Glendora,Los Angeles County,34.147048,-117.84871
-Glendora Unified,La Fetra Elementary,547 West Bennett Avenue Glendora CA 91741-2409,NA,NA,FALSE,tested,Glendora,Los Angeles County,34.138244,-117.874654
-Glendora Unified,Sandburg Middle,819 West Bennett Avenue Glendora CA 91741-2402,NA,NA,FALSE,tested,Glendora,Los Angeles County,34.139761,-117.87984
-Glendora Unified,Sellers Elementary,500 North Loraine Avenue Glendora CA 91741-2964,NA,NA,FALSE,tested,Glendora,Los Angeles County,34.143472,-117.84617
-Glendora Unified,Stanton Elementary,725 South Vecino Avenue Glendora CA 91740-4109,NA,NA,FALSE,tested,Glendora,Los Angeles County,34.107408,-117.876886
-Glendora Unified,Sutherland Elementary,1330 North Amelia Avenue Glendora CA 91740-5363,11,ppb,TRUE,tested,Glendora,Los Angeles County,34.127067,-117.820354
-Glendora Unified,Whitcomb Continuation High,350 West Mauna Loa Avenue Glendora CA 91740-4399,NA,NA,FALSE,tested,Glendora,Los Angeles County,34.125173,-117.869156
-Glendora Unified,Williams Educational Center,301 South Loraine Avenue Glendora CA 91741-3638,12,ppb,TRUE,tested,Glendora,Los Angeles County,34.132715,-117.846462
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Glendora Unified,Cullen Elementary,440 North Live Oak Avenue Glendora CA 91741-2734,,,False,tested,Glendora,Los Angeles County,34.14253,-117.854813,
+Glendora Unified,Glendora High,1600 East Foothill Boulevard Glendora CA 91741-3024,7.4,ppb,True,tested,Glendora,Los Angeles County,34.136068,-117.83586799999999,7.4
+Glendora Unified,Goddard Middle,859 East Sierra Madre Avenue Glendora CA 91741-2858,,,False,tested,Glendora,Los Angeles County,34.147048,-117.84871000000001,
+Glendora Unified,La Fetra Elementary,547 West Bennett Avenue Glendora CA 91741-2409,,,False,tested,Glendora,Los Angeles County,34.138244,-117.874654,
+Glendora Unified,Sandburg Middle,819 West Bennett Avenue Glendora CA 91741-2402,,,False,tested,Glendora,Los Angeles County,34.139761,-117.87983999999999,
+Glendora Unified,Sellers Elementary,500 North Loraine Avenue Glendora CA 91741-2964,,,False,tested,Glendora,Los Angeles County,34.143471999999996,-117.84617,
+Glendora Unified,Stanton Elementary,725 South Vecino Avenue Glendora CA 91740-4109,,,False,tested,Glendora,Los Angeles County,34.107408,-117.87688600000001,
+Glendora Unified,Sutherland Elementary,1330 North Amelia Avenue Glendora CA 91740-5363,11.0,ppb,True,tested,Glendora,Los Angeles County,34.127067,-117.82035400000001,11.0
+Glendora Unified,Whitcomb Continuation High,350 West Mauna Loa Avenue Glendora CA 91740-4399,,,False,tested,Glendora,Los Angeles County,34.125173,-117.869156,
+Glendora Unified,Williams Educational Center,301 South Loraine Avenue Glendora CA 91741-3638,12.0,ppb,True,tested,Glendora,Los Angeles County,34.132715000000005,-117.84646200000002,12.0

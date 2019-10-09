@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Luther Burbank,Luther Burbank Elementary,4 Wabash Avenue San Jose CA 95128-1931,NA,NA,FALSE,tested,San José,Santa Clara County,37.323546,-121.926669
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Luther Burbank,Luther Burbank Elementary,4 Wabash Avenue San Jose CA 95128-1931,,,False,tested,San José,Santa Clara County,37.323546,-121.92666899999999,

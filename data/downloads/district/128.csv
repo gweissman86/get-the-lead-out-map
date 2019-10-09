@@ -1,15 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Central Elementary,Bear Gulch Elementary,"8355 Bear Gulch Place, Rancho Cucamonga CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.10119,-117.607719
-Central Elementary,Bear Gulch Elementary,8355 Bear Gulch Place Rancho Cucamonga CA 91730-3469,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.10119,-117.607719
-Central Elementary,Central Elementary,"7955 Archibald Ave  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.109406,-117.592302
-Central Elementary,Central Elementary,7955 Archibald Avenue Rancho Cucamonga CA 91730-2805,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.109406,-117.592302
-Central Elementary,Coyote Canyon Elementary,"7889 Elm Avenue  Rancho Cucamonga, California 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.111736,-117.564136
-Central Elementary,Coyote Canyon Elementary,7889 Elm Avenue Rancho Cucamonga CA 91730-6839,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.111736,-117.564136
-Central Elementary,Cucamonga Middle,7611 Hellman Avenue Rancho Cucamonga CA 91730-2204,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.115646,-117.602217
-Central Elementary,Cucamonga Middle School,"7611 Hellman Avenue  Rancho Cucamonga, CA  91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.115646,-117.602217
-Central Elementary,Dona Merced Elementary,"10333 Palo Alto Street  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.116761,-117.579306
-Central Elementary,Dona Merced Elementary,10333 Palo Alto Rancho Cucamonga CA 91730-1744,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.117261,-117.579752
-Central Elementary,Ruth Musser Middle,10789 Terra Vista Parkway Rancho Cucamonga CA 91730-7324,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.115776,-117.569887
-Central Elementary,Ruth Musser Middle School,"10789 Terra Vista Parkway   Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.115776,-117.569887
-Central Elementary,Valle Vista Elementary,"7727 Valle Vista Dr.  Rancho Cucamonga, CA 91730",NA,NA,NA,exempt,Rancho Cucamonga,San Bernardino County,34.114221,-117.618441
-Central Elementary,Valle Vista Elementary,7727 Valle Vista Drive Rancho Cucamonga CA 91730-1837,NA,NA,NA,not tested,Rancho Cucamonga,San Bernardino County,34.114221,-117.618441
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Central Elementary,Bear Gulch Elementary,"8355 Bear Gulch Place, Rancho Cucamonga CA 91730",,,,exempt,Rancho Cucamonga,San Bernardino County,34.10119,-117.60771899999999,
+Central Elementary,Bear Gulch Elementary,8355 Bear Gulch Place Rancho Cucamonga CA 91730-3469,,,,not tested,Rancho Cucamonga,San Bernardino County,34.10119,-117.60771899999999,
+Central Elementary,Central Elementary,"7955 Archibald Ave  Rancho Cucamonga, CA 91730",,,,exempt,Rancho Cucamonga,San Bernardino County,34.109406,-117.592302,
+Central Elementary,Central Elementary,7955 Archibald Avenue Rancho Cucamonga CA 91730-2805,,,,not tested,Rancho Cucamonga,San Bernardino County,34.109406,-117.592302,
+Central Elementary,Coyote Canyon Elementary,"7889 Elm Avenue  Rancho Cucamonga, California 91730",,,,exempt,Rancho Cucamonga,San Bernardino County,34.111736,-117.564136,
+Central Elementary,Coyote Canyon Elementary,7889 Elm Avenue Rancho Cucamonga CA 91730-6839,,,,not tested,Rancho Cucamonga,San Bernardino County,34.111736,-117.564136,
+Central Elementary,Cucamonga Middle,7611 Hellman Avenue Rancho Cucamonga CA 91730-2204,,,,not tested,Rancho Cucamonga,San Bernardino County,34.115646000000005,-117.602217,
+Central Elementary,Cucamonga Middle School,"7611 Hellman Avenue  Rancho Cucamonga, CA  91730",,,,exempt,Rancho Cucamonga,San Bernardino County,34.115646000000005,-117.602217,
+Central Elementary,Dona Merced Elementary,"10333 Palo Alto Street  Rancho Cucamonga, CA 91730",,,,exempt,Rancho Cucamonga,San Bernardino County,34.116761,-117.579306,
+Central Elementary,Dona Merced Elementary,10333 Palo Alto Rancho Cucamonga CA 91730-1744,,,,not tested,Rancho Cucamonga,San Bernardino County,34.117261,-117.579752,
+Central Elementary,Ruth Musser Middle,10789 Terra Vista Parkway Rancho Cucamonga CA 91730-7324,,,,not tested,Rancho Cucamonga,San Bernardino County,34.115776000000004,-117.56988700000001,
+Central Elementary,Ruth Musser Middle School,"10789 Terra Vista Parkway   Rancho Cucamonga, CA 91730",,,,exempt,Rancho Cucamonga,San Bernardino County,34.115776000000004,-117.56988700000001,
+Central Elementary,Valle Vista Elementary,"7727 Valle Vista Dr.  Rancho Cucamonga, CA 91730",,,,exempt,Rancho Cucamonga,San Bernardino County,34.114221,-117.61844099999999,
+Central Elementary,Valle Vista Elementary,7727 Valle Vista Drive Rancho Cucamonga CA 91730-1837,,,,not tested,Rancho Cucamonga,San Bernardino County,34.114221,-117.61844099999999,

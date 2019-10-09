@@ -1,11 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Roseville Joint Union High,Antelope High,7801 Titan Drive Antelope CA 95843-6037,NA,NA,FALSE,tested,Antelope,Sacramento County,38.710849,-121.355861
-Dry Creek Joint Elementary,Antelope Meadows Elementary,8343 Palmerson Drive Antelope CA 95843-5195,NA,NA,FALSE,tested,Antelope,Sacramento County,38.721447,-121.358417
-Dry Creek Joint Elementary,Barrett Ranch Elementary,7720 Ocean Park Drive Antelope CA 95843-6034,NA,NA,FALSE,tested,Antelope,Sacramento County,38.707518,-121.350654
-Center Joint Unified,Center High,3111 Center Court Lane Antelope CA 95843-9111,NA,NA,FALSE,tested,Antelope,Sacramento County,38.720248,-121.3897
-Center Joint Unified,CJUSD District Office,8401 Watt Avenue Antelope CA 95843,NA,NA,FALSE,tested,Antelope,Sacramento County,38.72181,-121.392334
-Center Joint Unified,Cyril Spinelli Elementary,3401 Scotland Dr Antelope CA 95843-2226,7.8,ppb,TRUE,tested,Antelope,Sacramento County,38.707579,-121.387589
-Center Joint Unified,Global Youth Charter,3243 Center Court Lane Antelope CA 95843-9111,NA,NA,FALSE,tested,Antelope,Sacramento County,38.719686,-121.386457
-Center Joint Unified,McClellan High (Continuation),8725 Watt Avenue Antelope CA 95843-9116,10,ppb,TRUE,tested,Antelope,Sacramento County,38.727633,-121.393076
-Center Joint Unified,North Country Elementary,3901 Little Rock Drive Antelope CA 95843-6231,9,ppb,TRUE,tested,Antelope,Sacramento County,38.706213,-121.374331
-Center Joint Unified,Oak Hill Elementary,3909 North Loop Boulevard Antelope CA 95843-4539,NA,NA,FALSE,tested,Antelope,Sacramento County,38.720785,-121.373259
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Private,Pacific Union College Elementary,135 Neilsen Court Angwin CA 94508,100.0,ppb,True,tested,Angwin,Napa County,38.565776,-122.43995600000001,100.0
+Private,Pacific Union College Preparatory,1 Angwin Avenue Angwin CA 94508,,,False,tested,Angwin,Napa County,38.569878,-122.43948300000001,

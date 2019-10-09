@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cutler-Orosi Joint Unified,Cutler Elementary,40532 Road 128 Cutler CA 93615-2109,NA,NA,NA,not tested,NA,Tulare County,36.525553,-119.284511
-Cutler-Orosi Joint Unified,Cutler-Orosi Community Day,14198 Avenue 384 Yettem CA 93670,NA,NA,NA,not tested,NA,Tulare County,36.486996,-119.25461
-Cutler-Orosi Joint Unified,El Monte Middle,42111 Road 128 Orosi CA 93647-9749,NA,NA,FALSE,tested,NA,Tulare County,36.554749,-119.289283
-Cutler-Orosi Joint Unified,Golden Valley Elementary,41465 Road 127 Orosi CA 93647-2008,NA,NA,FALSE,tested,NA,Tulare County,36.541192,-119.290377
-Cutler-Orosi Joint Unified,Lovell High,12724 Ave 392 Cutler CA 93615-9769,NA,NA,NA,not tested,NA,Tulare County,36.500565,-119.242489
-Cutler-Orosi Joint Unified,Orosi High,41815 Road 128 Orosi CA 93647-2008,NA,NA,FALSE,tested,NA,Tulare County,36.54877,-119.289167
-Cutler-Orosi Joint Unified,Palm Elementary,12915 Avenue 419 Orosi CA 93647-1916,NA,NA,FALSE,tested,NA,Tulare County,36.549282,-119.283703
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Cutler-Orosi Joint Unified,Cutler Elementary,40532 Road 128 Cutler CA 93615-2109,,,,not tested,,Tulare County,36.525553,-119.28451100000001,
+Cutler-Orosi Joint Unified,Cutler-Orosi Community Day,14198 Avenue 384 Yettem CA 93670,,,,not tested,,Tulare County,36.486996000000005,-119.25461000000001,
+Cutler-Orosi Joint Unified,El Monte Middle,42111 Road 128 Orosi CA 93647-9749,,,False,tested,,Tulare County,36.554749,-119.28928300000001,
+Cutler-Orosi Joint Unified,Golden Valley Elementary,41465 Road 127 Orosi CA 93647-2008,,,False,tested,,Tulare County,36.541191999999995,-119.290377,
+Cutler-Orosi Joint Unified,Lovell High,12724 Ave 392 Cutler CA 93615-9769,,,,not tested,,Tulare County,36.500565,-119.24248899999999,
+Cutler-Orosi Joint Unified,Orosi High,41815 Road 128 Orosi CA 93647-2008,,,False,tested,,Tulare County,36.548770000000005,-119.28916699999999,
+Cutler-Orosi Joint Unified,Palm Elementary,12915 Avenue 419 Orosi CA 93647-1916,,,False,tested,,Tulare County,36.549282,-119.283703,

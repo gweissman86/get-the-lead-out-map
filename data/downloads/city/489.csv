@@ -1,14 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Capistrano Unified,Bridges Community Day,31576 El Camino Real San Juan Capistrano CA 92675-2631,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.50525,-117.662889
-Capistrano Unified,California Preparatory Academy,32972 Calle Perfecto San Juan Capistrano CA 92675-4706,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.483329,-117.672727
-Capistrano Unified,Capistrano Connections Academy,33272 Valle Road San Juan Capistrano CA 92675-4842,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.488554,-117.662917
-Capistrano Unified,Capistrano Valley High,26301 Via Escolar Mission Viejo CA 92692-3999,NA,NA,FALSE,tested,San Juan Capistrano,Orange County,33.542536,-117.673115
-Capistrano Unified,Capistrano Virtual/Home,32972 Calle Perfect San Juan Capistrano CA 92675-4706,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.483948,-117.67191
-Capistrano Unified,Del Obispo Elementary,25591 Camino del Avion San Juan Capistrano CA 92675-4328,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.487896,-117.680162
-Capistrano Unified,Harold Ambuehl Elementary,28001 San Juan Creek Road San Juan Capistrano CA 92675-3321,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.503529,-117.645226
-Capistrano Unified,Junipero Serra High,31422 Camino Capistrano San Juan Capistrano CA 92675-2600,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.505853,-117.664602
-Capistrano Unified,Kinoshita Elementary,2 Via Positiva San Juan Capistrano CA 92675-4318,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.490144,-117.676717
-Capistrano Unified,Marco Forster Middle,25601 Camino del Avion San Juan Capistrano CA 92675-4330,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.489838,-117.679509
-Capistrano Unified,San Juan Elementary,31642 El Camino Real San Juan Capistrano CA 92675-2616,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.502701,-117.661791
-Capistrano Unified,San Juan Hills High,29211 Stallion Ridge San Juan Capistrano CA 92675-3639,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.499262,-117.621419
-South Bay Union School District,South Coast Regional Occupational Program,31522 El Camino Real San Juan Capistrano CA 92675-2631,NA,NA,NA,not tested,San Juan Capistrano,Orange County,33.505347,-117.662935
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Capistrano Unified,Bridges Community Day,31576 El Camino Real San Juan Capistrano CA 92675-2631,,,,not tested,San Juan Capistrano,Orange County,33.50525,-117.66288899999999,
+Capistrano Unified,California Preparatory Academy,32972 Calle Perfecto San Juan Capistrano CA 92675-4706,,,,not tested,San Juan Capistrano,Orange County,33.483329,-117.67272700000001,
+Capistrano Unified,Capistrano Connections Academy,33272 Valle Road San Juan Capistrano CA 92675-4842,,,,not tested,San Juan Capistrano,Orange County,33.488554,-117.662917,
+Capistrano Unified,Capistrano Valley High,26301 Via Escolar Mission Viejo CA 92692-3999,,,False,tested,San Juan Capistrano,Orange County,33.542536,-117.673115,
+Capistrano Unified,Capistrano Virtual/Home,32972 Calle Perfect San Juan Capistrano CA 92675-4706,,,,not tested,San Juan Capistrano,Orange County,33.483948,-117.67191000000001,
+Capistrano Unified,Del Obispo Elementary,25591 Camino del Avion San Juan Capistrano CA 92675-4328,,,,not tested,San Juan Capistrano,Orange County,33.487896,-117.68016200000001,
+Capistrano Unified,Harold Ambuehl Elementary,28001 San Juan Creek Road San Juan Capistrano CA 92675-3321,,,,not tested,San Juan Capistrano,Orange County,33.503529,-117.645226,
+Capistrano Unified,Junipero Serra High,31422 Camino Capistrano San Juan Capistrano CA 92675-2600,,,,not tested,San Juan Capistrano,Orange County,33.505853,-117.664602,
+Capistrano Unified,Kinoshita Elementary,2 Via Positiva San Juan Capistrano CA 92675-4318,,,,not tested,San Juan Capistrano,Orange County,33.490144,-117.676717,
+Capistrano Unified,Marco Forster Middle,25601 Camino del Avion San Juan Capistrano CA 92675-4330,,,,not tested,San Juan Capistrano,Orange County,33.489838,-117.67950900000001,
+Capistrano Unified,San Juan Elementary,31642 El Camino Real San Juan Capistrano CA 92675-2616,,,,not tested,San Juan Capistrano,Orange County,33.502701,-117.661791,
+Capistrano Unified,San Juan Hills High,29211 Stallion Ridge San Juan Capistrano CA 92675-3639,,,,not tested,San Juan Capistrano,Orange County,33.499262,-117.62141899999999,
+South Bay Union School District,South Coast Regional Occupational Program,31522 El Camino Real San Juan Capistrano CA 92675-2631,,,,not tested,San Juan Capistrano,Orange County,33.505347,-117.662935,

@@ -1,4 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Silver Valley Unified,Congressman Jerry Lewis Elementary,1800 Blackhawk Street Fort Irwin CA 92310-1700,NA,NA,NA,not tested,Fort Irwin,San Bernardino County,35.264555,-116.696423
-Silver Valley Unified,Fort Irwin Middle,1700 Pork Chop Hill Street Fort Irwin CA 92310-1532,NA,NA,FALSE,tested,Fort Irwin,San Bernardino County,35.258208,-116.697022
-Silver Valley Unified,Lewis Elementary School,1800 Black Hawk Fort Irwin CA 92310,NA,NA,FALSE,tested,Fort Irwin,San Bernardino County,35.264555,-116.696423
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fort Bragg Unified,Dana Gray Elementary,1197 East Chestnut Street Fort Bragg CA 95437-4503,,,,not tested,Fort Bragg,Mendocino County,39.43643,-123.79078,
+Fort Bragg Unified,Fort Bragg High,300 Dana Street Fort Bragg CA 95437-4522,,,,not tested,Fort Bragg,Mendocino County,39.438027000000005,-123.788531,
+Fort Bragg Unified,Fort Bragg Middle,500 Harold Street Fort Bragg CA 95437-3308,,,,not tested,Fort Bragg,Mendocino County,39.448296,-123.797945,
+Fort Bragg Unified,Noyo High (Continuation),250 South Sanderson Way Fort Bragg CA 95437-4532,,,,not tested,Fort Bragg,Mendocino County,39.439659999999996,-123.79085900000001,
+Fort Bragg Unified,Redwood Elementary,324 South Lincoln Street Fort Bragg CA 95437-4416,,,,not tested,Fort Bragg,Mendocino County,39.436616,-123.79542,
+Fort Bragg Unified,Three Rivers Charter,1211 Del Mar Drive Fort Bragg CA 95437-9533,,,,not tested,Fort Bragg,Mendocino County,39.421927000000004,-123.811306,

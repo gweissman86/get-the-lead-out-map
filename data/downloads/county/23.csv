@@ -1,100 +1,42 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Merced City Elementary,Ada Givens Elementary,2900 Green Street Merced CA 95340-3253,NA,NA,FALSE,tested,Merced,Merced County,37.304731,-120.453666
-Atwater Elementary,Aileen Colburn Elementary,2201 Heller Street Atwater CA 95301-3438,NA,NA,FALSE,tested,Atwater,Merced County,37.353118,-120.619786
-Merced City Elementary,Alicia Reyes Elementary,123 South N Street Merced CA 95340,6.6,ppb,TRUE,tested,Merced,Merced County,37.286349,-120.494914
-Merced City Elementary,Allan Peterson Elementary,848 East Donna Drive Merced CA 95340-0600,NA,NA,FALSE,tested,Merced,Merced County,37.327557,-120.461282
-Merced Union High,Atwater High,2201 Fruitland Avenue Atwater CA 95301-0835,NA,NA,NA,not tested,Atwater,Merced County,37.36825,-120.616568
-Atwater Elementary,Atwater Senior Academy,1800 Juniper Avenue Atwater CA 95301-1401,NA,NA,NA,not tested,Atwater,Merced County,37.355554,-120.612664
-Ballico-Cressey Elementary,Ballico Elementary,11818 West Gregg Street Ballico CA 95303-0049,NA,NA,NA,not tested,Ballico,Merced County,37.454991,-120.700906
-Atwater Elementary,Bellevue Elementary,1020 East Bellevue Road Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584588
-Atwater Elementary,Bellevue Senior Elementary,1020 East Bellevue Rd Atwater CA 95301-2314,NA,NA,FALSE,tested,Atwater,Merced County,37.359445,-120.584588
-Dos Palos Oro Loma Joint Unified,Bernhard Marks Elementary,1717 Valeria Street Dos Palos CA 93620-2648,NA,NA,FALSE,tested,NA,Merced County,36.981684,-120.624523
-Merced Union High,Buhach Colony High,1800 Buhach Road Atwater CA 95301-4592,NA,NA,NA,not tested,NA,Merced County,37.336329,-120.581861
-Livingston Union,Campus Park Elementary,1845 H Street Livingston CA 95334-1799,NA,NA,FALSE,tested,Livingston,Merced County,37.38073,-120.71763
-Planada Elementary,Cesar E. Chavez Middle,161 South Plainsburg Road Planada CA 95365,NA,NA,FALSE,tested,Planada,Merced County,37.285152,-120.326147
-Merced City Elementary,Charles Wright Elementary,900 East 20th Street Merced CA 95340-4052,NA,NA,FALSE,tested,Merced,Merced County,37.29682,-120.463117
-Los Banos Unified,Charleston Elementary,18463 West Charleston Road Los Banos CA 93635-9540,NA,NA,NA,not tested,Los Banos,Merced County,36.983868,-120.827765
-Hilmar Unified,Colony Basic Skills Alternative High,20384 Geer Avenue Hilmar CA 95324-9722,NA,NA,NA,not tested,NA,Merced County,37.397087,-120.809335
-Los Banos Unified,Creekside Junior High School,1401 Prairie Springs Dr Los Banos CA 93635,NA,NA,FALSE,tested,NA,Merced County,37.051911,-120.883249
-Los Banos Unified,Crossroads Alternative Education Center,265 Mercy Springs Road Suite C Los Banos CA 93635-3875,NA,NA,FALSE,tested,Los Banos,Merced County,37.065341,-120.837467
-Delhi Unified,Delhi High,16881 West Schendel Ave. Delhi CA 95315,NA,NA,FALSE,tested,NA,Merced County,37.426821,-120.794684
-Delhi Unified,Delhi Middle,16881 West Schendel Avenue Delhi CA 95315,NA,NA,FALSE,tested,NA,Merced County,37.426821,-120.794684
-Merced City Elementary,Don Stowell Elementary,251 East 11th Street Merced CA 95340-6228,NA,NA,FALSE,tested,Merced,Merced County,37.291261,-120.476057
-Merced City Elementary,Donn B. Chenoweth Elementary,3200 Parsons Avenue Merced CA 95340-1624,11,ppb,TRUE,tested,Merced,Merced County,37.321417,-120.449957
-Dos Palos Oro Loma Joint Unified,Dos Palos Adult,22368 S Sixth Street South Dos Palos CA 93665,NA,NA,NA,not tested,South Dos Palos,Merced County,36.962083,-120.65382
-Dos Palos Oro Loma Joint Unified,Dos Palos Elementary,2149 Almond Street Dos Palos CA 93620-2305,5.3,ppb,TRUE,tested,NA,Merced County,36.984793,-120.630017
-Dos Palos Oro Loma Joint Unified,Dos Palos High,1701 East Blossom Street Dos Palos CA 93620-2706,7.4,ppb,TRUE,tested,NA,Merced County,36.986451,-120.623816
-Delhi Unified,El Capitan Elementary,10115 Fifth Street Delhi CA 95315-9752,NA,NA,FALSE,tested,Delhi,Merced County,37.435586,-120.772416
-Merced Union High,El Capitan High,100 West Farmland Merced CA 95348-8632,NA,NA,FALSE,tested,Merced,Merced County,37.368398,-120.470162
-Hilmar Unified,Elim Elementary,7677 North Lander Avenue Hilmar CA 95324-9338,NA,NA,FALSE,tested,NA,Merced County,37.430408,-120.849789
-Atwater Elementary,Elmer Wood Elementary,1271 West Bellevue Road Atwater CA 95301-2716,NA,NA,FALSE,tested,Atwater,Merced County,37.360924,-120.606215
-Weaver Union,Farmdale Elementary,100 Winder Avenue Merced CA 95341-8855,NA,NA,FALSE,tested,Merced,Merced County,37.277164,-120.477899
-Winton,Frank Sparkes Elementary,7265 West Almond Avenue Winton CA 95388-0008,NA,NA,FALSE,tested,Winton,Merced County,37.38213,-120.618966
-Merced City Elementary,Franklin Elementary,2936 Franklin Road Merced CA 95348-9436,6.1,ppb,TRUE,tested,NA,Merced County,37.33073,-120.540744
-Merced Union High,Golden Valley High,2121 East Childs Avenue Merced CA 95344-0188,NA,NA,FALSE,tested,NA,Merced County,37.287748,-120.449756
-Los Banos Unified,Green Valley Charter,1149 East B Street Los Banos CA 93635-3705,NA,NA,FALSE,tested,Los Banos,Merced County,37.06615,-120.837826
-Gustine Unified,Gustine Elementary,2806 West Grove Avenue Gustine CA 95322-1803,NA,NA,NA,not tested,Gustine,Merced County,37.248476,-120.99818
-Gustine Unified,Gustine High,501 North Ave Gustine CA 95322-1116,NA,NA,NA,not tested,NA,Merced County,37.261825,-121.001952
-Gustine Unified,Gustine Middle,28075 Sullivan Road Gustine CA 95322-9516,NA,NA,NA,not tested,NA,Merced County,37.243953,-120.995661
-Delhi Unified,Harmony Elementary,16464 West August Avenue Delhi CA 95315,NA,NA,FALSE,tested,NA,Merced County,37.41964,-120.785399
-Los Banos Unified,Henry Miller Elementary,545 West L Street Los Banos CA 93635-3943,NA,NA,FALSE,tested,NA,Merced County,37.058641,-120.859903
-Merced City Elementary,Herbert H. Cruickshank Middle,601 Mercy Avenue Merced CA 95340-8334,NA,NA,FALSE,tested,Merced,Merced County,37.340091,-120.46519
-Merced City Elementary,Herbert Hoover Middle,800 East 26th Street Merced CA 95340-3108,NA,NA,FALSE,tested,Merced,Merced County,37.30334,-120.46339
-Hilmar Unified,Hilmar High,7807 North Lander Avenue Hilmar CA 95324-9398,NA,NA,FALSE,tested,NA,Merced County,37.430408,-120.849789
-Hilmar Unified,Hilmar Middle,7528 North Scholar Way Hilmar CA 95324-9655,NA,NA,FALSE,tested,NA,Merced County,37.397083,-120.859263
-Hilmar Unified,Irwin High (Continuation),20384 Geer Ave Hilmar CA 95324-9398,NA,NA,NA,not tested,NA,Merced County,37.397087,-120.809335
-Merced City Elementary,Joe Stefani,2768 Ranchero Lane Merced CA 95348-3503,NA,NA,FALSE,tested,NA,Merced County,37.329481,-120.535156
-Merced City Elementary,John C. Fremont Elementary,1120 West 22nd Street Merced CA 95340-3540,NA,NA,FALSE,tested,Merced,Merced County,37.309029,-120.490852
-Merced City Elementary,John Muir Elementary,300 West 26th Street Merced CA 95340-2912,NA,NA,FALSE,tested,Merced,Merced County,37.308812,-120.475454
-Private,King's Christian Academy,1683 Fifth Street Atwater CA 95301,15,ppb,TRUE,tested,Atwater,Merced County,37.352331,-120.608798
-Private,Landmark Christian,1925 Olive Avenue Atwater CA 95301,NA,NA,FALSE,tested,Atwater,Merced County,37.349802,-120.616359
-Le Grand Union Elementary,Le Grand Elementary,13071 East Le Grand Road Le Grand CA 95333-9715,NA,NA,FALSE,tested,Le Grand,Merced County,37.228162,-120.251522
-Le Grand Union High,Le Grand High,12961 East Le Grand Road Le Grand CA 95333-9737,NA,NA,FALSE,tested,Le Grand,Merced County,37.228252,-120.253947
-Merced City Elementary,Leontine Gracey Elementary,945 West Avenue Merced CA 95340-5666,NA,NA,FALSE,tested,NA,Merced County,37.250727,-121.003569
-Merced Union High,Livingston High,1617 Main Street Livingston CA 95334-1250,NA,NA,FALSE,tested,Livingston,Merced County,37.376971,-120.723355
-Livingston Union,Livingston Middle,101 F Street Livingston CA 95334-9588,NA,NA,FALSE,tested,Livingston,Merced County,37.382359,-120.739839
-Los Banos Unified,Lorena Falasco Elementary,310 Overland Avenue Los Banos CA 93635-9708,NA,NA,FALSE,tested,NA,Merced County,37.074978,-120.849306
-Los Banos Unified,Los Banos Elementary,1260 Seventh Street Los Banos CA 93635-4378,NA,NA,FALSE,tested,Los Banos,Merced County,37.057824,-120.846666
-Los Banos Unified,Los Banos High,1966 11th Street Los Banos CA 93635-4812,6,ppb,TRUE,tested,Los Banos,Merced County,37.051085,-120.841605
-Los Banos Unified,Los Banos Junior High,1750 San Luis Street Los Banos CA 93635-3866,NA,NA,FALSE,tested,NA,Merced County,37.064932,-120.827725
-Merced City Elementary,Luther Burbank Elementary,609 East Alexander Avenue Merced CA 95340-2214,NA,NA,FALSE,tested,Merced,Merced County,37.315346,-120.464081
-Merced City Elementary,Margaret Sheehy Elementary,1240 West Sixth Street Merced CA 95340-6516,NA,NA,FALSE,tested,Merced,Merced County,37.29407,-120.501537
-Merced Union High,Merced High,205 West Olive Avenue Merced CA 95348-3100,NA,NA,FALSE,tested,Merced,Merced County,37.318984,-120.473002
-Merced County Office of Education,Merced Scholars Charter,1850 Wardrobe Av Building H Merced CA 95341-6407,NA,NA,FALSE,tested,Merced,Merced County,37.294487,-120.5089
-Los Banos Unified,Mercey Springs Elementary,1900 South Mercey Springs Rd Los Banos CA 93635-4800,NA,NA,FALSE,tested,NA,Merced County,37.047846,-120.835436
-Garden Grove Unified,Mitchell Elementary,13451 Taft Avenue Garden Grove CA 92843-2444,6.89,ppb,TRUE,tested,NA,Merced County,37.233675,-120.25771
-Atwater Elementary,Mitchell Elementary,1761 Grove Avenue Atwater CA 95301-3537,NA,NA,FALSE,tested,Atwater,Merced County,37.352953,-120.611296
-Atwater Elementary,Mitchell Intermediate,1753 Fifth Street Atwater CA 95301-3620,NA,NA,FALSE,tested,Atwater,Merced County,37.352952,-120.608235
-Private,Our Lady of Mercy,1400 East 27th Street Merced CA 95340,NA,NA,FALSE,tested,Merced,Merced County,37.304267,-120.457737
-Los Banos Unified,Pacheco High,200 North Ward Road Los Banos CA 93635-8831,NA,NA,FALSE,tested,Los Banos,Merced County,37.068421,-120.816652
-Atwater Elementary,Peggy Heller Elementary,201 Lake View Drive Atwater CA 95301-4769,NA,NA,FALSE,tested,Atwater,Merced County,37.370764,-120.59381
-Weaver Union,Pioneer Elementary,2950 Gerard Avenue Merced CA 95341-5433,NA,NA,FALSE,tested,NA,Merced County,37.388127,-120.614124
-Gustine Unified,Pioneer Headstart,1500 Meredith Avenue Gustine CA 95322-1701,NA,NA,NA,not tested,NA,Merced County,37.248919,-121.011177
-Gustine Unified,Pioneer High (Continuation),501 North Avenue Gustine CA 95322-1701,NA,NA,NA,not tested,NA,Merced County,37.261825,-121.001952
-Private,Providence Christian School,2142 East Yosemite Avenue Merced CA 95340,NA,NA,FALSE,tested,Merced,Merced County,37.33221,-120.446534
-Los Banos Unified,R. M. Miano Elementary,1129 B Street Los Banos CA 93635-3705,NA,NA,FALSE,tested,Los Banos,Merced County,37.059225,-120.850534
-Gustine Unified,Romero Elementary,13500 West Luis Road Santa Nella CA 95322-9645,NA,NA,FALSE,tested,Gustine,Merced County,37.093495,-121.019918
-Merced City Elementary,Rudolph Rivera Elementary,945 Buena Vista Drive Merced CA 95348-2302,NA,NA,FALSE,tested,Merced,Merced County,37.327399,-120.483949
-Merced City Elementary,Rudolph Rivera Middle,801 Buena Vista Drive Merced CA 95348-2302,9.1,ppb,TRUE,tested,Merced,Merced County,37.326361,-120.482592
-Los Banos Unified,San Luis High (Continuation),125 Seventh Street Los Banos CA 93635-3262,NA,NA,FALSE,tested,Los Banos,Merced County,37.067545,-120.842559
-Delhi Unified,Schendel Elementary,16114 Schendel Avenue Delhi CA 95315-0338,NA,NA,FALSE,tested,NA,Merced County,37.427956,-120.779167
-Livingston Union,Selma Herndon Elementary,714 Prusso Street Livingston CA 95334-1199,NA,NA,FALSE,tested,Livingston,Merced County,37.384815,-120.727833
-Merced Union High,Sequoia High,1900 G St Merced CA 95340-5043,NA,NA,NA,not tested,Merced,Merced County,37.300512,-120.474283
-Atwater Elementary,Shaffer Elementary,1434 California Street Atwater CA 95301-4464,NA,NA,FALSE,tested,Atwater,Merced County,37.346828,-120.597518
-Private,St. Anthony,1801 Winton Way Atwater CA 95301,NA,NA,FALSE,tested,Atwater,Merced County,37.356577,-120.614439
-Private,St. Paul Lutheran School,2916 North McKee Road Merced CA 95340,NA,NA,FALSE,tested,Merced,Merced County,37.31204,-120.443141
-Winton,Sybil N. Crookham Elementary,7160 West Walnut Avenue Winton CA 95388-0130,NA,NA,FALSE,tested,NA,Merced County,37.390213,-120.616215
-Merced City Elementary,Tenaya Middle,760 West Eighth Street Merced CA 95340-5935,NA,NA,FALSE,tested,Merced,Merced County,37.292739,-120.493497
-Atwater Elementary,Thomas Olaeta Elementary,2266 High Street Atwater CA 95301-2831,NA,NA,FALSE,tested,Atwater,Merced County,37.354681,-120.596859
-Merced County Office of Education,Valley Atwater Community,1800 Matthew Avenue Atwater CA 95301-2079,NA,NA,FALSE,tested,Atwater,Merced County,37.340312,-120.618121
-Merced County Office of Education,Valley Los Banos Community,715 West H Street Los Banos CA 93635-8540,NA,NA,FALSE,tested,NA,Merced County,37.069601,-120.863624
-Merced County Office of Education,Valley Merced Community,1850 Wardrobe Ave Merced CA 95341-6407,NA,NA,FALSE,tested,Merced,Merced County,37.295523,-120.507296
-Los Banos Unified,Volta Elementary,24307 West Ingomar Grade Los Banos CA 93635-9783,NA,NA,NA,not tested,Los Banos,Merced County,37.099225,-120.93165
-Weaver Union,Weaver Middle,3076 East Childs Avenue Merced CA 95341-9583,NA,NA,FALSE,tested,Merced,Merced County,37.289773,-120.43124
-Dos Palos Oro Loma Joint Unified,Westside High,22368 South Sixth Street South Dos Palos CA 93665,NA,NA,FALSE,tested,South Dos Palos,Merced County,36.962083,-120.65382
-Los Banos Unified,Westside Union Elementary,659 K Street Los Banos CA 93635-4225,13,ppb,TRUE,tested,NA,Merced County,37.058649,-120.848589
-Winton,Winfield Elementary,6981 Chestnut Lane Winton CA 95388,NA,NA,FALSE,tested,NA,Merced County,37.389072,-120.604448
-Winton,Winton Middle,6300 North Cypress Avenue Winton CA 95388-1477,NA,NA,FALSE,tested,Winton,Merced County,37.379335,-120.621629
-Private,Wolfe Education,632 W 13th St Merced CA 95341,NA,NA,FALSE,tested,Merced,Merced County,37.297809,-120.4879
-Livingston Union,Yamato Colony Elementary,800 North Main Street Livingston CA 95334-9304,NA,NA,FALSE,tested,Livingston,Merced County,37.382401,-120.723446
-Merced Union High,Yosemite High (Continuation),1900 G Merced CA 95340-5043,NA,NA,NA,not tested,Merced,Merced County,37.302957,-120.484327
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ukiah Unified,Accelerated Achievement Academy,1031 North State Street Ukiah CA 95482-3413,,,False,tested,,Mendocino County,39.162756,-123.21006499999999,
+Private,Adventist Christian School,22751 Bray Rd Willits CA 95490,,,False,tested,Willits,Mendocino County,39.41003,-123.335647,
+Arena Union Elementary,Arena Elementary,20 School Street Point Arena CA 95468-0020,,,,not tested,Point Arena,Mendocino County,38.911795,-123.69283,
+Willits Unified,Baechtel Grove Middle,1150 Magnolia Street Willits CA 95490-4209,,,False,tested,Willits,Mendocino County,39.400369,-123.353048,
+Willits Unified,Blosser Lane Elementary,1275 Blosser Lane Willits CA 95490-4163,6.3,ppb,True,tested,Willits,Mendocino County,39.399339000000005,-123.359573,10.0
+Willits Unified,Brookside Elementary,Spruce and Lincoln Way Willits CA 95490,5.1,ppb,True,tested,Willits,Mendocino County,39.411958,-123.36198700000001,5.1
+Ukiah Unified,Calpella Elementary,151 Moore Street Ukiah CA 95482-9547,,,False,tested,Ukiah,Mendocino County,39.233857,-123.20583799999999,
+Fort Bragg Unified,Dana Gray Elementary,1197 East Chestnut Street Fort Bragg CA 95437-4503,,,,not tested,Fort Bragg,Mendocino County,39.43643,-123.79078,
+Ukiah Unified,Eagle Peak Middle,8601 West Road Redwood Valley CA 95470-9584,,,False,tested,Redwood Valley,Mendocino County,39.267553,-123.21925,
+Fort Bragg Unified,Fort Bragg High,300 Dana Street Fort Bragg CA 95437-4522,,,,not tested,Fort Bragg,Mendocino County,39.438027000000005,-123.788531,
+Fort Bragg Unified,Fort Bragg Middle,500 Harold Street Fort Bragg CA 95437-3308,,,,not tested,Fort Bragg,Mendocino County,39.448296,-123.797945,
+Ukiah Unified,Frank Zeek Elementary,1060 North Bush Street Ukiah CA 95482-3865,5.3,ppb,True,tested,,Mendocino County,39.161390999999995,-123.214681,5.3
+Ukiah Unified,Grace Hudson Elementary,251 Jefferson Lane Ukiah CA 95482-6617,,,False,tested,,Mendocino County,39.12365,-123.209002,
+Willits Unified,La Vida Charter,16201 North Highway 101 Willits CA 95490-8724,,,False,tested,Willits,Mendocino County,39.337569,-123.305765,
+Laytonville Unified,Laytonville Elementary and Middle School,150 Ramsey Road Laytonville CA 95454-0325,,,,not tested,,Mendocino County,39.685221000000006,-123.48358300000001,
+Laytonville Unified,Laytonville High,250 Branscomb Road Laytonville CA 95454-0325,,,False,tested,,Mendocino County,39.674906,-123.531264,
+Ukiah Unified,Nokomis Elementary,495 Washington Street Ukiah CA 95482-6324,8.4,ppb,True,tested,Ukiah,Mendocino County,39.133976000000004,-123.213885,8.4
+Fort Bragg Unified,Noyo High (Continuation),250 South Sanderson Way Fort Bragg CA 95437-4532,,,,not tested,Fort Bragg,Mendocino County,39.439659999999996,-123.79085900000001,
+Ukiah Unified,Oak Manor Elementary,400 Oak Manor Drive Ukiah CA 95482-5120,9.3,ppb,True,tested,,Mendocino County,39.148326000000004,-123.192402,9.3
+Mendocino County Office of Education,Orr Creek,1011 Low Gap Road Ukiah CA 95482,,,,not tested,,Mendocino County,39.161654,-123.222145,
+Arena Union Elementary,Pacific Community Charter,10 Lake Street Point Arena CA 95468,,,,not tested,Point Arena,Mendocino County,38.913176,-123.692897,
+Point Arena Joint Union High,Point Arena High,270 Lake Street Point Arena CA 95468-0007,,,,not tested,Point Arena,Mendocino County,38.914403,-123.69989299999999,
+Ukiah Unified,Pomolita Middle,740 North Spring Street Ukiah CA 95482-3937,,,False,tested,,Mendocino County,39.155012,-123.21605,
+Ukiah Unified,Preschool Village,1100 North Bush St. Ukiah CA 95482,,,,not tested,,Mendocino County,39.16453,-123.215176,
+Ukiah Unified,Redwood Academy of Ukiah,1059 North State Street Ukiah CA 95482-3413,,,False,tested,,Mendocino County,39.163613,-123.210315,
+Fort Bragg Unified,Redwood Elementary,324 South Lincoln Street Fort Bragg CA 95437-4416,,,,not tested,Fort Bragg,Mendocino County,39.436616,-123.79542,
+Ukiah Unified,River Oak Charter,555 Leslie Street Ukiah CA 95482-5507,,,False,tested,,Mendocino County,39.146852,-123.20126299999998,
+Willits Unified,Sanhedrin High,120 North Main St Willits CA 95490-3109,7.0,ppb,True,tested,Willits,Mendocino County,39.415051,-123.35473700000001,7.0
+Point Arena Joint Union High,South Coast Continuation,185 Lake Street Point Arena CA 95468-0087,,,,not tested,Point Arena,Mendocino County,38.913757000000004,-123.696997,
+Ukiah Unified,South Valley High (Continuation),445 South Dora Street Ukiah CA 95482-4753,5.9,ppb,True,tested,,Mendocino County,39.146888,-123.21171499999998,5.9
+Private,St. Mary of the Angels,991 South Dora Ukiah CA 95482,,,False,tested,Ukiah,Mendocino County,39.139267,-123.20933500000001,
+Fort Bragg Unified,Three Rivers Charter,1211 Del Mar Drive Fort Bragg CA 95437-9533,,,,not tested,Fort Bragg,Mendocino County,39.421927000000004,-123.811306,
+Ukiah Unified,Tree of Life Charter,241 Ford Road Ukiah CA 95482-3440,9.65,ppb,True,tested,,Mendocino County,39.167254,-123.201734,11.0
+Ukiah Unified,Ukiah Adult,1056 North Bush Street Ukiah CA 95482-3737,7.45,ppb,True,tested,,Mendocino County,39.16129,-123.214657,8.9
+Ukiah Unified,Ukiah High,1000 Low Gap Road Ukiah CA 95482-3737,,,False,tested,,Mendocino County,39.160668,-123.217925,
+Ukiah Unified,Ukiah Independent Study Academy,1000 Low Gap Road B Ukiah CA 95482-3737,,,False,tested,,Mendocino County,39.160668,-123.217925,
+Mendocino County Office of Education,West Hills Juvenile Hall Court,585 Low Gap Road Ukiah CA 95482,,,,not tested,,Mendocino County,39.160157,-123.21551000000001,
+Willits Unified,Willits Charter,1431 South Main Street Willits CA 95490-4309,,,False,tested,Willits,Mendocino County,39.393725,-123.34823200000001,
+Willits Unified,Willits Elementary Charter,405 East Commercial Street Willits CA 95490-3007,6.1,ppb,True,tested,Willits,Mendocino County,39.412431,-123.350078,6.1
+Willits Unified,Willits High,299 North Main Street Willits CA 95490-3110,,,False,tested,Willits,Mendocino County,39.417139,-123.354665,
+Ukiah Unified,Yokayo Elementary,790 South Dora Street Ukiah CA 95482-5348,9.0,ppb,True,tested,,Mendocino County,39.144524,-123.211097,9.0

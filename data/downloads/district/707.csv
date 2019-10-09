@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Santa Cruz County ROP,Santa Cruz County ROP,400 Encinal Street B Santa Cruz CA 95060-2115,NA,NA,NA,not tested,Santa Cruz,Santa Cruz County,36.987073,-122.035516
-Santa Cruz County ROP,Santa Maria State Preschool,219 N Mary Dr Santa Ana CA 93454,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.955186,-120.44832
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Santa Cruz County ROP,Santa Cruz County ROP,400 Encinal Street B Santa Cruz CA 95060-2115,,,,not tested,Santa Cruz,Santa Cruz County,36.987072999999995,-122.03551599999999,
+Santa Cruz County ROP,Santa Maria State Preschool,219 N Mary Dr Santa Ana CA 93454,,,,not tested,Santa Maria,Santa Barbara County,34.955186,-120.44832,

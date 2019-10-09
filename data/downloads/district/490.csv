@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Moreland,Country Lane Elementary,5140 Country Lane San Jose CA 95129-4299,NA,NA,FALSE,tested,San José,Santa Clara County,37.29859,-121.992863
-Moreland,Easterbrook Discovery,4835 Doyle Road San Jose CA 95129-3246,NA,NA,FALSE,tested,San José,Santa Clara County,37.30344,-121.986601
-Moreland,George C. Payne Elementary,3750 Gleason Avenue San Jose CA 95130-1323,NA,NA,NA,not tested,NA,Santa Clara County,37.297343,-121.968097
-Moreland,Gussie M. Baker Elementary,4845 Bucknall Road San Jose CA 95130-2021,NA,NA,FALSE,tested,NA,Santa Clara County,37.283455,-121.98735
-Moreland,Latimer Elementary,4250 Latimer Avenue San Jose CA 95130-1400,NA,NA,FALSE,tested,San José,Santa Clara County,37.291198,-121.978016
-Moreland,Leroy Anderson Elementary,4000 Rhoda Drive San Jose CA 95117-3225,NA,NA,FALSE,tested,San José,Santa Clara County,37.304751,-121.971513
-Moreland,Moreland Middle,4600 Student Lane San Jose CA 95130-1762,NA,NA,FALSE,tested,San José,Santa Clara County,37.288347,-121.984512
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Moreland,Country Lane Elementary,5140 Country Lane San Jose CA 95129-4299,,,False,tested,San José,Santa Clara County,37.298590000000004,-121.99286299999999,
+Moreland,Easterbrook Discovery,4835 Doyle Road San Jose CA 95129-3246,,,False,tested,San José,Santa Clara County,37.30344,-121.98660100000001,
+Moreland,George C. Payne Elementary,3750 Gleason Avenue San Jose CA 95130-1323,,,,not tested,,Santa Clara County,37.297343,-121.968097,
+Moreland,Gussie M. Baker Elementary,4845 Bucknall Road San Jose CA 95130-2021,,,False,tested,,Santa Clara County,37.283455,-121.98735,
+Moreland,Latimer Elementary,4250 Latimer Avenue San Jose CA 95130-1400,,,False,tested,San José,Santa Clara County,37.291198,-121.978016,
+Moreland,Leroy Anderson Elementary,4000 Rhoda Drive San Jose CA 95117-3225,,,False,tested,San José,Santa Clara County,37.304751,-121.97151299999999,
+Moreland,Moreland Middle,4600 Student Lane San Jose CA 95130-1762,,,False,tested,San José,Santa Clara County,37.288346999999995,-121.98451200000001,

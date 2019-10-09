@@ -1,11 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Huntington Beach City Elementary,Agnes L. Smith Elementary,770 17th Street Huntington Beach CA 92648-3426,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.670184,-118.006777
-Huntington Beach City Elementary,Ethel Dwyer Middle,1502 Palm Avenue Huntington Beach CA 92648-4007,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.668873,-118.005581
-Huntington Beach City Elementary,Huntington Seacliff Elementary,6701 Garfield Avenue Huntington Beach CA 92648-1510,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.686672,-118.011345
-Huntington Beach City Elementary,Isaac L. Sowers Middle,9300 Indianapolis Avenue Huntington Beach CA 92646-5900,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.664936,-117.966903
-Huntington Beach City Elementary,John H. Eader Elementary,9291 Banning Avenue Huntington Beach CA 92646-8302,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.643346,-117.965257
-Huntington Beach City Elementary,John R. Peterson Elementary,20661 Farnsworth Lane Huntington Beach CA 92646-5511,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.662467,-117.984245
-Huntington Beach City Elementary,Joseph R. Perry Elementary,19231 Harding Lane Huntington Beach CA 92646-2023,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.68318,-117.982795
-Huntington Beach City Elementary,Kinetic Academy,721 Utica Avenue Huntington Beach CA 92648,NA,NA,NA,not tested,Huntington Beach,Orange County,33.676228,-117.990108
-Huntington Beach City Elementary,Ralph E. Hawes Elementary,9682 Yellowstone Drive Huntington Beach CA 92646-4857,NA,NA,FALSE,tested,Huntington Beach,Orange County,33.668658,-117.959342
-Huntington Beach City Elementary,S. A. Moffett Elementary,8800 Burlcrest Avenue Huntington Beach CA 92646-4620,11,ppb,TRUE,tested,Huntington Beach,Orange County,33.668173,-117.974369
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Huntington Beach City Elementary,Agnes L. Smith Elementary,770 17th Street Huntington Beach CA 92648-3426,,,False,tested,Huntington Beach,Orange County,33.670184000000006,-118.006777,
+Huntington Beach City Elementary,Ethel Dwyer Middle,1502 Palm Avenue Huntington Beach CA 92648-4007,,,False,tested,Huntington Beach,Orange County,33.668873,-118.005581,
+Huntington Beach City Elementary,Huntington Seacliff Elementary,6701 Garfield Avenue Huntington Beach CA 92648-1510,,,False,tested,Huntington Beach,Orange County,33.686671999999994,-118.01134499999999,
+Huntington Beach City Elementary,Isaac L. Sowers Middle,9300 Indianapolis Avenue Huntington Beach CA 92646-5900,,,False,tested,Huntington Beach,Orange County,33.664936,-117.966903,
+Huntington Beach City Elementary,John H. Eader Elementary,9291 Banning Avenue Huntington Beach CA 92646-8302,,,False,tested,Huntington Beach,Orange County,33.643346,-117.96525700000001,
+Huntington Beach City Elementary,John R. Peterson Elementary,20661 Farnsworth Lane Huntington Beach CA 92646-5511,,,False,tested,Huntington Beach,Orange County,33.662467,-117.984245,
+Huntington Beach City Elementary,Joseph R. Perry Elementary,19231 Harding Lane Huntington Beach CA 92646-2023,,,False,tested,Huntington Beach,Orange County,33.68318,-117.982795,
+Huntington Beach City Elementary,Kinetic Academy,721 Utica Avenue Huntington Beach CA 92648,,,,not tested,Huntington Beach,Orange County,33.676228,-117.990108,
+Huntington Beach City Elementary,Ralph E. Hawes Elementary,9682 Yellowstone Drive Huntington Beach CA 92646-4857,,,False,tested,Huntington Beach,Orange County,33.668658,-117.95934199999999,
+Huntington Beach City Elementary,S. A. Moffett Elementary,8800 Burlcrest Avenue Huntington Beach CA 92646-4620,11.0,ppb,True,tested,Huntington Beach,Orange County,33.668172999999996,-117.974369,11.0

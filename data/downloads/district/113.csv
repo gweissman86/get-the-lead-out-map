@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Campbell Union High,Boynton High,901 Boynton Avenue San Jose CA 95117-2006,NA,NA,FALSE,tested,San José,Santa Clara County,37.310173,-121.966056
-Campbell Union High,Branham High,1570 Branham Lane San Jose CA 95118-2201,6.4,ppb,TRUE,tested,San José,Santa Clara County,37.256442,-121.896076
-Campbell Union High,Camden Community Day,2223 Camden Avenue San Jose CA 95124-2027,NA,NA,NA,not tested,San José,Santa Clara County,37.263766,-121.937817
-Campbell Union High,Del Mar High,1224 Del Mar Avenue San Jose CA 95128-3529,NA,NA,FALSE,tested,San José,Santa Clara County,37.303283,-121.930279
-Campbell Union High,Leigh High,5210 Leigh Avenue San Jose CA 95124-5616,NA,NA,FALSE,tested,NA,Santa Clara County,37.243233,-121.922565
-Campbell Union High,Prospect High,18900 Prospect Road Saratoga CA 95070-3435,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.291318,-121.999836
-Campbell Union High,Westmont High,4805 Westmont Avenue Campbell CA 95008-5725,NA,NA,FALSE,tested,NA,Santa Clara County,37.271227,-121.980779
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Campbell Union High,Boynton High,901 Boynton Avenue San Jose CA 95117-2006,,,False,tested,San José,Santa Clara County,37.310173,-121.96605600000001,
+Campbell Union High,Branham High,1570 Branham Lane San Jose CA 95118-2201,6.4,ppb,True,tested,San José,Santa Clara County,37.256442,-121.89607600000001,6.4
+Campbell Union High,Camden Community Day,2223 Camden Avenue San Jose CA 95124-2027,,,,not tested,San José,Santa Clara County,37.263766,-121.937817,
+Campbell Union High,Del Mar High,1224 Del Mar Avenue San Jose CA 95128-3529,,,False,tested,San José,Santa Clara County,37.303283,-121.930279,
+Campbell Union High,Leigh High,5210 Leigh Avenue San Jose CA 95124-5616,,,False,tested,,Santa Clara County,37.243233000000004,-121.92256499999999,
+Campbell Union High,Prospect High,18900 Prospect Road Saratoga CA 95070-3435,,,False,tested,Saratoga,Santa Clara County,37.291318,-121.99983600000002,
+Campbell Union High,Westmont High,4805 Westmont Avenue Campbell CA 95008-5725,,,False,tested,,Santa Clara County,37.271227,-121.980779,

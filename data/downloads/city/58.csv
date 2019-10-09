@@ -1,3 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Palo Verde Unified,Felix J. Appleby Elementary,10321 Vernon Ave Blythe CA 92225-3113,NA,NA,NA,not tested,Blythe,Riverside County,33.598621,-114.594041
-Palo Verde Unified,Ruth Brown Elementary,241 North Seventh Avenue Blythe CA 92225-1825,NA,NA,NA,not tested,Blythe,Riverside County,33.612952,-114.588924
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Blue Lake Union Elementary,Blue Lake Elementary,631 Greenwood Avenue Blue Lake CA 95525-0268,,,False,tested,Blue Lake,Humboldt County,40.885068,-123.9919,

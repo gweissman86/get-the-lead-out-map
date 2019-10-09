@@ -1,4 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Columbine Elementary,Columbine Elementary,2240 Road 160 Delano CA 93215-9420,NA,NA,NA,not tested,Delano,Tulare County,35.830602,-119.213361
-Delano Union Elementary,Harvest Elementary,1320 Vassar Avenue Delano CA 93215-3872,NA,NA,FALSE,tested,Delano,Kern County,35.774431,-119.227581
-Kern County Office of Education,Wonderful College Prep Academy,2070 Veneto Street Delano CA 93215,NA,NA,NA,not tested,Delano,Kern County,35.784717,-119.21226
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Antelope Valley Union High,Phoenix High Community Day,"228 East Ave, H8 Lancaster CA 93536",,,,not tested,Del Sur,Los Angeles County,34.710938,-118.154145,

@@ -1,19 +1,19 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Westminster,Ada Clegg Elementary,6311 Larchwood Dr Huntington Beach CA 92647-2320,NA,NA,NA,not tested,Huntington Beach,Orange County,33.747037,-118.020418
-Westminster,Anderson Elementary,8902 Hewitt Place Garden Grove CA 92844-2630,NA,NA,NA,not tested,Garden Grove,Orange County,33.761785,-117.973958
-Westminster,Anderson Elementary School,"8902 Hewitt Pl, Garden Grove, CA 92844",NA,NA,NA,exempt,Garden Grove,Orange County,33.761785,-117.973958
-Westminster,Demille Elementary,15400 Van Buren Midway City CA 92655-1660,5.2,ppb,TRUE,tested,Midway City,Orange County,33.739481,-117.985807
-Westminster,Eastwood Elementary,13552 University Westminster CA 92683-2770,NA,NA,FALSE,tested,Westminster,Orange County,33.765436,-118.035953
-Westminster,Finley Elementary,13521 Edwards Street Westminster CA 92683-2502,NA,NA,FALSE,tested,Westminster,Orange County,33.762005,-118.016049
-Westminster,Fryberger Elementary,6952 Hood Drive Westminster CA 92683-2122,5.1,ppb,TRUE,tested,Westminster,Orange County,33.771228,-118.010225
-Westminster,Helen Stacey Middle,6311 Larchwood Drive Huntington Beach CA 92647-2320,NA,NA,NA,not tested,Huntington Beach,Orange County,33.747037,-118.020418
-Westminster,Jessie Hayden Elementary,14782 Eden Street Midway City CA 92655-1108,NA,NA,FALSE,tested,Midway City,Orange County,33.747779,-117.975924
-Westminster,Johnson Middle,13603 Edwards Street Westminster CA 92683-3006,7.1,ppb,TRUE,tested,Westminster,Orange County,33.764452,-118.015902
-Westminster,Meairs Elementary,8441 Trask Avenue Garden Grove CA 92844-1811,NA,NA,NA,not tested,Garden Grove,Orange County,33.766675,-117.973274
-Westminster,Meairs Elementary School,"8441 Trask Ave, Garden Grove, CA 92844",NA,NA,NA,exempt,Garden Grove,Orange County,33.766675,-117.973274
-Westminster,Schmitt Elementary,7200 Trask Avenue Westminster CA 92683-2626,NA,NA,FALSE,tested,Westminster,Orange County,33.766328,-118.003902
-Westminster,Schroeder Elementary,15151 Columbia Lane Huntington Beach CA 92647-2507,NA,NA,NA,not tested,Huntington Beach,Orange County,33.741874,-118.017903
-Westminster,Sequoia Elementary,5900 Iroquois Road Westminster CA 92683-2460,NA,NA,FALSE,tested,Westminster,Orange County,33.768388,-118.026902
-Westminster,Warner Middle,14171 Newland Street Westminster CA 92683-4503,NA,NA,FALSE,tested,Orange,Orange County,33.756253,-117.981142
-Westminster,Webber Elementary,14142 Hoover Street Westminster CA 92683-4312,NA,NA,FALSE,tested,Westminster,Orange County,33.757965,-117.998294
-Westminster,Willmore Elementary,7122 Maple Street Westminster CA 92683-5021,NA,NA,FALSE,tested,Westminster,Orange County,33.753574,-118.005466
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Westminster,Ada Clegg Elementary,6311 Larchwood Dr Huntington Beach CA 92647-2320,,,,not tested,Huntington Beach,Orange County,33.747037,-118.02041799999999,
+Westminster,Anderson Elementary,8902 Hewitt Place Garden Grove CA 92844-2630,,,,not tested,Garden Grove,Orange County,33.761784999999996,-117.97395800000001,
+Westminster,Anderson Elementary School,"8902 Hewitt Pl, Garden Grove, CA 92844",,,,exempt,Garden Grove,Orange County,33.761784999999996,-117.97395800000001,
+Westminster,Demille Elementary,15400 Van Buren Midway City CA 92655-1660,5.2,ppb,True,tested,Midway City,Orange County,33.739481,-117.98580700000001,5.2
+Westminster,Eastwood Elementary,13552 University Westminster CA 92683-2770,,,False,tested,Westminster,Orange County,33.765436,-118.035953,
+Westminster,Finley Elementary,13521 Edwards Street Westminster CA 92683-2502,,,False,tested,Westminster,Orange County,33.762005,-118.016049,
+Westminster,Fryberger Elementary,6952 Hood Drive Westminster CA 92683-2122,5.1,ppb,True,tested,Westminster,Orange County,33.771228,-118.010225,5.1
+Westminster,Helen Stacey Middle,6311 Larchwood Drive Huntington Beach CA 92647-2320,,,,not tested,Huntington Beach,Orange County,33.747037,-118.02041799999999,
+Westminster,Jessie Hayden Elementary,14782 Eden Street Midway City CA 92655-1108,,,False,tested,Midway City,Orange County,33.747779,-117.97592399999999,
+Westminster,Johnson Middle,13603 Edwards Street Westminster CA 92683-3006,7.1,ppb,True,tested,Westminster,Orange County,33.764452,-118.015902,7.1
+Westminster,Meairs Elementary,8441 Trask Avenue Garden Grove CA 92844-1811,,,,not tested,Garden Grove,Orange County,33.766675,-117.973274,
+Westminster,Meairs Elementary School,"8441 Trask Ave, Garden Grove, CA 92844",,,,exempt,Garden Grove,Orange County,33.766675,-117.973274,
+Westminster,Schmitt Elementary,7200 Trask Avenue Westminster CA 92683-2626,,,False,tested,Westminster,Orange County,33.766328,-118.003902,
+Westminster,Schroeder Elementary,15151 Columbia Lane Huntington Beach CA 92647-2507,,,,not tested,Huntington Beach,Orange County,33.741873999999996,-118.017903,
+Westminster,Sequoia Elementary,5900 Iroquois Road Westminster CA 92683-2460,,,False,tested,Westminster,Orange County,33.768388,-118.026902,
+Westminster,Warner Middle,14171 Newland Street Westminster CA 92683-4503,,,False,tested,Orange,Orange County,33.756253,-117.98114199999999,
+Westminster,Webber Elementary,14142 Hoover Street Westminster CA 92683-4312,,,False,tested,Westminster,Orange County,33.757965000000006,-117.998294,
+Westminster,Willmore Elementary,7122 Maple Street Westminster CA 92683-5021,,,False,tested,Westminster,Orange County,33.753574,-118.005466,

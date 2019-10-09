@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Lorenzo Unified,KIPP Summit Academy,2005 Via Barret  San Lorenzo CA 94580-1315,NA,NA,FALSE,tested,San Lorenzo,Alameda County,37.67442,-122.150389
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Lorenzo Unified,KIPP Summit Academy,2005 Via Barret  San Lorenzo CA 94580-1315,,,False,tested,San Lorenzo,Alameda County,37.67442,-122.15038899999999,

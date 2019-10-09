@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Richland Union Elementary,Golden Oak Elementary,190 South Wall Shafter CA 93263,NA,NA,FALSE,tested,Shafter,Kern County,35.499244,-119.280305
-Kern High,Shafter High,526 Mannel Avenue Shafter CA 93263-1810,NA,NA,FALSE,tested,Shafter,Kern County,35.507697,-119.268345
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Richland Union Elementary,Golden Oak Elementary,190 South Wall Shafter CA 93263,,,False,tested,Shafter,Kern County,35.499244,-119.280305,
+Kern High,Shafter High,526 Mannel Avenue Shafter CA 93263-1810,,,False,tested,Shafter,Kern County,35.507697,-119.268345,

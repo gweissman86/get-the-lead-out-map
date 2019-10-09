@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Windsor Unified,"Bridges Community Based School, North County Consortium","9291 Old Redwood Hwy, Building 500 Windsor CA 95492-8089",NA,NA,NA,not tested,Windsor,Sonoma County,38.549471,-122.814047
-Windsor Unified,Brooks Elementary,750 Natalie Drive Windsor CA 95492-8821,NA,NA,FALSE,tested,Windsor,Sonoma County,38.55761,-122.811764
-Windsor Unified,Cali Calmecac Language Academy,9941 Starr Road Windsor CA 95492,NA,NA,FALSE,tested,Windsor,Sonoma County,38.557241,-122.826075
-Windsor Unified,Windsor Creek Elementary,8955 Conde Lane Windsor CA 95492-8812,NA,NA,FALSE,tested,Windsor,Sonoma County,38.544158,-122.809707
-Windsor Unified,Windsor High,8695 Windsor Road Windsor CA 95492-9511,NA,NA,FALSE,tested,Windsor,Sonoma County,38.542083,-122.817768
-Windsor Unified,Windsor Oaks Academy,8681 Windsor Road Windsor CA 95492-9511,NA,NA,FALSE,tested,Windsor,Sonoma County,38.541167,-122.819617
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Windsor Unified,"Bridges Community Based School, North County Consortium","9291 Old Redwood Hwy, Building 500 Windsor CA 95492-8089",,,,not tested,Windsor,Sonoma County,38.549471000000004,-122.814047,
+Windsor Unified,Brooks Elementary,750 Natalie Drive Windsor CA 95492-8821,,,False,tested,Windsor,Sonoma County,38.55761,-122.811764,
+Windsor Unified,Cali Calmecac Language Academy,9941 Starr Road Windsor CA 95492,,,False,tested,Windsor,Sonoma County,38.557241,-122.826075,
+Windsor Unified,Windsor Creek Elementary,8955 Conde Lane Windsor CA 95492-8812,,,False,tested,Windsor,Sonoma County,38.544158,-122.809707,
+Windsor Unified,Windsor High,8695 Windsor Road Windsor CA 95492-9511,,,False,tested,Windsor,Sonoma County,38.542083,-122.81776799999999,
+Windsor Unified,Windsor Oaks Academy,8681 Windsor Road Windsor CA 95492-9511,,,False,tested,Windsor,Sonoma County,38.541167,-122.819617,

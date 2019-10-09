@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Wiseburn Unified,Da Vinci Communications High,12495 Isis Avenue Hawthorne CA 90250-4147,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.919206,-118.374436
-Wiseburn Unified,Da Vinci Design,12501 Isis Avenue Hawthorne CA 90250-4149,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.918945,-118.374434
-Wiseburn Unified,Da Vinci Innovation Academy,13500 Aviation Blvd. Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.895571,-118.378692
-Wiseburn Unified,Da Vinci Science,13500 Aviation Boulevard Hawthorne CA 90250-6462,NA,NA,NA,not tested,Hawthorne,Los Angeles County,33.895571,-118.378692
-Wiseburn Unified,Dana Middle School,5504 W. 135th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.909371,-118.376606
-Wiseburn Unified,Juan De Anza Elementary,12110 Hindry Avenue Hawthorne CA 90250-3403,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.902785,-118.373066
-Wiseburn Unified,Malaga Cove School - Success Learning Center,300 Paseo Del Mar Palos Verdes Estates CA 90274-1272,NA,NA,FALSE,tested,Palos Verdes Estates,Los Angeles County,33.801568,-118.396643
-Wiseburn Unified,Peter Burnett Elementary,5403 W. 138th St.  Hawthorne CA 90250,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.906625,-118.374372
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Wiseburn Unified,Da Vinci Communications High,12495 Isis Avenue Hawthorne CA 90250-4147,,,,not tested,Hawthorne,Los Angeles County,33.919206,-118.37443600000002,
+Wiseburn Unified,Da Vinci Design,12501 Isis Avenue Hawthorne CA 90250-4149,,,,not tested,Hawthorne,Los Angeles County,33.918945,-118.37443400000001,
+Wiseburn Unified,Da Vinci Innovation Academy,13500 Aviation Blvd. Hawthorne CA 90250-6462,,,,not tested,Hawthorne,Los Angeles County,33.895571000000004,-118.37869199999999,
+Wiseburn Unified,Da Vinci Science,13500 Aviation Boulevard Hawthorne CA 90250-6462,,,,not tested,Hawthorne,Los Angeles County,33.895571000000004,-118.37869199999999,
+Wiseburn Unified,Dana Middle School,5504 W. 135th St.  Hawthorne CA 90250,,,False,tested,Hawthorne,Los Angeles County,33.909371,-118.37660600000001,
+Wiseburn Unified,Juan De Anza Elementary,12110 Hindry Avenue Hawthorne CA 90250-3403,,,False,tested,Hawthorne,Los Angeles County,33.902784999999994,-118.373066,
+Wiseburn Unified,Malaga Cove School - Success Learning Center,300 Paseo Del Mar Palos Verdes Estates CA 90274-1272,,,False,tested,Palos Verdes Estates,Los Angeles County,33.801567999999996,-118.396643,
+Wiseburn Unified,Peter Burnett Elementary,5403 W. 138th St.  Hawthorne CA 90250,,,False,tested,Hawthorne,Los Angeles County,33.906625,-118.374372,

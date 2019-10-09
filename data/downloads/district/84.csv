@@ -1,10 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Brea-Olinda Unified,Arovista Elementary,900 Eadington Drive Brea CA 92821-5298,NA,NA,FALSE,tested,Brea,Orange County,33.913696,-117.911997
-Brea-Olinda Unified,Brea Canyon High (Continuation),689 North Wildcat Way Brea CA 92821-7400,6,ppb,TRUE,tested,Brea,Orange County,33.92958,-117.875186
-Brea-Olinda Unified,Brea Country Hills Elementary,150 North Associated Road Brea CA 92821-4669,17,ppb,TRUE,tested,Brea,Orange County,33.920472,-117.873107
-Brea-Olinda Unified,Brea Junior High,400 North Brea Boulevard Brea CA 92821-3399,14,ppb,TRUE,tested,Brea,Orange County,33.92631,-117.894576
-Brea-Olinda Unified,Brea-Olinda High,789 North Wildcat Way Brea CA 92821-7400,NA,NA,FALSE,tested,Brea,Orange County,33.931962,-117.875972
-Brea-Olinda Unified,Laurel Elementary,200 South Flower Avenue Brea CA 92821-4944,NA,NA,FALSE,tested,Brea,Orange County,33.916069,-117.896975
-Brea-Olinda Unified,Mariposa Elementary,1111 West Mariposa Drive Brea CA 92821-2599,NA,NA,FALSE,tested,Brea,Orange County,33.935145,-117.896934
-Brea-Olinda Unified,Olinda Elementary,3145 East Birch Street Brea CA 92821-6250,NA,NA,FALSE,tested,Brea,Orange County,33.919475,-117.853967
-Brea-Olinda Unified,William E. Fanning Elementary,650 North Apricot Brea CA 92821-3501,NA,NA,FALSE,tested,Brea,Orange County,33.928276,-117.887751
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Brea-Olinda Unified,Arovista Elementary,900 Eadington Drive Brea CA 92821-5298,,,False,tested,Brea,Orange County,33.913696,-117.911997,
+Brea-Olinda Unified,Brea Canyon High (Continuation),689 North Wildcat Way Brea CA 92821-7400,6.0,ppb,True,tested,Brea,Orange County,33.92958,-117.87518600000001,6.5
+Brea-Olinda Unified,Brea Country Hills Elementary,150 North Associated Road Brea CA 92821-4669,17.0,ppb,True,tested,Brea,Orange County,33.920472,-117.873107,17.0
+Brea-Olinda Unified,Brea Junior High,400 North Brea Boulevard Brea CA 92821-3399,14.0,ppb,True,tested,Brea,Orange County,33.92631,-117.894576,14.0
+Brea-Olinda Unified,Brea-Olinda High,789 North Wildcat Way Brea CA 92821-7400,,,False,tested,Brea,Orange County,33.931962,-117.87597199999999,
+Brea-Olinda Unified,Laurel Elementary,200 South Flower Avenue Brea CA 92821-4944,,,False,tested,Brea,Orange County,33.916069,-117.896975,
+Brea-Olinda Unified,Mariposa Elementary,1111 West Mariposa Drive Brea CA 92821-2599,,,False,tested,Brea,Orange County,33.935145,-117.896934,
+Brea-Olinda Unified,Olinda Elementary,3145 East Birch Street Brea CA 92821-6250,,,False,tested,Brea,Orange County,33.919475,-117.853967,
+Brea-Olinda Unified,William E. Fanning Elementary,650 North Apricot Brea CA 92821-3501,,,False,tested,Brea,Orange County,33.928276000000004,-117.887751,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sanger Unified,Del Rey Elementary,10620 Morro Street Del Rey CA 93616-0068,NA,NA,FALSE,tested,Del Rey,Fresno County,36.656757,-119.597009
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Private,The Winston School,215 Ninth Street Del Mar CA 92014,,,False,tested,Del Mar,San Diego County,32.952343,-117.26389099999999,

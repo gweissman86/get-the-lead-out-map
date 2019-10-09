@@ -1,15 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Santa Rosa High,Elsie Allen High,599 Bellevue Ave Santa Rosa CA 95407-7713,7.2,ppb,TRUE,tested,Santa Rosa,Sonoma County,38.404328,-122.734962
-Santa Rosa High,Grace High,1700 Fulton Road Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
-Santa Rosa High,Herbert Slater Middle,3500 Sonoma Avenue Santa Rosa CA 95405-5414,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.448451,-122.67303
-Santa Rosa High,Hilliard Comstock Middle,2750 West Steele Ln Santa Rosa CA 95403-3299,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.459653,-122.747006
-Santa Rosa High,Lawrence Cook Middle,2480 Sebastopol Rd Santa Rosa CA 95407-6728,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.426506,-122.746874
-Santa Rosa High,Maria Carrillo High,6975 Montecito Boulevard Santa Rosa CA 95409-2787,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.479936,-122.659649
-Santa Rosa High,Mesa High,1235 Mendocino Avenue Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.451894,-122.717564
-Santa Rosa High,Montgomery High,1250 Hahman Drive Santa Rosa CA 95405-6934,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.441091,-122.685192
-Santa Rosa High,Piner High,1700 Fulton Rd. Santa Rosa CA 95403-1815,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.45999,-122.769542
-Santa Rosa High,Ridgway High (Continuation),325 Ridgway Avenue Santa Rosa CA 95401-4334,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.449689,-122.722439
-Santa Rosa High,Rincon Valley Middle,4650 Badger Road Santa Rosa CA 95409-2699,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.482084,-122.672222
-Santa Rosa High,Santa Rosa Accelerated Charter,4650 Badger Rd. Santa Rosa CA 95409-2633,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.48108,-122.671347
-Santa Rosa High,Santa Rosa High,1235 Mendocino Ave Santa Rosa CA 95401-4312,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.451894,-122.717564
-Santa Rosa High,Santa Rosa Middle,500 E Street Santa Rosa CA 95404-4373,NA,NA,NA,not tested,Santa Rosa,Sonoma County,38.444909,-122.710804
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Santa Rosa High,Elsie Allen High,599 Bellevue Ave Santa Rosa CA 95407-7713,7.2,ppb,True,tested,Santa Rosa,Sonoma County,38.404328,-122.73496200000001,7.2
+Santa Rosa High,Grace High,1700 Fulton Road Santa Rosa CA 95403-1815,,,,not tested,Santa Rosa,Sonoma County,38.459990000000005,-122.76954199999999,
+Santa Rosa High,Herbert Slater Middle,3500 Sonoma Avenue Santa Rosa CA 95405-5414,,,,not tested,Santa Rosa,Sonoma County,38.448451,-122.67303000000001,
+Santa Rosa High,Hilliard Comstock Middle,2750 West Steele Ln Santa Rosa CA 95403-3299,,,,not tested,Santa Rosa,Sonoma County,38.459653,-122.747006,
+Santa Rosa High,Lawrence Cook Middle,2480 Sebastopol Rd Santa Rosa CA 95407-6728,,,,not tested,Santa Rosa,Sonoma County,38.426505999999996,-122.746874,
+Santa Rosa High,Maria Carrillo High,6975 Montecito Boulevard Santa Rosa CA 95409-2787,,,False,tested,Santa Rosa,Sonoma County,38.479936,-122.659649,
+Santa Rosa High,Mesa High,1235 Mendocino Avenue Santa Rosa CA 95401-4312,,,,not tested,Santa Rosa,Sonoma County,38.451894,-122.717564,
+Santa Rosa High,Montgomery High,1250 Hahman Drive Santa Rosa CA 95405-6934,,,,not tested,Santa Rosa,Sonoma County,38.441091,-122.68519199999999,
+Santa Rosa High,Piner High,1700 Fulton Rd. Santa Rosa CA 95403-1815,,,,not tested,Santa Rosa,Sonoma County,38.459990000000005,-122.76954199999999,
+Santa Rosa High,Ridgway High (Continuation),325 Ridgway Avenue Santa Rosa CA 95401-4334,,,False,tested,Santa Rosa,Sonoma County,38.449689,-122.722439,
+Santa Rosa High,Rincon Valley Middle,4650 Badger Road Santa Rosa CA 95409-2699,,,,not tested,Santa Rosa,Sonoma County,38.482084,-122.67222199999999,
+Santa Rosa High,Santa Rosa Accelerated Charter,4650 Badger Rd. Santa Rosa CA 95409-2633,,,False,tested,Santa Rosa,Sonoma County,38.48108,-122.671347,
+Santa Rosa High,Santa Rosa High,1235 Mendocino Ave Santa Rosa CA 95401-4312,,,,not tested,Santa Rosa,Sonoma County,38.451894,-122.717564,
+Santa Rosa High,Santa Rosa Middle,500 E Street Santa Rosa CA 95404-4373,,,,not tested,Santa Rosa,Sonoma County,38.444909,-122.71080400000001,

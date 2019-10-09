@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Benito County Office of Education,Pinnacles Community School,3230 Southside Road Hollister CA 95023-9174,NA,NA,FALSE,tested,NA,San Benito County,36.817835,-121.387802
-San Benito County Office of Education,San Benito County Juvenile Hall Court,708 Flynn Road Hollister CA 95023,NA,NA,FALSE,tested,NA,San Benito County,36.882193,-121.415057
-San Benito County Office of Education,San Benito County Regional Special Education Center,"1011 Line Street, Suite 12 Hollister CA 95023-4589",NA,NA,NA,not tested,Hollister,San Benito County,36.845078,-121.41238
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Benito County Office of Education,Pinnacles Community School,3230 Southside Road Hollister CA 95023-9174,,,False,tested,,San Benito County,36.817834999999995,-121.38780200000001,
+San Benito County Office of Education,San Benito County Juvenile Hall Court,708 Flynn Road Hollister CA 95023,,,False,tested,,San Benito County,36.882193,-121.415057,
+San Benito County Office of Education,San Benito County Regional Special Education Center,"1011 Line Street, Suite 12 Hollister CA 95023-4589",,,,not tested,Hollister,San Benito County,36.845078,-121.41238,

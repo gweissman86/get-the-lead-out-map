@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Miguel Joint Union,Lillian Larsen Elementary,1601 L Street San Miguel CA 93451-9107,NA,NA,FALSE,tested,San Miguel,San Luis Obispo County,35.757123,-120.696725
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Miguel Joint Union,Lillian Larsen Elementary,1601 L Street San Miguel CA 93451-9107,,,False,tested,San Miguel,San Luis Obispo County,35.757123,-120.696725,

@@ -1,7 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sequoia Union High,Carlmont High,1400 Alameda de Las Pulgas Belmont CA 94002-3585,NA,NA,FALSE,tested,Belmont,San Mateo County,37.505105,-122.288643
-Belmont-Redwood Shores Elementary,Central Elementary,525 Middle Road Belmont CA 94002-2130,NA,NA,NA,not tested,Belmont,San Mateo County,37.523753,-122.282387
-Belmont-Redwood Shores Elementary,Cipriani Elementary,2525 Buena Vista Belmont CA 94002-1454,NA,NA,FALSE,tested,Belmont,San Mateo County,37.515966,-122.306447
-Belmont-Redwood Shores Elementary,Fox Elementary,3100 Saint James Road Belmont CA 94002-2956,NA,NA,NA,not tested,Belmont,San Mateo County,37.507815,-122.321761
-Belmont-Redwood Shores Elementary,Nesbit Elementary,500 Biddulph Way Belmont CA 94002-2711,NA,NA,NA,not tested,Belmont,San Mateo County,37.525707,-122.274586
-Belmont-Redwood Shores Elementary,Ralston Intermediate,2675 Ralston Avenue Belmont CA 94002-1216,NA,NA,NA,not tested,Belmont,San Mateo County,37.515114,-122.283848
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Bellflower Unified,Bellflower High,15301 South McNab Avenue Bellflower CA 90706-4101,8.9,ppb,True,tested,Bellflower,Los Angeles County,33.894294,-118.11483500000001,8.9
+Bellflower Unified,Ernie Pyle Elementary,14500 South Woodruff Avenue Bellflower CA 90706-3237,15.0,ppb,True,tested,Bellflower,Los Angeles County,33.899974,-118.11626799999999,15.0
+Bellflower Unified,Frank E. Woodruff Elementary,15332 South Eucalyptus Street Bellflower CA 90706-3706,13.0,ppb,True,tested,Bellflower,Los Angeles County,33.893737,-118.121197,13.0
+Bellflower Unified,Las Flores Home Education Independent Study Academy,10039 East Palm Street Bellflower CA 90706-6013,8.4,ppb,True,tested,Bellflower,Los Angeles County,33.876921,-118.119354,8.4
+Bellflower Unified,Ramona Elementary,9351 East Laurel Street Bellflower CA 90706-5615,,,False,tested,Bellflower,Los Angeles County,33.883109999999995,-118.13446599999999,
+Bellflower Unified,Somerset Continuation High,9242 East Laurel Street Bellflower CA 90706-7607,,,False,tested,Bellflower,Los Angeles County,33.882754,-118.136777,
+Bellflower Unified,Thomas Jefferson Elementary,10027 East Rose Street Bellflower CA 90706-6916,,,False,tested,Bellflower,Los Angeles County,33.869929,-118.12001799999999,
+Bellflower Unified,Washington Elementary,9725 East Jefferson Street Bellflower CA 90706-3615,,,False,tested,Bellflower,Los Angeles County,33.893294,-118.126927,

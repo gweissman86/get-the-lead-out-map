@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Tipton Elementary,Tipton Elementary,370 North Evans Road Tipton CA 93272-9400,NA,NA,FALSE,tested,NA,Tulare County,36.063176,-119.309214
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Tipton Elementary,Tipton Elementary,370 North Evans Road Tipton CA 93272-9400,,,False,tested,,Tulare County,36.063176,-119.30921399999998,

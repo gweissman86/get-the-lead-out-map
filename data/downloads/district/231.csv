@@ -1,17 +1,17 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Etiwanda Elementary,Carleton P. Lightfoot Elementary,6989 Kenyon Way Alta Loma CA 91701-8605,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.1275,-117.550423
-Etiwanda Elementary,Caryn Elementary,6290 Sierra Crest View Loop Alta Loma CA 91737-7960,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.141107,-117.551064
-Etiwanda Elementary,Cecilia Lucero Solorio Elementary,15172 Walnut Street Fontana CA 92336-4450,8.3,ppb,TRUE,tested,Fontana,San Bernardino County,34.128676,-117.46984
-Etiwanda Elementary,David W. Long Elementary,5383 Bridlepath Drive Fontana CA 92236-0690,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.153477,-117.483701
-Etiwanda Elementary,Day Creek Intermediate,12345 Coyote Drive Etiwanda CA 91739-9031,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.153947,-117.536385
-Etiwanda Elementary,East Heritage Elementary,14250 East Constitution Way Fontana CA 92336-3785,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.111906,-117.497289
-Etiwanda Elementary,Etiwanda Colony Elementary,13144 Banyan Street Etiwanda CA 91739-9543,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.143323,-117.518858
-Etiwanda Elementary,Etiwanda Intermediate,6925 Etiwanda Avenue Etiwanda CA 91739-8714,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.127947,-117.523406
-Etiwanda Elementary,Grapeland Elementary,7171 Etiwanda Avenue Etiwanda CA 91739-9714,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.123694,-117.522304
-Etiwanda Elementary,Heritage Intermediate,13766 South Heritage Circle Fontana CA 92336-2959,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.121365,-117.496649
-Etiwanda Elementary,John L. Golden Elementary,12400 Banyan Street Etiwanda CA 91739-9402,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.143317,-117.531532
-Etiwanda Elementary,Perdew Elementary,13051 Miller Avenue Etiwanda CA 91739-9657,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.113227,-117.520562
-Etiwanda Elementary,Summit Intermediate,5959 East Avenue Etiwanda CA 91739-2217,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.135872,-117.514482
-Etiwanda Elementary,Terra Vista Elementary,7497 Mountain View Drive Rancho Cucamonga CA 91730-7274,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.117191,-117.55085
-Etiwanda Elementary,West Heritage Elementary,13690 West Constitution Way Fontana CA 92336-3884,NA,NA,FALSE,tested,Fontana,San Bernardino County,34.112473,-117.506208
-Etiwanda Elementary,Windrows Elementary,6855 Victoria Park Lane Etiwanda CA 91739-0248,5.2,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.127249,-117.530006
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Etiwanda Elementary,Carleton P. Lightfoot Elementary,6989 Kenyon Way Alta Loma CA 91701-8605,,,False,tested,Rancho Cucamonga,San Bernardino County,34.1275,-117.550423,
+Etiwanda Elementary,Caryn Elementary,6290 Sierra Crest View Loop Alta Loma CA 91737-7960,,,False,tested,Rancho Cucamonga,San Bernardino County,34.141107,-117.551064,
+Etiwanda Elementary,Cecilia Lucero Solorio Elementary,15172 Walnut Street Fontana CA 92336-4450,8.3,ppb,True,tested,Fontana,San Bernardino County,34.128676,-117.46983999999999,8.3
+Etiwanda Elementary,David W. Long Elementary,5383 Bridlepath Drive Fontana CA 92236-0690,,,False,tested,Fontana,San Bernardino County,34.153477,-117.483701,
+Etiwanda Elementary,Day Creek Intermediate,12345 Coyote Drive Etiwanda CA 91739-9031,,,False,tested,Rancho Cucamonga,San Bernardino County,34.153946999999995,-117.53638500000001,
+Etiwanda Elementary,East Heritage Elementary,14250 East Constitution Way Fontana CA 92336-3785,,,False,tested,Fontana,San Bernardino County,34.111906,-117.497289,
+Etiwanda Elementary,Etiwanda Colony Elementary,13144 Banyan Street Etiwanda CA 91739-9543,,,False,tested,Rancho Cucamonga,San Bernardino County,34.143322999999995,-117.51885800000001,
+Etiwanda Elementary,Etiwanda Intermediate,6925 Etiwanda Avenue Etiwanda CA 91739-8714,,,False,tested,Rancho Cucamonga,San Bernardino County,34.127947,-117.52340600000001,
+Etiwanda Elementary,Grapeland Elementary,7171 Etiwanda Avenue Etiwanda CA 91739-9714,,,False,tested,Rancho Cucamonga,San Bernardino County,34.123694,-117.522304,
+Etiwanda Elementary,Heritage Intermediate,13766 South Heritage Circle Fontana CA 92336-2959,,,False,tested,Fontana,San Bernardino County,34.121365000000004,-117.496649,
+Etiwanda Elementary,John L. Golden Elementary,12400 Banyan Street Etiwanda CA 91739-9402,,,False,tested,Rancho Cucamonga,San Bernardino County,34.143316999999996,-117.53153200000001,
+Etiwanda Elementary,Perdew Elementary,13051 Miller Avenue Etiwanda CA 91739-9657,,,False,tested,Rancho Cucamonga,San Bernardino County,34.113227,-117.52056200000001,
+Etiwanda Elementary,Summit Intermediate,5959 East Avenue Etiwanda CA 91739-2217,,,False,tested,Rancho Cucamonga,San Bernardino County,34.135872,-117.514482,
+Etiwanda Elementary,Terra Vista Elementary,7497 Mountain View Drive Rancho Cucamonga CA 91730-7274,,,False,tested,Rancho Cucamonga,San Bernardino County,34.117191,-117.55085,
+Etiwanda Elementary,West Heritage Elementary,13690 West Constitution Way Fontana CA 92336-3884,,,False,tested,Fontana,San Bernardino County,34.112473,-117.506208,
+Etiwanda Elementary,Windrows Elementary,6855 Victoria Park Lane Etiwanda CA 91739-0248,5.2,ppb,True,tested,Rancho Cucamonga,San Bernardino County,34.127249,-117.530006,5.2

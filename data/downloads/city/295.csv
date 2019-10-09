@@ -1,5 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Central Union Elementary,Akers Elementary,Constellation Avenue N.A.S. Lemoore CA 93245-0001,NA,NA,NA,not tested,Lemoore,Kings County,36.263877,-119.875215
-Lemoore Union Elementary,Lemoore University Elementary Charter,450 Marsh Drive Lemoore CA 93245,7.3,ppb,TRUE,tested,Lemoore,Kings County,36.291858,-119.828138
-Lemoore Union Elementary,Meadow Lane Elementary,Meadow Lane and Quandt Lemoore CA 93245-3418,5.3,ppb,TRUE,tested,Lemoore,Kings County,36.318699,-119.778743
-Central Union Elementary,R. J. Neutra,Community Center Drive N.A.S. Lemoore CA 93245-0001,NA,NA,NA,not tested,Lemoore,Kings County,36.263907,-119.875106
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lemon Grove,Lemon Grove Academy Elementary,7885 Golden Avenue Lemon Grove CA 91945,,,False,tested,Lemon Grove,San Diego County,32.741848,-117.02845900000001,
+Lemon Grove,Lemon Grove Academy for the Sciences and Humanities,7866 Lincoln Street Lemon Grove CA 91945-2542,,,False,tested,Lemon Grove,San Diego County,32.738225,-117.029315,
+San Diego County Office of Education,Literacy First Charter School Liberty High School,8425 Palm St. Lemon Grove CA 91945,,,False,tested,Lemon Grove,San Diego County,32.734553000000005,-117.01996399999999,
+Lemon Grove,Monterey Heights Elementary,7550 Canton Drive Lemon Grove CA 91945-2515,,,False,tested,Lemon Grove,San Diego County,32.722212,-117.033496,
+Lemon Grove,Mt. Vernon Elementary,8350 Mount Vernon Street Lemon Grove CA 91945-3336,,,False,tested,Lemon Grove,San Diego County,32.731928,-117.02044699999999,
+Lemon Grove,San Altos Elementary,1750 Madera Street Lemon Grove CA 91945-2515,,,False,tested,Lemon Grove,San Diego County,32.726681,-117.042671,
+Lemon Grove,San Miguel Elementary,7059 San Miguel Avenue Lemon Grove CA 91945-2515,,,False,tested,Lemon Grove,San Diego County,32.735110999999996,-117.04553600000001,
+Private,St. John of the Cross School,8175 Lemon Grove Way Lemon Grove CA 91945,,,False,tested,Lemon Grove,San Diego County,32.744566999999996,-117.02410400000001,

@@ -1,2 +1,21 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paradise Unified,Cedarwood Elementary,6400 Columbine Rd Magalia CA 95954-9152,6.62,ppb,TRUE,tested,Magalia,Butte County,39.853002,-121.596351
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Madera Unified,Alpha Elementary,900 Stadium Road Madera CA 93637-5700,,,,not tested,Madera,Madera County,36.950115999999994,-120.06508899999999,
+Private,Crossroads Christian School,17755 Road 26 Madera CA 93638,,,False,tested,Madera,Madera County,37.039982,-120.07445200000001,
+Madera Unified,Furman (Duane E.) High (Independent Study Program),955 West Pecan Avenue Madera CA 93637-6168,,,,not tested,Madera,Madera County,36.938333,-120.08312,
+Madera Unified,James Madison Elementary,109 Stadium Road Madera CA 93637-5389,,,,not tested,Madera,Madera County,36.950339,-120.064971,
+Madera Unified,James Monroe Elementary,1819 North Lake Street Madera CA 93638-1640,,,,not tested,Madera,Madera County,36.983193,-120.05606399999999,
+Madera Unified,John Adams Elementary,1822 National Avenue Madera CA 93637-4344,,,,not tested,Madera,Madera County,36.958192,-120.08053500000001,
+Madera Unified,John J. Pershing Elementary,1505 East Ellis Street Madera CA 93638-5513,,,,not tested,Madera,Madera County,36.987274,-120.04614,
+Madera Unified,Lincoln Elementary,650 Liberty Lane Madera CA 93637-2687,,,,not tested,Madera,Madera County,36.962651,-120.103583,
+Madera Unified,Madera Adult,955 West Pecan Avenue Madera CA 93637-6206,,,,not tested,Madera,Madera County,36.938333,-120.08312,
+Madera Unified,Madera High,200 South L Street Madera CA 93637-4650,,,,not tested,Madera,Madera County,36.955101,-120.06499299999999,
+Madera Unified,Madera South High,755 West Pecan Avenue Madera CA 93637,,,,not tested,Madera,Madera County,36.938333,-120.08312,
+Madera Unified,Martin Luther King Jr. Middle,601 Lilly Street Madera CA 93638-3903,,,,not tested,Madera,Madera County,36.964288,-120.04714399999999,
+Madera Unified,Millview Elementary,1609 Clinton Street Madera CA 93638-1901,,,,not tested,Madera,Madera County,36.970939,-120.040403,
+Madera Unified,Mountain Vista Educational Center,955 West Pecan Avenue Madera CA 93637-6168,,,,not tested,Madera,Madera County,36.938333,-120.08312,
+Madera Unified,Mountain Vista High,1901 Clinton Avenue Madera CA 93638-1941,,,,not tested,Madera,Madera County,36.972676,-120.038175,
+Madera Unified,Parkwood Elementary,1150 East Pecan Avenue Madera CA 93637-6256,,,,not tested,Madera,Madera County,36.938295000000004,-120.05128400000001,
+Madera Unified,Sherman Thomas Charter,101 West Adell Street Madera CA 93638-0877,,,,not tested,Madera,Madera County,36.982852,-120.070103,
+Madera Unified,Sherman Thomas Charter High,26303 Adell Street Madera CA 93638-0835,,,,not tested,Madera,Madera County,36.984307,-120.03970600000001,
+Madera Unified,Sierra Vista Elementary,917 Olive Avenue Madera CA 93638-4845,,,,not tested,Madera,Madera County,36.952863,-120.068446,
+Madera Unified,Thomas Jefferson Middle,1407 Sunset Avenue Madera CA 93637-2901,,,,not tested,Madera,Madera County,36.960202,-120.076175,

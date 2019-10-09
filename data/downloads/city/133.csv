@@ -1,10 +1,19 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cypress Elementary,A. E. Arnold Elementary,9281 Denni Street Cypress CA 90630-2724,6.55,ppb,TRUE,tested,Cypress,Orange County,33.824705,-118.054602
-Cypress Elementary,Clara J. King Elementary,8710 Moody Street Cypress CA 90630-2220,NA,NA,FALSE,tested,Cypress,Orange County,33.814886,-118.04551
-Anaheim Union High,Cypress High,9801 Valley View Street Cypress CA 90630-3994,6,ppb,TRUE,tested,Cypress,Orange County,33.819547,-118.028229
-Private,Del Sol School,5340 Myra Avenue Cypress CA 90630,NA,NA,FALSE,tested,Cypress,Orange County,33.814869,-118.039971
-Cypress Elementary,Frank Vessels Elementary,5900 Cathy Ave Cypress CA 90630-4615,9.9,ppb,TRUE,tested,Cypress,Orange County,33.81166,-118.030091
-Cypress Elementary,Juliet Morris Elementary,9952 Graham Street Cypress CA 90630-3815,5.8,ppb,TRUE,tested,Cypress,Orange County,33.818178,-118.034526
-Anaheim Union High,Lexington Junior High,4351 Orange Avenue Cypress CA 90630-2799,NA,NA,FALSE,tested,Cypress,Orange County,33.824227,-118.057046
-Cypress Elementary,Margaret Landell Elementary,9739 Denni Street Cypress CA 90630-3447,NA,NA,NA,not tested,Cypress,Orange County,33.819769,-118.054527
-Anaheim Union High,Oxford Academy,5172 Orange Avenue Cypress CA 90630-2921,NA,NA,FALSE,tested,Cypress,Orange County,33.822275,-118.042542
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Cupertino Union,Abraham Lincoln Elementary,21710 McClellan Road Cupertino CA 95014-4054,6.3,ppb,True,tested,Cupertino,Santa Clara County,37.314944,-122.054056,6.3
+Cupertino Union,C. B. Eaton Elementary,20220 Suisun Drive Cupertino CA 95014-4428,,,False,tested,Cupertino,Santa Clara County,37.314792,-122.02618999999999,
+Fremont Union High,Cupertino High,10100 Finch Avenue Cupertino CA 95014-3411,,,False,tested,Cupertino,Santa Clara County,37.320762,-122.008954,
+Cupertino Union,Cupertino Middle,1650 South Bernardo Avenue Sunnyvale CA 94087-5256,,,False,tested,Cupertino,Santa Clara County,37.340076,-122.058104,
+Cupertino Union,Cupertino Middle,1650 South Bernardo Ave. Sunnyvale CA 94087-5256,,,False,tested,Cupertino,Santa Clara County,37.340076,-122.058104,
+Cupertino Union,D. J. Sedgwick Elementary,19200 Phil Lane Cupertino CA 95014-3566,,,,not tested,Cupertino,Santa Clara County,37.31536,-122.00851399999999,
+Cupertino Union,Garden Gate Elementary,10500 Ann Arbor Avenue Cupertino CA 95014-1661,,,False,tested,Cupertino,Santa Clara County,37.331519,-122.044799,
+Fremont Union High,Homestead High,21370 Homestead Road Cupertino CA 95014-0203,,,False,tested,Cupertino,Santa Clara County,37.336411,-122.048019,
+Cupertino Union,John F. Kennedy Middle,821 Bubb Road Cupertino CA 95014-4938,,,,not tested,Cupertino,Santa Clara County,37.310713,-122.05277,
+Cupertino Union,L. P. Collins Elementary,10300 Blaney Avenue Cupertino CA 95014-2332,,,False,tested,Cupertino,Santa Clara County,37.327211,-122.022255,
+Fremont Union High,Monta Vista High,21840 McClellan Road Cupertino CA 95014-4055,,,False,tested,Cupertino,Santa Clara County,37.314912,-122.056727,
+Cupertino Union,Murdock-Portal Elementary,1188 Wunderlich Drive San Jose CA 95129-3163,,,False,tested,Cupertino,Santa Clara County,37.304569,-121.99936699999999,
+Cupertino Union,Sam H. Lawson Middle,10401 Vista Drive Cupertino CA 95014-2081,,,False,tested,Cupertino,Santa Clara County,37.329370000000004,-122.027169,
+Cupertino Union,Stevens Creek Elementary,10300 Ainsworth Drive Cupertino CA 95014-1099,,,False,tested,Cupertino,Santa Clara County,37.327656,-122.063639,
+Cupertino Union,Warren E. Hyde Middle,19325 Bollinger Road Cupertino CA 95014-4657,,,,not tested,Cupertino,Santa Clara County,37.311376,-122.01156499999999,
+Cupertino Union,West Valley Elementary,1635 Belleville Way Sunnyvale CA 94087-3926,,,False,tested,Cupertino,Santa Clara County,37.338896000000005,-122.061049,
+Cupertino Union,William Faria Elementary,10155 Barbara Lane Cupertino CA 95014-2901,,,False,tested,Cupertino,Santa Clara County,37.321259000000005,-122.039905,
+Cupertino Union,William Regnart Elementary,1170 Yorkshire Drive Cupertino CA 95014-4963,,,,not tested,Cupertino,Santa Clara County,37.303977,-122.047389,

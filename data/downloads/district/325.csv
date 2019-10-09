@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hydesville Elementary,Hydesville Elementary,3050 Johnson Road Hydesville CA 95547-0551,7.5,ppb,TRUE,tested,NA,Humboldt County,40.549679,-124.092624
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hydesville Elementary,Hydesville Elementary,3050 Johnson Road Hydesville CA 95547-0551,7.5,ppb,True,tested,,Humboldt County,40.549679,-124.092624,7.5

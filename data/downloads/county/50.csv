@@ -1,113 +1,113 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Vacaville Unified,Adult Education,100-A McClellan Street Vacaville CA 95688-3937,NA,NA,NA,not tested,Vacaville,Solano County,38.358743,-121.983293
-Vacaville Unified,Alamo Elementary,500 South Orchard Avenue Vacaville CA 95688-4334,NA,NA,FALSE,tested,Vacaville,Solano County,38.352851,-122.001698
-Vacaville Unified,Alternative Cooperative Education Charter,400 Hemlock St. Vacaville CA 95688-2616,NA,NA,NA,not tested,Vacaville,Solano County,38.364589,-122.003501
-Dixon Unified,Anderson (Linford L.) Elementary,415 East C Street Dixon CA 95620-2798,NA,NA,FALSE,tested,Dixon,Solano County,38.447567,-121.818387
-Fairfield-Suisun Unified,Angelo Rodriguez High,5000 Red Top Road Fairfield CA 94534-9527,63.4,ppb,TRUE,tested,Fairfield,Solano County,38.199662,-122.145091
-Fairfield-Suisun Unified,Anna Kyle Elementary,1600 Kidder Avenue Fairfield CA 94533-3914,NA,NA,FALSE,tested,Fairfield,Solano County,38.258928,-122.029076
-Vallejo City Unified,Annie Pennycook Elementary,3620 Fernwood Drive Vallejo CA 94591-6648,NA,NA,FALSE,tested,Vallejo,Solano County,38.099081,-122.211987
-Fairfield-Suisun Unified,Armijo High,824 Washington Street Fairfield CA 94533-5541,NA,NA,FALSE,tested,Fairfield,Solano County,38.251636,-122.036713
-Fairfield-Suisun Unified,B. Gale Wilson Elementary,3301 Cherry Hills Court Fairfield CA 94534-7146,NA,NA,FALSE,tested,Fairfield,Solano County,38.271353,-122.081216
-Benicia Unified,Benicia High,1101 Military West Benicia CA 94510-2428,NA,NA,NA,not tested,NA,Solano County,38.064203,-122.175536
-Benicia Unified,Benicia Middle,1100 Southampton Road Benicia CA 94510-1725,NA,NA,NA,not tested,NA,Solano County,38.069572,-122.175397
-Vallejo City Unified,Beverly Hills Elementary,1450 Coronel Avenue Vallejo CA 94591-7921,NA,NA,FALSE,tested,Vallejo,Solano County,38.087218,-122.224484
-Vacaville Unified,Browns Valley Elementary,333 Wretham Drive Vacaville CA 95688-9290,NA,NA,FALSE,tested,Vacaville,Solano County,38.382929,-121.982531
-Dixon Unified,C. A. Jacobs Intermediate,200 North Lincoln Street Dixon CA 95620-3209,NA,NA,FALSE,tested,Dixon,Solano County,38.446529,-121.836271
-Travis Unified,Cambridge Elementary,100 Cambridge Drive Vacaville CA 95687-6900,NA,NA,NA,not tested,Vacaville,Solano County,38.33321,-121.952134
-Vallejo City Unified,Cave Language Academy,770 Tregaskis Avenue Vallejo CA 94591-4804,NA,NA,FALSE,tested,Vallejo,Solano County,38.107876,-122.222577
-Travis Unified,Center Elementary,3101 Markeley Ln Fairfield CA 94533-6676,NA,NA,NA,not tested,Fairfield,Solano County,38.283295,-121.96803
-Fairfield-Suisun Unified,Cleo Gordon Elementary,1950 Dover Avenue Fairfield CA 94533-2345,NA,NA,FALSE,tested,Fairfield,Solano County,38.266309,-122.023415
-Benicia Unified,Community Day,426 East K Street Benicia CA 94510,NA,NA,NA,not tested,NA,Solano County,38.049727,-122.149154
-Vacaville Unified,Cooper Elementary,750 Christine Drive Vacaville CA 95687-4163,NA,NA,FALSE,tested,Vacaville,Solano County,38.355046,-121.94699
-Fairfield-Suisun Unified,Cordelia Hills Elementary,4770 Canyon Hills Drive Fairfield CA 94534-6449,11.3,ppb,TRUE,tested,Fairfield,Solano County,38.169993,-122.13222
-Vacaville Unified,Country High,100-B McClellan Street Vacaville CA 95688-3937,6.2,ppb,TRUE,tested,Vacaville,Solano County,38.358743,-121.983293
-Fairfield-Suisun Unified,Crescent Elementary,1001 Anderson Drive Suisun CA 94585,NA,NA,FALSE,tested,Suisun City,Solano County,38.24156,-122.014977
-Fairfield-Suisun Unified,Crystal Middle,400 Whispering Bay Lane Suisun City CA 94585-2862,NA,NA,FALSE,tested,Suisun City,Solano County,38.240073,-122.032826
-River Delta Joint Unified,D. H. White School,500 Elm Way Rio Vista CA 94571-1304,NA,NA,FALSE,tested,Rio Vista,Solano County,38.165472,-121.694677
-Vallejo City Unified,Dan Mini Elementary,1530 Lorenzo Drive Vallejo CA 94589-1614,NA,NA,FALSE,tested,Vallejo,Solano County,38.149435,-122.259672
-Fairfield-Suisun Unified,Dan O. Root Elementary,820 Harrier Drive Suisun City CA 94585-3064,8.7,ppb,TRUE,tested,Suisun City,Solano County,38.250184,-121.996099
-Dixon Unified,Dixon High,555 College Way Dixon CA 95620-9301,NA,NA,FALSE,tested,Dixon,Solano County,38.435601,-121.815997
-Dixon Unified,Dixon Montessori Charter,355 North Almond Street Dixon CA 95620-2702,NA,NA,FALSE,tested,Dixon,Solano County,38.448449,-121.8317
-Fairfield-Suisun Unified,Dover Academy,301 East Alaska Avenue Fairfield CA 94533-2222,NA,NA,FALSE,tested,Fairfield,Solano County,38.272008,-122.029796
-Fairfield-Suisun Unified,E. Ruth Sheldon Academy of Innovative Learning,1901 Woolner Avenue Fairfield CA 94533-5809,NA,NA,FALSE,tested,Fairfield,Solano County,38.244199,-122.06366
-Fairfield-Suisun Unified,Edge Christian Academy,1101 Horizon Dr. Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.275848,-122.010602
-Vacaville Unified,Edwin Markham Elementary,101 Markham Avenue Vacaville CA 95688-2312,6,ppb,TRUE,tested,Vacaville,Solano County,38.370765,-121.977633
-Vacaville Unified,Elise P. Buckingham Charter Magnet High,188-B Bella Vista Road Vacaville CA 95687-3719,NA,NA,FALSE,tested,Vacaville,Solano County,38.347989,-121.987699
-Vallejo City Unified,Elsa Widenmann Elementary,100 Whitney Drive Vallejo CA 94589-2194,NA,NA,FALSE,tested,Vallejo,Solano County,38.147462,-122.244341
-Vacaville Unified,Ernest Kimme Charter Academy for Independent Learning,1949 Peabody Road Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.3357,-121.970264
-Vacaville Unified,Eugene Padan Elementary,200 Padan School Road Vacaville CA 95687-5444,NA,NA,FALSE,tested,Vacaville,Solano County,38.340705,-121.983745
-Private,Fairfield Christian School,2075 Dover Avenue Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.269339,-122.02505
-Fairfield-Suisun Unified,Fairfield High,205 East Atlantic Ave Fairfield CA 94533-1626,NA,NA,FALSE,tested,Fairfield,Solano County,38.27467,-122.029623
-Fairfield-Suisun Unified,Fairfield-Suisun Adult,900 Travis Boulevard Fairfield CA 94533,5.29,ppb,TRUE,tested,Fairfield,Solano County,38.259839,-122.044045
-Vacaville Unified,Fairmont Charter Elementary,1355 Marshall Road Vacaville CA 95687-5519,NA,NA,FALSE,tested,Vacaville,Solano County,38.346293,-121.967197
-Fairfield-Suisun Unified,Fairview Elementary,830 First Street Fairfield CA 94533-4724,NA,NA,FALSE,tested,Fairfield,Solano County,38.251502,-122.051215
-Vallejo City Unified,Federal Terrace Elementary,415 Daniels Street Vallejo CA 94590-3040,NA,NA,FALSE,tested,Vallejo,Solano County,38.122703,-122.268136
-Travis Unified,Foxboro Elementary,600 Morning Glory Drive Vacaville CA 95687-5300,NA,NA,NA,not tested,Vacaville,Solano County,38.326433,-121.966739
-Vallejo City Unified,Franklin Middle,501 Starr Avenue Vallejo CA 94590-7154,NA,NA,FALSE,tested,Vallejo,Solano County,38.098399,-122.232087
-Vallejo City Unified,Glen Cove Elementary,501 Glen Cove Parkway Vallejo CA 94591-7537,NA,NA,FALSE,tested,Vallejo,Solano County,38.074469,-122.208037
-Solano County Office of Education,Golden Hills Education Center,2460 Clay Bank Road Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.27358,-122.006437
-Travis Unified,Golden West Middle,2651 De Ronde Drive Fairfield CA 94533-9709,NA,NA,NA,not tested,Fairfield,Solano County,38.277633,-121.960617
-Vallejo City Unified,Grace Patterson Elementary,1080 Porter Street Vallejo CA 94590-7742,NA,NA,FALSE,tested,Vallejo,Solano County,38.080174,-122.23842
-Fairfield-Suisun Unified,Grange Middle,1975 Blossom Avenue Fairfield CA 94533-8010,5.48,ppb,TRUE,tested,Fairfield,Solano County,38.263849,-122.01661
-Fairfield-Suisun Unified,Green Valley Middle,1350 Gold Hill Road Fairfield CA 94534-6422,NA,NA,FALSE,tested,Fairfield,Solano County,38.175745,-122.138778
-Dixon Unified,Gretchen Higgins Elementary,1525 Pembroke Way Dixon CA 95620-4115,NA,NA,FALSE,tested,Dixon,Solano County,38.461792,-121.828751
-Vallejo City Unified,Griffin Academy,425 Corcoran Ave Vallejo CA 94589,11,ppb,TRUE,tested,Vallejo,Solano County,38.148544,-122.248546
-Fairfield-Suisun Unified,H. Glenn Richardson,1069 Meadowlark Dr Fairfield CA 94533-2460,5.05,ppb,TRUE,tested,Fairfield,Solano County,38.267403,-122.01362
-Vacaville Unified,Hemlock Elementary,400 Hemlock Street Vacaville CA 95688-2616,13,ppb,TRUE,tested,Vacaville,Solano County,38.364589,-122.003501
-Vallejo City Unified,Highland Elementary,1309 Ensign Avenue Vallejo CA 94590-3949,NA,NA,FALSE,tested,Vallejo,Solano County,38.11466,-122.234412
-Vallejo City Unified,Hogan Middle,850 Rosewood Avenue Vallejo CA 94591-5647,NA,NA,FALSE,tested,Vallejo,Solano County,38.101394,-122.215774
-Private,Holy Spirit Elementary,1050 North Texas Street Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.249315,-122.046561
-Solano County Office of Education,Irene Larsen Center,1707 California Drive Vacaville CA 95687,NA,NA,FALSE,tested,Vacaville,Solano County,38.333377,-121.977052
-Vacaville Unified,Jean Callison Elementary,6261 Vanden Road Vacaville CA 95687-7294,NA,NA,FALSE,tested,Vacaville,Solano County,38.340241,-121.94298
-Vallejo City Unified,Jesse M. Bethel High,1800 Ascot Parkway Vallejo CA 94591-8367,NA,NA,FALSE,tested,Vallejo,Solano County,38.119967,-122.207469
-Benicia Unified,Joe Henderson Elementary,650 Hastings Drive Benicia CA 94510-1312,NA,NA,NA,not tested,NA,Solano County,38.080357,-122.171815
-Vallejo City Unified,John Finney High (Continuation),233 Hobbs Avenue Vallejo CA 94589-2325,NA,NA,FALSE,tested,Vallejo,Solano County,38.13287,-122.249096
-Vallejo City Unified,Johnston Cooper Elementary,612 Del Mar Street Vallejo CA 94589-2605,NA,NA,FALSE,tested,Vallejo,Solano County,38.126692,-122.239435
-Vallejo City Unified,Joseph H. Wardlaw Elementary,1698 Oakwood Avenue Vallejo CA 94591-4145,NA,NA,FALSE,tested,Vallejo,Solano County,38.11786,-122.210894
-Fairfield-Suisun Unified,K. I. Jones Elementary,2001 Winston Drive Fairfield CA 94534-3018,12,ppb,TRUE,tested,Fairfield,Solano County,38.267328,-122.060877
-Vacaville Unified,Kairos Public School Vacaville Academy,129 Elm Street Vacaville CA 95688-6925,NA,NA,FALSE,tested,Vacaville,Solano County,38.35247,-121.990783
-Fairfield-Suisun Unified,Laurel Creek Elementary,2900 Gulf Drive Fairfield CA 94533-8116,5.68,ppb,TRUE,tested,Fairfield,Solano County,38.281799,-122.016632
-Benicia Unified,Liberty High,351 East J Street Benicia CA 94510-3437,NA,NA,NA,not tested,NA,Solano County,38.049963,-122.151636
-Vallejo City Unified,Lincoln Elementary,620 Carolina Street Vallejo CA 94590-5504,NA,NA,FALSE,tested,Vallejo,Solano County,38.104296,-122.254134
-Vallejo City Unified,Loma Vista Environmental Science Academy,146 Rainier Street Vallejo CA 94589-1846,NA,NA,FALSE,tested,Vallejo,Solano County,38.151265,-122.244445
-Dixon Unified,Maine Prairie High (Continuation),305 East C Street Dixon CA 95620-3019,NA,NA,FALSE,tested,Dixon,Solano County,38.447585,-121.819731
-Vallejo City Unified,Mare Island Health and Fitness Academy,400 Rickover Street Vallejo CA 94592-1128,NA,NA,FALSE,tested,Vallejo,Solano County,38.095364,-122.27395
-Vallejo City Unified,Mare Island Technology Academy,2 Positive Place Vallejo CA 94589-1825,NA,NA,FALSE,tested,Vallejo,Solano County,38.149508,-122.244219
-Fairfield-Suisun Unified,Mary Bird,420  East Tabor Avenue Fairfield CA 94533-4002,NA,NA,FALSE,tested,Fairfield,Solano County,38.265608,-122.029869
-Benicia Unified,Mary Farmar Elementary,901 Military West Benicia CA 94510-2558,NA,NA,NA,not tested,NA,Solano County,38.061519,-122.171541
-Fairfield-Suisun Unified,Matt Garcia Career and College Academy,1100 Civic Center Drive Fairfield CA 94533-4806,NA,NA,FALSE,tested,Fairfield,Solano County,38.253705,-122.047406
-Benicia Unified,Matthew Turner Elementary,540 Rose Drive Benicia CA 94510-3761,NA,NA,NA,not tested,NA,Solano County,38.085378,-122.159524
-Fairfield-Suisun Unified,Nelda Mundy Elementary,570 Vintage Valley Drive Fairfield CA 94534-1416,NA,NA,FALSE,tested,Fairfield,Solano County,38.218323,-122.146017
-Fairfield-Suisun Unified,Oakbrook Elementary,700 Oakbrook Drive Fairfield CA 94534-6841,NA,NA,FALSE,tested,Fairfield,Solano County,38.191895,-122.143415
-Vacaville Unified,Orchard Elementary,805 North Orchard Avenue Vacaville CA 95688-2138,10,ppb,TRUE,tested,Vacaville,Solano County,38.375458,-122.004471
-Fairfield-Suisun Unified,P3 Academy,650 Parker Road Fairfield CA 94533-9001,14.4,ppb,TRUE,tested,Fairfield,Solano County,38.27222,-121.955055
-Fairfield-Suisun Unified,Public Safety Academy,230 Atlantic Avenue Fairfield CA 94533-1539,7.09,ppb,TRUE,tested,Fairfield,Solano County,38.277185,-122.038794
-River Delta Joint Unified,Rio Vista High,410 South Fourth Street Rio Vista CA 94571-1939,13.6,ppb,TRUE,tested,Rio Vista,Solano County,38.154524,-121.697662
-River Delta Joint Unified,Riverview Middle,525 South Second Street Rio Vista CA 94571-1941,NA,NA,FALSE,tested,Rio Vista,Solano County,38.151801,-121.694517
-Benicia Unified,Robert Semple Elementary,2015 East Third Street Benicia CA 94510-2206,NA,NA,NA,not tested,Benicia,Solano County,38.059083,-122.146949
-Fairfield-Suisun Unified,Rolling Hills Elementary,2025 Fieldcrest Avenue Fairfield CA 94534-7995,NA,NA,FALSE,tested,Fairfield,Solano County,38.2909,-122.041813
-Travis Unified,Scandia Elementary,100 Broadway Street Travis AFB CA 94535-1558,NA,NA,NA,not tested,Fairfield,Solano County,38.275222,-121.945633
-Fairfield-Suisun Unified,Sem Yeto Continuation High,205 East Atlantic Avenue Fairfield CA 94533-1626,NA,NA,NA,not tested,Fairfield,Solano County,38.27467,-122.029623
-Private,Sierra School of Solano County,5416 Holdener Road Elmira CA 95625,15,ppb,TRUE,tested,NA,Solano County,38.35155,-121.907083
-Vacaville Unified,Sierra Vista,301 Bel Air Drive Vacaville CA 95687-6343,5.8,ppb,TRUE,tested,Vacaville,Solano County,38.336541,-121.957502
-Vallejo City Unified,Solano Middle,1025 Corcoran Avenue Vallejo CA 94589-1844,NA,NA,FALSE,tested,Vallejo,Solano County,38.154104,-122.240727
-Vallejo City Unified,Steffan Manor Elementary,815 Cedar Street Vallejo CA 94591-6531,NA,NA,FALSE,tested,Vallejo,Solano County,38.100543,-122.224409
-Fairfield-Suisun Unified,Suisun Elementary,725 Golden Eye Way Suisun City CA 94585-2029,10,ppb,TRUE,tested,Suisun City,Solano County,38.248588,-122.011406
-Fairfield-Suisun Unified,Suisun Valley Elementary,4985 Lambert Road Fairfield CA 94534-9740,NA,NA,FALSE,tested,Fairfield,Solano County,38.288719,-122.116672
-Solano County Office of Education,TC McDaniel School,1895 Woolner Avenue  Fairfield CA 94533,NA,NA,FALSE,tested,Fairfield,Solano County,38.245275,-122.062508
-Fairfield-Suisun Unified,Tolenas Elementary,4500 Tolenas Road Fairfield CA 94533-6615,NA,NA,FALSE,tested,Fairfield,Solano County,38.262683,-121.996937
-Travis Unified,Travis Community Day,2785 De Ronde Drive Fairfield CA 94533,NA,NA,NA,not tested,Fairfield,Solano County,38.28249,-121.960603
-Travis Unified,Travis Education Center,2775 DeRonde Drive Fairfield CA 94533-9710,NA,NA,NA,not tested,Fairfield,Solano County,38.279861,-121.961388
-Travis Unified,Travis Elementary,100 Fairfield Avenue Travis AFB CA 94535-1000,NA,NA,NA,not tested,Fairfield,Solano County,38.280252,-121.948483
-Travis Unified,Travis Independent Study,2751 De Ronde Drive Fairfield CA 94533-9710,NA,NA,NA,not tested,Fairfield,Solano County,38.281294,-121.960602
-Dixon Unified,Tremont Elementary,355 Pheasant Run Drive Dixon CA 95620-4219,NA,NA,FALSE,tested,Dixon,Solano County,38.449063,-121.844312
-Vacaville Unified,Vaca Pena Middle,200 Keith Way Vacaville CA 95687-5189,NA,NA,FALSE,tested,Vacaville,Solano County,38.348631,-121.948153
-Vacaville Unified,Vacaville High,100 Monte Vista Avenue Vacaville CA 95688-3829,5.7,ppb,TRUE,tested,Vacaville,Solano County,38.35906,-121.992102
-Vallejo City Unified,Vallejo Charter,2833 Tennessee Street Vallejo CA 94591-4948,NA,NA,FALSE,tested,Vallejo,Solano County,38.109024,-122.214873
-Vallejo City Unified,Vallejo Education Academy,301 Farragut Avenue Vallejo CA 94590-4309,NA,NA,FALSE,tested,Vallejo,Solano County,38.112186,-122.262333
-Vallejo City Unified,Vallejo High,840 Nebraska Street Vallejo CA 94590-3368,NA,NA,FALSE,tested,Vallejo,Solano County,38.114163,-122.24521
-Vallejo City Unified,Vallejo High School AnnexISP,1347 Amador St Vallejo CA 94590,NA,NA,FALSE,tested,Vallejo,Solano County,38.112665,-122.243388
-Travis Unified,Vanden High,2951 Markeley Lane Fairfield CA 94533-6513,NA,NA,NA,not tested,Fairfield,Solano County,38.282944,-121.961642
-Fairfield-Suisun Unified,Weir Preparatory Academy,1975 Pennsylvania Avenue Fairfield CA 94533-3643,NA,NA,FALSE,tested,Fairfield,Solano County,38.265366,-122.051339
-Vacaville Unified,Will C. Wood High,998 Marshall Road Vacaville CA 95687-5735,NA,NA,FALSE,tested,Vacaville,Solano County,38.346068,-121.975015
-Vacaville Unified,Willis Jepson Middle,580 Elder Street Vacaville CA 95688-2531,NA,NA,FALSE,tested,Vacaville,Solano County,38.362673,-122.007206
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Vacaville Unified,Adult Education,100-A McClellan Street Vacaville CA 95688-3937,,,,not tested,Vacaville,Solano County,38.358743,-121.98329299999999,
+Vacaville Unified,Alamo Elementary,500 South Orchard Avenue Vacaville CA 95688-4334,,,False,tested,Vacaville,Solano County,38.352851,-122.001698,
+Vacaville Unified,Alternative Cooperative Education Charter,400 Hemlock St. Vacaville CA 95688-2616,,,,not tested,Vacaville,Solano County,38.364589,-122.003501,
+Dixon Unified,Anderson (Linford L.) Elementary,415 East C Street Dixon CA 95620-2798,,,False,tested,Dixon,Solano County,38.447567,-121.81838700000002,
+Fairfield-Suisun Unified,Angelo Rodriguez High,5000 Red Top Road Fairfield CA 94534-9527,63.4,ppb,True,tested,Fairfield,Solano County,38.199662,-122.145091,63.4
+Fairfield-Suisun Unified,Anna Kyle Elementary,1600 Kidder Avenue Fairfield CA 94533-3914,,,False,tested,Fairfield,Solano County,38.258928000000004,-122.029076,
+Vallejo City Unified,Annie Pennycook Elementary,3620 Fernwood Drive Vallejo CA 94591-6648,,,False,tested,Vallejo,Solano County,38.099081,-122.21198700000001,
+Fairfield-Suisun Unified,Armijo High,824 Washington Street Fairfield CA 94533-5541,,,False,tested,Fairfield,Solano County,38.251636,-122.03671299999999,
+Fairfield-Suisun Unified,B. Gale Wilson Elementary,3301 Cherry Hills Court Fairfield CA 94534-7146,,,False,tested,Fairfield,Solano County,38.271353000000005,-122.081216,
+Benicia Unified,Benicia High,1101 Military West Benicia CA 94510-2428,,,,not tested,,Solano County,38.064203000000006,-122.17553600000001,
+Benicia Unified,Benicia Middle,1100 Southampton Road Benicia CA 94510-1725,,,,not tested,,Solano County,38.069571999999994,-122.175397,
+Vallejo City Unified,Beverly Hills Elementary,1450 Coronel Avenue Vallejo CA 94591-7921,,,False,tested,Vallejo,Solano County,38.087218,-122.224484,
+Vacaville Unified,Browns Valley Elementary,333 Wretham Drive Vacaville CA 95688-9290,,,False,tested,Vacaville,Solano County,38.382929,-121.98253100000001,
+Dixon Unified,C. A. Jacobs Intermediate,200 North Lincoln Street Dixon CA 95620-3209,,,False,tested,Dixon,Solano County,38.446529,-121.836271,
+Travis Unified,Cambridge Elementary,100 Cambridge Drive Vacaville CA 95687-6900,,,,not tested,Vacaville,Solano County,38.33321,-121.95213400000002,
+Vallejo City Unified,Cave Language Academy,770 Tregaskis Avenue Vallejo CA 94591-4804,,,False,tested,Vallejo,Solano County,38.107876,-122.222577,
+Travis Unified,Center Elementary,3101 Markeley Ln Fairfield CA 94533-6676,,,,not tested,Fairfield,Solano County,38.283295,-121.96803,
+Fairfield-Suisun Unified,Cleo Gordon Elementary,1950 Dover Avenue Fairfield CA 94533-2345,,,False,tested,Fairfield,Solano County,38.266309,-122.02341499999999,
+Benicia Unified,Community Day,426 East K Street Benicia CA 94510,,,,not tested,,Solano County,38.049727000000004,-122.14915400000001,
+Vacaville Unified,Cooper Elementary,750 Christine Drive Vacaville CA 95687-4163,,,False,tested,Vacaville,Solano County,38.355046,-121.94698999999999,
+Fairfield-Suisun Unified,Cordelia Hills Elementary,4770 Canyon Hills Drive Fairfield CA 94534-6449,11.3,ppb,True,tested,Fairfield,Solano County,38.169993,-122.13221999999999,11.3
+Vacaville Unified,Country High,100-B McClellan Street Vacaville CA 95688-3937,6.2,ppb,True,tested,Vacaville,Solano County,38.358743,-121.98329299999999,6.2
+Fairfield-Suisun Unified,Crescent Elementary,1001 Anderson Drive Suisun CA 94585,,,False,tested,Suisun City,Solano County,38.24156,-122.014977,
+Fairfield-Suisun Unified,Crystal Middle,400 Whispering Bay Lane Suisun City CA 94585-2862,,,False,tested,Suisun City,Solano County,38.240072999999995,-122.032826,
+River Delta Joint Unified,D. H. White School,500 Elm Way Rio Vista CA 94571-1304,,,False,tested,Rio Vista,Solano County,38.165471999999994,-121.694677,
+Vallejo City Unified,Dan Mini Elementary,1530 Lorenzo Drive Vallejo CA 94589-1614,,,False,tested,Vallejo,Solano County,38.149435,-122.259672,
+Fairfield-Suisun Unified,Dan O. Root Elementary,820 Harrier Drive Suisun City CA 94585-3064,8.7,ppb,True,tested,Suisun City,Solano County,38.250184000000004,-121.996099,12.0
+Dixon Unified,Dixon High,555 College Way Dixon CA 95620-9301,,,False,tested,Dixon,Solano County,38.435601,-121.815997,
+Dixon Unified,Dixon Montessori Charter,355 North Almond Street Dixon CA 95620-2702,,,False,tested,Dixon,Solano County,38.448449,-121.8317,
+Fairfield-Suisun Unified,Dover Academy,301 East Alaska Avenue Fairfield CA 94533-2222,,,False,tested,Fairfield,Solano County,38.272008,-122.02979599999999,
+Fairfield-Suisun Unified,E. Ruth Sheldon Academy of Innovative Learning,1901 Woolner Avenue Fairfield CA 94533-5809,,,False,tested,Fairfield,Solano County,38.244199,-122.06366000000001,
+Fairfield-Suisun Unified,Edge Christian Academy,1101 Horizon Dr. Fairfield CA 94533,,,False,tested,Fairfield,Solano County,38.275847999999996,-122.010602,
+Vacaville Unified,Edwin Markham Elementary,101 Markham Avenue Vacaville CA 95688-2312,6.0,ppb,True,tested,Vacaville,Solano County,38.370765000000006,-121.97763300000001,6.0
+Vacaville Unified,Elise P. Buckingham Charter Magnet High,188-B Bella Vista Road Vacaville CA 95687-3719,,,False,tested,Vacaville,Solano County,38.347989,-121.98769899999999,
+Vallejo City Unified,Elsa Widenmann Elementary,100 Whitney Drive Vallejo CA 94589-2194,,,False,tested,Vallejo,Solano County,38.147462,-122.24434099999999,
+Vacaville Unified,Ernest Kimme Charter Academy for Independent Learning,1949 Peabody Road Vacaville CA 95687,,,False,tested,Vacaville,Solano County,38.3357,-121.97026399999999,
+Vacaville Unified,Eugene Padan Elementary,200 Padan School Road Vacaville CA 95687-5444,,,False,tested,Vacaville,Solano County,38.340705,-121.983745,
+Private,Fairfield Christian School,2075 Dover Avenue Fairfield CA 94533,,,False,tested,Fairfield,Solano County,38.269339,-122.02505,
+Fairfield-Suisun Unified,Fairfield High,205 East Atlantic Ave Fairfield CA 94533-1626,,,False,tested,Fairfield,Solano County,38.27467,-122.029623,
+Fairfield-Suisun Unified,Fairfield-Suisun Adult,900 Travis Boulevard Fairfield CA 94533,5.29,ppb,True,tested,Fairfield,Solano County,38.259839,-122.044045,5.29
+Vacaville Unified,Fairmont Charter Elementary,1355 Marshall Road Vacaville CA 95687-5519,,,False,tested,Vacaville,Solano County,38.346293,-121.967197,
+Fairfield-Suisun Unified,Fairview Elementary,830 First Street Fairfield CA 94533-4724,,,False,tested,Fairfield,Solano County,38.251502,-122.05121499999998,
+Vallejo City Unified,Federal Terrace Elementary,415 Daniels Street Vallejo CA 94590-3040,,,False,tested,Vallejo,Solano County,38.122703,-122.26813600000001,
+Travis Unified,Foxboro Elementary,600 Morning Glory Drive Vacaville CA 95687-5300,,,,not tested,Vacaville,Solano County,38.326433,-121.96673899999999,
+Vallejo City Unified,Franklin Middle,501 Starr Avenue Vallejo CA 94590-7154,,,False,tested,Vallejo,Solano County,38.098399,-122.232087,
+Vallejo City Unified,Glen Cove Elementary,501 Glen Cove Parkway Vallejo CA 94591-7537,,,False,tested,Vallejo,Solano County,38.074469,-122.208037,
+Solano County Office of Education,Golden Hills Education Center,2460 Clay Bank Road Fairfield CA 94533,,,False,tested,Fairfield,Solano County,38.273579999999995,-122.006437,
+Travis Unified,Golden West Middle,2651 De Ronde Drive Fairfield CA 94533-9709,,,,not tested,Fairfield,Solano County,38.277633,-121.960617,
+Vallejo City Unified,Grace Patterson Elementary,1080 Porter Street Vallejo CA 94590-7742,,,False,tested,Vallejo,Solano County,38.080174,-122.23841999999999,
+Fairfield-Suisun Unified,Grange Middle,1975 Blossom Avenue Fairfield CA 94533-8010,5.48,ppb,True,tested,Fairfield,Solano County,38.263849,-122.01661000000001,5.48
+Fairfield-Suisun Unified,Green Valley Middle,1350 Gold Hill Road Fairfield CA 94534-6422,,,False,tested,Fairfield,Solano County,38.175745,-122.138778,
+Dixon Unified,Gretchen Higgins Elementary,1525 Pembroke Way Dixon CA 95620-4115,,,False,tested,Dixon,Solano County,38.461791999999996,-121.828751,
+Vallejo City Unified,Griffin Academy,425 Corcoran Ave Vallejo CA 94589,11.0,ppb,True,tested,Vallejo,Solano County,38.148544,-122.24854599999999,11.0
+Fairfield-Suisun Unified,H. Glenn Richardson,1069 Meadowlark Dr Fairfield CA 94533-2460,5.05,ppb,True,tested,Fairfield,Solano County,38.267403,-122.01361999999999,5.05
+Vacaville Unified,Hemlock Elementary,400 Hemlock Street Vacaville CA 95688-2616,13.0,ppb,True,tested,Vacaville,Solano County,38.364589,-122.003501,13.0
+Vallejo City Unified,Highland Elementary,1309 Ensign Avenue Vallejo CA 94590-3949,,,False,tested,Vallejo,Solano County,38.11466,-122.234412,
+Vallejo City Unified,Hogan Middle,850 Rosewood Avenue Vallejo CA 94591-5647,,,False,tested,Vallejo,Solano County,38.101394,-122.215774,
+Private,Holy Spirit Elementary,1050 North Texas Street Fairfield CA 94533,,,False,tested,Fairfield,Solano County,38.249315,-122.04656100000001,
+Solano County Office of Education,Irene Larsen Center,1707 California Drive Vacaville CA 95687,,,False,tested,Vacaville,Solano County,38.333377,-121.977052,
+Vacaville Unified,Jean Callison Elementary,6261 Vanden Road Vacaville CA 95687-7294,,,False,tested,Vacaville,Solano County,38.340241,-121.94298,
+Vallejo City Unified,Jesse M. Bethel High,1800 Ascot Parkway Vallejo CA 94591-8367,,,False,tested,Vallejo,Solano County,38.119966999999995,-122.20746899999999,
+Benicia Unified,Joe Henderson Elementary,650 Hastings Drive Benicia CA 94510-1312,,,,not tested,,Solano County,38.080357,-122.171815,
+Vallejo City Unified,John Finney High (Continuation),233 Hobbs Avenue Vallejo CA 94589-2325,,,False,tested,Vallejo,Solano County,38.132870000000004,-122.249096,
+Vallejo City Unified,Johnston Cooper Elementary,612 Del Mar Street Vallejo CA 94589-2605,,,False,tested,Vallejo,Solano County,38.126692,-122.23943500000001,
+Vallejo City Unified,Joseph H. Wardlaw Elementary,1698 Oakwood Avenue Vallejo CA 94591-4145,,,False,tested,Vallejo,Solano County,38.11786,-122.210894,
+Fairfield-Suisun Unified,K. I. Jones Elementary,2001 Winston Drive Fairfield CA 94534-3018,12.0,ppb,True,tested,Fairfield,Solano County,38.267328000000006,-122.060877,12.0
+Vacaville Unified,Kairos Public School Vacaville Academy,129 Elm Street Vacaville CA 95688-6925,,,False,tested,Vacaville,Solano County,38.352470000000004,-121.99078300000001,
+Fairfield-Suisun Unified,Laurel Creek Elementary,2900 Gulf Drive Fairfield CA 94533-8116,5.68,ppb,True,tested,Fairfield,Solano County,38.281799,-122.016632,5.68
+Benicia Unified,Liberty High,351 East J Street Benicia CA 94510-3437,,,,not tested,,Solano County,38.049963,-122.15163600000001,
+Vallejo City Unified,Lincoln Elementary,620 Carolina Street Vallejo CA 94590-5504,,,False,tested,Vallejo,Solano County,38.104296000000005,-122.25413400000001,
+Vallejo City Unified,Loma Vista Environmental Science Academy,146 Rainier Street Vallejo CA 94589-1846,,,False,tested,Vallejo,Solano County,38.151265,-122.244445,
+Dixon Unified,Maine Prairie High (Continuation),305 East C Street Dixon CA 95620-3019,,,False,tested,Dixon,Solano County,38.447585,-121.819731,
+Vallejo City Unified,Mare Island Health and Fitness Academy,400 Rickover Street Vallejo CA 94592-1128,,,False,tested,Vallejo,Solano County,38.095364000000004,-122.27395,
+Vallejo City Unified,Mare Island Technology Academy,2 Positive Place Vallejo CA 94589-1825,,,False,tested,Vallejo,Solano County,38.149508000000004,-122.244219,
+Fairfield-Suisun Unified,Mary Bird,420  East Tabor Avenue Fairfield CA 94533-4002,,,False,tested,Fairfield,Solano County,38.265608,-122.02986899999999,
+Benicia Unified,Mary Farmar Elementary,901 Military West Benicia CA 94510-2558,,,,not tested,,Solano County,38.061519,-122.17154099999999,
+Fairfield-Suisun Unified,Matt Garcia Career and College Academy,1100 Civic Center Drive Fairfield CA 94533-4806,,,False,tested,Fairfield,Solano County,38.253705,-122.04740600000001,
+Benicia Unified,Matthew Turner Elementary,540 Rose Drive Benicia CA 94510-3761,,,,not tested,,Solano County,38.085378000000006,-122.159524,
+Fairfield-Suisun Unified,Nelda Mundy Elementary,570 Vintage Valley Drive Fairfield CA 94534-1416,,,False,tested,Fairfield,Solano County,38.218323,-122.14601699999999,
+Fairfield-Suisun Unified,Oakbrook Elementary,700 Oakbrook Drive Fairfield CA 94534-6841,,,False,tested,Fairfield,Solano County,38.191895,-122.14341499999999,
+Vacaville Unified,Orchard Elementary,805 North Orchard Avenue Vacaville CA 95688-2138,10.0,ppb,True,tested,Vacaville,Solano County,38.375458,-122.004471,10.0
+Fairfield-Suisun Unified,P3 Academy,650 Parker Road Fairfield CA 94533-9001,14.4,ppb,True,tested,Fairfield,Solano County,38.272220000000004,-121.955055,14.4
+Fairfield-Suisun Unified,Public Safety Academy,230 Atlantic Avenue Fairfield CA 94533-1539,7.09,ppb,True,tested,Fairfield,Solano County,38.277184999999996,-122.038794,7.09
+River Delta Joint Unified,Rio Vista High,410 South Fourth Street Rio Vista CA 94571-1939,13.6,ppb,True,tested,Rio Vista,Solano County,38.154524,-121.69766200000001,13.6
+River Delta Joint Unified,Riverview Middle,525 South Second Street Rio Vista CA 94571-1941,,,False,tested,Rio Vista,Solano County,38.151801,-121.69451699999999,
+Benicia Unified,Robert Semple Elementary,2015 East Third Street Benicia CA 94510-2206,,,,not tested,Benicia,Solano County,38.059083,-122.14694899999999,
+Fairfield-Suisun Unified,Rolling Hills Elementary,2025 Fieldcrest Avenue Fairfield CA 94534-7995,,,False,tested,Fairfield,Solano County,38.2909,-122.04181299999999,
+Travis Unified,Scandia Elementary,100 Broadway Street Travis AFB CA 94535-1558,,,,not tested,Fairfield,Solano County,38.275222,-121.945633,
+Fairfield-Suisun Unified,Sem Yeto Continuation High,205 East Atlantic Avenue Fairfield CA 94533-1626,,,,not tested,Fairfield,Solano County,38.27467,-122.029623,
+Private,Sierra School of Solano County,5416 Holdener Road Elmira CA 95625,15.0,ppb,True,tested,,Solano County,38.35155,-121.90708300000001,15.0
+Vacaville Unified,Sierra Vista,301 Bel Air Drive Vacaville CA 95687-6343,5.8,ppb,True,tested,Vacaville,Solano County,38.336541,-121.957502,5.8
+Vallejo City Unified,Solano Middle,1025 Corcoran Avenue Vallejo CA 94589-1844,,,False,tested,Vallejo,Solano County,38.154104,-122.240727,
+Vallejo City Unified,Steffan Manor Elementary,815 Cedar Street Vallejo CA 94591-6531,,,False,tested,Vallejo,Solano County,38.100543,-122.22440900000001,
+Fairfield-Suisun Unified,Suisun Elementary,725 Golden Eye Way Suisun City CA 94585-2029,10.0,ppb,True,tested,Suisun City,Solano County,38.248588,-122.01140600000001,10.0
+Fairfield-Suisun Unified,Suisun Valley Elementary,4985 Lambert Road Fairfield CA 94534-9740,,,False,tested,Fairfield,Solano County,38.288719,-122.116672,
+Solano County Office of Education,TC McDaniel School,1895 Woolner Avenue  Fairfield CA 94533,,,False,tested,Fairfield,Solano County,38.245275,-122.06250800000001,
+Fairfield-Suisun Unified,Tolenas Elementary,4500 Tolenas Road Fairfield CA 94533-6615,,,False,tested,Fairfield,Solano County,38.262683,-121.99693700000002,
+Travis Unified,Travis Community Day,2785 De Ronde Drive Fairfield CA 94533,,,,not tested,Fairfield,Solano County,38.28249,-121.960603,
+Travis Unified,Travis Education Center,2775 DeRonde Drive Fairfield CA 94533-9710,,,,not tested,Fairfield,Solano County,38.279861,-121.96138799999999,
+Travis Unified,Travis Elementary,100 Fairfield Avenue Travis AFB CA 94535-1000,,,,not tested,Fairfield,Solano County,38.280252000000004,-121.94848300000001,
+Travis Unified,Travis Independent Study,2751 De Ronde Drive Fairfield CA 94533-9710,,,,not tested,Fairfield,Solano County,38.281294,-121.96060200000001,
+Dixon Unified,Tremont Elementary,355 Pheasant Run Drive Dixon CA 95620-4219,,,False,tested,Dixon,Solano County,38.449063,-121.84431200000002,
+Vacaville Unified,Vaca Pena Middle,200 Keith Way Vacaville CA 95687-5189,,,False,tested,Vacaville,Solano County,38.348631,-121.948153,
+Vacaville Unified,Vacaville High,100 Monte Vista Avenue Vacaville CA 95688-3829,5.7,ppb,True,tested,Vacaville,Solano County,38.35906,-121.992102,5.7
+Vallejo City Unified,Vallejo Charter,2833 Tennessee Street Vallejo CA 94591-4948,,,False,tested,Vallejo,Solano County,38.109024,-122.214873,
+Vallejo City Unified,Vallejo Education Academy,301 Farragut Avenue Vallejo CA 94590-4309,,,False,tested,Vallejo,Solano County,38.112186,-122.26233300000001,
+Vallejo City Unified,Vallejo High,840 Nebraska Street Vallejo CA 94590-3368,,,False,tested,Vallejo,Solano County,38.114163,-122.24521000000001,
+Vallejo City Unified,Vallejo High School AnnexISP,1347 Amador St Vallejo CA 94590,,,False,tested,Vallejo,Solano County,38.112665,-122.24338799999998,
+Travis Unified,Vanden High,2951 Markeley Lane Fairfield CA 94533-6513,,,,not tested,Fairfield,Solano County,38.282944,-121.961642,
+Fairfield-Suisun Unified,Weir Preparatory Academy,1975 Pennsylvania Avenue Fairfield CA 94533-3643,,,False,tested,Fairfield,Solano County,38.265366,-122.05133899999998,
+Vacaville Unified,Will C. Wood High,998 Marshall Road Vacaville CA 95687-5735,,,False,tested,Vacaville,Solano County,38.346068,-121.97501499999998,
+Vacaville Unified,Willis Jepson Middle,580 Elder Street Vacaville CA 95688-2531,,,False,tested,Vacaville,Solano County,38.362673,-122.00720600000001,

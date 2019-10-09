@@ -1,5 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Dunsmuir Elementary,Dunsmuir Elementary,4760 Siskiyou Avenue Dunsmuir CA 96025-1902,NA,NA,NA,not tested,Dunsmuir,Siskiyou County,41.229696,-122.274381
-Dunsmuir Joint Union High,Dunsmuir High,5805 High School Way Dunsmuir CA 96025-2202,NA,NA,NA,not tested,Dunsmuir,Siskiyou County,41.210414,-122.275896
-Dunsmuir Joint Union High,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",NA,NA,NA,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896
-Dunsmuir Joint Union High,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",NA,NA,NA,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Dublin Unified,Cottonwood Creek School,2400 Central Parkway Dublin CA 94568,,,False,tested,Dublin,Alameda County,37.709588000000004,-121.847396,
+Dublin Unified,Dublin Elementary,7997 Vomac Road Dublin CA 94568-1599,6.3,ppb,True,tested,Dublin,Alameda County,37.714409,-121.93604199999999,6.3
+Dublin Unified,Dublin High,8151 Village Parkway Dublin CA 94568-1656,,,False,tested,Dublin,Alameda County,37.720307,-121.92415600000001,
+Dublin Unified,Eleanor Murray Fallon,3601 Kohnen Way Dublin CA 94568-8751,10.8,ppb,True,tested,Dublin,Alameda County,37.715849,-121.86620500000001,10.8
+Dublin Unified,Frederiksen Elementary,7243 Tamarack Drive Dublin CA 94568-1746,,,False,tested,Dublin,Alameda County,37.715207,-121.92286599999998,
+Dublin Unified,Harold William Kolb,3150 Palermo Way Dublin CA 94568-7326,,,False,tested,Dublin,Alameda County,37.712049,-121.858841,
+Dublin Unified,J. M. Amador Elementary,2100 East Cantara Drive Dublin CA 94568-6700,,,False,tested,Dublin,Alameda County,37.718769,-121.84273999999999,
+Dublin Unified,James Dougherty Elementary,5301 Hibernia Drive Dublin CA 94568-3164,,,False,tested,Dublin,Alameda County,37.709866999999996,-121.88461699999999,
+Dublin Unified,John Green Elementary,3300 Antone Way Dublin CA 94568-7550,,,False,tested,Dublin,Alameda County,37.718409,-121.862443,
+Dublin Unified,Murray Elementary,8435 Davona Drive Dublin CA 94568-1107,,,False,tested,Dublin,Alameda County,37.721804,-121.932601,
+Private,St. Raymond,11557 Shannon Avenue Dublin CA 94568,,,False,tested,Dublin,Alameda County,37.713829,-121.940978,
+Dublin Unified,Valley High (Continuation),6901 York Drive Dublin CA 94568-2100,,,False,tested,Dublin,Alameda County,37.709609,-121.921222,
+Dublin Unified,Wells Middle,6800 Penn Drive Dublin CA 94568-2118,,,False,tested,Dublin,Alameda County,37.711733,-121.91888300000001,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Metro Education,Silicon Valley Career Technical Education Center,760 Hillsdale Avenue San Jose CA 95136-1106,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.277925,-121.865956
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Metro Education,Silicon Valley Career Technical Education Center,760 Hillsdale Avenue San Jose CA 95136-1106,,,False,tested,San Jose,Santa Clara County,37.277925,-121.86595600000001,

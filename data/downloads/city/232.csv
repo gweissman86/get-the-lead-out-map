@@ -1,2 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hermosa Beach City Elementary,Hermosa Valley Elementary,1645 Valley Drive Hermosa Beach CA 90254-2921,NA,NA,NA,not tested,Hermosa Beach,Los Angeles County,33.866578,-118.396089
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fort Sage Unified,Herlong High,200 DS HL Herlong CA 96113,,,,not tested,Herlong,Lassen County,40.143939,-120.134653,
+Fort Sage Unified,Mt. Lassen Charter,100 David S Hall Street Herlong CA 96113,,,,not tested,Herlong,Lassen County,40.141665,-120.13378,

@@ -1,21 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Gilroy Unified,Antonio Del Buono Elementary,9300 Wren Avenue Gilroy CA 95020-7636,6.8,ppb,TRUE,tested,Gilroy,Santa Clara County,37.029817,-121.587405
-Santa Clara County Office of Education,Brownell Annex,7701 Hanna St. Gilroy CA 95020,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.010529,-121.576199
-Gilroy Unified,Brownell Middle,7800 Carmel Street Gilroy CA 95020-5043,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.011468,-121.577579
-Gilroy Unified,Christopher High,850 Day Road Gilroy CA 95020-9324,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.039655,-121.60452
-Gilroy Unified,Dr. TJ Owens Gilroy Early College Academy,5055 Santa Teresa Boulevard PB17 Gilroy CA 95020,NA,NA,NA,not tested,Gilroy,Santa Clara County,36.973256,-121.56856
-Gilroy Unified,El Roble Elementary,930 Third Street Gilroy CA 95020-4915,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.007928,-121.585361
-Gilroy Unified,Eliot Elementary,475 Old Gilroy Street Gilroy CA 95020-6214,9.6,ppb,TRUE,tested,Gilroy,Santa Clara County,37.006287,-121.5619
-Santa Clara County Office of Education,Gateway School,7151 Hanna St. Gilroy CA 95020,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.000761,-121.572213
-Gilroy Unified,Gilroy Adult Education,7881 Murray Avenue Gilroy CA 95020,NA,NA,NA,not tested,Gilroy,Santa Clara County,37.013148,-121.564626
-Gilroy Unified,Gilroy High,750 West Tenth Street Gilroy CA 95020-6333,NA,NA,FALSE,tested,Gilroy,Santa Clara County,36.996352,-121.575271
-Gilroy Unified,Gilroy Prep (a Navigator School),277 I O O F Avenue Gilroy CA 95020-5209,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.014489,-121.570305
-Gilroy Unified,Gilroy Unified State Preschool,475 W Ninth St Gilroy CA 95020,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.00021,-121.572454
-Gilroy Unified,Glen View Elementary,600 Eighth Street Gilroy CA 95020,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.005452,-121.559634
-Gilroy Unified,Las Animas Elementary,6550 Cimino Street Gilroy CA 95020-3453,NA,NA,FALSE,tested,Gilroy,Santa Clara County,36.989433,-121.58049
-Gilroy Unified,Luigi Aprea Elementary,9225 Calle del Rey Gilroy CA 95020-5043,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.02642,-121.603534
-Gilroy Unified,Mt. Madonna High,8750 Hirasaki Court Gilroy CA 95020-7531,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.02017,-121.594696
-Gilroy Unified,Rod Kelley Elementary,8755 Kern Avenue Gilroy CA 95020-4034,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.021238,-121.592901
-Santa Clara County ROP,Santa Clara County ROP-South,700 West Sixth Street Suite L Gilroy CA 95020-6014,NA,NA,NA,not tested,Gilroy,Santa Clara County,37.003771,-121.577169
-Gilroy Unified,Solorsano Middle,7121 Grenache Way Gilroy CA 95020-2500,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.000728,-121.594621
-Gilroy Unified,South Valley Middle,385 IOOF Avenue Gilroy CA 95020-5205,NA,NA,FALSE,tested,Gilroy,Santa Clara County,37.015097,-121.565993
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Black Oak Mine Unified,American River Charter,6620 Wentworth Springs Road Georgetown CA 95634-9701,,,,not tested,Georgetown,El Dorado County,38.912449,-120.827031,
+Black Oak Mine Unified,Georgetown Elementary,6530 Wentworth Springs Road Georgetown CA 95634-9701,,,,not tested,Georgetown,El Dorado County,38.909132,-120.82971200000001,

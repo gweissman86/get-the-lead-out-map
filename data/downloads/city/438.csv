@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ramona City Unified,Barnett Elementary,23925 Couna Way Ramona CA 92065-4120,NA,NA,FALSE,tested,Ramona,San Diego County,33.017802,-116.811202
-Ramona City Unified,Future Bound Independent Study Secondary,720 Ninth Street Ramona CA 92065-2348,14,ppb,TRUE,tested,Ramona,San Diego County,33.039329,-116.863873
-Ramona City Unified,James Dukes Elementary,24908 Abalar Way Ramona CA 92065-4649,NA,NA,FALSE,tested,Ramona,San Diego County,33.009127,-116.791321
-Ramona City Unified,Montecito High (Continuation),720 Ninth Str. Ramona CA 92065-2348,14,ppb,TRUE,tested,Ramona,San Diego County,33.039329,-116.863873
-Ramona City Unified,Mt. Woodson Elementary,17427 Archie Moore Road Ramona CA 92065-6907,NA,NA,FALSE,tested,Ramona,San Diego County,33.032728,-116.957555
-Ramona City Unified,Ramona Adult,720 Ninth St. Ramona CA 92065-2348,14,ppb,TRUE,tested,Ramona,San Diego County,33.039329,-116.863873
-Ramona City Unified,Ramona Elementary,415 Eighth Street Ramona CA 92065-2346,NA,NA,FALSE,tested,Ramona,San Diego County,33.04175,-116.864899
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ramona City Unified,Barnett Elementary,23925 Couna Way Ramona CA 92065-4120,,,False,tested,Ramona,San Diego County,33.017802,-116.81120200000001,
+Ramona City Unified,Future Bound Independent Study Secondary,720 Ninth Street Ramona CA 92065-2348,14.0,ppb,True,tested,Ramona,San Diego County,33.039328999999995,-116.863873,14.0
+Ramona City Unified,James Dukes Elementary,24908 Abalar Way Ramona CA 92065-4649,,,False,tested,Ramona,San Diego County,33.009127,-116.791321,
+Ramona City Unified,Montecito High (Continuation),720 Ninth Str. Ramona CA 92065-2348,14.0,ppb,True,tested,Ramona,San Diego County,33.039328999999995,-116.863873,14.0
+Ramona City Unified,Mt. Woodson Elementary,17427 Archie Moore Road Ramona CA 92065-6907,,,False,tested,Ramona,San Diego County,33.032728000000006,-116.957555,
+Ramona City Unified,Ramona Adult,720 Ninth St. Ramona CA 92065-2348,14.0,ppb,True,tested,Ramona,San Diego County,33.039328999999995,-116.863873,14.0
+Ramona City Unified,Ramona Elementary,415 Eighth Street Ramona CA 92065-2346,,,False,tested,Ramona,San Diego County,33.04175,-116.864899,

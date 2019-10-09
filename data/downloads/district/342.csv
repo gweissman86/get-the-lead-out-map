@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kelseyville Unified,Ed Donaldson Education Center,4500 Konocti Road Kelseyville CA 95451-9320,NA,NA,FALSE,tested,Kelseyville,Lake County,38.977961,-122.827816
-Kelseyville Unified,Kelseyville Elementary,5065 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,Kelseyville,Lake County,38.974086,-122.821122
-Kelseyville Unified,Kelseyville High,5480 Main Street Kelseyville CA 95451-8943,NA,NA,FALSE,tested,Kelseyville,Lake County,38.974475,-122.830093
-Kelseyville Unified,Mountain Vista Middle,5081 Konocti Road Kelseyville CA 95451-0308,NA,NA,FALSE,tested,Kelseyville,Lake County,38.974317,-122.818938
-Kelseyville Unified,Riviera Elementary,10505 Fairway Drive Kelseyville CA 95451-9576,NA,NA,FALSE,tested,Kelseyville,Lake County,38.949349,-122.712407
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Kelseyville Unified,Ed Donaldson Education Center,4500 Konocti Road Kelseyville CA 95451-9320,,,False,tested,Kelseyville,Lake County,38.977961,-122.827816,
+Kelseyville Unified,Kelseyville Elementary,5065 Konocti Road Kelseyville CA 95451-0308,,,False,tested,Kelseyville,Lake County,38.974086,-122.821122,
+Kelseyville Unified,Kelseyville High,5480 Main Street Kelseyville CA 95451-8943,,,False,tested,Kelseyville,Lake County,38.974475,-122.83009299999999,
+Kelseyville Unified,Mountain Vista Middle,5081 Konocti Road Kelseyville CA 95451-0308,,,False,tested,Kelseyville,Lake County,38.974317,-122.81893799999999,
+Kelseyville Unified,Riviera Elementary,10505 Fairway Drive Kelseyville CA 95451-9576,,,False,tested,Kelseyville,Lake County,38.949349,-122.71240700000001,

@@ -1,12 +1,12 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Alta Loma Elementary,Alta Loma Elementary,7085 Amethyst Street Alta Loma CA 91701-5007,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.118705,-117.59793
-Alta Loma Elementary,Alta Loma Junior High,9000 Lemon Avenue Alta Loma CA 91701-3357,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.140972,-117.609596
-Alta Loma Elementary,Banyan Elementary,10900 Mirador Drive Alta Loma CA 91737-6993,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.142013,-117.56798
-Alta Loma Elementary,Carnelian Elementary,7105 Carnelian Street Alta Loma CA 91701-0370,9.8,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.12502,-117.614811
-Alta Loma Elementary,Deer Canyon Elementary,10225 Hamilton Alta Loma CA 91701-0370,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.130314,-117.581542
-Alta Loma Elementary,Floyd M. Stork Elementary,5646 Jasper Street Alta Loma CA 91701-1924,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.15229,-117.620453
-Alta Loma Elementary,Hermosa Elementary,10133 Wilson Avenue Alta Loma CA 91737-2315,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.15064,-117.583508
-Alta Loma Elementary,Jasper Elementary,6881 Jasper Street Alta Loma CA 91701-4521,6.7,ppb,TRUE,tested,Rancho Cucamonga,San Bernardino County,34.1298,-117.619504
-Alta Loma Elementary,Prepa Tech Middle School Campus 2,6005 Stafford Ave. Huntington Park CA 90255,NA,NA,FALSE,tested,Huntington Park,Los Angeles County,33.986974,-118.221869
-Alta Loma Elementary,Victoria Groves Elementary,10950 Emerson Alta Loma CA 91701-7539,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.129476,-117.564984
-Alta Loma Elementary,Vineyard Junior High,6440 Mayberry Alta Loma CA 91737-4338,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.136834,-117.58259
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Alta Loma Elementary,Alta Loma Elementary,7085 Amethyst Street Alta Loma CA 91701-5007,,,False,tested,Rancho Cucamonga,San Bernardino County,34.118705,-117.59793,
+Alta Loma Elementary,Alta Loma Junior High,9000 Lemon Avenue Alta Loma CA 91701-3357,,,False,tested,Rancho Cucamonga,San Bernardino County,34.140972,-117.609596,
+Alta Loma Elementary,Banyan Elementary,10900 Mirador Drive Alta Loma CA 91737-6993,,,False,tested,Rancho Cucamonga,San Bernardino County,34.142013,-117.56798,
+Alta Loma Elementary,Carnelian Elementary,7105 Carnelian Street Alta Loma CA 91701-0370,9.8,ppb,True,tested,Rancho Cucamonga,San Bernardino County,34.12502,-117.61481100000002,11.0
+Alta Loma Elementary,Deer Canyon Elementary,10225 Hamilton Alta Loma CA 91701-0370,,,False,tested,Rancho Cucamonga,San Bernardino County,34.130314,-117.581542,
+Alta Loma Elementary,Floyd M. Stork Elementary,5646 Jasper Street Alta Loma CA 91701-1924,,,False,tested,Rancho Cucamonga,San Bernardino County,34.15229,-117.620453,
+Alta Loma Elementary,Hermosa Elementary,10133 Wilson Avenue Alta Loma CA 91737-2315,,,False,tested,Rancho Cucamonga,San Bernardino County,34.15064,-117.58350800000001,
+Alta Loma Elementary,Jasper Elementary,6881 Jasper Street Alta Loma CA 91701-4521,6.7,ppb,True,tested,Rancho Cucamonga,San Bernardino County,34.1298,-117.619504,6.9
+Alta Loma Elementary,Prepa Tech Middle School Campus 2,6005 Stafford Ave. Huntington Park CA 90255,,,False,tested,Huntington Park,Los Angeles County,33.986974,-118.221869,
+Alta Loma Elementary,Victoria Groves Elementary,10950 Emerson Alta Loma CA 91701-7539,,,False,tested,Rancho Cucamonga,San Bernardino County,34.129476000000004,-117.56498400000001,
+Alta Loma Elementary,Vineyard Junior High,6440 Mayberry Alta Loma CA 91737-4338,,,False,tested,Rancho Cucamonga,San Bernardino County,34.136834,-117.58259,

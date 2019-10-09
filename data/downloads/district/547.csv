@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Orchard Elementary,Orchard Elementary,921 Fox Lane San Jose CA 95131-1602,NA,NA,FALSE,tested,San José,Santa Clara County,37.387462,-121.902556
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Orchard Elementary,Orchard Elementary,921 Fox Lane San Jose CA 95131-1602,,,False,tested,San José,Santa Clara County,37.387462,-121.902556,

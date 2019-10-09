@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Jamul-Dulzura Union Elementary,Greater San Diego Academy,13881 Campo Road Jamul CA 91935-3208,NA,NA,NA,not tested,NA,San Diego County,32.71882,-116.878767
-Jamul-Dulzura Union Elementary,Jamul Intermediate,14545 Lyons Valley Road Jamul CA 91935-3324,NA,NA,NA,not tested,NA,San Diego County,32.730002,-116.855386
-Jamul-Dulzura Union Elementary,Jamul Primary,14567 Lyons Valley Road Jamul CA 91935-3324,NA,NA,NA,not tested,NA,San Diego County,32.730027,-116.854937
-Jamul-Dulzura Union Elementary,Oak Grove Middle,14344 Olive Vista Drive Jamul CA 91935-3223,NA,NA,NA,not tested,NA,San Diego County,32.723145,-116.861659
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Jamul-Dulzura Union Elementary,Greater San Diego Academy,13881 Campo Road Jamul CA 91935-3208,,,,not tested,,San Diego County,32.71882,-116.878767,
+Jamul-Dulzura Union Elementary,Jamul Intermediate,14545 Lyons Valley Road Jamul CA 91935-3324,,,,not tested,,San Diego County,32.730002,-116.85538600000001,
+Jamul-Dulzura Union Elementary,Jamul Primary,14567 Lyons Valley Road Jamul CA 91935-3324,,,,not tested,,San Diego County,32.730027,-116.854937,
+Jamul-Dulzura Union Elementary,Oak Grove Middle,14344 Olive Vista Drive Jamul CA 91935-3223,,,,not tested,,San Diego County,32.723145,-116.861659,

@@ -1,11 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Buckeye Union Elementary,Blue Oak Elementary,2391 Merrychase Drive Cameron Park CA 95682-9094,7,ppb,TRUE,tested,Cameron Park,El Dorado County,38.658044,-121.007482
-Buckeye Union Elementary,Buckeye Elementary,4561 Buckeye Road Shingle Springs CA 95682-9503,9,ppb,TRUE,tested,NA,El Dorado County,38.6687,-120.915847
-Buckeye Union Elementary,California Montessori Project-Shingle Springs Campus,4645 Buckeye Road Shingle Springs CA 95682-9505,NA,NA,FALSE,tested,NA,El Dorado County,38.669028,-120.907463
-Buckeye Union Elementary,Camerado Springs Middle,2480 Merrychase Drive Cameron Park CA 95682-9093,NA,NA,FALSE,tested,Cameron Park,El Dorado County,38.658029,-121.005098
-Buckeye Union Elementary,Charter Montessori Blue Oak Campus,2391 Merrychase Dr Cameron Park CA 95682-9094,NA,NA,FALSE,tested,Cameron Park,El Dorado County,38.658044,-121.007482
-Buckeye Union Elementary,Oak Meadow Elementary,7701 Silva Valley Parkway El Dorado Hills CA 95762-7729,NA,NA,FALSE,tested,El Dorado Hills,El Dorado County,38.664207,-121.059268
-Buckeye Union Elementary,Rising Sun Montessori,7006 Rossmore Lane El Dorado Hills CA 95762-7126,NA,NA,FALSE,tested,El Dorado Hills,El Dorado County,38.653926,-121.060295
-Buckeye Union Elementary,Rolling Hills Middle,7141 Silva Valley Parkway El Dorado Hills CA 95762-7862,NA,NA,FALSE,tested,El Dorado Hills,El Dorado County,38.681822,-121.067066
-Buckeye Union Elementary,Silva Valley Elementary,3001 Golden Eagle Lane El Dorado Hills CA 95762-7500,NA,NA,FALSE,tested,El Dorado Hills,El Dorado County,38.674643,-121.06822
-Buckeye Union Elementary,William Brooks Elementary,3610 Park Drive El Dorado Hills CA 95762-4544,NA,NA,FALSE,tested,NA,El Dorado County,38.655934,-121.073374
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Buckeye Union Elementary,Blue Oak Elementary,2391 Merrychase Drive Cameron Park CA 95682-9094,7.0,ppb,True,tested,Cameron Park,El Dorado County,38.658044,-121.00748200000001,7.0
+Buckeye Union Elementary,Buckeye Elementary,4561 Buckeye Road Shingle Springs CA 95682-9503,9.0,ppb,True,tested,,El Dorado County,38.6687,-120.915847,9.0
+Buckeye Union Elementary,California Montessori Project-Shingle Springs Campus,4645 Buckeye Road Shingle Springs CA 95682-9505,,,False,tested,,El Dorado County,38.669028000000004,-120.90746299999999,
+Buckeye Union Elementary,Camerado Springs Middle,2480 Merrychase Drive Cameron Park CA 95682-9093,,,False,tested,Cameron Park,El Dorado County,38.658029,-121.005098,
+Buckeye Union Elementary,Charter Montessori Blue Oak Campus,2391 Merrychase Dr Cameron Park CA 95682-9094,,,False,tested,Cameron Park,El Dorado County,38.658044,-121.00748200000001,
+Buckeye Union Elementary,Oak Meadow Elementary,7701 Silva Valley Parkway El Dorado Hills CA 95762-7729,,,False,tested,El Dorado Hills,El Dorado County,38.664207,-121.05926799999999,
+Buckeye Union Elementary,Rising Sun Montessori,7006 Rossmore Lane El Dorado Hills CA 95762-7126,,,False,tested,El Dorado Hills,El Dorado County,38.653926,-121.060295,
+Buckeye Union Elementary,Rolling Hills Middle,7141 Silva Valley Parkway El Dorado Hills CA 95762-7862,,,False,tested,El Dorado Hills,El Dorado County,38.681822,-121.067066,
+Buckeye Union Elementary,Silva Valley Elementary,3001 Golden Eagle Lane El Dorado Hills CA 95762-7500,,,False,tested,El Dorado Hills,El Dorado County,38.674642999999996,-121.06822,
+Buckeye Union Elementary,William Brooks Elementary,3610 Park Drive El Dorado Hills CA 95762-4544,,,False,tested,,El Dorado County,38.655934,-121.073374,

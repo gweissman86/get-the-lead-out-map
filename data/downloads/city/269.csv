@@ -1,26 +1,17 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cajon Valley Union,Avocado Elementary,3845 Avocado School Road La Mesa CA 91941-7319,NA,NA,FALSE,tested,La Mesa,San Diego County,32.750637,-116.959827
-San Diego Unified,Benchley/Weinberger Elementary,6269 Twin Lake Drive San Diego CA 92119-3051,NA,NA,FALSE,tested,La Mesa,San Diego County,32.794213,-117.03119
-Private,Christ Lutheran Elementary,7929 La Mesa Boulevard La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.764886,-117.026574
-San Diego Unified,Clay Elementary,6506 Solita Avenue San Diego CA 92115-4244,10.5,ppb,TRUE,tested,La Mesa,San Diego County,32.763605,-117.057842
-Mountain Empire Unified,College Preparatory Middle,5150 Jackson Drive La Mesa CA 91942-9001,NA,NA,NA,not tested,La Mesa,San Diego County,32.777802,-117.018335
-Grossmont Union High,Grossmont High,1100 Murray Drive La Mesa CA 91944-1043,NA,NA,FALSE,tested,La Mesa,San Diego County,32.780012,-116.99982
-Grossmont Union High,Helix High,7323 University Avenue La Mesa CA 91941-6055,NA,NA,FALSE,tested,La Mesa,San Diego County,32.768476,-117.014566
-Julian Union Elementary,"Julian charter School, Innovation Centre La Mesa",5300 Jackson Drive La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.775649,-117.013906
-La Mesa-Spring Valley,La Mesa Arts Academy,4200 Parks Avenue La Mesa CA 91942-6212,10,ppb,TRUE,tested,La Mesa,San Diego County,32.755398,-117.030379
-La Mesa-Spring Valley,La Mesa Dale Elementary,4370 Parks Avenue La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.757715,-117.032242
-La Mesa-Spring Valley,La Mesa-Spring Valley Home Independent Study,4811 Glen Street La Mesa CA 91942-5474,NA,NA,FALSE,tested,La Mesa,San Diego County,32.766466,-117.008799
-San Diego Unified,Learning Choice Academy,4215 Spring Street Suite A-104 La Mesa CA 91941-7983,NA,NA,FALSE,tested,La Mesa,San Diego County,32.755668,-117.013547
-La Mesa-Spring Valley,Lemon Avenue Elementary,8787 Lemon Avenue La Mesa CA 91941-5214,10,ppb,TRUE,tested,La Mesa,San Diego County,32.768121,-117.008403
-La Mesa-Spring Valley,Maryland Avenue Elementary,5400 Maryland Avenue La Mesa CA 91941-5214,13,ppb,TRUE,tested,La Mesa,San Diego County,32.777703,-117.03826
-Private,Mt. Helix Academy,5955 Severin Drive La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.786784,-116.998738
-La Mesa-Spring Valley,Murdock Elementary,4354 Conrad Drive La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.759278,-116.985668
-La Mesa-Spring Valley,Murray Manor Elementary,8305 El Paso Street La Mesa CA 91942-2704,NA,NA,FALSE,tested,La Mesa,San Diego County,32.788322,-117.019807
-La Mesa-Spring Valley,Northmont Elementary,9405 Gregory Street La Mesa CA 91942-3811,NA,NA,FALSE,tested,La Mesa,San Diego County,32.790843,-116.993913
-La Mesa-Spring Valley,Parkway Middle,9009 Park Plaza Drive La Mesa CA 91942-3400,NA,NA,FALSE,tested,La Mesa,San Diego County,32.79096,-117.004905
-La Mesa-Spring Valley,Rolando Elementary,6925 Tower Street La Mesa CA 91941-5214,NA,NA,FALSE,tested,La Mesa,San Diego County,32.763159,-117.048704
-Private,Shepherd of the Hills Lutheran,9191 Fletcher Parkway La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.794061,-117.00157
-Private,St. Martin of Tours Academy,7708 El Cajon Boulevard La Mesa CA 91942,NA,NA,FALSE,tested,La Mesa,San Diego County,32.768524,-117.031682
-Private,Trinity Christian School,3902 Kenwood Drive Spring Valley CA 91977,NA,NA,FALSE,tested,La Mesa,San Diego County,32.74977,-117.007455
-Lemon Grove,Vista La Mesa Academy,3900 Violet Street La Mesa CA 91941-7542,NA,NA,FALSE,tested,La Mesa,San Diego County,32.748522,-117.045
-Private,Warren-Walker School/La Mesa,5150 Wilson Street La Mesa CA 91941,NA,NA,FALSE,tested,La Mesa,San Diego County,32.773075,-117.007159
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+La Habra City Elementary,Arbolita Elementary,1001 East Brookdale Avenue La Habra CA 90631-3114,,,False,tested,La Habra,Orange County,33.943740000000005,-117.936416,
+East Whittier City Elementary,East Whittier Middle,14421 East Whittier Boulevard Whittier CA 90605-2188,,,False,tested,La Habra,Orange County,33.939116999999996,-117.94471499999999,
+La Habra City Elementary,El Cerrito Elementary,1051 North Hillside La Habra CA 90631-2820,,,False,tested,La Habra,Orange County,33.941839,-117.94890900000001,
+Lowell Joint,El Portal Elementary,200 North Nada Street La Habra CA 90631-4451,,,False,tested,La Habra,Orange County,33.933824,-117.96601799999999,
+La Habra City Elementary,Imperial Middle,1450 South Schoolwood Drive La Habra CA 90631-7276,5.4,ppb,True,tested,La Habra,Orange County,33.914458,-117.953396,5.4
+Fullerton Joint Union High,La Habra High,801 West Highlander Avenue La Habra CA 90631-3720,,,False,tested,La Habra,Orange County,33.937265000000004,-117.95703999999999,
+La Habra City Elementary,Ladera Palma Elementary,2151 East Brookdale Avenue La Habra CA 90631-3267,,,False,tested,La Habra,Orange County,33.944012,-117.92223200000001,
+La Habra City Elementary,Las Lomas Elementary,301 Las Lomas Drive La Habra CA 90631-7171,,,False,tested,La Habra,Orange County,33.921285,-117.947375,
+La Habra City Elementary,Las Positas Elementary,1400 South Schoolwood Drive La Habra CA 90631-7276,,,False,tested,La Habra,Orange County,33.914516,-117.955288,
+Lowell Joint,Macy Elementary,2301 West Russell Street La Habra CA 90631-2473,,,False,tested,La Habra,Orange County,33.944796000000004,-117.97188600000001,
+Lowell Joint,Olita Elementary,950 South Briercliff Drive La Habra CA 90631-6223,8.3,ppb,True,tested,La Habra,Orange County,33.920367999999996,-117.973665,8.3
+Lowell Joint,Rancho-Starbuck Intermediate,16430 Woodbrier Drive Whittier CA 90604-4021,,,False,tested,La Habra,Los Angeles County,33.920043,-117.978632,
+La Habra City Elementary,Sierra Vista Elementary,1800 East Whittier Boulevard La Habra CA 90631-4171,,,False,tested,La Habra,Orange County,33.938544,-117.92790500000001,
+Fullerton Joint Union High,Sonora High,401 South Palm Street La Habra CA 90631-5735,,,False,tested,La Habra,Orange County,33.928104,-117.926594,
+La Habra City Elementary,Walnut Elementary,625 North Walnut Street La Habra CA 90631-3711,,,False,tested,La Habra,Orange County,33.938128000000006,-117.95166299999998,
+La Habra City Elementary,Washington Middle,716 East La Habra Boulevard La Habra CA 90631-5530,8.1,ppb,True,tested,La Habra,Orange County,33.930403000000005,-117.938406,12.0

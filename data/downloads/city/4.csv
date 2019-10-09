@@ -1,26 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Alameda Unified,Alameda Adult,1300 Third Street Alameda CA 94501,NA,NA,NA,not tested,Alameda,Alameda County,37.770959,-122.288416
-Alameda Unified,Alameda High,2201 Encinal Avenue Alameda CA 94501-4406,NA,NA,FALSE,tested,Alameda,Alameda County,37.764248,-122.248057
-Alameda Unified,Alameda Science and Technology Institute,555 Atlantic Avenue Alameda CA 94501-2109,NA,NA,FALSE,tested,Alameda,Alameda County,37.779937,-122.273448
-Alameda Unified,Amelia Earhart Elementary,400 Packet Landing Road Alameda CA 94502-6534,NA,NA,FALSE,tested,Alameda,Alameda County,37.744661,-122.238152
-Alameda Unified,Bay Farm,200 Aughinbaugh Way Alameda CA 94502-7451,NA,NA,FALSE,tested,Alameda,Alameda County,37.738034,-122.252029
-Alameda Unified,Donald D. Lum Elementary,1801 Sandcreek Way Alameda CA 94501-6024,NA,NA,NA,not tested,Alameda,Alameda County,37.76204,-122.259003
-East Side Union High,East Bay Regional Occupation Center/Agency (ROC/P),1900 Third Street Room 23 Alameda CA 94501-1851,NA,NA,NA,not tested,Alameda,Alameda County,37.779125,-122.287676
-Alameda Unified,Edison Elementary,2700 Buena Vista Avenue Alameda CA 94501-1610,NA,NA,FALSE,tested,Alameda,Alameda County,37.764442,-122.234832
-Alameda Unified,Encinal Junior/Senior High,210 Central Avenue Alameda CA 94501-3246,NA,NA,FALSE,tested,Alameda,Alameda County,37.773607,-122.289959
-Alameda Unified,Frank Otis Elementary,3010 Fillmore Street Alameda CA 94501-5544,NA,NA,FALSE,tested,Alameda,Alameda County,37.753753,-122.238297
-Alameda Unified,Franklin Elementary,1433 San Antonio Avenue Alameda CA 94501-4039,NA,NA,FALSE,tested,Alameda,Alameda County,37.769179,-122.261859
-Alameda Unified,Henry Haight Elementary,2025 Santa Clara Avenue Alameda CA 94501-2720,NA,NA,FALSE,tested,Alameda,Alameda County,37.769866,-122.250234
-Alameda Unified,Island High (Continuation),1900 Third Street Alameda CA 94501-1851,7.6,ppb,TRUE,tested,Alameda,Alameda County,37.779689,-122.287832
-Alameda Unified,Lincoln Middle,1250 Fernside Boulevard Alameda CA 94501-4808,NA,NA,FALSE,tested,Alameda,Alameda County,37.766942,-122.23205
-Alameda Unified,Nea Community Learning Center,1900 Third St Alameda CA 94501-1851,NA,NA,FALSE,tested,Alameda,Alameda County,37.779689,-122.287832
-Alameda Unified,Rising Star Montessori Cottage Campus,770 Santa Clara Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.773337,-122.273838
-Private,Rising Star Montessori School,1421 High Street Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.758713,-122.231544
-Alameda Unified,Ruby Bridges Elementary,351 Jack London Avenue Alameda CA 94501-3901,NA,NA,FALSE,tested,Alameda,Alameda County,37.781841,-122.285496
-Private,St. Joseph Elementary,1910 San Antonio Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.766109,-122.255263
-Private,St. Joseph Notre Dame High School,1011 Chestnut Street Alameda CA 94501,8,ppb,TRUE,tested,Alameda,Alameda County,37.765243,-122.255137
-Private,St. Philip Neri Elementary,1335 High Street Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.757285,-122.233138
-Alameda Unified,The Academy of Alameda,401 Pacific Avenue Alameda CA 94501-1837,7.2,ppb,TRUE,tested,Alameda,Alameda County,37.776383,-122.285469
-Alameda Unified,The Academy of Alameda Elementary,401 Pacific Ave. Alameda CA 94501-1837,NA,NA,FALSE,tested,Alameda,Alameda County,37.776383,-122.285469
-Private,The Child Unique Montessori School,2226 Encinal Avenue Alameda CA 94501,NA,NA,FALSE,tested,Alameda,Alameda County,37.763805,-122.247474
-Alameda Unified,William G. Paden Elementary,444 Central Avenue Alameda CA 94501-3615,NA,NA,FALSE,tested,Alameda,Alameda County,37.770809,-122.283692
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Las Virgenes Unified,Agoura High,28545 West Driver Avenue Agoura CA 91301-3335,,,,not tested,Agoura Hills,Los Angeles County,34.150409,-118.748907,
+Las Virgenes Unified,Buttercup Pre-School,6098 Reyes Adobe Rd Agoura Hills CA 91301-1423,,,,not tested,Agoura Hills,Los Angeles County,34.147209000000004,-118.78111799999999,
+Las Virgenes Unified,Indian Hills Continuation High,28545 West Driver Ave Agoura CA 91301-3335,,,,not tested,Agoura Hills,Los Angeles County,34.150409,-118.748907,
+Las Virgenes Unified,Lindero Canyon Middle,5844 North Larboard Lane Agoura CA 91301-1423,,,,not tested,Agoura Hills,Los Angeles County,34.157284999999995,-118.786358,
+Las Virgenes Unified,Mariposa School of Global Education,6050 North Calmfield Avenue Agoura CA 91301-2104,,,,not tested,Agoura Hills,Los Angeles County,34.161605,-118.756257,
+Las Virgenes Unified,Sumac Elementary,6050 North Calmfield Ave Agoura CA 91301-2104,,,,not tested,Agoura Hills,Los Angeles County,34.161605,-118.756257,
+Las Virgenes Unified,Yerba Buena Elementary,6098 Reyes Adobe Road Agoura Hills CA 91301-2105,,,,not tested,Agoura Hills,Los Angeles County,34.147209000000004,-118.78111799999999,

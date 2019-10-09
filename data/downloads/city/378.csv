@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Novato Unified,Nova Education Center,720 Diablo Boulevard Novato CA 94947-4004,NA,NA,FALSE,tested,Novato,Marin County,38.098047,-122.575937
-Novato Unified,Novato Adult Education Center,740 Diablo Boulevard Novato CA 94947-4062,NA,NA,FALSE,tested,Novato,Marin County,38.098414,-122.576386
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Novato Unified,Nova Education Center,720 Diablo Boulevard Novato CA 94947-4004,,,False,tested,Novato,Marin County,38.098046999999994,-122.57593700000001,
+Novato Unified,Novato Adult Education Center,740 Diablo Boulevard Novato CA 94947-4062,,,False,tested,Novato,Marin County,38.098414,-122.57638600000001,

@@ -1,2 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,St. James Elementary,1215 B Street Davis CA 95616,NA,NA,FALSE,tested,Colón,Distrito Colón,9.321173,-79.88749
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Colusa Unified,Colusa Alternative High (Continuation),901 Colus Avenue Colusa CA 95932-3024,,,,not tested,Colusa,Colusa County,39.200812,-122.02068,
+Colusa Unified,Colusa Alternative Home,745 10th Street Colusa CA 95932-2220,11.9,ppb,True,tested,Colusa,Colusa County,39.210848999999996,-122.016478,11.9
+Colusa Unified,Colusa High,901 Colus Avenue Colusa CA 95932-3024,,,False,tested,Colusa,Colusa County,39.200812,-122.02068,
+Colusa Unified,George T. Egling Middle,813 Webster Street Colusa CA 95932-2355,,,False,tested,Colusa,Colusa County,39.210533,-122.01434099999999,
+Colusa Unified,James M. Burchfield Primary,400 Fremont Street Colusa CA 95932-2630,,,False,tested,Colusa,Colusa County,39.207559,-122.009111,

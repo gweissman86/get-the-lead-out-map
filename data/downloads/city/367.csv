@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Needles Unified,Educational Training Center,1600 Washington St. Needles CA 92363-2842,NA,NA,NA,not tested,Needles,San Bernardino County,34.840062,-114.615902
-Needles Unified,Needles High,1600 Washington Street Needles CA 92363-2842,NA,NA,NA,not tested,Needles,San Bernardino County,34.840062,-114.615902
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Needles Unified,Educational Training Center,1600 Washington St. Needles CA 92363-2842,,,,not tested,Needles,San Bernardino County,34.840061999999996,-114.615902,
+Needles Unified,Needles High,1600 Washington Street Needles CA 92363-2842,,,,not tested,Needles,San Bernardino County,34.840061999999996,-114.615902,

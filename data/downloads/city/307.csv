@@ -1,15 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lompoc Unified,Arthur Hapgood Elementary,324 South A Street Lompoc CA 93438-8000,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.634507,-120.449225
-Lompoc Unified,Buena Vista Elementary,100 Aldebaran Avenue Lompoc CA 93436-1208,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.709412,-120.464656
-Lompoc Unified,Cabrillo High,4350 Constellation Road Lompoc CA 93436-1003,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.711081,-120.475008
-Lompoc Unified,Clarence Ruth Elementary,501 North W Street Lompoc CA 93436-5006,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.64702,-120.476586
-Lompoc Unified,El Camino Adult Education,320 North J Street Lompoc CA 93436,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.643451,-120.460332
-Lompoc Unified,La Canada Elementary,621 West North Avenue Lompoc CA 93436-4009,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.654439,-120.46485
-Lompoc Unified,La Honda STEAM Academy,1213 North A Street Lompoc CA 93436-3514,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.657586,-120.44907
-Private,La Purisima Catholic School,219 W OliveAve Lompoc CA 93436,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.634864,-120.459873
-Lompoc Unified,Leonora Fillmore Elementary,1211 East Pine Avenue Lompoc CA 93436-4238,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.650138,-120.443602
-Lompoc Unified,Lompoc High,515 West College Avenue Lompoc CA 93436-4401,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.646952,-120.463329
-Lompoc Unified,Lompoc Valley Middle,234 South N Street Lompoc CA 93436,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.636766,-120.465445
-Lompoc Unified,Los Berros Elementary,3745 Via Lato Lompoc CA 93436,NA,NA,NA,not tested,Lompoc,Santa Barbara County,34.696553,-120.433573
-Lompoc Unified,Miguelito Elementary,1600 West Olive Avenue Lompoc CA 93436-6312,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.634204,-120.479375
-Lompoc Unified,Mission Valley,1301 North A Street Lompoc CA 93436-3516,NA,NA,FALSE,tested,Lompoc,Santa Barbara County,34.656221,-120.44907
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Los Angeles Unified,Alexander Fleming Middle,25425 Walnut Street Lomita CA 90717-2610,,,False,tested,Lomita,Los Angeles County,33.793161,-118.31193700000001,
+LAUSD,ESHELMAN AVE. ELEMENTARY SCHOOL,"25902 ESHELMAN AVE, LOMITA,         CA 90717",,,,exempt,Lomita,Los Angeles County,33.787616,-118.31443,
+Los Angeles Unified,Eshelman Avenue Elementary,25902 Eshelman Avenue Lomita CA 90717-3223,,,False,tested,Lomita,Los Angeles County,33.787616,-118.31443,
+LAUSD,FLEMING MIDDLE SCHOOL,"25425 WALNUT ST, LOMITA,         CA 90717",,,,exempt,Lomita,Los Angeles County,33.793161,-118.31193700000001,
+LAUSD,HARBOR CITY ELEMENTARY,"1508 W 254TH ST, HARBOR CITY,    CA 90710",,,,exempt,Lomita,Los Angeles County,33.793699,-118.30296200000001,
+Los Angeles Unified,Harbor City Elementary,1508 West 254th Street Harbor City CA 90710-2717,,,,not tested,Lomita,Los Angeles County,33.793699,-118.30296200000001,
+LAUSD,LOMITA MATH/SCIENCE MAGNET,"2211 W 247TH ST, LOMITA,         CA 90717",,,,exempt,Lomita,Los Angeles County,33.800762,-118.32171299999999,
+Los Angeles Unified,Lomita Math/Science/Technology Magnet,2211 West 247th Street Lomita CA 90717-1503,6.3,ppb,True,tested,Lomita,Los Angeles County,33.800762,-118.32171299999999,6.3
+LAUSD,NORMONT ELEMENTARY,"1001 W 253RD ST, HARBOR CITY,    CA 90710",,,,exempt,Lomita,Los Angeles County,33.794792,-118.292899,
+Los Angeles Unified,Normont Elementary,1001 West 253rd Street Harbor City CA 90710-3003,,,,not tested,Lomita,Los Angeles County,33.794792,-118.292899,

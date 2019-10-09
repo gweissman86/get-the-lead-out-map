@@ -1,7 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Monterey Peninsula Unified,Ione Olson Elementary,261 Beach Road Marina CA 93933-2623,NA,NA,FALSE,tested,Marina,Monterey County,36.69225,-121.794886
-Monterey Peninsula Unified,J. C. Crumpton Elementary,460 Carmel Avenue Marina CA 93933-3322,NA,NA,FALSE,tested,Marina,Monterey County,36.676969,-121.787537
-Monterey Peninsula Unified,Los Arboles Middle,294 Hillcrest Avenue Marina CA 93933-3507,NA,NA,FALSE,tested,Marina,Monterey County,36.681821,-121.802937
-Monterey Peninsula Unified,Marina Childrens Center,3066 Lake Drive Marina CA 93933-2805,NA,NA,FALSE,tested,Marina,Monterey County,36.684642,-121.806633
-Monterey Peninsula Unified,Marina High,298 Patton Parkway Marina CA 93933-6007,NA,NA,FALSE,tested,Marina,Monterey County,36.674621,-121.797654
-Monterey Peninsula Unified,Marina Vista Elementary,390 Carmel Avenue Marina CA 93933-3223,NA,NA,FALSE,tested,Marina,Monterey County,36.676969,-121.787537
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Maricopa Unified,Inspire Charter School - Kern,955 Stanislaus Maricopa CA 93252-9779,,,,not tested,Maricopa,Kern County,35.054285,-119.40376299999998,
+Maricopa Unified,Maricopa Elementary,955 Stanislaus St Maricopa CA 93252-8231,,,False,tested,Maricopa,Kern County,35.055434000000005,-119.402739,
+Maricopa Unified,Maricopa High,955 Stanislaus Street Maricopa CA 93252-8231,5.08,ppb,True,tested,Maricopa,Kern County,35.055434000000005,-119.402739,5.08
+Maricopa Unified,Maricopa Middle,955 Stanislaus Str Maricopa CA 93252-9779,,,False,tested,Maricopa,Kern County,35.055434000000005,-119.402739,

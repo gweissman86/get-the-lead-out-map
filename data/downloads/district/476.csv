@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Modoc Joint Unified,Alturas Elementary,809 West 8th Street Alturas CA 96101-3116,NA,NA,FALSE,tested,Alturas,Modoc County,41.490895,-120.557704
-Modoc Joint Unified,Modoc Community Adult,802 North East Street Alturas CA 96101,NA,NA,FALSE,tested,Alturas,Modoc County,41.491099,-120.539912
-Modoc Joint Unified,Modoc High,900 North Main Street Alturas CA 96101-3376,NA,NA,FALSE,tested,Alturas,Modoc County,41.488601,-120.542501
-Modoc Joint Unified,Modoc Middle,906 West Fourth Street Alturas CA 96101-3716,NA,NA,FALSE,tested,Alturas,Modoc County,41.487612,-120.555543
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Modoc Joint Unified,Alturas Elementary,809 West 8th Street Alturas CA 96101-3116,,,False,tested,Alturas,Modoc County,41.490895,-120.557704,
+Modoc Joint Unified,Modoc Community Adult,802 North East Street Alturas CA 96101,,,False,tested,Alturas,Modoc County,41.491099,-120.53991200000002,
+Modoc Joint Unified,Modoc High,900 North Main Street Alturas CA 96101-3376,,,False,tested,Alturas,Modoc County,41.488601,-120.542501,
+Modoc Joint Unified,Modoc Middle,906 West Fourth Street Alturas CA 96101-3716,,,False,tested,Alturas,Modoc County,41.487612,-120.555543,

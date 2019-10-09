@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Konocti Unified,Lower Lake High,9430 A Lake Street Lower Lake CA 95457-0799,NA,NA,NA,not tested,Lower Lake,Lake County,38.914915,-122.607724
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Private,Wonderful Prep Academy,20767 Highway 46 Lost Hills CA 93249,,,False,tested,Lost Hills,Kern County,35.615995,-119.70811499999999,

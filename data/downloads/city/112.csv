@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,Holy Angels Elementary,20 Reiner Street Colma CA 94014,NA,NA,FALSE,tested,Colma,San Mateo County,37.687217,-122.466841
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Colfax Elementary,Colfax Elementary,24825 Ben Taylor Road Colfax CA 95713-9553,,,False,tested,Colfax,Placer County,39.104417,-120.962892,
+Placer Union High,Colfax High,24995 Ben Taylor Road Colfax CA 95713-9556,5.98,ppb,True,tested,Colfax,Placer County,39.107284,-120.965928,6.38
+Placer Hills Union Elementary,Weimar Hills,200 West Weimar Crossroad Weimar CA 95736-0255,5.42,ppb,True,tested,Colfax,Placer County,39.044044,-120.97779799999999,5.42

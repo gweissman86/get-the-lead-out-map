@@ -1,2 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Desert Sands Unified,Gerald R. Ford Elementary,44-210 Warner Trail Indian Wells CA 92210-7598,NA,NA,NA,not tested,Indian Wells,Riverside County,33.727937,-116.311982
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+South Bay Union,Bayside Elementary,490 Emory Street Imperial Beach CA 91932-1524,7.3,ppb,True,tested,Imperial Beach,San Diego County,32.588245,-117.113152,7.3
+South Bay Union,Central Elementary,1290 Ebony Avenue Imperial Beach CA 91932-2920,,,False,tested,Imperial Beach,San Diego County,32.577586,-117.107707,
+South Bay Union,Friendship School,601 Elm Ave Imperial Beach CA 91932,,,False,tested,Imperial Beach,San Diego County,32.580036,-117.12015500000001,
+Sweetwater Union High,Imperial Beach Adult School,170 Palm Avenue Imperial Beach CA 92132,,,False,tested,Imperial Beach,San Diego County,32.583771,-117.102152,
+South Bay Union,Imperial Beach Charter,650 Imperial Beach Boulevard Imperial Beach CA 91932-2706,12.0,ppb,True,tested,Imperial Beach,San Diego County,32.576492,-117.119371,12.0
+South Bay Union Elementary,Imperial Beach Charter School West Campus,525 3rd Street Imperial Beach CA 91932,6.6,ppb,True,tested,Imperial Beach,San Diego County,32.586724,-117.12730800000001,6.6
+Sweetwater Union High,Mar Vista Senior High,505 Elm Avenue Imperial Beach CA 91932-2027,,,False,tested,Imperial Beach,San Diego County,32.578076,-117.122804,
+South Bay Union,Oneonta Elementary,1311 Tenth Street Imperial Beach CA 91932-3403,,,False,tested,Imperial Beach,San Diego County,32.572863,-117.11158400000001,
+South Bay Union,VIP Village Preschool,1001 Fern Avenue Imperial Beach CA 91932-3353,,,False,tested,Imperial Beach,San Diego County,32.57464,-117.11214,

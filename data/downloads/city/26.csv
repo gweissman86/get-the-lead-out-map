@@ -1,11 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Atascadero Unified,Atascadero High,1 High School Hill Atascadero CA 93422-4189,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.484453,-120.672294
-Atascadero Unified,Atascadero Middle,6501 Lewis Avenue Atascadero CA 93422-4222,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.490643,-120.666678
-Atascadero Unified,Fine Arts Academy,6100 Olmeda Avenue Atascadero CA 93422-4204,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.490923,-120.667824
-Atascadero Unified,Monterey Road Elementary,3355 Monterey Road Atascadero CA 93422-1869,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.499491,-120.69224
-Atascadero Unified,Paloma Creek High ACE,10801 El Camino Real Atascadero CA 93422,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.458265,-120.63847
-Atascadero Unified,San Benito Elementary,4300 San Benito Road Atascadero CA 93422-1938,10,ppb,TRUE,tested,Atascadero,San Luis Obispo County,35.515136,-120.685218
-Atascadero Unified,San Gabriel Elementary,8500 San Gabriel Road Atascadero CA 93422-4940,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.458446,-120.664313
-Atascadero Unified,Santa Rosa Road Academic Academy,8655 Santa Rosa Road Atascadero CA 93422-4910,NA,NA,FALSE,tested,Atascadero,San Luis Obispo County,35.465059,-120.655805
-Atascadero Unified,Student Inverention Services,Atascadero Adult Education Atascadero CA 93422,15,ppb,TRUE,tested,Atascadero,San Luis Obispo County,35.513556,-120.686824
-Atascadero Unified,Technology,5601 West Mall Atascadero CA 93422,5.6,ppb,TRUE,tested,Atascadero,San Luis Obispo County,35.492182,-120.665061
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+ABC Unified,Burbank (Luther) Elementary,17711 Roseton Avenue Artesia CA 90701-3837,,,,not tested,Artesia,Los Angeles County,33.870228000000004,-118.087244,
+ABC Unified,Juarez (Benito) Elementary,11939 Aclare Street Cerritos CA 90703-2709,,,False,tested,Artesia,Los Angeles County,33.874513,-118.078883,
+ABC Unified,Kennedy (John F.) Elementary,17500 Belshire Avenue Artesia CA 90701-4352,,,,not tested,Artesia,Los Angeles County,33.87219,-118.07061599999999,
+ABC Unified,Niemes (John H.) Elementary,16715 Jersey Avenue Artesia CA 90701-1750,,,,not tested,Artesia,Los Angeles County,33.880036,-118.085722,
+Private,Our Lady of Fatima,18626 Clarkdale Avenue Artesia CA 90701,,,False,tested,Artesia,Los Angeles County,33.861906,-118.078956,
+ABC Unified,Ross (Faye) Middle,17707 Elaine Avenue Artesia CA 90701-4018,,,,not tested,Artesia,Los Angeles County,33.872951,-118.076916,

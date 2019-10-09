@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Chualar Union,Chualar Elementary,24285 Lincoln Street Chualar CA 93925-0188,NA,NA,FALSE,tested,NA,Monterey County,36.571342,-121.516264
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Chualar Union,Chualar Elementary,24285 Lincoln Street Chualar CA 93925-0188,,,False,tested,,Monterey County,36.571342,-121.51626399999999,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Shasta County Office of Education,Chrysalis Charter,21945 Old Forty Four Drive Palo Cedro CA 96073-9760,NA,NA,FALSE,tested,Palo Cedro,Shasta County,40.561706,-122.242122
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Shasta County Office of Education,Chrysalis Charter,21945 Old Forty Four Drive Palo Cedro CA 96073-9760,,,False,tested,Palo Cedro,Shasta County,40.561706,-122.242122,

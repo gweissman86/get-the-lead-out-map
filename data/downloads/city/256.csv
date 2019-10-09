@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Jamestown Elementary,Jamestown Elementary,18299 Fifth Avenue Jamestown CA 95327-9671,NA,NA,FALSE,tested,Jamestown,Tuolumne County,37.954028,-120.417197
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Amador County Unified,Argonaut High,501 Argonaut Lane Jackson CA 95642-2020,,,False,tested,Jackson,Amador County,38.363358000000005,-120.790022,
+Amador County Unified,Jackson Elementary,220 Church Street Jackson CA 95642-2020,,,False,tested,Jackson,Amador County,38.350674,-120.77316100000002,
+Amador County Unified,Jackson Junior High,747 Sutter Street Jackson CA 95642-2020,,,False,tested,Jackson,Amador County,38.353365000000004,-120.780072,

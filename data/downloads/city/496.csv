@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-West Contra Costa Unified,Lake Elementary,2700 Eleventh Street San Pablo CA 94806-2298,NA,NA,FALSE,tested,San Pablo,Contra Costa County,37.97115,-122.35351
-West Contra Costa Unified,Montalvin Manor Elementary,300 Christine Drive San Pablo CA 94806-1199,NA,NA,FALSE,tested,San Pablo,Contra Costa County,37.995018,-122.33617
-West Contra Costa Unified,Tara Hills Elementary,2300 Dolan Way San Pablo CA 94806-1699,NA,NA,FALSE,tested,San Pablo,Contra Costa County,37.994053,-122.313099
-West Contra Costa Unified,Transition Program at Vista High,2625 Barnard Rd San Pablo CA 94806,NA,NA,NA,not tested,San Pablo,Contra Costa County,37.968545,-122.324831
-West Contra Costa Unified,Vista High (Alternative),2625 Barnard Road San Pablo CA 94806-2703,12,ppb,TRUE,tested,San Pablo,Contra Costa County,37.968545,-122.324831
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+West Contra Costa Unified,Lake Elementary,2700 Eleventh Street San Pablo CA 94806-2298,,,False,tested,San Pablo,Contra Costa County,37.97115,-122.35351000000001,
+West Contra Costa Unified,Montalvin Manor Elementary,300 Christine Drive San Pablo CA 94806-1199,,,False,tested,San Pablo,Contra Costa County,37.995018,-122.33617,
+West Contra Costa Unified,Tara Hills Elementary,2300 Dolan Way San Pablo CA 94806-1699,,,False,tested,San Pablo,Contra Costa County,37.994053,-122.313099,
+West Contra Costa Unified,Transition Program at Vista High,2625 Barnard Rd San Pablo CA 94806,,,,not tested,San Pablo,Contra Costa County,37.968545,-122.324831,
+West Contra Costa Unified,Vista High (Alternative),2625 Barnard Road San Pablo CA 94806-2703,12.0,ppb,True,tested,San Pablo,Contra Costa County,37.968545,-122.324831,12.0

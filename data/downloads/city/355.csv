@@ -1,20 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Private,Alpha-Shen Kindergarten,618 North Moore Avenue Monterey Park CA 91754,NA,NA,FALSE,tested,Monterey Park,Los Angeles County,34.069179,-118.130063
-Montebello Unified,Bella Vista Elementary,2410 Findlay Avenue Monterey Park CA 91754-7017,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.035138,-118.137839
-Montebello Unified,Bella Vista Elementary,2410 Findlay Avenue Monterey Park CA 91754-7017,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.035138,-118.137839
-Montebello Unified,Bella Vista Elementary,2410 Findlay Avenue Monterey Park CA 91754-7017,5.4,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.035138,-118.137839
-Los Angeles County Ooffice of Education,Bella Vista North Sld-Aphasia,2009 S. Garfield Monterey Park CA 91754,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.040597,-118.129277
-Alhambra Unified,Brightwood Elementary,1701 Brightwood Street Monterey Park CA 91754-5100,12,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.045837,-118.152662
-LAUSD,"EAST LA COMM COLLEGE,","1301 BROOKLYN AVE, MONTEREY PARK,  CA 91754",NA,NA,NA,exempt,Monterey Park,Los Angeles County,34.041426,-118.150014
-Los Angeles County Office of Education,East Los Angeles County Community,1260 South Monterey Pass Road Monterey Park CA 91754-3617,5.5,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.048925,-118.160416
-Garvey Elementary,Hillcrest Elementary,795 Pepper Street Monterey Park CA 91755-5715,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.046544,-118.110196
-Montebello Unified,Macy Intermediate,2101 South Lupine Avenue Monterey Park CA 91755-6616,5.8,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.040279,-118.124544
-Los Angeles Unified,Marianna Avenue Elementary,4215 East Gleason Street Los Angeles CA 90063-1423,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.035129,-118.122678
-LAUSD,MARIANNA ELEMENTARY,"4215 E GLEASON ST, LOS ANGELES, CA 90063",NA,NA,NA,exempt,Monterey Park,Los Angeles County,34.035129,-118.122678
-Private,Meher Montessori School,2009 South Garfield Avenue Monterey Park CA 91754,NA,NA,FALSE,tested,Monterey Park,Los Angeles County,34.040486,-118.12953
-Alhambra Unified,Monterey Highlands Elementary,400 Casuda Canyon Drive Monterey Park CA 91754-2204,NA,NA,FALSE,tested,Monterey Park,Los Angeles County,34.058178,-118.15633
-Garvey Elementary,Monterey Vista Elementary,901 East Graves Avenue Monterey Park CA 91755-4223,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.055421,-118.110111
-Alhambra Unified,Repetto Elementary,650 South Grandridge Avenue Monterey Park CA 91754-3921,7.5,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.053959,-118.128273
-Los Angeles Unified,Robert Hill Lane Elementary,1500 Cesar Chavez Avenue Monterey Park CA 91754,NA,NA,NA,not tested,Monterey Park,Los Angeles County,34.039747,-118.152239
-LAUSD,ROBERT HILL LANE ELEMENTARY,"1500 CESAR CHAVEZ, MONTEREY PARK, CA 91754",NA,NA,NA,exempt,Monterey Park,Los Angeles County,34.039747,-118.152239
-Alhambra Unified,Ynez Elementary,120 South Ynez Avenue Monterey Park CA 91754-2822,17,ppb,TRUE,tested,Monterey Park,Los Angeles County,34.062147,-118.129012
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Monterey County Office of Education,Bay View Academy,222 Casa Verde Avenue Monterey CA 93940-3753,8.0,ppb,True,tested,Monterey,Monterey County,36.60116,-121.866979,8.0
+Big Sur Unified,Big Sur Charter,135 Webster Street Monterey CA 93940-3119,,,False,tested,Monterey,Monterey County,36.596087,-121.894659,
+Big Sur Unified,Big Sur Charter,304 Foam Street Monterey CA 93940-3119,,,,not tested,Monterey,Monterey County,36.611168,-121.898599,
+Monterey Peninsula Unified,Foothill Elementary,1700 Via Casoli Monterey CA 93940-6442,,,False,tested,Monterey,Monterey County,36.577727,-121.85512800000001,
+Monterey Peninsula Unified,La Mesa Elementary,1 La Mesa Way Monterey CA 93940-4894,,,False,tested,Monterey,Monterey County,36.58165,-121.879046,
+Monterey Peninsula Unified,Monte Vista,251 Soledad Drive Monterey CA 93940-4848,,,False,tested,Monterey,Monterey County,36.589033,-121.90781000000001,
+Monterey Peninsula Unified,Monterey High,101 Herrmann Drive Monterey CA 93940-2538,6.0,ppb,True,tested,Monterey,Monterey County,36.595115,-121.900182,6.0
+Private,Trinity Christian High School,601 East Franklin Street Monterey CA 93940,,,False,tested,Monterey,Monterey County,36.599119,-121.888798,
+Monterey Peninsula Unified,Walter Colton,100 Toda Vista Drive Monterey CA 93940-4237,6.0,ppb,True,tested,Monterey,Monterey County,36.591627,-121.91333,6.0

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Klamath-Trinity Joint Unified,Orleans Elementary,38016 Highway 96 Orleans CA 95556-0130,NA,NA,NA,not tested,Orleans,Humboldt County,41.300956,-123.541893
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Klamath-Trinity Joint Unified,Orleans Elementary,38016 Highway 96 Orleans CA 95556-0130,,,,not tested,Orleans,Humboldt County,41.300956,-123.54189299999999,

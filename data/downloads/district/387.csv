@@ -1,16 +1,16 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Las Virgenes Unified,Agoura High,28545 West Driver Avenue Agoura CA 91301-3335,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.150409,-118.748907
-Las Virgenes Unified,Alice C. Stelle Middle,22450 Mulholland Highway Calabasas CA 91302-5180,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.142834,-118.614205
-Las Virgenes Unified,Arthur E. Wright Middle,4029 North Las Virgenes Road Calabasas CA 91302-1927,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.13245,-118.703424
-Las Virgenes Unified,Bay Laurel Elementary,24740 Paseo Primario Calabasas CA 91302-3071,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.139378,-118.65183
-Las Virgenes Unified,Buttercup Pre-School,6098 Reyes Adobe Rd Agoura Hills CA 91301-1423,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.147209,-118.781118
-Las Virgenes Unified,Calabasas High,22855 West Mulholland Highway Calabasas CA 91302-2047,NA,NA,FALSE,tested,Calabasas,Los Angeles County,34.139024,-118.626608
-Las Virgenes Unified,Indian Hills Continuation High,28545 West Driver Ave Agoura CA 91301-3335,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.150409,-118.748907
-Las Virgenes Unified,Las Virgenes Adult,4111 North Las Virgenes Road Calabasas CA 91302-1929,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.133628,-118.703155
-Las Virgenes Unified,Lindero Canyon Middle,5844 North Larboard Lane Agoura CA 91301-1423,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.157285,-118.786358
-Las Virgenes Unified,Lupin Hill Elementary,26210 Adamor Road Calabasas CA 91302-1006,NA,NA,NA,not tested,Calabasas,Los Angeles County,34.161613,-118.698556
-Las Virgenes Unified,Mariposa School of Global Education,6050 North Calmfield Avenue Agoura CA 91301-2104,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.161605,-118.756257
-Las Virgenes Unified,Round Meadow Elementary,5151 Round Meadow Road Calabasas CA 91302-1161,NA,NA,FALSE,tested,Calabasas,Los Angeles County,34.154042,-118.665763
-Las Virgenes Unified,Sumac Elementary,6050 North Calmfield Ave Agoura CA 91301-2104,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.161605,-118.756257
-Las Virgenes Unified,White Oak Elementary,31761 West Village School Road Westlake Village CA 91361-4502,NA,NA,NA,not tested,Westlake Village,Los Angeles County,34.144021,-118.814001
-Las Virgenes Unified,Yerba Buena Elementary,6098 Reyes Adobe Road Agoura Hills CA 91301-2105,NA,NA,NA,not tested,Agoura Hills,Los Angeles County,34.147209,-118.781118
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Las Virgenes Unified,Agoura High,28545 West Driver Avenue Agoura CA 91301-3335,,,,not tested,Agoura Hills,Los Angeles County,34.150409,-118.748907,
+Las Virgenes Unified,Alice C. Stelle Middle,22450 Mulholland Highway Calabasas CA 91302-5180,,,,not tested,Calabasas,Los Angeles County,34.142834,-118.614205,
+Las Virgenes Unified,Arthur E. Wright Middle,4029 North Las Virgenes Road Calabasas CA 91302-1927,,,,not tested,Calabasas,Los Angeles County,34.13245,-118.703424,
+Las Virgenes Unified,Bay Laurel Elementary,24740 Paseo Primario Calabasas CA 91302-3071,,,,not tested,Calabasas,Los Angeles County,34.139378,-118.65183,
+Las Virgenes Unified,Buttercup Pre-School,6098 Reyes Adobe Rd Agoura Hills CA 91301-1423,,,,not tested,Agoura Hills,Los Angeles County,34.147209000000004,-118.78111799999999,
+Las Virgenes Unified,Calabasas High,22855 West Mulholland Highway Calabasas CA 91302-2047,,,False,tested,Calabasas,Los Angeles County,34.139024,-118.626608,
+Las Virgenes Unified,Indian Hills Continuation High,28545 West Driver Ave Agoura CA 91301-3335,,,,not tested,Agoura Hills,Los Angeles County,34.150409,-118.748907,
+Las Virgenes Unified,Las Virgenes Adult,4111 North Las Virgenes Road Calabasas CA 91302-1929,,,,not tested,Calabasas,Los Angeles County,34.133628,-118.70315500000001,
+Las Virgenes Unified,Lindero Canyon Middle,5844 North Larboard Lane Agoura CA 91301-1423,,,,not tested,Agoura Hills,Los Angeles County,34.157284999999995,-118.786358,
+Las Virgenes Unified,Lupin Hill Elementary,26210 Adamor Road Calabasas CA 91302-1006,,,,not tested,Calabasas,Los Angeles County,34.161613,-118.69855600000001,
+Las Virgenes Unified,Mariposa School of Global Education,6050 North Calmfield Avenue Agoura CA 91301-2104,,,,not tested,Agoura Hills,Los Angeles County,34.161605,-118.756257,
+Las Virgenes Unified,Round Meadow Elementary,5151 Round Meadow Road Calabasas CA 91302-1161,,,False,tested,Calabasas,Los Angeles County,34.154042,-118.66576299999998,
+Las Virgenes Unified,Sumac Elementary,6050 North Calmfield Ave Agoura CA 91301-2104,,,,not tested,Agoura Hills,Los Angeles County,34.161605,-118.756257,
+Las Virgenes Unified,White Oak Elementary,31761 West Village School Road Westlake Village CA 91361-4502,,,,not tested,Westlake Village,Los Angeles County,34.144021,-118.814001,
+Las Virgenes Unified,Yerba Buena Elementary,6098 Reyes Adobe Road Agoura Hills CA 91301-2105,,,,not tested,Agoura Hills,Los Angeles County,34.147209000000004,-118.78111799999999,

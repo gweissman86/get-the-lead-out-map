@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ross Elementary,Ross Elementary,9 Lagunitas Road Ross CA 94957-9661,NA,NA,FALSE,tested,NA,Marin County,37.962278,-122.557187
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ross Elementary,Ross Elementary,9 Lagunitas Road Ross CA 94957-9661,,,False,tested,,Marin County,37.962278000000005,-122.55718700000001,

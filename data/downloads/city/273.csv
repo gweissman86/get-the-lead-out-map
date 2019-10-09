@@ -1,7 +1,30 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Desert Sands Unified,Colonel Mitchell Paige Middle,43-495 Palm Royale Drive La Quinta CA 92253-8178,NA,NA,NA,not tested,La Quinta,Riverside County,33.732107,-116.301506
-Desert Sands Unified,Harry S. Truman Elementary,78-870 Avenue 50 La Quinta CA 92253-2400,NA,NA,FALSE,tested,La Quinta,Riverside County,33.686987,-116.28789
-Desert Sands Unified,Horizon,43-330 Palm Royale Dr. La Quinta CA 92253-8170,NA,NA,NA,not tested,La Quinta,Riverside County,33.7336,-116.300141
-Desert Sands Unified,La Quinta High,79-255 Westward Ho Drive La Quinta CA 92253-4244,NA,NA,NA,not tested,La Quinta,Riverside County,33.713392,-116.281286
-Desert Sands Unified,La Quinta Middle,78-900 Avenue 50 La Quinta CA 92253-2400,NA,NA,FALSE,tested,La Quinta,Riverside County,33.687811,-116.286614
-Desert Sands Unified,Summit High (Continuation) and Horizon,43-330 Palm Royale Drive La Quinta CA 92253-8170,NA,NA,NA,not tested,La Quinta,Riverside County,33.7336,-116.300141
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hacienda la Puente Unified,Baldwin Academy,1616 Griffith Avenue La Puente CA 91744-1237,,,False,tested,La Puente,Los Angeles County,34.048513,-117.94252,
+Bassett Unified,Bassett Adult,934 North Sunkist La Puente CA 91746-1696,,,,not tested,La Puente,Los Angeles County,34.051159999999996,-117.969477,
+Bassett Unified,Bassett Senior High,755 Ardilla Avenue La Puente CA 91746-2163,,,,not tested,La Puente,Los Angeles County,34.051381,-117.97653700000001,
+Hacienda la Puente Unified,California Elementary,1111 California Avenue La Puente CA 91744-1927,,,False,tested,La Puente,Los Angeles County,34.059146999999996,-117.94013600000001,
+Hacienda la Puente Unified,Del Valle Elementary,801 North Del Valle Street La Puente CA 91744-3017,7.2,ppb,True,tested,La Puente,Los Angeles County,34.03273,-117.944076,7.2
+Bassett Unified,Edgewood Academy,14135 East Fairgrove Avenue La Puente CA 91746-1708,,,,not tested,La Puente,Los Angeles County,34.056234,-117.96646499999999,
+Hacienda la Puente Unified,Fairgrove Academy,15540 Fairgrove Avenue La Puente CA 91744-1620,,,False,tested,La Puente,Los Angeles County,34.041876,-117.947406,
+Hacienda la Puente Unified,"Grandview, College Preparatory Academy",795 North Grandview Lane Valinda CA 91744-4259,,,False,tested,La Puente,Los Angeles County,34.031893,-117.924428,
+Hacienda la Puente Unified,Hacienda La Puente Adult Education,14101 East Nelson Ave. La Puente CA 91746-2640,,,,not tested,La Puente,Los Angeles County,34.043299,-117.980571,
+Rowland Unified,Hurley Elementary,535 South Dora Guzman Avenue La Puente CA 91744-5608,,,False,tested,La Puente,Los Angeles County,34.013113,-117.927659,
+Hacienda la Puente Unified,La Puente High,15615 East Nelson Avenue La Puente CA 91744-3910,,,False,tested,La Puente,Los Angeles County,34.024968,-117.955656,
+Hacienda la Puente Unified,Lassalette,14333 Lassalette Street La Puente CA 91744-2441,,,False,tested,La Puente,Los Angeles County,34.044476,-117.971434,
+Hacienda la Puente Unified,Nelson Elementary,330 North California Avenue La Puente CA 91744-3718,5.3,ppb,True,tested,La Puente,Los Angeles County,34.033663,-117.966893,5.3
+Rowland Unified,Nogales High,401 South Nogales Street La Puente CA 91744-6144,,,False,tested,La Puente,Los Angeles County,34.012767,-117.88668799999999,
+Rowland Unified,Northam Elementary,17800 East Renault La Puente CA 91744-5333,,,False,tested,La Puente,Los Angeles County,34.013145,-117.91451399999998,
+Bassett Unified,Nueva Vista Continuation High,904 Willow Avenue La Puente CA 91746-1696,,,,not tested,La Puente,Los Angeles County,34.052406,-117.972381,
+Rowland Unified,Rorimer Elementary,18750 East Rorimer Street La Puente CA 91744-6063,,,False,tested,La Puente,Los Angeles County,34.005813,-117.894181,
+Rowland Unified,Santana High (Continuation),341 South La Seda Road La Puente CA 91744-5980,,,False,tested,La Puente,Los Angeles County,34.01255,-117.89826799999999,
+Hacienda la Puente Unified,Sierra Vista Middle,15801 Sierra Vista Court La Puente CA 91744-4040,,,False,tested,La Puente,Los Angeles County,34.030649,-117.947273,
+Hacienda la Puente Unified,Sparks Elementary,15151 East Temple Avenue La Puente CA 91744-3765,,,False,tested,La Puente,Los Angeles County,34.034596,-117.95906299999999,
+Hacienda la Puente Unified,Sparks Middle,15100 Giordano Street La Puente CA 91744-2718,5.9,ppb,True,tested,La Puente,Los Angeles County,34.035232,-117.95561299999999,5.9
+Bassett Unified,Sunkist Elementary,935 Mayland Avenue La Puente CA 91746-1625,,,,not tested,La Puente,Los Angeles County,34.047764,-117.98221399999998,
+Hacienda la Puente Unified,Sunset Elementary,800 North Tonopah Avenue La Puente CA 91744-2460,,,False,tested,La Puente,Los Angeles County,34.044884,-117.967692,
+Hacienda la Puente Unified,Temple Academy,635 California Avenue La Puente CA 91744-2602,,,False,tested,La Puente,Los Angeles County,34.066259,-117.932599,
+Hacienda la Puente Unified,Valinda School of Academics,1030 Indian Summer Avenue Valinda CA 91744-2333,,,False,tested,La Puente,Los Angeles County,34.037593,-117.929523,
+Rowland Unified,Villacorta Elementary,17840 Villacorta Street La Puente CA 91744-5342,,,False,tested,La Puente,Los Angeles County,34.017551,-117.911493,
+Hacienda la Puente Unified,Willow Adult,14101 East Nelson Avenue La Puente CA 91746-2041,,,False,tested,La Puente,Los Angeles County,34.043299,-117.980571,
+Hacienda la Puente Unified,Workman Elementary,16000 Workman Street La Puente CA 91744-4738,5.9,ppb,True,tested,La Puente,Los Angeles County,34.021617,-117.944493,5.9
+Rowland Unified,Yorbita Elementary,502 South Vidalia Street La Puente CA 91744-5946,,,False,tested,La Puente,Los Angeles County,34.009910999999995,-117.90700700000001,

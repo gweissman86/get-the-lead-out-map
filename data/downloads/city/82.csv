@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mountain Empire Unified,Camp Lockett Middle School,957 Forrest Gate Road Campo CA 91906,NA,NA,NA,not tested,Campo,San Diego County,32.608693,-116.473431
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Campbell Union,Campbell Middle,295 West Cherry Lane Campbell CA 95008-3417,,,False,tested,Campbell,Santa Clara County,37.283434,-121.955564,
+Campbell Union,Capri Elementary,850 Chapman Avenue Campbell CA 95008-6807,,,False,tested,Campbell,Santa Clara County,37.265372,-121.96489299999999,
+Campbell Union,Capri Elementary (Capri Preschool),850 Chapman Ave Campbell CA 95008-6807,,,False,tested,Campbell,Santa Clara County,37.265372,-121.96489299999999,

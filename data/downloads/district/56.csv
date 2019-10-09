@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Bella Vista Elementary,Bella Vista Elementary,22661 Old Alturas Road Bella Vista CA 96008-9792,NA,NA,FALSE,tested,Bella Vista,Shasta County,40.639356,-122.233152
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Bella Vista Elementary,Bella Vista Elementary,22661 Old Alturas Road Bella Vista CA 96008-9792,,,False,tested,Bella Vista,Shasta County,40.639356,-122.233152,

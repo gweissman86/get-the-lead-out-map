@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Dos Palos Oro Loma Joint Unified,Bernhard Marks Elementary,1717 Valeria Street Dos Palos CA 93620-2648,NA,NA,FALSE,tested,NA,Merced County,36.981684,-120.624523
-Dos Palos Oro Loma Joint Unified,Bryant Middle,16695 North Bryant Road Dos Palos CA 93620-9405,NA,NA,FALSE,tested,NA,NA,NA,NA
-Dos Palos Oro Loma Joint Unified,Dos Palos Adult,22368 S Sixth Street South Dos Palos CA 93665,NA,NA,NA,not tested,South Dos Palos,Merced County,36.962083,-120.65382
-Dos Palos Oro Loma Joint Unified,Dos Palos Elementary,2149 Almond Street Dos Palos CA 93620-2305,5.3,ppb,TRUE,tested,NA,Merced County,36.984793,-120.630017
-Dos Palos Oro Loma Joint Unified,Dos Palos High,1701 East Blossom Street Dos Palos CA 93620-2706,7.4,ppb,TRUE,tested,NA,Merced County,36.986451,-120.623816
-Dos Palos Oro Loma Joint Unified,Westside High,22368 South Sixth Street South Dos Palos CA 93665,NA,NA,FALSE,tested,South Dos Palos,Merced County,36.962083,-120.65382
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Dos Palos Oro Loma Joint Unified,Bernhard Marks Elementary,1717 Valeria Street Dos Palos CA 93620-2648,,,False,tested,,Merced County,36.981684,-120.624523,
+Dos Palos Oro Loma Joint Unified,Bryant Middle,16695 North Bryant Road Dos Palos CA 93620-9405,,,False,tested,,,,,
+Dos Palos Oro Loma Joint Unified,Dos Palos Adult,22368 S Sixth Street South Dos Palos CA 93665,,,,not tested,South Dos Palos,Merced County,36.962083,-120.65382,
+Dos Palos Oro Loma Joint Unified,Dos Palos Elementary,2149 Almond Street Dos Palos CA 93620-2305,5.3,ppb,True,tested,,Merced County,36.984792999999996,-120.630017,5.3
+Dos Palos Oro Loma Joint Unified,Dos Palos High,1701 East Blossom Street Dos Palos CA 93620-2706,7.4,ppb,True,tested,,Merced County,36.986451,-120.62381599999999,7.4
+Dos Palos Oro Loma Joint Unified,Westside High,22368 South Sixth Street South Dos Palos CA 93665,,,False,tested,South Dos Palos,Merced County,36.962083,-120.65382,

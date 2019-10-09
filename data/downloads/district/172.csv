@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cottonwood Union Elementary,Cottonwood Creek Charter,3425 Brush Street Cottonwood CA 96022-8808,NA,NA,FALSE,tested,Cottonwood,Shasta County,40.386721,-122.279771
-Cottonwood Union Elementary,North Cottonwood,19920 Gas Point Rd Cottonwood CA 96022-9115,NA,NA,FALSE,tested,Cottonwood,Shasta County,40.390599,-122.315872
-Cottonwood Union Elementary,West Cottonwood Junior High,20512 West First Street Cottonwood CA 96022-8808,NA,NA,FALSE,tested,Cottonwood,Shasta County,40.386243,-122.292086
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Cottonwood Union Elementary,Cottonwood Creek Charter,3425 Brush Street Cottonwood CA 96022-8808,,,False,tested,Cottonwood,Shasta County,40.386721,-122.279771,
+Cottonwood Union Elementary,North Cottonwood,19920 Gas Point Rd Cottonwood CA 96022-9115,,,False,tested,Cottonwood,Shasta County,40.390599,-122.315872,
+Cottonwood Union Elementary,West Cottonwood Junior High,20512 West First Street Cottonwood CA 96022-8808,,,False,tested,Cottonwood,Shasta County,40.386243,-122.29208600000001,

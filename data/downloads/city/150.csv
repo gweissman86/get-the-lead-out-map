@@ -1,5 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Butte Valley Unified,Butte Valley Elementary and Middle School,615 West Third Street Dorris CA 97601,NA,NA,NA,not tested,Dorris,Siskiyou County,41.96399,-121.924187
-Butte Valley Unified,Butte Valley High,615 West Third St Dorris CA 96023-0728,6.3,ppb,TRUE,tested,Dorris,Siskiyou County,41.96399,-121.924187
-Butte Valley Unified,Cascade High,615 West 3rd St Dorris CA 96023-0709,NA,NA,NA,not tested,Dorris,Siskiyou County,41.964188,-121.922629
-Butte Valley Unified,Picard Community Day Elementary,615 West 3 Street Dorris CA 96023,NA,NA,NA,not tested,Dorris,Siskiyou County,41.96399,-121.924187
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Dixon Unified,Anderson (Linford L.) Elementary,415 East C Street Dixon CA 95620-2798,,,False,tested,Dixon,Solano County,38.447567,-121.81838700000002,
+Dixon Unified,C. A. Jacobs Intermediate,200 North Lincoln Street Dixon CA 95620-3209,,,False,tested,Dixon,Solano County,38.446529,-121.836271,
+Dixon Unified,Dixon High,555 College Way Dixon CA 95620-9301,,,False,tested,Dixon,Solano County,38.435601,-121.815997,
+Dixon Unified,Dixon Montessori Charter,355 North Almond Street Dixon CA 95620-2702,,,False,tested,Dixon,Solano County,38.448449,-121.8317,
+Dixon Unified,Gretchen Higgins Elementary,1525 Pembroke Way Dixon CA 95620-4115,,,False,tested,Dixon,Solano County,38.461791999999996,-121.828751,
+Dixon Unified,Maine Prairie High (Continuation),305 East C Street Dixon CA 95620-3019,,,False,tested,Dixon,Solano County,38.447585,-121.819731,
+Dixon Unified,Tremont Elementary,355 Pheasant Run Drive Dixon CA 95620-4219,,,False,tested,Dixon,Solano County,38.449063,-121.84431200000002,

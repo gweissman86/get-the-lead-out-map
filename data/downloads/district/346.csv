@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kerman Unified,Enterprise High,15405 Sunset Avenue Kerman CA 93630-1345,NA,NA,FALSE,tested,Kerman,Fresno County,36.730108,-120.072879
-Kerman Unified,Goldenrod Elementary,445 South Goldenrod Avenue Kerman CA 93630-9212,NA,NA,FALSE,tested,Kerman,Fresno County,36.729182,-120.042479
-Kerman Unified,Kerman High,205 South First Street Kerman CA 93630-1001,NA,NA,FALSE,tested,Kerman,Fresno County,36.732918,-120.065654
-Kerman Unified,Kerman Middle,601 South First Street Kerman CA 93630-1322,NA,NA,FALSE,tested,Kerman,Fresno County,36.725762,-120.066117
-Kerman Unified,Kerman-Floyd Elementary,14655 West F Street Kerman CA 93630-1816,NA,NA,FALSE,tested,Kerman,Fresno County,36.725486,-120.055751
-Kerman Unified,Liberty Elementary,16001 E Street Kerman CA 93630-1290,NA,NA,FALSE,tested,Kerman,Fresno County,36.725439,-120.078751
-Kerman Unified,Sun Empire Elementary,2649 North Modoc Avenue Kerman CA 93630-9430,NA,NA,NA,not tested,Kerman,Fresno County,36.774802,-120.087781
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Kerman Unified,Enterprise High,15405 Sunset Avenue Kerman CA 93630-1345,,,False,tested,Kerman,Fresno County,36.730108,-120.072879,
+Kerman Unified,Goldenrod Elementary,445 South Goldenrod Avenue Kerman CA 93630-9212,,,False,tested,Kerman,Fresno County,36.729182,-120.042479,
+Kerman Unified,Kerman High,205 South First Street Kerman CA 93630-1001,,,False,tested,Kerman,Fresno County,36.732918,-120.06565400000001,
+Kerman Unified,Kerman Middle,601 South First Street Kerman CA 93630-1322,,,False,tested,Kerman,Fresno County,36.725761999999996,-120.06611699999999,
+Kerman Unified,Kerman-Floyd Elementary,14655 West F Street Kerman CA 93630-1816,,,False,tested,Kerman,Fresno County,36.725486,-120.055751,
+Kerman Unified,Liberty Elementary,16001 E Street Kerman CA 93630-1290,,,False,tested,Kerman,Fresno County,36.725439,-120.078751,
+Kerman Unified,Sun Empire Elementary,2649 North Modoc Avenue Kerman CA 93630-9430,,,,not tested,Kerman,Fresno County,36.774802,-120.087781,

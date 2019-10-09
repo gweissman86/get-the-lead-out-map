@@ -1,15 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lincoln Unified,Brookside,2962 Brookside Road Stockton CA 95219-7901,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.976142,-121.349588
-Lincoln Unified,Claudia Landeen,4128 Feather River Drive Stockton CA 95219-6541,28,ppb,TRUE,tested,Stockton,San Joaquin County,37.980968,-121.34449
-Lincoln Unified,Colonial Heights,8135 Balboa Avenue Stockton CA 95209-2920,9.4,ppb,TRUE,tested,Stockton,San Joaquin County,38.023372,-121.335231
-Lincoln Unified,Don Riggio,3110 Brookside Road Stockton CA 95219-2357,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.978666,-121.352478
-Lincoln Unified,John McCandless Charter,1700 Porter Way Stockton CA 95207-4129,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.002605,-121.331241
-Lincoln Unified,John McCandless Charter 4-8,2020 W Swain Stockton CA 95207,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.000042,-121.335206
-Lincoln Unified,John McCandless Riverbrook,4811 Riverbrook Drive Stockton CA 95219,NA,NA,FALSE,tested,Stockton,San Joaquin County,37.978706,-121.366931
-Lincoln Unified,John R. Williams,2450 Meadow Avenue Stockton CA 95207-1331,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.017871,-121.345931
-Lincoln Unified,Lincoln High,6844 Alexandria Place Stockton CA 95207-2401,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.011185,-121.337959
-Lincoln Unified,Mable Barron,6835 Cumberland Place Stockton CA 95219-3238,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.007757,-121.364259
-Lincoln Unified,Sierra Middle,6768 Alexandria Place Stockton CA 95207-3407,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.0087,-121.337576
-Lincoln Unified,Sture Larsson High,1813 McClellan Way Stockton CA 95219,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.007884,-121.33443
-Lincoln Unified,Tully C. Knoles,6511 Clarksburg Place Stockton CA 95207-3222,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.00281,-121.344413
-Lincoln Unified,Village Oaks High School,1900 West Swain Stockton CA 95207-3439,NA,NA,FALSE,tested,Stockton,San Joaquin County,38.00073,-121.333614
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lincoln Unified,Brookside,2962 Brookside Road Stockton CA 95219-7901,,,False,tested,Stockton,San Joaquin County,37.976141999999996,-121.34958799999998,
+Lincoln Unified,Claudia Landeen,4128 Feather River Drive Stockton CA 95219-6541,28.0,ppb,True,tested,Stockton,San Joaquin County,37.980968,-121.34449,28.0
+Lincoln Unified,Colonial Heights,8135 Balboa Avenue Stockton CA 95209-2920,9.4,ppb,True,tested,Stockton,San Joaquin County,38.023371999999995,-121.33523100000001,9.4
+Lincoln Unified,Don Riggio,3110 Brookside Road Stockton CA 95219-2357,,,False,tested,Stockton,San Joaquin County,37.978666,-121.352478,
+Lincoln Unified,John McCandless Charter,1700 Porter Way Stockton CA 95207-4129,,,False,tested,Stockton,San Joaquin County,38.002604999999996,-121.33124099999999,
+Lincoln Unified,John McCandless Charter 4-8,2020 W Swain Stockton CA 95207,,,False,tested,Stockton,San Joaquin County,38.000042,-121.335206,
+Lincoln Unified,John McCandless Riverbrook,4811 Riverbrook Drive Stockton CA 95219,,,False,tested,Stockton,San Joaquin County,37.978706,-121.36693100000001,
+Lincoln Unified,John R. Williams,2450 Meadow Avenue Stockton CA 95207-1331,,,False,tested,Stockton,San Joaquin County,38.017871,-121.34593100000001,
+Lincoln Unified,Lincoln High,6844 Alexandria Place Stockton CA 95207-2401,,,False,tested,Stockton,San Joaquin County,38.011185,-121.33795900000001,
+Lincoln Unified,Mable Barron,6835 Cumberland Place Stockton CA 95219-3238,,,False,tested,Stockton,San Joaquin County,38.007757,-121.364259,
+Lincoln Unified,Sierra Middle,6768 Alexandria Place Stockton CA 95207-3407,,,False,tested,Stockton,San Joaquin County,38.0087,-121.337576,
+Lincoln Unified,Sture Larsson High,1813 McClellan Way Stockton CA 95219,,,False,tested,Stockton,San Joaquin County,38.007884000000004,-121.33443,
+Lincoln Unified,Tully C. Knoles,6511 Clarksburg Place Stockton CA 95207-3222,,,False,tested,Stockton,San Joaquin County,38.00281,-121.34441299999999,
+Lincoln Unified,Village Oaks High School,1900 West Swain Stockton CA 95207-3439,,,False,tested,Stockton,San Joaquin County,38.00073,-121.33361399999998,

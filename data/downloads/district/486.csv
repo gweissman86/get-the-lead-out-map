@@ -1,24 +1,24 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Monterey Peninsula Unified,Central Coast High,200 Coe Avenue Seaside CA 93955-6588,NA,NA,FALSE,tested,Seaside,Monterey County,36.629847,-121.835494
-Monterey Peninsula Unified,Del Rey Woods Elementary,1281 Plumas Avenue Seaside CA 93955-6202,12,ppb,TRUE,tested,Del Rey Oaks,Monterey County,36.598271,-121.839562
-Monterey Peninsula Unified,Dual Language Academy of the Monterey Peninsula,225 Normandy Road Seaside CA 93955-6396,6,ppb,TRUE,tested,Seaside,Monterey County,36.637694,-121.812843
-Monterey Peninsula Unified,Foothill Elementary,1700 Via Casoli Monterey CA 93940-6442,NA,NA,FALSE,tested,Monterey,Monterey County,36.577727,-121.855128
-Monterey Peninsula Unified,George C. Marshall Elementary,300 Normandy Road Seaside CA 93955-6773,NA,NA,FALSE,tested,Seaside,Monterey County,36.637804,-121.813008
-Monterey Peninsula Unified,Highland Elementary School,1650 Sonoma Ave Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.604808,-121.829123
-Monterey Peninsula Unified,Instructional Materials Center,540 Canyon Del Rey Del Rey Oaks CA 93940,NA,NA,FALSE,tested,Del Rey Oaks,Monterey County,36.585829,-121.82765
-Monterey Peninsula Unified,International School of Monterey,1720 Yosemite Street Seaside CA 93955-3914,NA,NA,FALSE,tested,Seaside,Monterey County,36.612793,-121.826853
-Monterey Peninsula Unified,Ione Olson Elementary,261 Beach Road Marina CA 93933-2623,NA,NA,FALSE,tested,Marina,Monterey County,36.69225,-121.794886
-Monterey Peninsula Unified,J. C. Crumpton Elementary,460 Carmel Avenue Marina CA 93933-3322,NA,NA,FALSE,tested,Marina,Monterey County,36.676969,-121.787537
-Monterey Peninsula Unified,King Elementary School,1713 Broadway Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.609476,-121.827139
-Monterey Peninsula Unified,La Mesa Elementary,1 La Mesa Way Monterey CA 93940-4894,NA,NA,FALSE,tested,Monterey,Monterey County,36.58165,-121.879046
-Monterey Peninsula Unified,Los Arboles Middle,294 Hillcrest Avenue Marina CA 93933-3507,NA,NA,FALSE,tested,Marina,Monterey County,36.681821,-121.802937
-Monterey Peninsula Unified,Marina Childrens Center,3066 Lake Drive Marina CA 93933-2805,NA,NA,FALSE,tested,Marina,Monterey County,36.684642,-121.806633
-Monterey Peninsula Unified,Marina High,298 Patton Parkway Marina CA 93933-6007,NA,NA,FALSE,tested,Marina,Monterey County,36.674621,-121.797654
-Monterey Peninsula Unified,Marina Vista Elementary,390 Carmel Avenue Marina CA 93933-3223,NA,NA,FALSE,tested,Marina,Monterey County,36.676969,-121.787537
-Monterey Peninsula Unified,Monte Vista,251 Soledad Drive Monterey CA 93940-4848,NA,NA,FALSE,tested,Monterey,Monterey County,36.589033,-121.90781
-Monterey Peninsula Unified,Monterey High,101 Herrmann Drive Monterey CA 93940-2538,6,ppb,TRUE,tested,Monterey,Monterey County,36.595115,-121.900182
-Monterey Peninsula Unified,Ord Terrace Elementary,1755 La Salle Avenue Seaside CA 93955-4122,NA,NA,FALSE,tested,Seaside,Monterey County,36.616713,-121.826425
-Monterey Peninsula Unified,Seaside Children’s Center,1450 Elm Avenue Seaside CA 93955,NA,NA,FALSE,tested,Seaside,Monterey County,36.607373,-121.834915
-Monterey Peninsula Unified,Seaside High,2200 Noche Buena Street Seaside CA 93955-3145,NA,NA,FALSE,tested,Seaside,Monterey County,36.621703,-121.837876
-Monterey Peninsula Unified,Seaside Middle,999 Coe Avenue Seaside CA 93955-6589,6,ppb,TRUE,tested,Seaside,Monterey County,36.621747,-121.822836
-Monterey Peninsula Unified,Walter Colton,100 Toda Vista Drive Monterey CA 93940-4237,6,ppb,TRUE,tested,Monterey,Monterey County,36.591627,-121.91333
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Monterey Peninsula Unified,Central Coast High,200 Coe Avenue Seaside CA 93955-6588,,,False,tested,Seaside,Monterey County,36.629847,-121.835494,
+Monterey Peninsula Unified,Del Rey Woods Elementary,1281 Plumas Avenue Seaside CA 93955-6202,12.0,ppb,True,tested,Del Rey Oaks,Monterey County,36.598271000000004,-121.83956200000002,12.0
+Monterey Peninsula Unified,Dual Language Academy of the Monterey Peninsula,225 Normandy Road Seaside CA 93955-6396,6.0,ppb,True,tested,Seaside,Monterey County,36.637694,-121.81284299999999,6.0
+Monterey Peninsula Unified,Foothill Elementary,1700 Via Casoli Monterey CA 93940-6442,,,False,tested,Monterey,Monterey County,36.577727,-121.85512800000001,
+Monterey Peninsula Unified,George C. Marshall Elementary,300 Normandy Road Seaside CA 93955-6773,,,False,tested,Seaside,Monterey County,36.637803999999996,-121.81300800000001,
+Monterey Peninsula Unified,Highland Elementary School,1650 Sonoma Ave Seaside CA 93955,,,False,tested,Seaside,Monterey County,36.604808,-121.829123,
+Monterey Peninsula Unified,Instructional Materials Center,540 Canyon Del Rey Del Rey Oaks CA 93940,,,False,tested,Del Rey Oaks,Monterey County,36.585829,-121.82765,
+Monterey Peninsula Unified,International School of Monterey,1720 Yosemite Street Seaside CA 93955-3914,,,False,tested,Seaside,Monterey County,36.612792999999996,-121.826853,
+Monterey Peninsula Unified,Ione Olson Elementary,261 Beach Road Marina CA 93933-2623,,,False,tested,Marina,Monterey County,36.69225,-121.794886,
+Monterey Peninsula Unified,J. C. Crumpton Elementary,460 Carmel Avenue Marina CA 93933-3322,,,False,tested,Marina,Monterey County,36.676969,-121.78753700000001,
+Monterey Peninsula Unified,King Elementary School,1713 Broadway Seaside CA 93955,,,False,tested,Seaside,Monterey County,36.609476,-121.82713899999999,
+Monterey Peninsula Unified,La Mesa Elementary,1 La Mesa Way Monterey CA 93940-4894,,,False,tested,Monterey,Monterey County,36.58165,-121.879046,
+Monterey Peninsula Unified,Los Arboles Middle,294 Hillcrest Avenue Marina CA 93933-3507,,,False,tested,Marina,Monterey County,36.681821,-121.80293700000001,
+Monterey Peninsula Unified,Marina Childrens Center,3066 Lake Drive Marina CA 93933-2805,,,False,tested,Marina,Monterey County,36.684642,-121.806633,
+Monterey Peninsula Unified,Marina High,298 Patton Parkway Marina CA 93933-6007,,,False,tested,Marina,Monterey County,36.674621,-121.79765400000001,
+Monterey Peninsula Unified,Marina Vista Elementary,390 Carmel Avenue Marina CA 93933-3223,,,False,tested,Marina,Monterey County,36.676969,-121.78753700000001,
+Monterey Peninsula Unified,Monte Vista,251 Soledad Drive Monterey CA 93940-4848,,,False,tested,Monterey,Monterey County,36.589033,-121.90781000000001,
+Monterey Peninsula Unified,Monterey High,101 Herrmann Drive Monterey CA 93940-2538,6.0,ppb,True,tested,Monterey,Monterey County,36.595115,-121.900182,6.0
+Monterey Peninsula Unified,Ord Terrace Elementary,1755 La Salle Avenue Seaside CA 93955-4122,,,False,tested,Seaside,Monterey County,36.616713,-121.826425,
+Monterey Peninsula Unified,Seaside Children’s Center,1450 Elm Avenue Seaside CA 93955,,,False,tested,Seaside,Monterey County,36.607372999999995,-121.834915,
+Monterey Peninsula Unified,Seaside High,2200 Noche Buena Street Seaside CA 93955-3145,,,False,tested,Seaside,Monterey County,36.621703000000004,-121.837876,
+Monterey Peninsula Unified,Seaside Middle,999 Coe Avenue Seaside CA 93955-6589,6.0,ppb,True,tested,Seaside,Monterey County,36.621747,-121.82283600000001,6.0
+Monterey Peninsula Unified,Walter Colton,100 Toda Vista Drive Monterey CA 93940-4237,6.0,ppb,True,tested,Monterey,Monterey County,36.591627,-121.91333,6.0

@@ -1,3 +1,4 @@
+
 29 Palms
 Acton
 Adelanto
@@ -362,7 +363,6 @@ Mount Shasta
 Mountain View
 Murphys
 Murrieta
-NA
 Napa
 National City
 Needles

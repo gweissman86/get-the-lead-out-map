@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cucamonga Elementary,Cucamonga Elementary,8677 Archibald Avenue Rancho Cucamonga CA 91730-4634,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.095222,-117.593345
-Cucamonga Elementary,Los Amigos Elementary,8496 Ninth Street Rancho Cucamonga CA 91730-5014,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.096264,-117.620439
-Cucamonga Elementary,Rancho Cucamonga Middle,10022 Feron Boulevard Rancho Cucamonga CA 91730-5233,NA,NA,FALSE,tested,Rancho Cucamonga,San Bernardino County,34.093906,-117.585652
-Cucamonga Elementary,The Ontario Center,835 North Center Avenue Ontario CA 91764-4841,NA,NA,NA,not tested,Ontario,San Bernardino County,34.073118,-117.580885
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Cucamonga Elementary,Cucamonga Elementary,8677 Archibald Avenue Rancho Cucamonga CA 91730-4634,,,False,tested,Rancho Cucamonga,San Bernardino County,34.095222,-117.593345,
+Cucamonga Elementary,Los Amigos Elementary,8496 Ninth Street Rancho Cucamonga CA 91730-5014,,,False,tested,Rancho Cucamonga,San Bernardino County,34.096264,-117.62043899999999,
+Cucamonga Elementary,Rancho Cucamonga Middle,10022 Feron Boulevard Rancho Cucamonga CA 91730-5233,,,False,tested,Rancho Cucamonga,San Bernardino County,34.093906,-117.585652,
+Cucamonga Elementary,The Ontario Center,835 North Center Avenue Ontario CA 91764-4841,,,,not tested,Ontario,San Bernardino County,34.073118,-117.58088500000001,

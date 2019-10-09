@@ -1,13 +1,13 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Riverside County Office of Education,Come Back Kids,3939 13th Street Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside County Office of Education,Gateway College and Career Academy,4800 Magnolia Avenue Riverside CA 92506-1201,NA,NA,NA,not tested,Riverside,Riverside County,33.971585,-117.384569
-Riverside County Office of Education,Grindstaff School (RCOE),9825 County Farm Rd. Riverside CA Riverside,NA,NA,FALSE,tested,Riverside,Riverside County,33.920068,-117.454501
-Riverside County Office of Education,"Imagine Schools, Riverside County",84-090 Avenue 50 Coachella CA 92236-9663,NA,NA,FALSE,tested,Coachella,Riverside County,33.686648,-116.197744
-Riverside County Office of Education,Preschool Grasp,3939 13th Street B Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside County Office of Education,Regional Learning Center,6511 Arlington Avenue Riverside CA 92504,NA,NA,FALSE,tested,Riverside,Riverside County,33.945983,-117.440818
-Riverside County Office of Education,River Springs Charter,43466 Business Park Drive Temecula CA 92590-5526,NA,NA,NA,not tested,Temecula,Riverside County,33.497809,-117.16159
-Riverside County Office of Education,Riverside County Community,3939 13th Street C Riverside CA 92501-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside County Office of Education,Riverside County Education Academy,13730 Perris Boulevard Moreno Valley CA 92553-4302,NA,NA,FALSE,tested,Moreno Valley,Riverside County,33.921755,-117.226298
-Riverside County Office of Education,Riverside County Juvenile Court,3939 13th Street D Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside County Office of Education,Riverside County Office of Education,1193 W. Wilson Street Banning CA 92220,28,ppb,TRUE,tested,Banning,Riverside County,33.932556,-116.889256
-Riverside County Office of Education,Riverside County Special Education,3939 13th Street E Riverside CA 92502-0868,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Riverside County Office of Education,Come Back Kids,3939 13th Street Riverside CA 92501-3505,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside County Office of Education,Gateway College and Career Academy,4800 Magnolia Avenue Riverside CA 92506-1201,,,,not tested,Riverside,Riverside County,33.971585,-117.384569,
+Riverside County Office of Education,Grindstaff School (RCOE),9825 County Farm Rd. Riverside CA Riverside,,,False,tested,Riverside,Riverside County,33.920068,-117.45450100000001,
+Riverside County Office of Education,"Imagine Schools, Riverside County",84-090 Avenue 50 Coachella CA 92236-9663,,,False,tested,Coachella,Riverside County,33.686648,-116.197744,
+Riverside County Office of Education,Preschool Grasp,3939 13th Street B Riverside CA 92502-0868,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside County Office of Education,Regional Learning Center,6511 Arlington Avenue Riverside CA 92504,,,False,tested,Riverside,Riverside County,33.945983,-117.440818,
+Riverside County Office of Education,River Springs Charter,43466 Business Park Drive Temecula CA 92590-5526,,,,not tested,Temecula,Riverside County,33.497809000000004,-117.16158999999999,
+Riverside County Office of Education,Riverside County Community,3939 13th Street C Riverside CA 92501-3505,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside County Office of Education,Riverside County Education Academy,13730 Perris Boulevard Moreno Valley CA 92553-4302,,,False,tested,Moreno Valley,Riverside County,33.921755,-117.226298,
+Riverside County Office of Education,Riverside County Juvenile Court,3939 13th Street D Riverside CA 92502-0868,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside County Office of Education,Riverside County Office of Education,1193 W. Wilson Street Banning CA 92220,28.0,ppb,True,tested,Banning,Riverside County,33.932556,-116.889256,29.0
+Riverside County Office of Education,Riverside County Special Education,3939 13th Street E Riverside CA 92502-0868,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,

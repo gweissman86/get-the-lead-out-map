@@ -1,9 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Reef-Sunset Unified,Avenal Elementary,500 South First Avenue Avenal CA 93204-1501,NA,NA,FALSE,tested,Avenal,Kings County,36.003548,-120.138292
-Reef-Sunset Unified,Avenal High,601 Mariposa Street Avenal CA 93204-1413,9.6,ppb,TRUE,tested,Avenal,Kings County,36.009474,-120.129994
-Reef-Sunset Unified,Reef Sunset Middle,608 North First Avenue Avenal CA 93204-1071,14,ppb,TRUE,tested,Avenal,Kings County,36.012199,-120.139396
-Reef-Sunset Unified,Reef-Sunset Adult Education,205 North Park Avenue Avenal CA 93204-1425,NA,NA,NA,not tested,Avenal,Kings County,36.009495,-120.125394
-Reef-Sunset Unified,Reef-Sunset Primary Community Day,500 South First Street Avenal CA 93204-1558,NA,NA,NA,not tested,Avenal,Kings County,36.003548,-120.138292
-Reef-Sunset Unified,Reef-Sunset Secondary Community Day,861 Monterey Street Avenal CA 93204-1425,NA,NA,FALSE,tested,Avenal,Kings County,36.008068,-120.12489
-Reef-Sunset Unified,Sunrise High (Continuation),209 North Park Avenue Avenal CA 93204-1425,10,ppb,TRUE,tested,Avenal,Kings County,36.009514,-120.12539
-Reef-Sunset Unified,Tamarack Elementary,1000 Union Avenue Avenal CA 93204-2046,7.3,ppb,TRUE,tested,Avenal,Kings County,35.998374,-120.124868
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Long Beach Unified,Avalon K-12,200 Falls Canyon Road Santa Catalina CA 90704-0557,,,False,tested,Avalon,Los Angeles County,33.338403,-118.33193,

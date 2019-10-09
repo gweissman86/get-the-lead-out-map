@@ -1,4 +1,11 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Las Lomitas Elementary,Las Lomitas Elementary,299 Alameda de Las Pulgas Atherton CA 94027-6469,24.8,ppb,TRUE,tested,Atherton,San Mateo County,37.438134,-122.212373
-Menlo Park City Elementary,Laurel Elementary,95 Edge Road Atherton CA 94027-2254,NA,NA,NA,not tested,Atherton,San Mateo County,37.466811,-122.17188
-Redwood City Elementary,Selby Lane Elementary,170 Selby Lane Atherton CA 94027-3960,17.65,ppb,TRUE,tested,Atherton,San Mateo County,37.458115,-122.22021
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Atascadero Unified,Atascadero High,1 High School Hill Atascadero CA 93422-4189,,,False,tested,Atascadero,San Luis Obispo County,35.484453,-120.672294,
+Atascadero Unified,Atascadero Middle,6501 Lewis Avenue Atascadero CA 93422-4222,,,False,tested,Atascadero,San Luis Obispo County,35.490643,-120.666678,
+Atascadero Unified,Fine Arts Academy,6100 Olmeda Avenue Atascadero CA 93422-4204,,,False,tested,Atascadero,San Luis Obispo County,35.490922999999995,-120.667824,
+Atascadero Unified,Monterey Road Elementary,3355 Monterey Road Atascadero CA 93422-1869,,,False,tested,Atascadero,San Luis Obispo County,35.499491,-120.69223999999998,
+Atascadero Unified,Paloma Creek High ACE,10801 El Camino Real Atascadero CA 93422,,,False,tested,Atascadero,San Luis Obispo County,35.458265000000004,-120.63847,
+Atascadero Unified,San Benito Elementary,4300 San Benito Road Atascadero CA 93422-1938,10.0,ppb,True,tested,Atascadero,San Luis Obispo County,35.515136,-120.68521799999999,10.0
+Atascadero Unified,San Gabriel Elementary,8500 San Gabriel Road Atascadero CA 93422-4940,,,False,tested,Atascadero,San Luis Obispo County,35.458446,-120.66431299999999,
+Atascadero Unified,Santa Rosa Road Academic Academy,8655 Santa Rosa Road Atascadero CA 93422-4910,,,False,tested,Atascadero,San Luis Obispo County,35.465059000000004,-120.655805,
+Atascadero Unified,Student Inverention Services,Atascadero Adult Education Atascadero CA 93422,15.0,ppb,True,tested,Atascadero,San Luis Obispo County,35.513556,-120.686824,15.0
+Atascadero Unified,Technology,5601 West Mall Atascadero CA 93422,5.6,ppb,True,tested,Atascadero,San Luis Obispo County,35.492182,-120.66506100000001,5.6

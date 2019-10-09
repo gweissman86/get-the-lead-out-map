@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Douglas City Elementary,Douglas City Elementary,100 School Road Douglas City CA 96024-0280,NA,NA,FALSE,tested,Douglas City,Trinity County,40.655649,-122.954266
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Douglas City Elementary,Douglas City Elementary,100 School Road Douglas City CA 96024-0280,,,False,tested,Douglas City,Trinity County,40.655649,-122.95426599999999,

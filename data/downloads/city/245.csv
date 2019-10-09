@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-"Igo, Ono, Platina Union Elementary",Igo-Ono Elementary,6429 Placer Street Igo CA 96047,6.36,ppb,TRUE,tested,Igo,Shasta County,40.503335,-122.54058
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hemet Unified,Idyllwild,26700 State Highway 243 Idyllwild CA 92549-0097,,,,not tested,Idyllwild-Pine Cove,Riverside County,33.738234000000006,-116.7205,

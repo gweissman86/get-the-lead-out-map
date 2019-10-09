@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Castaic Union,Castaic Elementary,30455 Park Vista Drive Castaic CA 91384-3728,NA,NA,FALSE,tested,NA,Los Angeles County,34.471193,-118.630218
-Castaic Union,Castaic Middle,28900 Hillcrest Parkway Castaic CA 91384-3759,NA,NA,FALSE,tested,Castaic,Los Angeles County,34.470745,-118.640074
-Castaic Union,Live Oak Elementary,27715 Saddleridge Road Castaic CA 91384-3528,NA,NA,FALSE,tested,Castaic,Los Angeles County,34.45063,-118.620158
-Castaic Union,Northlake Hills Elementary,32545 Ridge Route Road Castaic CA 91384-4133,NA,NA,FALSE,tested,NA,Los Angeles County,34.506927,-118.625029
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Castaic Union,Castaic Elementary,30455 Park Vista Drive Castaic CA 91384-3728,,,False,tested,,Los Angeles County,34.471193,-118.630218,
+Castaic Union,Castaic Middle,28900 Hillcrest Parkway Castaic CA 91384-3759,,,False,tested,Castaic,Los Angeles County,34.470745,-118.640074,
+Castaic Union,Live Oak Elementary,27715 Saddleridge Road Castaic CA 91384-3528,,,False,tested,Castaic,Los Angeles County,34.45063,-118.620158,
+Castaic Union,Northlake Hills Elementary,32545 Ridge Route Road Castaic CA 91384-4133,,,False,tested,,Los Angeles County,34.506927000000005,-118.625029,

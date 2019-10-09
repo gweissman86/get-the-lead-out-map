@@ -1,4 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Amador County Unified,Argonaut High,501 Argonaut Lane Jackson CA 95642-2020,NA,NA,FALSE,tested,Jackson,Amador County,38.363358,-120.790022
-Amador County Unified,Jackson Elementary,220 Church Street Jackson CA 95642-2020,NA,NA,FALSE,tested,Jackson,Amador County,38.350674,-120.773161
-Amador County Unified,Jackson Junior High,747 Sutter Street Jackson CA 95642-2020,NA,NA,FALSE,tested,Jackson,Amador County,38.353365,-120.780072
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+River Delta Joint Unified,Isleton Elementary,412 Union Street PO Box 728 Isleton CA 95641-0728,,,False,tested,Isleton,Sacramento County,38.161626,-121.60866000000001,

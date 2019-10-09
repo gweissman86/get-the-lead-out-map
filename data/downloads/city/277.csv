@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Saddleback Valley Unified,Laguna Hills High,25401 Paseo de Valencia Laguna Hills CA 92653-5395,NA,NA,NA,not tested,Laguna Hills,Orange County,33.60586,-117.705084
-Saddleback Valley Unified,Laguna Hills HS,"25401 Paseo De Valencia, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.60586,-117.705084
-Saddleback Valley Unified,Lomarena Elem.,"25100 Earhart Rd, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.595578,-117.691131
-Saddleback Valley Unified,Lomarena Elementary,25100 Earhart Road Laguna Hills CA 92653-5257,NA,NA,NA,not tested,Laguna Hills,Orange County,33.595578,-117.691131
-Saddleback Valley Unified,San Joaquin Elementary,22182 Barbera Laguna Hills CA 92653-1899,NA,NA,FALSE,tested,Laguna Hills,Orange County,33.617322,-117.742621
-Saddleback Valley Unified School Distict,San Joaquin Elementary School,"22182 Barbera, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.617858,-117.742621
-Saddleback Valley Unified,Valencia Elem.,"25661 Paseo De Valencia, Laguna Hills, CA 92653",NA,NA,NA,exempt,Laguna Hills,Orange County,33.60586,-117.705084
-Saddleback Valley Unified,Valencia Elementary,25661 Paseo de Valencia Laguna Hills CA 92653-5308,NA,NA,NA,not tested,Laguna Hills,Orange County,33.60586,-117.705084
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Laguna Beach Unified,El Morro Elementary,"8681 N Coast Hwy, Laguna Beach, CA 92651",,,,exempt,Laguna Beach,Orange County,33.5481,-117.79936299999999,
+Laguna Beach Unified,El Morro Elementary,8681 North Coast Highway Laguna Beach CA 92651-1032,,,,not tested,Laguna Beach,Orange County,33.5481,-117.79936299999999,
+Laguna Beach Unified,Laguna Beach High,625 Park Avenue Laguna Beach CA 92651-2340,,,,not tested,Laguna Beach,Orange County,33.540372,-117.77606899999999,
+Laguna Beach Unified,Laguna Beach High School,"625 Park Ave, Laguna Beach, CA 92651",,,,exempt,Laguna Beach,Orange County,33.540372,-117.77606899999999,
+Laguna Beach Unified,Thurston Middle,2100 Park Avenue Laguna Beach CA 92651-2240,,,,not tested,Laguna Beach,Orange County,33.549113,-117.76416599999999,
+Laguna Beach Unified,Thurston Middle School,"2100 Park Ave, Laguna Beach, CA 92651",,,,exempt,Laguna Beach,Orange County,33.549113,-117.76416599999999,
+Laguna Beach Unified,Top of the World Elementary,"21601 Treetop Ln, Laguna Beach, CA 92651",,,,exempt,Laguna Beach,Orange County,33.545141,-117.751971,
+Laguna Beach Unified,Top of the World Elementary,21601 Tree Top Lane Laguna Beach CA 92651-2099,,,,not tested,Laguna Beach,Orange County,33.545524,-117.751778,

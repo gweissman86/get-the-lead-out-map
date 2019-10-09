@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Marin County Office of Education,Grant Grover School,800 College Ave Kenfield CA 94904,13,ppb,TRUE,tested,Kentfield,Marin County,37.952654,-122.549027
-Marin County Office of Education,Magnolia Park School,20 Jeanette Prandi Way San Rafael CA 94903,NA,NA,FALSE,tested,San Rafael,Marin County,38.028917,-122.567095
-Marin County Office of Education,Marin County Juvenile Court,16 Jeannette Prandi Way San Rafael CA 94903,NA,NA,NA,not tested,San Rafael,Marin County,38.026756,-122.568784
-Marin County Office of Education,Marin County Special Education,1111 Las Gallinas Ave San Rafael CA 94913-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.013361,-122.549527
-Marin County Office of Education,Marin's Community,1111 Las Gallinas Avenue B San Rafael CA 94903-1843,NA,NA,FALSE,tested,San Rafael,Marin County,38.013512,-122.550267
-Marin County Office of Education,Marindale School,850 Del Ganado San Rafael CA 94903,NA,NA,FALSE,tested,San Rafael,Marin County,38.017743,-122.568073
-Marin County Office of Education,Phoenix Academy,1111 Las Gallinas Avenue C San Rafael CA 94903-1843,NA,NA,NA,not tested,San Rafael,Marin County,38.013512,-122.550267
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Marin County Office of Education,Grant Grover School,800 College Ave Kenfield CA 94904,13.0,ppb,True,tested,Kentfield,Marin County,37.952653999999995,-122.549027,13.0
+Marin County Office of Education,Magnolia Park School,20 Jeanette Prandi Way San Rafael CA 94903,,,False,tested,San Rafael,Marin County,38.028917,-122.567095,
+Marin County Office of Education,Marin County Juvenile Court,16 Jeannette Prandi Way San Rafael CA 94903,,,,not tested,San Rafael,Marin County,38.026756,-122.56878400000001,
+Marin County Office of Education,Marin County Special Education,1111 Las Gallinas Ave San Rafael CA 94913-1843,,,,not tested,San Rafael,Marin County,38.013360999999996,-122.549527,
+Marin County Office of Education,Marin's Community,1111 Las Gallinas Avenue B San Rafael CA 94903-1843,,,False,tested,San Rafael,Marin County,38.013512,-122.55026699999999,
+Marin County Office of Education,Marindale School,850 Del Ganado San Rafael CA 94903,,,False,tested,San Rafael,Marin County,38.017742999999996,-122.568073,
+Marin County Office of Education,Phoenix Academy,1111 Las Gallinas Avenue C San Rafael CA 94903-1843,,,,not tested,San Rafael,Marin County,38.013512,-122.55026699999999,

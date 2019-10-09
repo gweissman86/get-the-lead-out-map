@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Westmorland Union Elementary,Westmorland Elementary,200 South C Street Westmorland CA 92281-0088,NA,NA,FALSE,tested,Westmorland,Imperial County,33.03511,-115.618703
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Westmorland Union Elementary,Westmorland Elementary,200 South C Street Westmorland CA 92281-0088,,,False,tested,Westmorland,Imperial County,33.035109999999996,-115.618703,

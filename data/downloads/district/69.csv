@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Big Oak Flat-Groveland Unified,Don Pedro High,3090 Merced Falls Road La Grange CA 95329-1397,NA,NA,NA,not tested,La Grange,Tuolumne County,37.681076,-120.324146
-Big Oak Flat-Groveland Unified,Tenaya Elementary,19177 Highwy 120 Groveland CA 95321-1397,NA,NA,FALSE,tested,Groveland,Tuolumne County,37.834815,-120.22105
-Big Oak Flat-Groveland Unified,Tioga High,19304 Ferretti Road Groveland CA 95321-9338,NA,NA,FALSE,tested,NA,Tuolumne County,37.865361,-120.223862
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Big Oak Flat-Groveland Unified,Don Pedro High,3090 Merced Falls Road La Grange CA 95329-1397,,,,not tested,La Grange,Tuolumne County,37.681076000000004,-120.324146,
+Big Oak Flat-Groveland Unified,Tenaya Elementary,19177 Highwy 120 Groveland CA 95321-1397,,,False,tested,Groveland,Tuolumne County,37.834815,-120.22105,
+Big Oak Flat-Groveland Unified,Tioga High,19304 Ferretti Road Groveland CA 95321-9338,,,False,tested,,Tuolumne County,37.865361,-120.22386200000001,

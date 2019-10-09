@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Columbine Elementary,Columbine Elementary,2240 Road 160 Delano CA 93215-9420,NA,NA,NA,not tested,Delano,Tulare County,35.830602,-119.213361
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Columbine Elementary,Columbine Elementary,2240 Road 160 Delano CA 93215-9420,,,,not tested,Delano,Tulare County,35.830602,-119.213361,

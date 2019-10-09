@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Palermo Union Elementary,Golden Hills Elementary,2400 Via Canela Oroville CA 95966-7200,NA,NA,FALSE,tested,NA,Butte County,39.473314,-121.538298
-Palermo Union Elementary,Helen M. Wilcox Elementary,5737 Autrey Lane Oroville CA 95966-7278,NA,NA,FALSE,tested,NA,Butte County,39.475424,-121.535715
-Palermo Union Elementary,Palermo,7350 Bulldog Way Palermo CA 95968-9700,NA,NA,FALSE,tested,NA,Butte County,39.435879,-121.546233
-Palermo Union Elementary,Palermo Special Education Preschool,7390 Bulldog Way Palermo CA 95968-9700,NA,NA,FALSE,tested,NA,Butte County,39.43626,-121.546222
-Palermo Union Elementary,Palermo Union Community Day (5-8),7350 Bulldog Way Palermo CA 95968-9700,NA,NA,NA,not tested,NA,Butte County,39.435879,-121.546233
-Palermo Union Elementary,Palermo Union Community Day (K-8),7350 Bulldog Way Palermo CA 95968-9700,NA,NA,NA,not tested,NA,Butte County,39.435879,-121.546233
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Palermo Union Elementary,Golden Hills Elementary,2400 Via Canela Oroville CA 95966-7200,,,False,tested,,Butte County,39.473314,-121.538298,
+Palermo Union Elementary,Helen M. Wilcox Elementary,5737 Autrey Lane Oroville CA 95966-7278,,,False,tested,,Butte County,39.475424,-121.535715,
+Palermo Union Elementary,Palermo,7350 Bulldog Way Palermo CA 95968-9700,,,False,tested,,Butte County,39.435879,-121.546233,
+Palermo Union Elementary,Palermo Special Education Preschool,7390 Bulldog Way Palermo CA 95968-9700,,,False,tested,,Butte County,39.43626,-121.546222,
+Palermo Union Elementary,Palermo Union Community Day (5-8),7350 Bulldog Way Palermo CA 95968-9700,,,,not tested,,Butte County,39.435879,-121.546233,
+Palermo Union Elementary,Palermo Union Community Day (K-8),7350 Bulldog Way Palermo CA 95968-9700,,,,not tested,,Butte County,39.435879,-121.546233,

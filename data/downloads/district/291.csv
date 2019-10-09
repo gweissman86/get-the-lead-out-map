@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Greenfield Union Elementary,Cesar Chavez Elementary,250 Apple Avenue Greenfield CA 93927-5354,NA,NA,NA,not tested,Greenfield,Monterey County,36.331872,-121.231705
-Greenfield Union Elementary,Mary Chapa Academy,490 El Camino Real Greenfield CA 93927-4914,NA,NA,NA,not tested,Greenfield,Monterey County,36.326528,-121.248098
-Greenfield Union Elementary,Oak Avenue Elementary,1239 Oak Avenue Greenfield CA 93927-5438,NA,NA,NA,not tested,Greenfield,Monterey County,36.317339,-121.249509
-Greenfield Union Elementary,Vista Verde Middle,1199 Elm Avenue Greenfield CA 93927-4624,NA,NA,NA,not tested,Greenfield,Monterey County,36.316337,-121.243343
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Greenfield Union Elementary,Cesar Chavez Elementary,250 Apple Avenue Greenfield CA 93927-5354,,,,not tested,Greenfield,Monterey County,36.331872,-121.231705,
+Greenfield Union Elementary,Mary Chapa Academy,490 El Camino Real Greenfield CA 93927-4914,,,,not tested,Greenfield,Monterey County,36.326528,-121.248098,
+Greenfield Union Elementary,Oak Avenue Elementary,1239 Oak Avenue Greenfield CA 93927-5438,,,,not tested,Greenfield,Monterey County,36.317339000000004,-121.249509,
+Greenfield Union Elementary,Vista Verde Middle,1199 Elm Avenue Greenfield CA 93927-4624,,,,not tested,Greenfield,Monterey County,36.316337,-121.243343,

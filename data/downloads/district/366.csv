@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-La Canada Unified,La Canada Elementary,4540 Encinas Drive La Canada CA 91011-2217,NA,NA,FALSE,tested,NA,Los Angeles County,34.20936,-118.206053
-La Canada Unified,La Canada High,4463 Oak Grove Drive La Canada CA 91011-3738,NA,NA,FALSE,tested,NA,Los Angeles County,34.193492,-118.178205
-La Canada Unified,Palm Crest Elementary,5025 Palm Drive La Canada CA 91011-1518,NA,NA,FALSE,tested,NA,Los Angeles County,34.221701,-118.217659
-La Canada Unified,Paradise Canyon Elementary,471 Knight Way La Canada CA 91011-2725,NA,NA,FALSE,tested,NA,Los Angeles County,34.20811,-118.187862
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+La Canada Unified,La Canada Elementary,4540 Encinas Drive La Canada CA 91011-2217,,,False,tested,,Los Angeles County,34.20936,-118.206053,
+La Canada Unified,La Canada High,4463 Oak Grove Drive La Canada CA 91011-3738,,,False,tested,,Los Angeles County,34.193492,-118.178205,
+La Canada Unified,Palm Crest Elementary,5025 Palm Drive La Canada CA 91011-1518,,,False,tested,,Los Angeles County,34.221701,-118.21765900000001,
+La Canada Unified,Paradise Canyon Elementary,471 Knight Way La Canada CA 91011-2725,,,False,tested,,Los Angeles County,34.20811,-118.18786200000001,

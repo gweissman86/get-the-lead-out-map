@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Centinela Valley Union High,Family First Charter,4953 Marine Avenue Lawndale CA 90260-1250,NA,NA,NA,not tested,NA,Los Angeles County,33.894642,-118.34809
-Centinela Valley Union High,Hawthorne High,4859 West El Segundo Boulevard Hawthorne CA 90250-4204,NA,NA,FALSE,tested,Hawthorne,Los Angeles County,33.916407,-118.354295
-Centinela Valley Union High,Lawndale High,14901 South Inglewood Avenue Lawndale CA 90260-1251,NA,NA,FALSE,tested,Lawndale,Los Angeles County,33.895733,-118.362154
-Centinela Valley Union High,Leuzinger High,4118 West Rosecrans Avenue Lawndale CA 90260-1601,NA,NA,FALSE,tested,NA,Los Angeles County,33.901825,-118.347021
-Centinela Valley Union High,New Opportunities Charter,110 South La Brea Avenue Suite 305A Inglewood CA 90301-1768,NA,NA,NA,not tested,Inglewood,Los Angeles County,33.962767,-118.352815
-Centinela Valley Union High,R. K. Lloyde High,14901 Inglewood Avenue Lawndale CA 90260-1251,NA,NA,FALSE,tested,NA,Los Angeles County,33.881367,-118.361256
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Centinela Valley Union High,Family First Charter,4953 Marine Avenue Lawndale CA 90260-1250,,,,not tested,,Los Angeles County,33.894642,-118.34808999999998,
+Centinela Valley Union High,Hawthorne High,4859 West El Segundo Boulevard Hawthorne CA 90250-4204,,,False,tested,Hawthorne,Los Angeles County,33.916407,-118.354295,
+Centinela Valley Union High,Lawndale High,14901 South Inglewood Avenue Lawndale CA 90260-1251,,,False,tested,Lawndale,Los Angeles County,33.895733,-118.362154,
+Centinela Valley Union High,Leuzinger High,4118 West Rosecrans Avenue Lawndale CA 90260-1601,,,False,tested,,Los Angeles County,33.901825,-118.347021,
+Centinela Valley Union High,New Opportunities Charter,110 South La Brea Avenue Suite 305A Inglewood CA 90301-1768,,,,not tested,Inglewood,Los Angeles County,33.962767,-118.35281499999999,
+Centinela Valley Union High,R. K. Lloyde High,14901 Inglewood Avenue Lawndale CA 90260-1251,,,False,tested,,Los Angeles County,33.881367,-118.36125600000001,

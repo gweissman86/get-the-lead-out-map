@@ -1,2 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Saddleback Valley Unified,Ocean View NPS School,24521 Moulton Pkwy Aliso Viejo CA 92657,NA,NA,FALSE,tested,Laguna Woods,Orange County,33.606072,-117.72153
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Capistrano Unified,George White Elementary,25422 Chapparosa Park Drive Laguna Niguel CA 92677-5715,,,,not tested,Laguna Niguel,Orange County,33.516047,-117.68574199999999,
+Capistrano Unified,Hidden Hills Elementary,25142 Hidden Hills Road Laguna Niguel CA 92677-8894,,,,not tested,Laguna Niguel,Orange County,33.52883,-117.68743,
+Capistrano Unified,John Malcom Elementary,32261 Charles Avenue Laguna Niguel CA 92677-4258,,,,not tested,Laguna Niguel,Orange County,33.495283,-117.70783,
+Capistrano Unified,Laguna Niguel Elementary,27922 Niguel Heights Boulevard Laguna Niguel CA 92677-7204,,,,not tested,Laguna Niguel,Orange County,33.556748,-117.70451100000001,
+Capistrano Unified,Marian Bergeson Elementary,25302 Rancho Niguel Road Laguna Niguel CA 92677-7300,,,,not tested,Laguna Niguel,Orange County,33.553008,-117.68821799999999,
+Capistrano Unified,Moulton Elementary,29851 Highlands Avenue Laguna Niguel CA 92677-2008,,,False,tested,Laguna Niguel,Orange County,33.526064,-117.720891,
+Capistrano Unified,Niguel Hills Middle,29070 Paseo Escuela Laguna Niguel CA 92677,,,False,tested,Laguna Niguel,Orange County,33.539237,-117.687031,
+Private,St. Anne School,32451 Bear Brand Road Laguna Niguel CA 92677,,,False,tested,Laguna Niguel,Orange County,33.49456,-117.70030600000001,

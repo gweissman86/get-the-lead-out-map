@@ -1,20 +1,20 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Murrieta Valley Unified,Alta Murrieta Elementary,39475 Whitewood Road Murrieta CA 92563-6512,11,ppb,TRUE,tested,Murrieta,Riverside County,33.568703,-117.167169
-Murrieta Valley Unified,Antelope Hills Elementary,36105 Murrieta Oaks Avenue Murrieta CA 92562-2311,NA,NA,FALSE,tested,Murrieta,Riverside County,33.591811,-117.181984
-Murrieta Valley Unified,Avaxat Elementary,24300 Rancho Las Brisas Drive Murrieta CA 92562,NA,NA,FALSE,tested,Murrieta,Riverside County,33.568589,-117.185439
-Murrieta Valley Unified,Cole Canyon Elementary,23750 Via Alisol Murrietta CA 92562-5092,NA,NA,FALSE,tested,Murrieta,Riverside County,33.57443,-117.245685
-Murrieta Valley Unified,Daniel N. Buchanan Elementary,40121 Torrey Pines Road Murrieta CA 92563-6384,NA,NA,FALSE,tested,Murrieta,Riverside County,33.544991,-117.161978
-Murrieta Valley Unified,Dorothy McElhinney Middle,35185 Briggs Rd. Murrieta CA 92563-2346,NA,NA,FALSE,tested,Murrieta,Riverside County,33.62648,-117.136837
-Murrieta Valley Unified,E. Hale Curran Elementary,40855 Chaco Canyon Road Murrieta CA 92562-1903,9.3,ppb,TRUE,tested,Murrieta,Riverside County,33.577492,-117.216586
-Murrieta Valley Unified,Lisa J. Mails Elementary,35185 Briggs Road Murrieta CA 92563-2346,NA,NA,FALSE,tested,Murrieta,Riverside County,33.62648,-117.136837
-Murrieta Valley Unified,Monte Vista Elementary,37420 Via Mira Mosa Murrieta CA 92563-2753,NA,NA,FALSE,tested,Murrieta,Riverside County,33.578593,-117.142445
-Murrieta Valley Unified,Murrieta Canyon Academy,24150 Hayes Ave Murrieta CA 92563-9461,NA,NA,FALSE,tested,Murrieta,Riverside County,33.558721,-117.231392
-Murrieta Valley Unified,Murrieta Mesa High,24801 Monroe Avenue Murrieta CA 92562-9018,NA,NA,FALSE,tested,Murrieta,Riverside County,33.565742,-117.200044
-Murrieta Valley Unified,Murrieta Valley Adult Education,24150 Hayes Avenue II Murrieta CA 92562,NA,NA,NA,not tested,Murrieta,Riverside County,33.560522,-117.231951
-Murrieta Valley Unified,Murrieta Valley High,42200 Nighthawk Way Murrieta CA 92562-6235,NA,NA,FALSE,tested,Murrieta,Riverside County,33.56464,-117.232084
-Murrieta Valley Unified,Rail Ranch Elementary,25030 Via Santee Road Murrieta CA 92563-5020,NA,NA,FALSE,tested,Murrieta,Riverside County,33.578052,-117.173708
-Murrieta Valley Unified,Shivela Middle,24515 Lincoln Avenue Murrieta CA 92562-5807,NA,NA,FALSE,tested,Murrieta,Riverside County,33.571618,-117.197748
-Murrieta Valley Unified,Thompson Middle,24040 Hayes Avenue Murrietta CA 92562-9198,NA,NA,FALSE,tested,Murrieta,Riverside County,33.562349,-117.233573
-Murrieta Valley Unified,Tovashal Elementary,23801 Via Santee Murrieta CA 92563,NA,NA,FALSE,tested,Murrieta,Riverside County,33.578233,-117.174091
-Murrieta Valley Unified,Vista Murrieta High,28251 Clinton Keith Road Murrieta CA 92563-2465,NA,NA,FALSE,tested,Murrieta,Riverside County,33.598714,-117.17792
-Murrieta Valley Unified,Warm Springs Middle,39245 Calle de Fortuna Murrieta CA 92563-8002,NA,NA,FALSE,tested,Murrieta,Riverside County,33.553367,-117.149589
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Murrieta Valley Unified,Alta Murrieta Elementary,39475 Whitewood Road Murrieta CA 92563-6512,11.0,ppb,True,tested,Murrieta,Riverside County,33.568703,-117.167169,11.0
+Murrieta Valley Unified,Antelope Hills Elementary,36105 Murrieta Oaks Avenue Murrieta CA 92562-2311,,,False,tested,Murrieta,Riverside County,33.591811,-117.18198400000001,
+Murrieta Valley Unified,Avaxat Elementary,24300 Rancho Las Brisas Drive Murrieta CA 92562,,,False,tested,Murrieta,Riverside County,33.568589,-117.18543899999999,
+Murrieta Valley Unified,Cole Canyon Elementary,23750 Via Alisol Murrietta CA 92562-5092,,,False,tested,Murrieta,Riverside County,33.57443,-117.24568500000001,
+Murrieta Valley Unified,Daniel N. Buchanan Elementary,40121 Torrey Pines Road Murrieta CA 92563-6384,,,False,tested,Murrieta,Riverside County,33.544990999999996,-117.161978,
+Murrieta Valley Unified,Dorothy McElhinney Middle,35185 Briggs Rd. Murrieta CA 92563-2346,,,False,tested,Murrieta,Riverside County,33.62648,-117.13683700000001,
+Murrieta Valley Unified,E. Hale Curran Elementary,40855 Chaco Canyon Road Murrieta CA 92562-1903,9.3,ppb,True,tested,Murrieta,Riverside County,33.577492,-117.216586,9.3
+Murrieta Valley Unified,Lisa J. Mails Elementary,35185 Briggs Road Murrieta CA 92563-2346,,,False,tested,Murrieta,Riverside County,33.62648,-117.13683700000001,
+Murrieta Valley Unified,Monte Vista Elementary,37420 Via Mira Mosa Murrieta CA 92563-2753,,,False,tested,Murrieta,Riverside County,33.578593,-117.142445,
+Murrieta Valley Unified,Murrieta Canyon Academy,24150 Hayes Ave Murrieta CA 92563-9461,,,False,tested,Murrieta,Riverside County,33.558721000000006,-117.231392,
+Murrieta Valley Unified,Murrieta Mesa High,24801 Monroe Avenue Murrieta CA 92562-9018,,,False,tested,Murrieta,Riverside County,33.565742,-117.20004399999999,
+Murrieta Valley Unified,Murrieta Valley Adult Education,24150 Hayes Avenue II Murrieta CA 92562,,,,not tested,Murrieta,Riverside County,33.560522,-117.231951,
+Murrieta Valley Unified,Murrieta Valley High,42200 Nighthawk Way Murrieta CA 92562-6235,,,False,tested,Murrieta,Riverside County,33.564640000000004,-117.23208400000001,
+Murrieta Valley Unified,Rail Ranch Elementary,25030 Via Santee Road Murrieta CA 92563-5020,,,False,tested,Murrieta,Riverside County,33.578052,-117.173708,
+Murrieta Valley Unified,Shivela Middle,24515 Lincoln Avenue Murrieta CA 92562-5807,,,False,tested,Murrieta,Riverside County,33.571618,-117.197748,
+Murrieta Valley Unified,Thompson Middle,24040 Hayes Avenue Murrietta CA 92562-9198,,,False,tested,Murrieta,Riverside County,33.562349,-117.23357299999999,
+Murrieta Valley Unified,Tovashal Elementary,23801 Via Santee Murrieta CA 92563,,,False,tested,Murrieta,Riverside County,33.578233000000004,-117.17409099999999,
+Murrieta Valley Unified,Vista Murrieta High,28251 Clinton Keith Road Murrieta CA 92563-2465,,,False,tested,Murrieta,Riverside County,33.598714,-117.17792,
+Murrieta Valley Unified,Warm Springs Middle,39245 Calle de Fortuna Murrieta CA 92563-8002,,,False,tested,Murrieta,Riverside County,33.553367,-117.14958899999999,

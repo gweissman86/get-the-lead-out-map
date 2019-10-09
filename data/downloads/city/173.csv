@@ -1,21 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cardiff Elementary,Ada Harris Elementary,"1888 Montgomery Ave, Cardiff, CA 92007",NA,NA,NA,exempt,Encinitas,San Diego County,33.025072,-117.282308
-Cardiff Elementary,Ada W. Harris Elementary,1508 Windsor Road Cardiff-by-the-Sea CA 92007-1356,NA,NA,NA,not tested,Encinitas,San Diego County,33.031428,-117.273995
-Encinitas Union Elementary,Capri Elementary,941 Capri Road Encinitas CA 92024-1214,NA,NA,NA,not tested,Encinitas,San Diego County,33.076002,-117.288832
-Encinitas Union Elementary,Capri Elementary School," 941 Capri Rd, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.076002,-117.288832
-Cardiff Elementary,Cardiff Elementary,1888 Montgomery Avenue Cardiff-by-the-Sea CA 92007-2313,NA,NA,NA,not tested,Encinitas,San Diego County,33.025072,-117.282308
-Cardiff Elementary,Cardiff Elementary School,"1888 Montgomery Ave, Cardiff, CA 92007",NA,NA,NA,exempt,Encinitas,San Diego County,33.025072,-117.282308
-San Dieguito Union High,Diegueno Middle,2150 Village Park Way Encinitas CA 92024-5400,NA,NA,FALSE,tested,Encinitas,San Diego County,33.057958,-117.242112
-Encinitas Union Elementary,Flora Vista Elementary,1690 Wandering Road Encinitas CA 92024-2417,NA,NA,NA,not tested,Encinitas,San Diego County,33.056895,-117.252276
-San Dieguito Union High,Oak Crest Middle,675 Balour Dr Encinitas CA 92024-3996,NA,NA,NA,not tested,Encinitas,San Diego County,33.043014,-117.268293
-San Dieguito Union High,Oak Crest Middle School,675 Balour Dr.,NA,NA,NA,exempt,Encinitas,San Diego County,33.043014,-117.268293
-San Dieguito Union High,Oak Crest Middle School,"675 Balour Dr, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.043014,-117.268293
-Encinitas Union Elementary,Ocean Knoll Elementary,910 Melba Road Encinitas CA 92024-3901,NA,NA,NA,not tested,Encinitas,San Diego County,33.040303,-117.272225
-Encinitas Union Elementary,Ocean Knoll Elementary School,"910 Melba Rd.Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.040303,-117.272225
-Encinitas Union Elementary,Park Dale Lane Elementary,2050 Park Dale Lane Encinitas CA 92024-4324,NA,NA,NA,not tested,Encinitas,San Diego County,33.04642,-117.243114
-Encinitas Union Elementary,Paul Ecke Central Elementary School,"185 Union St, .Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.058031,-117.298062
-Encinitas Union Elementary,Paul Ecke-Central Elementary,185 Union Street Encinitas CA 92024-2119,NA,NA,NA,not tested,Encinitas,San Diego County,33.058031,-117.298062
-San Dieguito Union High,San Dieguito Academy,"800 Santa Fe Dr, Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.036352,-117.275019
-San Dieguito Union High,San Dieguito High Academy,800 Santa Fe Drive Encinitas CA 92024-3357,NA,NA,NA,not tested,Encinitas,San Diego County,33.036352,-117.275019
-San Dieguito Union High,Sunset High (Continuation),684 Requeza Street Encinitas CA 92024-3703,NA,NA,NA,not tested,Encinitas,San Diego County,33.043535,-117.277771
-San Dieguito Union High,Sunset High School,"684 Requeza St., Encinitas, CA 92024",NA,NA,NA,exempt,Encinitas,San Diego County,33.043535,-117.277771
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Private,Escuela Bilingue Internacional San Pablo Emeryville Campus,4550 San Pablo Dr Emeryville  CA 94608,,,False,tested,Emeryville,Alameda County,37.835388,-122.280922,

@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Delano Joint Union High,Cesar E. Chavez High,800 Browning Road Delano CA 93215-9494,NA,NA,FALSE,tested,NA,Kern County,35.767082,-119.220814
-Delano Joint Union High,Delano Adult,1811 Princeton Street Delano CA 93215,NA,NA,NA,not tested,NA,Kern County,35.761418,-119.236415
-Delano Joint Union High,Delano High,1331 Cecil Avenue Delano CA 93215-1410,NA,NA,FALSE,tested,NA,Kern County,35.778831,-119.238688
-Delano Joint Union High,Robert F. Kennedy High,1401 Hiett Avenue Delano CA 93215,NA,NA,FALSE,tested,NA,Kern County,35.775863,-119.267407
-Delano Joint Union High,Valley High,1927 Randolph Street Delano CA 93215-1526,NA,NA,FALSE,tested,NA,Tulare County,35.781825,-119.232118
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Delano Joint Union High,Cesar E. Chavez High,800 Browning Road Delano CA 93215-9494,,,False,tested,,Kern County,35.767082,-119.22081399999999,
+Delano Joint Union High,Delano Adult,1811 Princeton Street Delano CA 93215,,,,not tested,,Kern County,35.761418,-119.236415,
+Delano Joint Union High,Delano High,1331 Cecil Avenue Delano CA 93215-1410,,,False,tested,,Kern County,35.778831,-119.23868799999998,
+Delano Joint Union High,Robert F. Kennedy High,1401 Hiett Avenue Delano CA 93215,,,False,tested,,Kern County,35.775863,-119.267407,
+Delano Joint Union High,Valley High,1927 Randolph Street Delano CA 93215-1526,,,False,tested,,Tulare County,35.781825,-119.232118,

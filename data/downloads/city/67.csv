@@ -1,3 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Buellton Union Elementary,Jonata Middle,301 Second Street Buellton CA 93427-9476,NA,NA,NA,not tested,Buellton,Santa Barbara County,34.618494,-120.200751
-Buellton Union Elementary,Oak Valley Elementary,595 Second Street Buellton CA 93427-6801,NA,NA,NA,not tested,Buellton,Santa Barbara County,34.62089,-120.207638
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Jefferson Elementary,Benjamin Franklin Intermediate,700 Stewart Avenue Colma CA 94015-3519,6.1,ppb,True,tested,Broadmoor,San Mateo County,37.695054999999996,-122.482228,6.1

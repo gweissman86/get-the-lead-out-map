@@ -1,3 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Capistrano Unified,Chaparral Elementary,29001 Sienna Parkway Ladera Ranch CA 92694-0433,NA,NA,FALSE,tested,Ladera Ranch,Orange County,33.561762,-117.634362
-Capistrano Unified,Oso Grande Elementary,30251 Sienna Parkway Ladera Ranch CA 92694-1459,NA,NA,FALSE,tested,Ladera Ranch,Orange County,33.54432,-117.639542
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Bonita Unified,Ramona Middle,3490 Ramona Avenue San Dimas CA 91773-1437,,,False,tested,La Verne,Los Angeles County,34.115922999999995,-117.788595,

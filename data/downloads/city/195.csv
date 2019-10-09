@@ -1,8 +1,16 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fresno Unified,Easterby Elementary,5211 East Tulare Street Fresno CA 93727-4048,NA,NA,FALSE,tested,Fowler,Fresno County,36.626456,-119.674549
-Fowler Unified,Fowler Academy Continuation,975 E. Adams Avenue Fowler CA 93625-2702,NA,NA,NA,not tested,Fowler,Fresno County,36.634426,-119.667679
-Fowler Unified,Fowler High,701 East Main Street Fowler CA 93625-2423,NA,NA,NA,not tested,Fowler,Fresno County,36.633413,-119.670523
-Fowler Unified,John Sutter Middle,701 East Walter Fowler CA 93625-9792,NA,NA,NA,not tested,Fowler,Fresno County,36.630775,-119.670125
-Fresno Unified,Kings Canyon Middle,5117 East Tulare Street Fresno CA 93727-3999,NA,NA,FALSE,tested,Fowler,Fresno County,36.626456,-119.674549
-Fowler Unified,Marshall Elementary,142 North Armstrong Avenue Fowler CA 93625-9601,NA,NA,NA,not tested,Fowler,Fresno County,36.635227,-119.673362
-Fresno Unified,Roosevelt High,4250 East Tulare Street Fresno CA 93702-3037,NA,NA,FALSE,tested,Fowler,Fresno County,36.626456,-119.674549
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fountain Valley Elementary,Courreges (Roch) Elementary,18313 Santa Carlotta Fountain Valley CA 92708-5616,,,False,tested,Fountain Valley,Orange County,33.696647,-117.97606699999999,
+Fountain Valley Elementary,Cox (James H.) Elementary,17615 Los Jardines East Fountain Valley CA 92708-5340,,,False,tested,Fountain Valley,Orange County,33.707484,-117.939004,
+Garden Grove Unified,Ethan B. Allen Elementary,16200 Bushard Street Fountain Valley CA 92708-1505,,,False,tested,Fountain Valley,Orange County,33.715969,-117.963197,
+Huntington Beach Union High,Fountain Valley High,17816 Bushard Fountain Valley CA 92708-4598,,,False,tested,Fountain Valley,Orange County,33.705789,-117.960559,
+Fountain Valley Elementary,Fulton (Harry C.) Middle,8778 El Lago Street Fountain Valley CA 92708-4320,,,False,tested,Fountain Valley,Orange County,33.705379,-117.97592399999999,
+Fountain Valley Elementary,Gisler (Robert) Elementary,18720 Las Flores Street Fountain Valley CA 92708-7113,,,False,tested,Fountain Valley,Orange County,33.693843,-117.94974099999999,
+Orange County Department of Education,Harbor Learning Center,15872 Harbor Boulevard Fountain Valley CA 92708,,,False,tested,Fountain Valley,Orange County,33.731936,-117.91903500000001,
+Garden Grove Unified,James Monroe Elementary,16225 Newhope Street Fountain Valley CA 92708-1703,,,False,tested,Fountain Valley,Orange County,33.727865,-117.928671,
+Garden Grove Unified,Los Amigos High,16566 Newhope Street Fountain Valley CA 92708-2403,,,False,tested,Fountain Valley,Orange County,33.721861,-117.92629,
+Garden Grove Unified,Mamie L. Northcutt Elementary,11303 Sandstone Street Fountain Valley CA 92708-3025,,,False,tested,Fountain Valley,Orange County,33.71901,-117.931646,
+Fountain Valley Elementary,Masuda (Kazuo) Middle,17415 Los Jardines West Fountain Valley CA 92708-4846,5.6,ppb,True,tested,Fountain Valley,Orange County,33.709297,-117.94338,5.6
+Fountain Valley Elementary,Plavan (Urbain H.) Elementary,9675 Warner Avenue Fountain Valley CA 92708-2823,,,False,tested,Fountain Valley,Orange County,33.716138,-117.95942099999999,
+Fountain Valley Elementary,Tamura (Hisamatsu) Elementary,17340 Santa Suzanne Street Fountain Valley CA 92708-3307,,,False,tested,Fountain Valley,Orange County,33.711794,-117.976083,
+Huntington Beach Union High,Valley Vista High (Continuation),9600 Dolphin Street Fountain Valley CA 92708-4603,,,False,tested,Fountain Valley,Orange County,33.707806,-117.961099,
+Ocean View,Vista View Middle,16250 Hickory Street Fountain Valley CA 92708-1404,6.3,ppb,True,tested,Fountain Valley,Orange County,33.727256,-117.97074599999999,6.3

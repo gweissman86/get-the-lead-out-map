@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Tulelake Basin Joint Unified School District,Tulelake Basin Elementary School,461 2nd St. Tulelake CA 96134,NA,NA,NA,not tested,Tulelake,Siskiyou County,41.954415,-121.477843
-Tulelake Basin Joint Unified School District,Tulelake High School,850 Main St. Tulelake CA 96134,NA,NA,NA,not tested,Tulelake,Siskiyou County,41.94953,-121.476478
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Tulelake Basin Joint Unified School District,Tulelake Basin Elementary School,461 2nd St. Tulelake CA 96134,,,,not tested,Tulelake,Siskiyou County,41.954415000000004,-121.477843,
+Tulelake Basin Joint Unified School District,Tulelake High School,850 Main St. Tulelake CA 96134,,,,not tested,Tulelake,Siskiyou County,41.949529999999996,-121.476478,

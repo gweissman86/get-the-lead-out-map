@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lamont Elementary,Alicante Avenue Elementary,7998 Alicante Avenue Lamont CA 93241-1744,NA,NA,FALSE,tested,NA,Kern County,35.261365,-118.914951
-Lamont Elementary,Lamont Elementary,10621 Main Street Lamont CA 93241-2046,NA,NA,FALSE,tested,NA,Kern County,35.258141,-118.914302
-Lamont Elementary,Mountain View Middle,8001 Weedpatch Hwy Bakersfield CA 93307-9654,NA,NA,FALSE,tested,NA,Kern County,35.238017,-118.9151
-Lamont Elementary,Myrtle Avenue Elementary,10421 Myrtle Avenue Lamont CA 93241-1854,NA,NA,FALSE,tested,NA,Kern County,35.259539,-118.909727
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lamont Elementary,Alicante Avenue Elementary,7998 Alicante Avenue Lamont CA 93241-1744,,,False,tested,,Kern County,35.261365000000005,-118.914951,
+Lamont Elementary,Lamont Elementary,10621 Main Street Lamont CA 93241-2046,,,False,tested,,Kern County,35.258140999999995,-118.914302,
+Lamont Elementary,Mountain View Middle,8001 Weedpatch Hwy Bakersfield CA 93307-9654,,,False,tested,,Kern County,35.238017,-118.9151,
+Lamont Elementary,Myrtle Avenue Elementary,10421 Myrtle Avenue Lamont CA 93241-1854,,,False,tested,,Kern County,35.259539000000004,-118.909727,

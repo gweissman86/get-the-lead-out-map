@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Tehama County ROP,Tehama County ROP,1135 Lincoln Street Red Bluff CA 96080-3125,NA,NA,FALSE,tested,Red Bluff,Tehama County,40.177929,-122.244596
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Tehama County ROP,Tehama County ROP,1135 Lincoln Street Red Bluff CA 96080-3125,,,False,tested,Red Bluff,Tehama County,40.177929,-122.244596,

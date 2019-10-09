@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Riverdale Joint Unified,Riverdale High,3086 West Mount Whitney Ave Riverdale CA 93656-0726,NA,NA,NA,not tested,Riverdale,Fresno County,36.431485,-119.854313
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Riverdale Joint Unified,Riverdale High,3086 West Mount Whitney Ave Riverdale CA 93656-0726,,,,not tested,Riverdale,Fresno County,36.431484999999995,-119.85431299999999,

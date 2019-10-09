@@ -1,4 +1,23 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mountain View Elementary,Alfred S. Madrid Middle,3300 Gilman Road El Monte CA 91732-3226,NA,NA,NA,not tested,Industry,Los Angeles County,34.062546,-118.009542
-Bassett Unified,Don Julian Elementary,13855 Don Julian Road La Puente CA 91746-2518,NA,NA,FALSE,tested,Industry,Los Angeles County,34.032521,-117.985545
-Rowland Unified,Giano Intermediate,3223 South Giano Avenue West Covina CA 91792-3229,9.6,ppb,TRUE,tested,Industry,Los Angeles County,34.012424,-117.908747
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Desert Sands Unified,Amelia Earhart Elementary School of International Studies,45-250 Dune Palms Road Indio CA 92201-0901,,,,not tested,Indio,Riverside County,33.720694,-116.2766,
+Desert Sands Unified,Amistad High (Continuation),83-501 Dillon Avenue Indio CA 92201-3325,,,,not tested,Indio,Riverside County,33.725527,-116.20960600000001,
+Desert Sands Unified,Andrew Jackson Elementary,82-850 Kenner Avenue Indio CA 92201-2469,,,False,tested,Indio,Riverside County,33.733096,-116.217974,
+Desert Sands Unified,Carrillo Ranch Elementary,43-775 Madison Street Indio CA 92201-8626,,,,not tested,Indio,Riverside County,33.732213,-116.25208,
+Desert Sands Unified,Desert Ridge Academy,79-767 Avenue 39 Indio CA 92203-9647,,,,not tested,Indio,Riverside County,33.764505,-116.27401699999999,
+Private,Don F. Kenny Regional Learning Center,47 336 Oasis Street Indio CA 92201,,,False,tested,Indio,Riverside County,33.704823,-116.219761,
+Desert Sands Unified,Dr. Reynaldo J. Carreon Jr. Academy,47-368 Monroe Street Indio CA 92201-6702,,,False,tested,Indio,Riverside County,33.704758,-116.232703,
+Desert Sands Unified,Dwight Eisenhower Elementary,83-391 Dillon Avenue Indio CA 92201-3321,,,,not tested,Indio,Riverside County,33.725833,-116.210856,
+Desert Sands Unified,Herbert Hoover Elementary,44-300 Monroe Street Indio CA 92201-3011,,,,not tested,Indio,Riverside County,33.726051,-116.233276,
+Desert Sands Unified,Indio High,81-750 Avenue 46 Indio CA 92201-3911,,,False,tested,Indio,Riverside County,33.714238,-116.238836,
+Desert Sands Unified,Indio Middle,81-195 Miles Avenue Indio CA 92201-5639,,,False,tested,Indio,Riverside County,33.721428,-116.249055,
+Desert Sands Unified,James Madison Elementary,80-845 Avenue 46 Indio CA 92201-5059,,,False,tested,Indio,Riverside County,33.713907,-116.25413200000001,
+Desert Sands Unified,John F. Kennedy Elementary,45-100 Clinton Street Indio CA 92201-3807,,,False,tested,Indio,Riverside County,33.720865,-116.24213600000002,
+Desert Sands Unified,John Glenn Middle School of International Studies,79-655 Miles Ave. Indio CA 92201,,,,not tested,Indio,Riverside County,33.720811,-116.274864,
+Desert Sands Unified,Lyndon B. Johnson Elementary,44-640 Clinton Street Indio CA 92201-2908,,,,not tested,Indio,Riverside County,33.725059,-116.242671,
+Desert Sands Unified,Martin Van Buren Elementary,47-733 Van Buren Street Indio CA 92201-7144,,,,not tested,Indio,Riverside County,33.702386,-116.19986100000001,
+Coachella Valley Unified,Mountain Vista Elementary,49-750 Hjorth Street Indio CA 92201-6417,,,False,tested,Indio,Riverside County,33.6875,-116.246126,
+Desert Sands Unified,Richard R. Oliphant Elementary,41-633 Gore St. Indio CA 92203-3178,,,,not tested,Indio,Riverside County,33.746736,-116.22671799999999,
+Desert Sands Unified,Shadow Hills High,39-225 Jefferson Street Indio CA 92201-9482,,,,not tested,Indio,Riverside County,33.764456,-116.270082,
+Alvord Unified,Terrace Elementary,6601 Rutland Street Riverside CA 92503-1299,11.0,ppb,True,tested,Indio,Riverside County,33.777306,-116.2684,11.0
+Desert Sands Unified,Theodore Roosevelt Elementary,83-200 Drive Carreon Boulevard Indio CA 92201-6951,,,False,tested,Indio,Riverside County,33.708544,-116.240447,
+Desert Sands Unified,Thomas Jefferson Middle,83-089 Highway 111 Indio CA 92201-5643,,,False,tested,Indio,Riverside County,33.71479,-116.226749,

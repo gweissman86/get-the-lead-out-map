@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Tri-Cities ROP,Tri-Cities ROP,10800 Benavon Street Unit E Whittier CA 90606-3013,NA,NA,NA,not tested,Whittier,Los Angeles County,33.970026,-118.078666
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Tri-Cities ROP,Tri-Cities ROP,10800 Benavon Street Unit E Whittier CA 90606-3013,,,,not tested,Whittier,Los Angeles County,33.970026000000004,-118.078666,

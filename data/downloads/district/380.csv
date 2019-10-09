@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lakeside Union,Donald E. Suburu,7315 Harris Road Bakersfield CA 93313-9326,NA,NA,FALSE,tested,Bakersfield,Kern County,35.304908,-119.082296
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lakeside Union,Donald E. Suburu,7315 Harris Road Bakersfield CA 93313-9326,,,False,tested,Bakersfield,Kern County,35.304908000000005,-119.082296,

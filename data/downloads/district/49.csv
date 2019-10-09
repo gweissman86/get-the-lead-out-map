@@ -1,14 +1,14 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Barstow Unified,Barstow Adult Evening High,430 South First Avenue Barstow CA 92311,NA,NA,NA,not tested,Barstow,San Bernardino County,34.894555,-117.028606
-Barstow Unified,Barstow High,430 South First Avenue Barstow CA 92311-2860,NA,NA,NA,not tested,Barstow,San Bernardino County,34.894555,-117.028606
-Barstow Unified,Barstow Junior High,1000 Armory Road Barstow CA 92311,NA,NA,NA,not tested,NA,San Bernardino County,34.882388,-117.009447
-Barstow Unified,Barstow STEM Academy,310 Mountain View Barstow CA 92311-2790,NA,NA,NA,not tested,Barstow,San Bernardino County,34.892854,-117.024368
-Barstow Unified,BUSD School of Opportunity,405 North Second Avenue Barstow CA 92311-2226,NA,NA,NA,not tested,Barstow,San Bernardino County,34.901868,-117.025755
-Barstow Unified,Cameron Elementary,801 Muriel Drive Barstow CA 92311-3149,NA,NA,NA,not tested,NA,San Bernardino County,34.8968,-117.013594
-Barstow Unified,Central High (Continuation),405 North Second Avenue Barstow CA 92311-2226,NA,NA,NA,not tested,Barstow,San Bernardino County,34.901868,-117.025755
-Barstow Unified,Challenges Community Day,34374 Ash Road Lenwood CA 92311,NA,NA,NA,not tested,NA,San Bernardino County,34.873163,-117.105779
-Barstow Unified,Crestline Elementary,2020 Monterey Barstow CA 92311-6713,NA,NA,NA,not tested,NA,San Bernardino County,34.875042,-117.015401
-Barstow Unified,Henderson Elementary,400 South Avenue E Barstow CA 92311-2613,NA,NA,NA,not tested,NA,San Bernardino County,34.892895,-117.039788
-Barstow Unified,Lenwood Elementary,34374 Ash Rd Lenwood CA 92311,NA,NA,NA,not tested,NA,San Bernardino County,34.873163,-117.105779
-Barstow Unified,Montara Elementary,700 Montara Road Barstow CA 92311-5729,NA,NA,NA,not tested,NA,San Bernardino County,34.881055,-116.993881
-Barstow Unified,Skyline North Elementary,36968 Camarillo Avenue Barstow CA 92311-1726,NA,NA,NA,not tested,NA,San Bernardino County,34.920374,-117.017772
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Barstow Unified,Barstow Adult Evening High,430 South First Avenue Barstow CA 92311,,,,not tested,Barstow,San Bernardino County,34.894555,-117.02860600000001,
+Barstow Unified,Barstow High,430 South First Avenue Barstow CA 92311-2860,,,,not tested,Barstow,San Bernardino County,34.894555,-117.02860600000001,
+Barstow Unified,Barstow Junior High,1000 Armory Road Barstow CA 92311,,,,not tested,,San Bernardino County,34.882388,-117.009447,
+Barstow Unified,Barstow STEM Academy,310 Mountain View Barstow CA 92311-2790,,,,not tested,Barstow,San Bernardino County,34.892854,-117.024368,
+Barstow Unified,BUSD School of Opportunity,405 North Second Avenue Barstow CA 92311-2226,,,,not tested,Barstow,San Bernardino County,34.901868,-117.025755,
+Barstow Unified,Cameron Elementary,801 Muriel Drive Barstow CA 92311-3149,,,,not tested,,San Bernardino County,34.8968,-117.013594,
+Barstow Unified,Central High (Continuation),405 North Second Avenue Barstow CA 92311-2226,,,,not tested,Barstow,San Bernardino County,34.901868,-117.025755,
+Barstow Unified,Challenges Community Day,34374 Ash Road Lenwood CA 92311,,,,not tested,,San Bernardino County,34.873163,-117.105779,
+Barstow Unified,Crestline Elementary,2020 Monterey Barstow CA 92311-6713,,,,not tested,,San Bernardino County,34.875042,-117.015401,
+Barstow Unified,Henderson Elementary,400 South Avenue E Barstow CA 92311-2613,,,,not tested,,San Bernardino County,34.892895,-117.03978799999999,
+Barstow Unified,Lenwood Elementary,34374 Ash Rd Lenwood CA 92311,,,,not tested,,San Bernardino County,34.873163,-117.105779,
+Barstow Unified,Montara Elementary,700 Montara Road Barstow CA 92311-5729,,,,not tested,,San Bernardino County,34.881054999999996,-116.993881,
+Barstow Unified,Skyline North Elementary,36968 Camarillo Avenue Barstow CA 92311-1726,,,,not tested,,San Bernardino County,34.920374,-117.017772,

@@ -1,23 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Manteca Unified,be.tech,2271 West Louise Ave Manteca CA 95337-8381,NA,NA,NA,not tested,Manteca,San Joaquin County,37.812483,-121.256742
-Manteca Unified,Brock Elliott Elementary,1110 Stonum Lane Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.785644,-121.239754
-Manteca Unified,Calla High,130 South Austin Road Manteca CA 95336-9710,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.774338,-121.179283
-Manteca Unified,East Union High,1700 North Union Road Manteca CA 95336-9217,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.82307,-121.235662
-Manteca Unified,George McParland Annex,1370 London Ave Manteca CA 95366,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.818827,-121.244569
-Manteca Unified,George McParland Elementary,1601 Northgate Drive Manteca CA 95336-6255,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.820394,-121.243567
-Manteca Unified,Golden West Elementary,1031 North Main Street Manteca CA 95336-3207,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.811288,-121.217167
-Manteca Unified,Joshua Cowell Elementary,740 Pestana Avenue Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.807386,-121.189172
-Manteca Unified,Lincoln Elementary,750 East Yosemite Avenue Manteca CA 95336-5827,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.797353,-121.206919
-Manteca Unified,Manteca Adult,2271 West Louise Avenue Manteca CA 95337,NA,NA,NA,not tested,Manteca,San Joaquin County,37.812483,-121.256742
-Manteca Unified,Manteca Community Day (7-12),737 West Yosemite Avenue Manteca CA 95337-5403,9,ppb,TRUE,tested,Manteca,San Joaquin County,37.797499,-121.226224
-Manteca Unified,Manteca Community Day (K-6),737 West Yosemite Avenue Manteca CA 95337-5403,NA,NA,NA,not tested,Manteca,San Joaquin County,37.797499,-121.226224
-Manteca Unified,Manteca High,450 East Yosemite Avenue Manteca CA 95336-5718,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.797339,-121.211058
-San Joaquin County Office of Education,McFall School,1810 Hoyt Lane Manteca CA 95336,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.822831,-121.227746
-Manteca Unified,Neil Hafley Elementary,849 Northgate Avenue Manteca CA 95336-2721,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.82062,-121.22961
-San Joaquin County Office of Education,Robert E. Goodwin Community School,1271 N. Main St. Manteca CA 95336,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.815011,-121.217831
-Manteca Unified,Sequoia Elementary,710 Martha Street Manteca CA 95337-5430,7.5,ppb,TRUE,tested,Manteca,San Joaquin County,37.790813,-121.22481
-Manteca Unified,Shasta Elementary,751 East Edison Street Manteca CA 95336-3803,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.806718,-121.206337
-Manteca Unified,Sierra High,1700 Thomas Street Manteca CA 95336-0032,NA,NA,NA,not tested,Manteca,San Joaquin County,37.793619,-121.24646
-Manteca Unified,Stella Brockman Elementary,763 Silverado Drive Manteca CA 95336-0032,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.809411,-121.245441
-Manteca Unified,Veritas Elementary,1600 Pagola Street Manteca CA 95337-8603,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.774478,-121.230803
-Manteca Unified,Walter Woodward Elementary,575 Tannehill Drive Manteca CA 95337-8709,NA,NA,FALSE,tested,Manteca,San Joaquin County,37.769466,-121.208538
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Manhattan Beach Unified,Aurelia Pennekamp Elementary,110 South Rowell Manhattan Beach CA 90266-6962,,,False,tested,Manhattan Beach,Los Angeles County,33.879148,-118.38946599999998,
+Manhattan Beach Unified,Grand View Elementary,455 24th Street Manhattan Beach CA 90266-4348,,,False,tested,Manhattan Beach,Los Angeles County,33.893782,-118.41240800000001,
+Manhattan Beach Unified,Manhattan Beach Middle,1501 Redondo Avenue Manhattan Beach CA 90266-4214,,,False,tested,Manhattan Beach,Los Angeles County,33.889108,-118.38387,
+Manhattan Beach Unified,Manhattan Beach Preschool,1431 15th Street Manhattan Beach CA 90266-4077,,,False,tested,Manhattan Beach,Los Angeles County,33.889358,-118.38304199999999,
+Manhattan Beach Unified,Meadows Avenue Elementary,1200 Meadows Avenue Manhattan Beach CA 90266-4059,,,False,tested,Manhattan Beach,Los Angeles County,33.88927,-118.390822,
+Manhattan Beach Unified,Mira Costa High,1401 Artesia Boulevard Manhattan Beach CA 90266-6968,,,False,tested,Manhattan Beach,Los Angeles County,33.874266,-118.38953899999998,
+Manhattan Beach Unified,Opal Robinson Elementary,80 Morningside Drive Manhattan Beach CA 90266-6562,,,False,tested,Manhattan Beach,Los Angeles County,33.877798999999996,-118.404858,
+Manhattan Beach Unified,Pacific Elementary,1200 Pacific Avenue Manhattan Beach CA 90266-4969,,,False,tested,Manhattan Beach,Los Angeles County,33.887658,-118.403196,

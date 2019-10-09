@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Monson-Sultana Joint Union Elementary,Monson-Sultana Elementary,10643 Avenue 416 Dinuba CA 93618,NA,NA,NA,not tested,NA,Tulare County,36.546318,-119.443361
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Monson-Sultana Joint Union Elementary,Monson-Sultana Elementary,10643 Avenue 416 Dinuba CA 93618,,,,not tested,,Tulare County,36.546318,-119.44336100000001,

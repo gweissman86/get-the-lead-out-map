@@ -1,19 +1,23 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pierce Joint Unified,Arbuckle Elementary,701 Hall Street Arbuckle CA 95912-0100,NA,NA,FALSE,tested,NA,Colusa County,39.016231,-122.060704
-Colusa Unified,Colusa Alternative High (Continuation),901 Colus Avenue Colusa CA 95932-3024,NA,NA,NA,not tested,Colusa,Colusa County,39.200812,-122.02068
-Colusa Unified,Colusa Alternative Home,745 10th Street Colusa CA 95932-2220,11.9,ppb,TRUE,tested,Colusa,Colusa County,39.210849,-122.016478
-Colusa Unified,Colusa High,901 Colus Avenue Colusa CA 95932-3024,NA,NA,FALSE,tested,Colusa,Colusa County,39.200812,-122.02068
-Colusa Unified,George T. Egling Middle,813 Webster Street Colusa CA 95932-2355,NA,NA,FALSE,tested,Colusa,Colusa County,39.210533,-122.014341
-Pierce Joint Unified,Grand Island Elementary,551 Leven Street Grimes CA 95950-0030,7.8,ppb,TRUE,tested,Grimes,Colusa County,39.070056,-121.896438
-Stony Creek Joint Unified,Indian Valley Elementary,5180 Lodoga Stonyford Road Stonyford CA 95979,NA,NA,NA,not tested,NA,Colusa County,39.380669,-122.551007
-Colusa Unified,James M. Burchfield Primary,400 Fremont Street Colusa CA 95932-2630,NA,NA,FALSE,tested,Colusa,Colusa County,39.207559,-122.009111
-Pierce Joint Unified,Lloyd G. Johnson Junior High,938 Wildwood Road Arbuckle CA 95912-9714,NA,NA,FALSE,tested,NA,Colusa County,39.011793,-122.056001
-Maxwell Unified,Maxwell Elementary,146 North St. Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.280217,-122.195726
-Maxwell Unified,Maxwell Middle,146 North Street Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.280217,-122.195726
-Maxwell Unified,Maxwell Sr High,515 Oak Street Maxwell CA 95955-0788,NA,NA,FALSE,tested,NA,Colusa County,39.276269,-122.194849
-Pierce Joint Unified,Pierce High,960 Wildwood Road Arbuckle CA 95912-9714,NA,NA,FALSE,tested,NA,Colusa County,39.012004,-122.056015
-Princeton Joint Unified,Princeton Elementary,428 Norman Road Princeton CA 95970-0008,NA,NA,FALSE,tested,NA,Colusa County,39.406422,-122.01211
-Princeton Joint Unified,Princeton Junior-Senior High,473 State Street Princeton CA 95970-0008,NA,NA,FALSE,tested,NA,Colusa County,39.401555,-122.011468
-Williams Unified,Williams Junior/Senior High,222 11th Street Williams CA 95987,NA,NA,NA,not tested,Williams,Colusa County,39.156645,-122.156058
-Williams Unified,Williams Primary Elementary,1404 E Street Williams CA 95987-0007,NA,NA,NA,not tested,Williams,Colusa County,39.152549,-122.157083
-Williams Unified,Williams Upper Elementary,300 Eleventh Street Williams CA 95987,NA,NA,FALSE,tested,Williams,Colusa County,39.154569,-122.157137
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Vallecito Union,Albert A. Michelson Elementary,196 Pennsylvania Gulch Road Murphys CA 95247-9521,,,False,tested,Murphys,Calaveras County,38.133455,-120.45452900000001,
+Vallecito Union,Avery Middle,4545 Moran Road Avery CA 95224,,,False,tested,Arnold,Calaveras County,38.201889,-120.36548300000001,
+Bret Harte Union High,Bret Harte Union High,364 Murphys Grade Road Angels Camp CA 95221-0208,,,False,tested,Angels Camp,Calaveras County,38.079471999999996,-120.552008,
+Calaveras County Office of Education,Calaveras COE Main Offices,185 South Main St Angels Camp CA  95221,,,False,tested,Angels,Calaveras County,38.049037,-120.52328899999999,
+Calaveras County Office of Education,Calaveras County Adult Education Consortium,150 Old Oak Rd. San Andreas CA 95249,,,,not tested,San Andreas,Calaveras County,38.189063,-120.69144399999999,
+Calaveras County Office of Education,Calaveras County SELPA Transition Program,579 Highway 49 San Andreas CA 95259,,,,not tested,San Andreas,Calaveras County,38.188697,-120.67421999999999,
+Calaveras Unified,Calaveras High,350 High School Street San Andreas CA 95249-0607,,,,not tested,,Calaveras County,38.198063,-120.68531000000002,
+Calaveras County Office of Education,Calaveras River Academy,150 Old Oak Road San Andreas CA 95249,,,,not tested,San Andreas,Calaveras County,38.189063,-120.69144399999999,
+Calaveras Unified,Calaveras Unified Alternative-Sierra Hills Education Center,501 Gold Strike Road San Andreas CA 95249-0178,,,,not tested,,Calaveras County,38.199275,-120.686012,
+Calaveras County Office of Education,CCOE Extended Day Program,646 Stanislaus Ave Angels Camp CA 95222,,,False,tested,Angels Camp,Calaveras County,38.074552000000004,-120.551064,
+Calaveras County Office of Education,CCOE Special Education Preschool,585 Stanislaus Ave STE B Angels Camp CA 95222,,,False,tested,Angels Camp,Calaveras County,38.075996999999994,-120.549452,
+Mark Twain Union Elementary,Copperopolis Elementary,217 School Street Copperopolis CA 95228-0145,,,False,tested,,Calaveras County,37.981913,-120.64233899999999,
+Del Norte County ROP,Del Norte County ROP,1301 El Dorado Crescent City CA 95531-2110,,,,not tested,,Calaveras County,38.209481,-120.467123,
+Calaveras Unified,Gold Strike High,501 Gold Strike Road San Andreas CA 95249-0788,,,,not tested,,Calaveras County,38.199275,-120.686012,
+Vallecito Union,Hazel Fischer Elementary,1605 Blagen Road Arnold CA 95223,,,False,tested,Arnold,Calaveras County,38.264369,-120.341536,
+Calaveras Unified,Jenny Lind Elementary,5100 Driver Road Valley Springs CA 95252-9113,,,,not tested,Valley Springs,Calaveras County,38.134353000000004,-120.86598700000002,
+Mark Twain Union Elementary,Mark Twain Elementary,646 Stanislaus Avenue Angels Camp CA 95222-1239,,,False,tested,Angels Camp,Calaveras County,38.074552000000004,-120.551064,
+Calaveras Unified,Mokelumne Hill Elementary,8350 Highway 26 Mokelumne Hill CA 95245-9692,,,,not tested,Mokelumne Hill,Calaveras County,38.298435999999995,-120.699032,
+Calaveras Unified,Rail Road Flat Elementary,298 Rail Road Flat Road Rail Road Flat CA 95248-0217,,,,not tested,Mokelumne Hill,Calaveras County,38.330335,-120.518227,
+Calaveras Unified,San Andreas Elementary,255 Lewis Avenue San Andreas CA 95249-0067,,,,not tested,,Calaveras County,38.199040000000004,-120.677195,
+Calaveras Unified,Valley Springs Elementary,240 Pine Street Valley Springs CA 95252-0187,,,,not tested,,Calaveras County,38.190521999999994,-120.831751,
+Calaveras Unified,West Point Elementary,54 Bald Mountain Road West Point CA 95255-0096,,,,not tested,,Calaveras County,38.398306,-120.526214,

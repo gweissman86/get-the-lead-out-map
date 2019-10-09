@@ -1,16 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Buena Park Elementary,Arthur F. Corey Elementary,7351 Holder Street Buena Park CA 90620-1608,5.3,ppb,TRUE,tested,Buena Park,Orange County,33.855509,-118.019979
-Fullerton Joint Union High,Buena Park High,8833 Academy Drive Buena Park CA 90621-3705,NA,NA,FALSE,tested,Buena Park,Orange County,33.86102,-117.98016
-Buena Park Elementary,Buena Park Junior High,6931 Orangethorpe Avenue Buena Park CA 90620-1350,NA,NA,FALSE,tested,Buena Park,Orange County,33.858981,-118.012749
-Centralia Elementary,Buena Terra Elementary,8299 Holder Street Buena Park CA 90620-2957,NA,NA,FALSE,tested,Buena Park,Orange County,33.843761,-118.018506
-Buena Park Elementary,Carl E. Gilbert Elementary,7255 Eighth Street Buena Park CA 90621-2203,8.1,ppb,TRUE,tested,Buena Park,Orange County,33.867455,-118.007035
-Buena Park Elementary,Charles G. Emery Elementary,8600 Somerset Street Buena Park CA 90621-1402,NA,NA,FALSE,tested,Buena Park,Orange County,33.884445,-117.983275
-Centralia Elementary,Glen H. Dysinger Sr. Elementary,7770 Camellia Drive Buena Park CA 90620-2152,NA,NA,FALSE,tested,Buena Park,Orange County,33.850449,-117.991763
-Buena Park Elementary,Gordon H. Beatty Elementary,8201 Country Club Drive Buena Park CA 90621-1529,NA,NA,FALSE,tested,Buena Park,Orange County,33.883937,-117.988927
-Savanna Elementary,Holder Elementary,9550 Holder Street Buena Park CA 90620-4209,NA,NA,FALSE,tested,Buena Park,Orange County,33.823548,-118.018256
-Anaheim Union High,Hope,7901 Knott Avenue Buena Park CA 90620-2469,7.3,ppb,TRUE,tested,Buena Park,Orange County,33.8614,-118.011197
-Buena Park Elementary,James A. Whitaker Elementary,8401 Montana Street Buena Park CA 90621-3629,NA,NA,FALSE,tested,Buena Park,Orange County,33.862525,-117.986416
-Buena Park Elementary,Mabel L. Pendleton Elementary,7101 Stanton Avenue Buena Park CA 90621-3825,5.9,ppb,TRUE,tested,Buena Park,Orange County,33.857673,-117.994675
-Centralia Elementary,Raymond Temple Elementary,7800 Holder Street Buena Park CA 90620-2315,NA,NA,FALSE,tested,Buena Park,Orange County,33.850241,-118.019721
-Private,Rossier Park School,7100 Knott Avenue Buena Park CA 90620,NA,NA,FALSE,tested,Buena Park,Orange County,33.8614,-118.011197
-Centralia Elementary,San Marino Elementary,6215 San Rolando Way Buena Park CA 90620-3635,5.8,ppb,TRUE,tested,Buena Park,Orange County,33.836941,-118.024373
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Buellton Union Elementary,Jonata Middle,301 Second Street Buellton CA 93427-9476,,,,not tested,Buellton,Santa Barbara County,34.618494,-120.200751,
+Buellton Union Elementary,Oak Valley Elementary,595 Second Street Buellton CA 93427-6801,,,,not tested,Buellton,Santa Barbara County,34.62089,-120.20763799999999,

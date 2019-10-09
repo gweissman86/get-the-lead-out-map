@@ -1,3 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sierra-Plumas Joint Unified,Loyalton Elementary,111 Beckwith Loyalton CA 96118-0127,NA,NA,NA,not tested,Loyalton,Sierra County,39.67716,-120.241287
-Sierra-Plumas Joint Unified,Loyalton High,700 Fourth Street Loyalton CA 96118-0037,NA,NA,NA,not tested,Loyalton,Sierra County,39.679522,-120.245323
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Konocti Unified,Lower Lake High,9430 A Lake Street Lower Lake CA 95457-0799,,,,not tested,Lower Lake,Lake County,38.914915,-122.607724,

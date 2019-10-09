@@ -1,5 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Gonzales Unified,Gonzales Evening High,650 Elko St Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
-Gonzales Unified,Gonzales High,501 Fifth Street Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511566,-121.441522
-Gonzales Unified,La Gloria Elementary,220 Elko Street Gonzales CA 93926-0238,NA,NA,NA,not tested,Gonzales,Monterey County,36.50804,-121.439667
-Gonzales Unified,Somavia High,650 Elko Street Gonzales CA 93926,NA,NA,NA,not tested,Gonzales,Monterey County,36.511435,-121.443416
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Goleta Union Elementary,Goleta Union School District cafeteria,401 N. Fairview  Goleta CA 93110,,,False,tested,Goleta,Santa Barbara County,34.447178,-119.83213700000002,
+Goleta Union Elementary,Isla Vista Elementary,6875 El Colegio Road Goleta CA 93117-4317,,,False,tested,Goleta,Santa Barbara County,34.417012,-119.868654,
+Goleta Union Elementary,Kellogg Elementary,475 Cambridge Avenue Goleta CA 93117-2141,,,False,tested,Goleta,Santa Barbara County,34.447209,-119.821293,

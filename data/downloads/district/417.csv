@@ -1,10 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Alamitos Unified,Francis Hopkinson Elementary,12582 Kensington Road Los Alamitos CA 90720-4749,NA,NA,FALSE,tested,NA,Orange County,33.799018,-118.082606
-Los Alamitos Unified,J. H. McGaugh Elementary,1698 Bolsa Avenue Seal Beach CA 90740-6212,NA,NA,FALSE,tested,Seal Beach,Orange County,33.744938,-118.093743
-Los Alamitos Unified,Jack L. Weaver Elementary,11872 Wembley Road Los Alamitos CA 90720-2200,NA,NA,FALSE,tested,NA,Orange County,33.798179,-118.082231
-Los Alamitos Unified,Los Alamitos Elementary,10862 Bloomfield Street Los Alamitos CA 90720-2598,NA,NA,FALSE,tested,NA,Orange County,33.805185,-118.06318
-Los Alamitos Unified,Los Alamitos High,3591 Cerritos Avenue Los Alamitos CA 90720-2414,NA,NA,FALSE,tested,NA,Orange County,33.810472,-118.07179
-Los Alamitos Unified,Oak Middle,10821 Oak Street Los Alamitos CA 90720-2313,NA,NA,FALSE,tested,NA,Orange County,33.807478,-118.075836
-Los Alamitos Unified,Richard Henry Lee Elementary,11481 Foster Road Los Alamitos CA 90720-3818,NA,NA,FALSE,tested,NA,Orange County,33.795997,-118.082013
-Los Alamitos Unified,Rossmoor Elementary,3272 Shakespeare Drive Los Alamitos CA 90720-3842,NA,NA,FALSE,tested,NA,Orange County,33.793412,-118.075981
-Los Alamitos Unified,Sharon Christa McAuliffe Middle,4112 Cerritos Avenue Los Alamitos CA 90720-2521,NA,NA,FALSE,tested,NA,Orange County,33.810258,-118.061658
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Los Alamitos Unified,Francis Hopkinson Elementary,12582 Kensington Road Los Alamitos CA 90720-4749,,,False,tested,,Orange County,33.799018,-118.08260600000001,
+Los Alamitos Unified,J. H. McGaugh Elementary,1698 Bolsa Avenue Seal Beach CA 90740-6212,,,False,tested,Seal Beach,Orange County,33.744938,-118.09374299999999,
+Los Alamitos Unified,Jack L. Weaver Elementary,11872 Wembley Road Los Alamitos CA 90720-2200,,,False,tested,,Orange County,33.798179,-118.08223100000001,
+Los Alamitos Unified,Los Alamitos Elementary,10862 Bloomfield Street Los Alamitos CA 90720-2598,,,False,tested,,Orange County,33.805184999999994,-118.06318,
+Los Alamitos Unified,Los Alamitos High,3591 Cerritos Avenue Los Alamitos CA 90720-2414,,,False,tested,,Orange County,33.810472,-118.07179,
+Los Alamitos Unified,Oak Middle,10821 Oak Street Los Alamitos CA 90720-2313,,,False,tested,,Orange County,33.807478,-118.07583600000001,
+Los Alamitos Unified,Richard Henry Lee Elementary,11481 Foster Road Los Alamitos CA 90720-3818,,,False,tested,,Orange County,33.795997,-118.08201299999999,
+Los Alamitos Unified,Rossmoor Elementary,3272 Shakespeare Drive Los Alamitos CA 90720-3842,,,False,tested,,Orange County,33.793412,-118.075981,
+Los Alamitos Unified,Sharon Christa McAuliffe Middle,4112 Cerritos Avenue Los Alamitos CA 90720-2521,,,False,tested,,Orange County,33.810258000000005,-118.06165800000001,

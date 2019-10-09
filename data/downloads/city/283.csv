@@ -1,2 +1,21 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Wilsona Elementary,Challenger Middle,41725 North 170th St. East Lancaster CA 93535-7124,NA,NA,FALSE,tested,Lake Los Angeles,Los Angeles County,34.640885,-117.827875
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Saddleback Valley Unified,El Toro High,25255 Toledo Way Lake Forest CA 92630-4203,,,,not tested,Lake Forest,Orange County,33.636973,-117.687752,
+Saddleback Valley Unified School Distict,El Toro High School,"25255 Toledo Way, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.636973,-117.687752,
+Saddleback Valley Unified,Foothill Ranch Elementary,1 Torino Drive Foothill Ranch CA 92691-3142,,,,not tested,Lake Forest,Orange County,33.682052,-117.661726,
+Saddleback Valley Unified School Distict,Foothill Ranch Elementary School,"1 Torino Dr, Foothill Ranch, CA 92610",,,,exempt,Lake Forest,Orange County,33.682052,-117.661726,
+Saddleback Valley Unified,La Madera Elementary,25350 Serrano Road Lake Forest CA 92630-3599,,,,not tested,Lake Forest,Orange County,33.639925,-117.689089,
+Saddleback Valley Unified School Distict,La Madera Elementary School,"25350 Serrano Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.639925,-117.689089,
+Saddleback Valley Unified,Lake Forest Elementary,21801 Pittsford Drive Lake Forest CA 92630-7518,,,,not tested,Lake Forest,Orange County,33.644979,-117.671365,
+Saddleback Valley Unified School Distict,Lake Forest Elementary School,"21801 Pittsford Drive, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.644979,-117.671365,
+Saddleback Valley Unified,Olivewood Elementary,23391 Dune Mear Road Lake Forest CA 92630-3819,,,False,tested,Lake Forest,Orange County,33.623477,-117.705277,
+Saddleback Valley Unified,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.623464,-117.70578700000002,
+Saddleback Valley Unified,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.623464,-117.70578700000002,
+Saddleback Valley Unified School Distict,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.623464,-117.70578700000002,
+Saddleback Valley Unified School Distict,Olivewood Elementary School,"23391 Dune Mear Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.623464,-117.70578700000002,
+Saddleback Valley Unified,Oxford Preparatory Academy,22882 Loumont Dr. Lake Forest CA 92630,10.0,ppb,True,tested,Lake Forest,Orange County,33.629853999999995,-117.700718,11.0
+Saddleback Valley Unified,Ralph A. Gates Elementary,23882 Landisview Avenue Lake Forest CA 92630-5152,,,False,tested,Lake Forest,Orange County,33.615094,-117.696678,
+Saddleback Valley Unified School District,Ralph A. Gates Elementary School,"23882 Landisview Ave, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.615584999999996,-117.697405,
+Saddleback Valley Unified,Rancho Canada Elementary,21801 Winding Way Lake Forest CA 92630-2599,,,,not tested,Lake Forest,Orange County,33.646258,-117.69197,
+Saddleback Valley Unified School Distict,Rancho Canada Elementary School,"21801 Winding Way, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.646258,-117.69197,
+Saddleback Valley Unified,Serrano Intermediate,24642 Jeronimo Road Lake Forest CA 92630-3112,,,,not tested,Lake Forest,Orange County,33.632614000000004,-117.69681000000001,
+Saddleback Valley Unified School Distict,Serrano Intermediate School,"24642 Jeronimo Rd, Lake Forest, CA 92630",,,,exempt,Lake Forest,Orange County,33.632614000000004,-117.69681000000001,

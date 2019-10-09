@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Buena Park Elementary,Arthur F. Corey Elementary,7351 Holder Street Buena Park CA 90620-1608,5.3,ppb,TRUE,tested,Buena Park,Orange County,33.855509,-118.019979
-Buena Park Elementary,Buena Park Junior High,6931 Orangethorpe Avenue Buena Park CA 90620-1350,NA,NA,FALSE,tested,Buena Park,Orange County,33.858981,-118.012749
-Buena Park Elementary,Carl E. Gilbert Elementary,7255 Eighth Street Buena Park CA 90621-2203,8.1,ppb,TRUE,tested,Buena Park,Orange County,33.867455,-118.007035
-Buena Park Elementary,Charles G. Emery Elementary,8600 Somerset Street Buena Park CA 90621-1402,NA,NA,FALSE,tested,Buena Park,Orange County,33.884445,-117.983275
-Buena Park Elementary,Gordon H. Beatty Elementary,8201 Country Club Drive Buena Park CA 90621-1529,NA,NA,FALSE,tested,Buena Park,Orange County,33.883937,-117.988927
-Buena Park Elementary,James A. Whitaker Elementary,8401 Montana Street Buena Park CA 90621-3629,NA,NA,FALSE,tested,Buena Park,Orange County,33.862525,-117.986416
-Buena Park Elementary,Mabel L. Pendleton Elementary,7101 Stanton Avenue Buena Park CA 90621-3825,5.9,ppb,TRUE,tested,Buena Park,Orange County,33.857673,-117.994675
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Buena Park Elementary,Arthur F. Corey Elementary,7351 Holder Street Buena Park CA 90620-1608,5.3,ppb,True,tested,Buena Park,Orange County,33.855509000000005,-118.019979,5.3
+Buena Park Elementary,Buena Park Junior High,6931 Orangethorpe Avenue Buena Park CA 90620-1350,,,False,tested,Buena Park,Orange County,33.858981,-118.012749,
+Buena Park Elementary,Carl E. Gilbert Elementary,7255 Eighth Street Buena Park CA 90621-2203,8.1,ppb,True,tested,Buena Park,Orange County,33.867455,-118.00703500000002,8.1
+Buena Park Elementary,Charles G. Emery Elementary,8600 Somerset Street Buena Park CA 90621-1402,,,False,tested,Buena Park,Orange County,33.884445,-117.983275,
+Buena Park Elementary,Gordon H. Beatty Elementary,8201 Country Club Drive Buena Park CA 90621-1529,,,False,tested,Buena Park,Orange County,33.883937,-117.988927,
+Buena Park Elementary,James A. Whitaker Elementary,8401 Montana Street Buena Park CA 90621-3629,,,False,tested,Buena Park,Orange County,33.862525,-117.98641599999999,
+Buena Park Elementary,Mabel L. Pendleton Elementary,7101 Stanton Avenue Buena Park CA 90621-3825,5.9,ppb,True,tested,Buena Park,Orange County,33.857673,-117.994675,5.9

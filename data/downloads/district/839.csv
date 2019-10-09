@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Valle Lindo Elementary,Dean L. Shively,1431 North Central Avenue South El Monte CA 91733-3388,NA,NA,NA,not tested,South El Monte,Los Angeles County,34.044733,-118.047409
-Valle Lindo Elementary,New Temple,11033 East Central Avenue South El Monte CA 91733-3907,NA,NA,NA,not tested,South El Monte,Los Angeles County,34.042433,-118.042425
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Valle Lindo Elementary,Dean L. Shively,1431 North Central Avenue South El Monte CA 91733-3388,,,,not tested,South El Monte,Los Angeles County,34.044733,-118.047409,
+Valle Lindo Elementary,New Temple,11033 East Central Avenue South El Monte CA 91733-3907,,,,not tested,South El Monte,Los Angeles County,34.042433,-118.042425,

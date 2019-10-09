@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Delhi Unified,El Capitan Elementary,10115 Fifth Street Delhi CA 95315-9752,NA,NA,FALSE,tested,Delhi,Merced County,37.435586,-120.772416
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Columbine Elementary,Columbine Elementary,2240 Road 160 Delano CA 93215-9420,,,,not tested,Delano,Tulare County,35.830602,-119.213361,
+Delano Union Elementary,Harvest Elementary,1320 Vassar Avenue Delano CA 93215-3872,,,False,tested,Delano,Kern County,35.774431,-119.227581,
+Kern County Office of Education,Wonderful College Prep Academy,2070 Veneto Street Delano CA 93215,,,,not tested,Delano,Kern County,35.784717,-119.21226000000001,

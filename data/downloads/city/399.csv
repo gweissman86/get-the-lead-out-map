@@ -1,12 +1,12 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pacifica,Cabrillo Elementary,601 Crespi Drive Pacifica CA 94044-3430,NA,NA,NA,not tested,Pacifica,San Mateo County,37.598252,-122.498214
-Pacifica,Ingrid B. Lacy Middle,1427 Palmetto Avenue Pacifica CA 94044-2284,NA,NA,NA,not tested,Pacifica,San Mateo County,37.637874,-122.491565
-Pacifica,Linda Mar Educational Center,830 Rosita Road Pacifica CA 94044-4114,NA,NA,NA,not tested,Pacifica,San Mateo County,37.585704,-122.497432
-Pacifica,Ocean Shore Elementary,411 Oceana Boulevard Pacifica CA 94044-1901,NA,NA,NA,not tested,Pacifica,San Mateo County,37.65049,-122.489696
-Jefferson Union High,Oceana High,401 Paloma Avenue Pacifica CA 94044-2436,NA,NA,NA,not tested,Pacifica,San Mateo County,37.639201,-122.486802
-Private,Oddstad Elementary,930 Oddstad Blvd. Pacifica CA 94044,NA,NA,NA,not tested,Pacifica,San Mateo County,37.587321,-122.468509
-Pacifica,Ortega Elementary,1283 Terra Nova Boulevard Pacifica CA 94044-4341,NA,NA,NA,not tested,Pacifica,San Mateo County,37.587834,-122.478597
-Pacifica,Pacifica Independent Home Study,830 Rosita Road Pacifica CA 94044-4114,NA,NA,NA,not tested,Pacifica,San Mateo County,37.585704,-122.497432
-Pacifica,Sunset Ridge Elementary,340 Inverness Drive Pacifica CA 94044-2029,NA,NA,NA,not tested,Pacifica,San Mateo County,37.653214,-122.47989
-Jefferson Union High,Terra Nova High,1450 Terra Nova Boulevard Pacifica CA 94044-3615,NA,NA,NA,not tested,Pacifica,San Mateo County,37.590855,-122.475704
-Pacifica,Vallemar Elementary,377 Reina del Mar Avenue Pacifica CA 94044-3052,NA,NA,NA,not tested,Pacifica,San Mateo County,37.613808,-122.485933
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pacifica,Cabrillo Elementary,601 Crespi Drive Pacifica CA 94044-3430,,,,not tested,Pacifica,San Mateo County,37.598252,-122.49821399999999,
+Pacifica,Ingrid B. Lacy Middle,1427 Palmetto Avenue Pacifica CA 94044-2284,,,,not tested,Pacifica,San Mateo County,37.637874,-122.491565,
+Pacifica,Linda Mar Educational Center,830 Rosita Road Pacifica CA 94044-4114,,,,not tested,Pacifica,San Mateo County,37.585704,-122.497432,
+Pacifica,Ocean Shore Elementary,411 Oceana Boulevard Pacifica CA 94044-1901,,,,not tested,Pacifica,San Mateo County,37.650490000000005,-122.489696,
+Jefferson Union High,Oceana High,401 Paloma Avenue Pacifica CA 94044-2436,,,,not tested,Pacifica,San Mateo County,37.639201,-122.486802,
+Private,Oddstad Elementary,930 Oddstad Blvd. Pacifica CA 94044,,,,not tested,Pacifica,San Mateo County,37.587321,-122.46850900000001,
+Pacifica,Ortega Elementary,1283 Terra Nova Boulevard Pacifica CA 94044-4341,,,,not tested,Pacifica,San Mateo County,37.587834,-122.478597,
+Pacifica,Pacifica Independent Home Study,830 Rosita Road Pacifica CA 94044-4114,,,,not tested,Pacifica,San Mateo County,37.585704,-122.497432,
+Pacifica,Sunset Ridge Elementary,340 Inverness Drive Pacifica CA 94044-2029,,,,not tested,Pacifica,San Mateo County,37.653214,-122.47989,
+Jefferson Union High,Terra Nova High,1450 Terra Nova Boulevard Pacifica CA 94044-3615,,,,not tested,Pacifica,San Mateo County,37.590855,-122.47570400000001,
+Pacifica,Vallemar Elementary,377 Reina del Mar Avenue Pacifica CA 94044-3052,,,,not tested,Pacifica,San Mateo County,37.613808,-122.485933,

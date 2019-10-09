@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Burlingame Elementary,Burlingame Intermediate,1715 Quesada Way Burlingame CA 94010-5701,9,ppb,TRUE,tested,Burlingame,San Mateo County,37.58802,-122.384723
-Burlingame Elementary,Franklin Elementary,2385 Trousdale Drive Burlingame CA 94010-5704,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.588631,-122.389058
-Burlingame Elementary,Hoover Elementary School,2220 Summit Drive Burlingame CA 94010,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.577211,-122.380622
-Burlingame Elementary,Lincoln Elementary,1801 Devereux Drive Burlingame CA 94010-4641,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.587964,-122.378317
-Burlingame Elementary,McKinley Elementary,701 Paloma Avenue Burlingame CA 94010-3728,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.579094,-122.355961
-Burlingame Elementary,Roosevelt Elementary,1151 Vancouver Avenue Burlingame CA 94010-5674,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.57906,-122.368119
-Burlingame Elementary,Washington Elementary,801 Howard Avenue Burlingame CA 94010-3006,NA,NA,FALSE,tested,Burlingame,San Mateo County,37.580858,-122.340351
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Burlingame Elementary,Burlingame Intermediate,1715 Quesada Way Burlingame CA 94010-5701,9.0,ppb,True,tested,Burlingame,San Mateo County,37.58802,-122.384723,9.0
+Burlingame Elementary,Franklin Elementary,2385 Trousdale Drive Burlingame CA 94010-5704,,,False,tested,Burlingame,San Mateo County,37.588631,-122.389058,
+Burlingame Elementary,Hoover Elementary School,2220 Summit Drive Burlingame CA 94010,,,False,tested,Burlingame,San Mateo County,37.577211,-122.380622,
+Burlingame Elementary,Lincoln Elementary,1801 Devereux Drive Burlingame CA 94010-4641,,,False,tested,Burlingame,San Mateo County,37.587964,-122.378317,
+Burlingame Elementary,McKinley Elementary,701 Paloma Avenue Burlingame CA 94010-3728,,,False,tested,Burlingame,San Mateo County,37.579094,-122.35596100000001,
+Burlingame Elementary,Roosevelt Elementary,1151 Vancouver Avenue Burlingame CA 94010-5674,,,False,tested,Burlingame,San Mateo County,37.57906,-122.368119,
+Burlingame Elementary,Washington Elementary,801 Howard Avenue Burlingame CA 94010-3006,,,False,tested,Burlingame,San Mateo County,37.580858,-122.340351,

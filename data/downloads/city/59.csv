@@ -1,2 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Bolinas-Stinson Union,Bolinas-Stinson Elementary,125 Olema-Bolinas Road Bolinas CA 94924-9747,8.6,ppb,TRUE,tested,Bolinas,Marin County,37.91746,-122.693561
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Palo Verde Unified,Felix J. Appleby Elementary,10321 Vernon Ave Blythe CA 92225-3113,,,,not tested,Blythe,Riverside County,33.598621,-114.59404099999999,
+Palo Verde Unified,Ruth Brown Elementary,241 North Seventh Avenue Blythe CA 92225-1825,,,,not tested,Blythe,Riverside County,33.612952,-114.588924,

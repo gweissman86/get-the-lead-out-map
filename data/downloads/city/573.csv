@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Nevada County Office of Education,Forest Charter - Truckee,10725 Pioneer Trl #201 Truckee CA 96161,NA,NA,NA,not tested,Truckee,Nevada County,39.335541,-120.180252
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Nevada County Office of Education,Forest Charter - Truckee,10725 Pioneer Trl #201 Truckee CA 96161,,,,not tested,Truckee,Nevada County,39.335541,-120.180252,

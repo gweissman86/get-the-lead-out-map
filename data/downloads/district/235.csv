@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Exeter Unified,Alternative Education,1107 E Rocky Hill Dr Exeter CA 93221,NA,NA,NA,not tested,Exeter,Tulare County,36.297049,-119.130822
-Exeter Unified,Exeter Union High,505 Rocky Hill Dr Exeter CA 93221-1325,NA,NA,NA,not tested,NA,Tulare County,36.298036,-119.134907
-Exeter Unified,Rocky Hill Elementary,313 Sequoia Drive Exeter CA 93221-1159,NA,NA,NA,not tested,NA,Tulare County,36.303289,-119.140758
-Exeter Unified,Wilson Middle,710 West Maple Street Exeter CA 93221-1409,NA,NA,NA,not tested,NA,Tulare County,36.292619,-119.149369
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Exeter Unified,Alternative Education,1107 E Rocky Hill Dr Exeter CA 93221,,,,not tested,Exeter,Tulare County,36.297049,-119.130822,
+Exeter Unified,Exeter Union High,505 Rocky Hill Dr Exeter CA 93221-1325,,,,not tested,,Tulare County,36.298035999999996,-119.13490700000001,
+Exeter Unified,Rocky Hill Elementary,313 Sequoia Drive Exeter CA 93221-1159,,,,not tested,,Tulare County,36.303289,-119.140758,
+Exeter Unified,Wilson Middle,710 West Maple Street Exeter CA 93221-1409,,,,not tested,,Tulare County,36.292619,-119.149369,

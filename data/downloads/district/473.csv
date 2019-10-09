@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mission Valley ROC/P,Mission Valley ROCP,5019 Stevenson Boulevard Fremont CA 94538-2449,NA,NA,FALSE,tested,Fremont,Alameda County,37.528147,-121.983403
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Mission Valley ROC/P,Mission Valley ROCP,5019 Stevenson Boulevard Fremont CA 94538-2449,,,False,tested,Fremont,Alameda County,37.528147,-121.98340300000001,

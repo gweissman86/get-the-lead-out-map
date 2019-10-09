@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Siskiyou County Office of Education,Happy Camp High School,234 Indian Creek Rd Happy Camp CA 96039,9,ppb,TRUE,tested,NA,Siskiyou County,41.796355,-123.378227
-Siskiyou County Office of Education,J. Everett Barr Court,269 Sharps Lane Yreka CA 96097,NA,NA,FALSE,tested,Yreka,Siskiyou County,41.709345,-122.639355
-Siskiyou County Office of Education,Siskiyou County Special Education,609 South Gold Street Yreka CA 96097-3110,NA,NA,NA,not tested,Yreka,Siskiyou County,41.729101,-122.642647
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Siskiyou County Office of Education,Happy Camp High School,234 Indian Creek Rd Happy Camp CA 96039,9.0,ppb,True,tested,,Siskiyou County,41.796355,-123.378227,10.5
+Siskiyou County Office of Education,J. Everett Barr Court,269 Sharps Lane Yreka CA 96097,,,False,tested,Yreka,Siskiyou County,41.709345,-122.63935500000001,
+Siskiyou County Office of Education,Siskiyou County Special Education,609 South Gold Street Yreka CA 96097-3110,,,,not tested,Yreka,Siskiyou County,41.729101,-122.642647,

@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Juan Unified,Golden Valley Orchard,6550 Filbert Avenue Orangeville CA 95662-4112,7.1,ppb,TRUE,tested,Orangevale,Sacramento County,38.685046,-121.214485
-San Juan Unified,Golden Valley River,9601 Lake Natoma Drive Orangevale CA 95662-5022,NA,NA,FALSE,tested,Orangevale,Sacramento County,38.674511,-121.195242
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Juan Unified,Golden Valley Orchard,6550 Filbert Avenue Orangeville CA 95662-4112,7.1,ppb,True,tested,Orangevale,Sacramento County,38.685046,-121.21448500000001,7.1
+San Juan Unified,Golden Valley River,9601 Lake Natoma Drive Orangevale CA 95662-5022,,,False,tested,Orangevale,Sacramento County,38.674510999999995,-121.195242,

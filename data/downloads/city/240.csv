@@ -1,3 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Keyes Union,Barbara Spratling Middle,5277 Washington Road Hughson CA 95326-9112,NA,NA,FALSE,tested,Hughson,Stanislaus County,37.560441,-120.903477
-Hughson Unified,Hughson High,7419 East Whitmore Avenue Hughson CA 95326-0099,NA,NA,FALSE,tested,Hughson,Stanislaus County,37.595937,-120.859662
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hornbrook Elementary,Hornbrook Elementary,15430 Oregon Rd. 15430 Oregon Road Hornbrook CA 96044-0169,,,False,tested,Hornbrook,Siskiyou County,41.911134000000004,-122.561297,

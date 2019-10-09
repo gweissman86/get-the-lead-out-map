@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Saddleback Valley Unified,Portola Hills Elementary,19422 Saddleback Ranch Road Trabuco Canyon CA 92679-1177,NA,NA,NA,not tested,Trabuco Canyon,Orange County,33.679652,-117.631447
-Saddleback Valley Unified School Distict,Portola Hills Elementary School,"19422 Saddleback Ranch Rd, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Trabuco Canyon,Orange County,33.679652,-117.631447
-Saddleback Valley Unified,Robinson Elementary,21400 Lindsay Drive Trabuco Canyon CA 92679-3213,NA,NA,NA,not tested,Trabuco Canyon,Orange County,33.651897,-117.57234
-Trabuco Canyon Water District,Robinson Elementary,"21400 Lindsay Dr., Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Trabuco Canyon,Orange County,33.651897,-117.57234
-Trabuco Canyon Water District,Robinson Elementary,"21400 Lindsay Dr, Trabuco Canyon, CA 92679",NA,NA,NA,exempt,Trabuco Canyon,Orange County,33.651897,-117.57234
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Saddleback Valley Unified,Portola Hills Elementary,19422 Saddleback Ranch Road Trabuco Canyon CA 92679-1177,,,,not tested,Trabuco Canyon,Orange County,33.679652000000004,-117.631447,
+Saddleback Valley Unified School Distict,Portola Hills Elementary School,"19422 Saddleback Ranch Rd, Trabuco Canyon, CA 92679",,,,exempt,Trabuco Canyon,Orange County,33.679652000000004,-117.631447,
+Saddleback Valley Unified,Robinson Elementary,21400 Lindsay Drive Trabuco Canyon CA 92679-3213,,,,not tested,Trabuco Canyon,Orange County,33.651897,-117.57234,
+Trabuco Canyon Water District,Robinson Elementary,"21400 Lindsay Dr., Trabuco Canyon, CA 92679",,,,exempt,Trabuco Canyon,Orange County,33.651897,-117.57234,
+Trabuco Canyon Water District,Robinson Elementary,"21400 Lindsay Dr, Trabuco Canyon, CA 92679",,,,exempt,Trabuco Canyon,Orange County,33.651897,-117.57234,

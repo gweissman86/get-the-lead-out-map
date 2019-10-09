@@ -1,31 +1,31 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Santa Maria-Bonita,Adam (William Laird) Elementary,500 West Windsor Santa Maria CA 93458-6543,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.935597,-120.442588
-Santa Maria-Bonita,Alvin Elementary,301 East Alvin Avenue Santa Maria CA 93454-3703,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.961053,-120.432946
-Santa Maria-Bonita,Battles (Washington) Elementary,605 East Battles Road Santa Maria CA 93454-7211,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.931482,-120.428629
-Santa Maria-Bonita,Bruce (Robert) Elementary,601 West Alvin Avenue Santa Maria CA 93458-3012,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.961403,-120.442884
-Santa Barbara County Office of Education,Camino Segundo,815 B Parkview Street Santa Maria CA 93455,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.881933,-120.429805
-Santa Maria Joint Union High,Delta High,4893 Bethany Lane Santa Maria CA 93455-4880,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.865981,-120.433738
-Santa Barbara County Office of Education,Dos Puertas School Juvenile Court School Santa Maria,4263 California Blvd Santa Maria CA 93455,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.88093,-120.445778
-Santa Maria-Bonita,El Camino Junior High,219 West El Camino Santa Maria CA 93458-3611,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.959495,-120.438697
-Santa Barbara County Office of Education,El Puente North,225 W Church Santa Maria CA 93454,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.952038,-120.438853
-Santa Maria-Bonita,Fairlawn Elementary,120 North Mary Drive Santa Maria CA 93458-3920,7.1,ppb,TRUE,tested,Santa Maria,Santa Barbara County,34.95421,-120.447438
-Blochman Union Elementary,Family Partnership Home Study Charter,625 South McClelland Santa Maria CA 93454-5120,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.946065,-120.434773
-Santa Maria-Bonita,Fesler (Isaac) Junior High,1100 East Fesler Street Santa Maria CA 93454-4611,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.956393,-120.418817
-Santa Maria-Bonita,Jimenez Roberto and Dr Francisco Elementary School,1970 South Biscayne Street Santa Maria CA 93458,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.927858,-120.4524
-Santa Maria-Bonita,Kunst (Tommie) Junior High,930 Hidden Pines Way Santa Maria CA 93458-1419,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.98597,-120.444016
-Santa Maria-Bonita,Liberty Elementary,1300 West Sonya Lane Santa Maria CA 93458-6322,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.927914,-120.45621
-Santa Maria-Bonita,Miller (Isaac) Elementary,410 East Camino Colegio Santa Maria CA 93454-6752,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.940898,-120.429929
-Santa Maria-Bonita,Oakley (Calvin C.) Elementary,1120 West Harding Street Santa Maria CA 93458-2020,6,ppb,TRUE,tested,Santa Maria,Santa Barbara County,34.965753,-120.451395
-Santa Maria-Bonita,Ontiveros (Juan Pacifico) Elementary,930 West Rancho Verde Santa Maria CA 93458-8224,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.977159,-120.448125
-Private,Pacific Christian,3435 Santa Maria Way Santa Maria CA 93455,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.911478,-120.434885
-Orcutt Union Elementary,Patterson Road Elementary,400 Patterson Road Santa Maria CA 93455-4806,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.867904,-120.431085
-Santa Barbara County Office of Education,Peter B Fitzgerald Community School,402 Farnel Road STE M Santa Maria CA 93454,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.948787,-120.454936
-Orcutt Union Elementary,Pine Grove Elementary,1050 East Rice Ranch Road Santa Maria CA 93455-5068,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.856324,-120.419218
-Santa Maria Joint Union High,Pioneer Valley High,675 Panther Drive Santa Maria CA 93454-9700,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.960991,-120.400264
-Orcutt Union Elementary,Ralph Dunlap Elementary,1220 Oak Knoll Road Santa Maria CA 93455-4301,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.87021,-120.41372
-Santa Maria-Bonita,Rice (William) Elementary,700 East Vickie Avenue Santa Maria CA 93454-2236,9,ppb,TRUE,tested,Santa Maria,Santa Barbara County,34.965975,-120.427211
-Santa Maria-Bonita,Sanchez (David J.) Elementary,804 West Liberty Street Santa Maria CA 93458-6806,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.939358,-120.446653
-Santa Maria Joint Union High,Santa Maria High,901 South Broadway Santa Maria CA 93454-6603,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.941877,-120.435834
-Santa Cruz County ROP,Santa Maria State Preschool,219 N Mary Dr Santa Ana CA 93454,NA,NA,NA,not tested,Santa Maria,Santa Barbara County,34.955186,-120.44832
-Santa Maria-Bonita,Taylor (Ida Redmond) Elementary,1921 North Carlotti Drive Santa Maria CA 93454-5509,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.974358,-120.42289
-Santa Maria-Bonita,Tunnell (Martin Luther) Elementary,1248 East Dena Way Santa Maria CA 93454-2551,NA,NA,FALSE,tested,Santa Maria,Santa Barbara County,34.964394,-120.414517
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Santa Maria-Bonita,Adam (William Laird) Elementary,500 West Windsor Santa Maria CA 93458-6543,,,False,tested,Santa Maria,Santa Barbara County,34.935596999999994,-120.44258799999999,
+Santa Maria-Bonita,Alvin Elementary,301 East Alvin Avenue Santa Maria CA 93454-3703,,,False,tested,Santa Maria,Santa Barbara County,34.961053,-120.432946,
+Santa Maria-Bonita,Battles (Washington) Elementary,605 East Battles Road Santa Maria CA 93454-7211,,,False,tested,Santa Maria,Santa Barbara County,34.931482,-120.428629,
+Santa Maria-Bonita,Bruce (Robert) Elementary,601 West Alvin Avenue Santa Maria CA 93458-3012,,,False,tested,Santa Maria,Santa Barbara County,34.961403000000004,-120.442884,
+Santa Barbara County Office of Education,Camino Segundo,815 B Parkview Street Santa Maria CA 93455,,,,not tested,Santa Maria,Santa Barbara County,34.881933000000004,-120.429805,
+Santa Maria Joint Union High,Delta High,4893 Bethany Lane Santa Maria CA 93455-4880,,,,not tested,Santa Maria,Santa Barbara County,34.865981,-120.43373799999999,
+Santa Barbara County Office of Education,Dos Puertas School Juvenile Court School Santa Maria,4263 California Blvd Santa Maria CA 93455,,,,not tested,Santa Maria,Santa Barbara County,34.88093,-120.445778,
+Santa Maria-Bonita,El Camino Junior High,219 West El Camino Santa Maria CA 93458-3611,,,False,tested,Santa Maria,Santa Barbara County,34.959495000000004,-120.43869699999999,
+Santa Barbara County Office of Education,El Puente North,225 W Church Santa Maria CA 93454,,,,not tested,Santa Maria,Santa Barbara County,34.952038,-120.43885300000001,
+Santa Maria-Bonita,Fairlawn Elementary,120 North Mary Drive Santa Maria CA 93458-3920,7.1,ppb,True,tested,Santa Maria,Santa Barbara County,34.954209999999996,-120.44743799999999,7.1
+Blochman Union Elementary,Family Partnership Home Study Charter,625 South McClelland Santa Maria CA 93454-5120,,,,not tested,Santa Maria,Santa Barbara County,34.946065000000004,-120.43477299999999,
+Santa Maria-Bonita,Fesler (Isaac) Junior High,1100 East Fesler Street Santa Maria CA 93454-4611,,,False,tested,Santa Maria,Santa Barbara County,34.956393,-120.41881699999999,
+Santa Maria-Bonita,Jimenez Roberto and Dr Francisco Elementary School,1970 South Biscayne Street Santa Maria CA 93458,,,False,tested,Santa Maria,Santa Barbara County,34.927858,-120.4524,
+Santa Maria-Bonita,Kunst (Tommie) Junior High,930 Hidden Pines Way Santa Maria CA 93458-1419,,,False,tested,Santa Maria,Santa Barbara County,34.98597,-120.44401599999999,
+Santa Maria-Bonita,Liberty Elementary,1300 West Sonya Lane Santa Maria CA 93458-6322,,,False,tested,Santa Maria,Santa Barbara County,34.927914,-120.45621000000001,
+Santa Maria-Bonita,Miller (Isaac) Elementary,410 East Camino Colegio Santa Maria CA 93454-6752,,,False,tested,Santa Maria,Santa Barbara County,34.940898,-120.429929,
+Santa Maria-Bonita,Oakley (Calvin C.) Elementary,1120 West Harding Street Santa Maria CA 93458-2020,6.0,ppb,True,tested,Santa Maria,Santa Barbara County,34.965753,-120.45139499999999,6.0
+Santa Maria-Bonita,Ontiveros (Juan Pacifico) Elementary,930 West Rancho Verde Santa Maria CA 93458-8224,,,False,tested,Santa Maria,Santa Barbara County,34.977159,-120.448125,
+Private,Pacific Christian,3435 Santa Maria Way Santa Maria CA 93455,,,False,tested,Santa Maria,Santa Barbara County,34.911478,-120.43488500000001,
+Orcutt Union Elementary,Patterson Road Elementary,400 Patterson Road Santa Maria CA 93455-4806,,,False,tested,Santa Maria,Santa Barbara County,34.867903999999996,-120.43108500000001,
+Santa Barbara County Office of Education,Peter B Fitzgerald Community School,402 Farnel Road STE M Santa Maria CA 93454,,,,not tested,Santa Maria,Santa Barbara County,34.948787,-120.454936,
+Orcutt Union Elementary,Pine Grove Elementary,1050 East Rice Ranch Road Santa Maria CA 93455-5068,,,False,tested,Santa Maria,Santa Barbara County,34.856324,-120.41921799999999,
+Santa Maria Joint Union High,Pioneer Valley High,675 Panther Drive Santa Maria CA 93454-9700,,,False,tested,Santa Maria,Santa Barbara County,34.960991,-120.40026399999999,
+Orcutt Union Elementary,Ralph Dunlap Elementary,1220 Oak Knoll Road Santa Maria CA 93455-4301,,,False,tested,Santa Maria,Santa Barbara County,34.87021,-120.41372,
+Santa Maria-Bonita,Rice (William) Elementary,700 East Vickie Avenue Santa Maria CA 93454-2236,9.0,ppb,True,tested,Santa Maria,Santa Barbara County,34.965975,-120.42721100000001,9.0
+Santa Maria-Bonita,Sanchez (David J.) Elementary,804 West Liberty Street Santa Maria CA 93458-6806,,,False,tested,Santa Maria,Santa Barbara County,34.939358,-120.446653,
+Santa Maria Joint Union High,Santa Maria High,901 South Broadway Santa Maria CA 93454-6603,,,False,tested,Santa Maria,Santa Barbara County,34.941877000000005,-120.43583400000001,
+Santa Cruz County ROP,Santa Maria State Preschool,219 N Mary Dr Santa Ana CA 93454,,,,not tested,Santa Maria,Santa Barbara County,34.955186,-120.44832,
+Santa Maria-Bonita,Taylor (Ida Redmond) Elementary,1921 North Carlotti Drive Santa Maria CA 93454-5509,,,False,tested,Santa Maria,Santa Barbara County,34.974358,-120.42289,
+Santa Maria-Bonita,Tunnell (Martin Luther) Elementary,1248 East Dena Way Santa Maria CA 93454-2551,,,False,tested,Santa Maria,Santa Barbara County,34.964394,-120.41451699999999,

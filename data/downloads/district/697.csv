@@ -1,17 +1,17 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sanger Unified,Community Day,818 L Street Sanger CA 93657-3201,NA,NA,FALSE,tested,Sanger,Fresno County,36.704761,-119.553634
-Sanger Unified,Del Rey Elementary,10620 Morro Street Del Rey CA 93616-0068,NA,NA,FALSE,tested,Del Rey,Fresno County,36.656757,-119.597009
-Sanger Unified,Hallmark Charter,2445 Ninth Street Sanger CA 93657-2780,NA,NA,FALSE,tested,Sanger,Fresno County,36.702681,-119.571627
-Sanger Unified,Jackson Elementary,1810 Third Street Sanger CA 93657-2302,6.3,ppb,TRUE,tested,Sanger,Fresno County,36.712343,-119.562538
-Sanger Unified,Jefferson Elementary,1110 Tucker Street Sanger CA 93657-3338,6.65,ppb,TRUE,tested,Sanger,Fresno County,36.702131,-119.544657
-Sanger Unified,John S. Wash Elementary,6350 East Lane Avenue Fresno CA 93727-5734,NA,NA,FALSE,tested,Fresno,Fresno County,36.733332,-119.67572
-Sanger Unified,Kings River High (Continuation),1801 Seventh Street Sanger CA 93657-2895,NA,NA,FALSE,tested,Sanger,Fresno County,36.7054,-119.562326
-Sanger Unified,Lincoln Elementary,1700 14th Street Sanger CA 93657-3442,7.85,ppb,TRUE,tested,Sanger,Fresno County,36.695668,-119.559849
-Sanger Unified,Madison Elementary,2324 Cherry Street Sanger CA 93657-3608,6.6,ppb,TRUE,tested,Sanger,Fresno County,36.695133,-119.570115
-Sanger Unified,Quail Lake Environmental Charter,4087 North Quail Lake Drive Clovis CA 93611-4646,NA,NA,FALSE,tested,Clovis,Fresno County,36.794551,-119.598309
-Sanger Unified,Ronald W. Reagan Elementary,1586 South Indianola Sanger CA 93657-9731,NA,NA,FALSE,tested,Sanger,Fresno County,36.713577,-119.582665
-Sanger Unified,Sanger Academy Charter,2207 Ninth Street Sanger CA 93657-2711,5.6,ppb,TRUE,tested,Sanger,Fresno County,36.70305,-119.568428
-Sanger Unified,Sanger High,1045 Bethel Ave Sanger CA 93657-2985,NA,NA,FALSE,tested,Sanger,Fresno County,36.701253,-119.577779
-Sanger Unified,Sequoia Elementary,1820 South Armstrong Avenue Fresno CA 93727-6724,NA,NA,FALSE,tested,Fresno,Fresno County,36.710371,-119.671306
-Sanger Unified,Washington Academic Middle,1705 Tenth Street Sanger CA 93657-2799,6.1,ppb,TRUE,tested,Sanger,Fresno County,36.700888,-119.560642
-Sanger Unified,Wilson Elementary,610 Faller Street Sanger CA 93657-2553,NA,NA,FALSE,tested,Sanger,Fresno County,36.707963,-119.548155
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Sanger Unified,Community Day,818 L Street Sanger CA 93657-3201,,,False,tested,Sanger,Fresno County,36.704761,-119.553634,
+Sanger Unified,Del Rey Elementary,10620 Morro Street Del Rey CA 93616-0068,,,False,tested,Del Rey,Fresno County,36.656757,-119.59700900000001,
+Sanger Unified,Hallmark Charter,2445 Ninth Street Sanger CA 93657-2780,,,False,tested,Sanger,Fresno County,36.702681,-119.571627,
+Sanger Unified,Jackson Elementary,1810 Third Street Sanger CA 93657-2302,6.3,ppb,True,tested,Sanger,Fresno County,36.712343,-119.56253799999999,9.3
+Sanger Unified,Jefferson Elementary,1110 Tucker Street Sanger CA 93657-3338,6.65,ppb,True,tested,Sanger,Fresno County,36.702131,-119.544657,65.0
+Sanger Unified,John S. Wash Elementary,6350 East Lane Avenue Fresno CA 93727-5734,,,False,tested,Fresno,Fresno County,36.733332,-119.67572,
+Sanger Unified,Kings River High (Continuation),1801 Seventh Street Sanger CA 93657-2895,,,False,tested,Sanger,Fresno County,36.7054,-119.562326,
+Sanger Unified,Lincoln Elementary,1700 14th Street Sanger CA 93657-3442,7.85,ppb,True,tested,Sanger,Fresno County,36.695668,-119.559849,13.0
+Sanger Unified,Madison Elementary,2324 Cherry Street Sanger CA 93657-3608,6.6,ppb,True,tested,Sanger,Fresno County,36.695133,-119.57011499999999,7.5
+Sanger Unified,Quail Lake Environmental Charter,4087 North Quail Lake Drive Clovis CA 93611-4646,,,False,tested,Clovis,Fresno County,36.794551,-119.59830900000001,
+Sanger Unified,Ronald W. Reagan Elementary,1586 South Indianola Sanger CA 93657-9731,,,False,tested,Sanger,Fresno County,36.713577,-119.58266499999999,
+Sanger Unified,Sanger Academy Charter,2207 Ninth Street Sanger CA 93657-2711,5.6,ppb,True,tested,Sanger,Fresno County,36.70305,-119.568428,5.6
+Sanger Unified,Sanger High,1045 Bethel Ave Sanger CA 93657-2985,,,False,tested,Sanger,Fresno County,36.701253,-119.577779,
+Sanger Unified,Sequoia Elementary,1820 South Armstrong Avenue Fresno CA 93727-6724,,,False,tested,Fresno,Fresno County,36.710371,-119.671306,
+Sanger Unified,Washington Academic Middle,1705 Tenth Street Sanger CA 93657-2799,6.1,ppb,True,tested,Sanger,Fresno County,36.700888,-119.56064199999999,8.2
+Sanger Unified,Wilson Elementary,610 Faller Street Sanger CA 93657-2553,,,False,tested,Sanger,Fresno County,36.707963,-119.54815500000001,

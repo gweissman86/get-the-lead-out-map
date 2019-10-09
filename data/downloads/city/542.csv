@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Spreckels Union Elementary,Spreckels Elementary,Fourth Street and Hatton Avenue Spreckels CA 93962-7308,NA,NA,FALSE,tested,Spreckels,Monterey County,36.625519,-121.645354
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Spreckels Union Elementary,Spreckels Elementary,Fourth Street and Hatton Avenue Spreckels CA 93962-7308,,,False,tested,Spreckels,Monterey County,36.625519,-121.645354,

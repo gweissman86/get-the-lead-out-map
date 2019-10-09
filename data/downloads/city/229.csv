@@ -1,2 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Heber Elementary,Herber Dogwood Elementary,44 E Correll Rd Herber CA 92249,NA,NA,FALSE,tested,Heber,Imperial County,32.738964,-115.531962
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Healdsburg Unified,Fitch Mountain Elementary,565 Sanns Ln Healdsburg CA 95448-3521,,,False,tested,Healdsburg,Sonoma County,38.623139,-122.862652,
+Healdsburg Unified,Healdsburg Charter,400 First St. Healdsburg CA 95448-3939,,,,not tested,Healdsburg,Sonoma County,38.613354,-122.861372,
+Healdsburg Unified,Healdsburg Elementary,400 First Street Healdsburg CA 95448-3939,,,False,tested,Healdsburg,Sonoma County,38.613354,-122.861372,
+Healdsburg Unified,Healdsburg High,1024 Prince Street Healdsburg CA 95448-3449,,,False,tested,Healdsburg,Sonoma County,38.61757,-122.868435,
+Healdsburg Unified,Healdsburg Junior High,315 Grant Street Healdsburg CA 95448-3921,,,False,tested,Healdsburg,Sonoma County,38.615921,-122.86608600000001,
+Healdsburg Unified,Marce Becerra Academy,1024 Prince St Healdsburg CA 95448-3449,,,,not tested,Healdsburg,Sonoma County,38.61757,-122.868435,

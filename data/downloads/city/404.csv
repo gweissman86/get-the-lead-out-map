@@ -1,18 +1,18 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Palo Alto Unified,Addison Elementary,650 Addison Avenue Palo Alto CA 94301-3206,5.95,ppb,TRUE,tested,Palo Alto,Santa Clara County,37.445828,-122.150796
-Palo Alto Unified,Barron Park Elementary,800 Barron Avenue Palo Alto CA 94306-2610,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.413435,-122.137152
-Palo Alto Unified,David Starr Jordan Middle,750 North California Avenue Palo Alto CA 94303-3629,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.438607,-122.134631
-Palo Alto Unified,Duveneck Elementary,705 Alester Avenue Palo Alto CA 94303-2859,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.4496,-122.13341
-Palo Alto Unified,El Carmelo Elementary,3024 Bryant Street Palo Alto CA 94306-2335,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.425612,-122.130156
-Palo Alto Unified,Fairmeadow Elementary,500 East Meadow Drive Palo Alto CA 94306-3624,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.41815,-122.122832
-Palo Alto Unified,Greendell,4120 Middlefield Road Palo Alto CA 94303-4741,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.41728,-122.105649
-Palo Alto Unified,Henry M. Gunn High,780 Arastradero Road Palo Alto CA 94306-3827,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.40078,-122.133867
-Palo Alto Unified,Herbert Hoover Elementary,445 East Charleston Road Palo Alto CA 94306-4236,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.418801,-122.114543
-Palo Alto Unified,Jane Lathrop Stanford Middle,480 East Meadow Drive Palo Alto CA 94306-3699,5.75,ppb,TRUE,tested,Palo Alto,Santa Clara County,37.41815,-122.122832
-Palo Alto Unified,Juana Briones Elementary,4100 Orme Street Palo Alto CA 94306-3106,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.407661,-122.130521
-Palo Alto Unified,Ohlone Elementary,950 Amarillo Avenue Palo Alto CA 94303-3701,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.439265,-122.122593
-Palo Alto Unified,Palo Alto Adult Education,50 Embarcadero Rd Palo Alto CA 94301-2321,NA,NA,NA,not tested,Palo Alto,Santa Clara County,37.437793,-122.158062
-Palo Alto Unified,Palo Alto High,50 Embarcadero Road Palo Alto CA 94301-2321,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.437793,-122.158062
-Palo Alto Unified,Palo Verde Elementary,3450 Louis Road Palo Alto CA 94303-4403,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.430916,-122.113659
-Palo Alto Unified,Terman Middle,655 Arastradero Road Palo Alto CA 94306-3838,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.402811,-122.126532
-Palo Alto Unified,Walter Hays Elementary,1525 Middlefield Road Palo Alto CA 94301-3353,NA,NA,FALSE,tested,Palo Alto,Santa Clara County,37.443143,-122.143396
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Palo Alto Unified,Addison Elementary,650 Addison Avenue Palo Alto CA 94301-3206,5.95,ppb,True,tested,Palo Alto,Santa Clara County,37.445828000000006,-122.150796,6.09
+Palo Alto Unified,Barron Park Elementary,800 Barron Avenue Palo Alto CA 94306-2610,,,False,tested,Palo Alto,Santa Clara County,37.413435,-122.137152,
+Palo Alto Unified,David Starr Jordan Middle,750 North California Avenue Palo Alto CA 94303-3629,,,False,tested,Palo Alto,Santa Clara County,37.438607,-122.134631,
+Palo Alto Unified,Duveneck Elementary,705 Alester Avenue Palo Alto CA 94303-2859,,,False,tested,Palo Alto,Santa Clara County,37.4496,-122.13341000000001,
+Palo Alto Unified,El Carmelo Elementary,3024 Bryant Street Palo Alto CA 94306-2335,,,False,tested,Palo Alto,Santa Clara County,37.425612,-122.130156,
+Palo Alto Unified,Fairmeadow Elementary,500 East Meadow Drive Palo Alto CA 94306-3624,,,False,tested,Palo Alto,Santa Clara County,37.41815,-122.122832,
+Palo Alto Unified,Greendell,4120 Middlefield Road Palo Alto CA 94303-4741,,,False,tested,Palo Alto,Santa Clara County,37.41728,-122.105649,
+Palo Alto Unified,Henry M. Gunn High,780 Arastradero Road Palo Alto CA 94306-3827,,,False,tested,Palo Alto,Santa Clara County,37.40078,-122.133867,
+Palo Alto Unified,Herbert Hoover Elementary,445 East Charleston Road Palo Alto CA 94306-4236,,,False,tested,Palo Alto,Santa Clara County,37.418801,-122.114543,
+Palo Alto Unified,Jane Lathrop Stanford Middle,480 East Meadow Drive Palo Alto CA 94306-3699,5.75,ppb,True,tested,Palo Alto,Santa Clara County,37.41815,-122.122832,5.75
+Palo Alto Unified,Juana Briones Elementary,4100 Orme Street Palo Alto CA 94306-3106,,,False,tested,Palo Alto,Santa Clara County,37.407661,-122.130521,
+Palo Alto Unified,Ohlone Elementary,950 Amarillo Avenue Palo Alto CA 94303-3701,,,False,tested,Palo Alto,Santa Clara County,37.439265,-122.122593,
+Palo Alto Unified,Palo Alto Adult Education,50 Embarcadero Rd Palo Alto CA 94301-2321,,,,not tested,Palo Alto,Santa Clara County,37.437793,-122.15806200000002,
+Palo Alto Unified,Palo Alto High,50 Embarcadero Road Palo Alto CA 94301-2321,,,False,tested,Palo Alto,Santa Clara County,37.437793,-122.15806200000002,
+Palo Alto Unified,Palo Verde Elementary,3450 Louis Road Palo Alto CA 94303-4403,,,False,tested,Palo Alto,Santa Clara County,37.430915999999996,-122.11365900000001,
+Palo Alto Unified,Terman Middle,655 Arastradero Road Palo Alto CA 94306-3838,,,False,tested,Palo Alto,Santa Clara County,37.402811,-122.12653200000001,
+Palo Alto Unified,Walter Hays Elementary,1525 Middlefield Road Palo Alto CA 94301-3353,,,False,tested,Palo Alto,Santa Clara County,37.443143,-122.143396,

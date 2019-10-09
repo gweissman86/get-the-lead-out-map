@@ -1,3 +1,33 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-ABC Unified,Fedde (Pharis F.) Middle,21409 South Elaine Avenue Hawaiian Gardens CA 90716-1025,NA,NA,NA,not tested,Hawaiian Gardens,Los Angeles County,33.834901,-118.076809
-ABC Unified,Hawaiian Elementary,12350 East 226th Street Hawaiian Gardens CA 90716-1721,NA,NA,NA,not tested,Hawaiian Gardens,Los Angeles County,33.823921,-118.067597
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Armona Union Elementary,Crossroads Charter,418 West 8th Street Hanford CA 93230-4536,,,False,tested,Hanford,Kings County,36.326919000000004,-119.65145,
+Hanford Joint Union High,Earl F. Johnson High (Continuation),1201 North Douty Hanford CA 93230-2156,89.0,ppb,True,tested,Hanford,Kings County,36.338060999999996,-119.645928,89.0
+Pioneer Union Elementary,Frontier Elementary,1854 North Mustang Drive Hanford CA 93230-9811,26.0,ppb,True,tested,Hanford,Kings County,36.345017,-119.687946,26.0
+Hanford Elementary,George Washington Elementary,2245 North Fairmont Hanford CA 93232-1448,10.9,ppb,True,tested,Hanford,Kings County,36.352862,-119.63799999999999,15.0
+Hanford Elementary,Hamilton Elementary,1269 Leland Way Hanford CA 93230,5.75,ppb,True,tested,Hanford,Kings County,36.349221,-119.62543799999999,6.0
+Hanford Joint Union High,Hanford Adult,905 Campus Drive Hanford CA 93230,10.0,ppb,True,tested,Hanford,Kings County,36.333846,-119.663173,10.0
+Hanford Joint Union High,Hanford Community Day,120 East Grangeville Boulevard Hanford CA 93230-3067,,,False,tested,Hanford,Kings County,36.342708,-119.644791,
+Hanford Elementary,Hanford Elementary Community Day,601 West Florinda St Hanford CA 93230-3628,,,,not tested,Hanford,Kings County,36.334771,-119.65441200000001,
+Hanford Elementary,Hanford Elementary School District Service Facility Kitchen,924 Katie Hammond Lane Hanford CA 93239,,,False,tested,Hanford,Kings County,36.338125,-119.631702,
+Hanford Joint Union High,Hanford High,120 East Grangeville Boulevard Hanford CA 93230-3067,,,,not tested,Hanford,Kings County,36.342708,-119.644791,
+Hanford Joint Union High,Hanford Night (Continuation),1201 North Douty rd Hanford CA 93230-3067,,,,not tested,Hanford,Kings County,36.337563,-119.645653,
+Hanford Joint Union High,Hanford West High,1150 West Lacey Boulevard Hanford CA 93230-3575,66.0,ppb,True,tested,Hanford,Kings County,36.328072,-119.662623,120.0
+Kings County Office of Education,J. C. Montgomery,1450 Forum Drive Hanford CA 93230-4334,,,,not tested,Hanford,Kings County,36.330838,-119.667934,
+Hanford Elementary,Jefferson Charter Academy,511 West Malone Street Hanford CA 93230-2827,8.55,ppb,True,tested,Hanford,Kings County,36.338915,-119.652354,12.0
+Hanford Elementary,John F. Kennedy Junior High,1000 East Florinda Street Hanford CA 93232,5.1,ppb,True,tested,Hanford,Kings County,36.334851,-119.63613000000001,5.1
+Hanford Elementary,Joseph M. Simas,1875 Fitzgerald Hanford CA 93230-7906,12.0,ppb,True,tested,Hanford,Kings County,36.351926,-119.668458,800.0
+Kings County Office of Education,Kings County Community,146 Highland Street Hanford CA 93230-6172,,,,not tested,Hanford,Kings County,36.311043,-119.64656599999999,
+Kings County ROP,Kings County ROP,1144 West Lacey Boulevard Hanford CA 93230-5956,,,,not tested,Hanford,Kings County,36.328072999999996,-119.66259699999999,
+Kings County Office of Education,Kings County SELPA Preschool,11835 11th Avenue Hanford CA 93230,,,,not tested,Hanford,Kings County,36.262029999999996,-119.65486399999999,
+Kings County Office of Education,Kings County Special Education,959 Katie Hammond Lane Hanford CA 93230-4334,,,,not tested,Hanford,Kings County,36.337403,-119.630183,
+Kit Carson Union Elementary,Kings Valley Academy,9895 Seventh Avenue Hanford CA 93230-8802,,,,not tested,Hanford,Kings County,36.329495,-119.58251100000001,
+Kit Carson Union Elementary,Kit Carson Elementary,9895 Seventh Avenue Hanford CA 93230-8802,,,,not tested,Hanford,Kings County,36.329495,-119.58251100000001,
+Hanford Elementary,Lee Richmond Elementary,939 Katie Hammond Street Hanford CA 93230-3158,92.0,ppb,True,tested,Hanford,Kings County,36.337546,-119.631098,92.0
+Hanford Elementary,Lincoln Elementary,832 South Harris Street Hanford CA 93230-5436,7.85,ppb,True,tested,Hanford,Kings County,36.316229,-119.642705,13.0
+Hanford Elementary,Martin Luther King Jr. Elementary,820 Hume Avenue Hanford CA 93230-6309,5.4,ppb,True,tested,Hanford,Kings County,36.305587,-119.663867,5.4
+Kit Carson Union Elementary,Mid Valley Alternative Charter,9895 Seventh Avenue Hanford CA 93230-9304,,,,not tested,Hanford,Kings County,36.329495,-119.58251100000001,
+Hanford Elementary,Monroe Elementary,300 Monroe Drive Hanford CA 93230-1729,,,False,tested,Hanford,Kings County,36.350072999999995,-119.64918700000001,
+Pioneer Union Elementary,Pioneer Elementary,8810 14th Avenue Hanford CA 93230-9677,,,False,tested,Hanford,Kings County,36.346419,-119.710297,
+Pioneer Union Elementary,Pioneer Middle,101 West Pioneer Way Hanford CA 93230-9677,280.0,ppb,True,tested,Hanford,Kings County,36.370537,-119.653089,410.0
+Hanford Elementary,Roosevelt Elementary,870 Davis Street Hanford CA 93230-5612,5.9,ppb,True,tested,Hanford,Kings County,36.317625,-119.65774499999999,8.1
+Hanford Joint Union High,Sierra Pacific High,1259 North 13th Avenue Hanford CA 93230-9219,,,False,tested,Hanford,Kings County,36.337257,-119.68988600000002,
+Hanford Elementary,Woodrow Wilson Junior High,601 West Florinda Street Hanford CA 93230-3629,7.0,ppb,True,tested,Hanford,Kings County,36.334771,-119.65441200000001,7.0

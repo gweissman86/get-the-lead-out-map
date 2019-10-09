@@ -1,4 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hickman Community Charter,Hickman Charter,"13306 Fourth Street, Area B Hickman CA 95323",NA,NA,NA,not tested,Hickman,Stanislaus County,37.620327,-120.748302
-Hickman Community Charter,Hickman Elementary,"13306 Fourth Street, Area A Hickman CA 95323",NA,NA,NA,not tested,Hickman,Stanislaus County,37.620327,-120.748302
-Hickman Community Charter,Hickman Middle,13306 Fourth Street Hickman CA 95323-9634,NA,NA,NA,not tested,Hickman,Stanislaus County,37.620327,-120.748302
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hesperia Unified,Canyon Ridge High,12850 Muscatel Avenue Hesperia CA 92344-5566,,,False,tested,Hesperia,San Bernardino County,34.412525,-117.381799,
+Hesperia Unified,Eucalyptus Elementary,11224 Tenth Avenue Hesperia CA 92345-2302,,,False,tested,Hesperia,San Bernardino County,34.454462,-117.31876799999999,
+Hesperia Unified,Joshua Circle Elementary,10140 Eighth Avenue Hesperia CA 92345-2801,,,False,tested,Hesperia,San Bernardino County,34.434607,-117.31673799999999,
+Hesperia Unified,Maple Elementary,10616 Maple Street Hesperia CA 92345-2436,,,False,tested,Hesperia,San Bernardino County,34.443833000000005,-117.34766599999999,
+Hesperia Unified,Mesa Grande Elementary,9172 Third Street Hesperia CA 92345-3643,8.2,ppb,True,tested,Hesperia,San Bernardino County,34.419108,-117.30873700000001,8.2
+Hesperia Unified,Sultana High,17311 Sultana Avenue Hesperia CA 92345-6567,,,False,tested,Hesperia,San Bernardino County,34.41046,-117.286874,

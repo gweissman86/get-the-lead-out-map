@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Saratoga Union Elementary,Argonaut Elementary,13200 Shadow Mountain Road Saratoga CA 95070-4362,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.276762,-122.025635
-Saratoga Union Elementary,Foothill Elementary,13919 Lynde Avenue Saratoga CA 95070-5310,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.265233,-122.033431
-Saratoga Union Elementary,Redwood Middle,13925 Fruitvale Avenue Saratoga CA 95070-5603,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.267432,-122.013987
-Saratoga Union Elementary,Saratoga Elementary,14592 Oak Street Saratoga CA 95070-6028,NA,NA,FALSE,tested,Saratoga,Santa Clara County,37.256764,-122.032694
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Saratoga Union Elementary,Argonaut Elementary,13200 Shadow Mountain Road Saratoga CA 95070-4362,,,False,tested,Saratoga,Santa Clara County,37.276762,-122.02563500000001,
+Saratoga Union Elementary,Foothill Elementary,13919 Lynde Avenue Saratoga CA 95070-5310,,,False,tested,Saratoga,Santa Clara County,37.265233,-122.03343100000001,
+Saratoga Union Elementary,Redwood Middle,13925 Fruitvale Avenue Saratoga CA 95070-5603,,,False,tested,Saratoga,Santa Clara County,37.267432,-122.01398700000001,
+Saratoga Union Elementary,Saratoga Elementary,14592 Oak Street Saratoga CA 95070-6028,,,False,tested,Saratoga,Santa Clara County,37.256764000000004,-122.03269399999999,

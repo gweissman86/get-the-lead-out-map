@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Del Norte County Unified,Bess Maxwell Elementary,1124 El Dorado Street Crescent City CA 95531-2111,NA,NA,NA,not tested,Crescent City,Del Norte County,41.76666,-124.209084
-Del Norte County Unified,Crescent Elk Middle,994 G Street Crescent City CA 95531-3417,NA,NA,NA,not tested,Crescent City,Del Norte County,41.756216,-124.203199
-Del Norte County Unified,Del Norte High,1301 El Dorado Street Crescent City CA 95531-2110,NA,NA,NA,not tested,Crescent City,Del Norte County,41.768486,-124.20939
-Del Norte County Unified,Joe Hamilton Elementary,1050 E Street Crescent City CA 95531-3423,NA,NA,NA,not tested,Crescent City,Del Norte County,41.755888,-124.205547
-Del Norte County Unified,Mary Peacock Elementary,1720 Arlington Crescent City CA 95331-8331,NA,NA,NA,not tested,Crescent City,Del Norte County,41.777035,-124.211085
-Del Norte County Unified,Mountain Elementary,55 Azalea Lane Gasquet CA 95543,NA,NA,NA,not tested,NA,Del Norte County,41.846817,-123.961798
-Del Norte County Unified,Pine Grove Elementary,900 Pine Grove Road Crescent City CA 95531-8948,NA,NA,NA,not tested,Crescent City,Del Norte County,41.784624,-124.194408
-Del Norte County Unified,Sunset High,2500 Elk Valley Cross Road Crescent City CA 95531-8461,NA,NA,NA,not tested,Crescent City,Del Norte County,41.809211,-124.153806
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Del Norte County Unified,Bess Maxwell Elementary,1124 El Dorado Street Crescent City CA 95531-2111,,,,not tested,Crescent City,Del Norte County,41.766659999999995,-124.209084,
+Del Norte County Unified,Crescent Elk Middle,994 G Street Crescent City CA 95531-3417,,,,not tested,Crescent City,Del Norte County,41.756215999999995,-124.203199,
+Del Norte County Unified,Del Norte High,1301 El Dorado Street Crescent City CA 95531-2110,,,,not tested,Crescent City,Del Norte County,41.768485999999996,-124.20938999999998,
+Del Norte County Unified,Joe Hamilton Elementary,1050 E Street Crescent City CA 95531-3423,,,,not tested,Crescent City,Del Norte County,41.755888,-124.205547,
+Del Norte County Unified,Mary Peacock Elementary,1720 Arlington Crescent City CA 95331-8331,,,,not tested,Crescent City,Del Norte County,41.777035,-124.21108500000001,
+Del Norte County Unified,Mountain Elementary,55 Azalea Lane Gasquet CA 95543,,,,not tested,,Del Norte County,41.846817,-123.961798,
+Del Norte County Unified,Pine Grove Elementary,900 Pine Grove Road Crescent City CA 95531-8948,,,,not tested,Crescent City,Del Norte County,41.784624,-124.19440800000001,
+Del Norte County Unified,Sunset High,2500 Elk Valley Cross Road Crescent City CA 95531-8461,,,,not tested,Crescent City,Del Norte County,41.809211,-124.153806,

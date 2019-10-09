@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Twin Rivers Unified,Futures High,3701 Stephen Drive North Highlands CA 95660-4532,NA,NA,NA,not tested,North Highlands,Sacramento County,38.677828,-121.377302
-Twin Rivers Unified,Highlands High,6601 Guthrie Way North Highlands CA 95660-3911,8.3,ppb,TRUE,tested,North Highlands,Sacramento County,38.68805,-121.35893
-Twin Rivers Unified,Hillsdale Elementary,6469 Guthrie Way North Highlands CA 95660-3995,5.3,ppb,TRUE,tested,North Highlands,Sacramento County,38.68496,-121.35779
-Twin Rivers Unified,Kohler Elementary,4004 Bruce Way North Highlands CA 95660-4404,NA,NA,FALSE,tested,North Highlands,Sacramento County,38.678924,-121.366323
-Twin Rivers Unified,Madison Elementary,5241 Harrison Street North Highlands CA 95660-5444,NA,NA,FALSE,tested,North Highlands,Sacramento County,38.662187,-121.37013
-Twin Rivers Unified,Westside Preparatory Charter,6469 Guthrie Way B North Highlands CA 95660,NA,NA,FALSE,tested,North Highlands,Sacramento County,38.68496,-121.35779
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Twin Rivers Unified,Futures High,3701 Stephen Drive North Highlands CA 95660-4532,,,,not tested,North Highlands,Sacramento County,38.677828000000005,-121.377302,
+Twin Rivers Unified,Highlands High,6601 Guthrie Way North Highlands CA 95660-3911,8.3,ppb,True,tested,North Highlands,Sacramento County,38.68805,-121.35893,8.3
+Twin Rivers Unified,Hillsdale Elementary,6469 Guthrie Way North Highlands CA 95660-3995,5.3,ppb,True,tested,North Highlands,Sacramento County,38.68496,-121.35779,5.3
+Twin Rivers Unified,Kohler Elementary,4004 Bruce Way North Highlands CA 95660-4404,,,False,tested,North Highlands,Sacramento County,38.678924,-121.366323,
+Twin Rivers Unified,Madison Elementary,5241 Harrison Street North Highlands CA 95660-5444,,,False,tested,North Highlands,Sacramento County,38.662187,-121.37013,
+Twin Rivers Unified,Westside Preparatory Charter,6469 Guthrie Way B North Highlands CA 95660,,,False,tested,North Highlands,Sacramento County,38.68496,-121.35779,

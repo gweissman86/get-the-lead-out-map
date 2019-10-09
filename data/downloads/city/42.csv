@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Wheatland,Lone Tree Elementary,123 Beale Highway Beale Air Force Base CA 95903,NA,NA,FALSE,tested,Beale AFB,Yuba County,39.102394,-121.334553
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Luis Coastal Unified,Baywood Elementary,1330 Ninth Street Los Osos CA 93402-1350,,,,not tested,Baywood-Los Osos,San Luis Obispo County,35.327118,-120.832577,
+San Luis Coastal Unified,Los Osos Middle,1555 El Moro Street Los Osos CA 93402-1910,,,,not tested,Baywood-Los Osos,San Luis Obispo County,35.325241999999996,-120.819523,
+San Luis Coastal Unified,Monarch Grove Elementary,348 Los Osos Valley Road Los Osos CA 93402-3120,,,,not tested,Baywood-Los Osos,San Luis Obispo County,35.31351,-120.848504,

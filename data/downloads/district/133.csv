@@ -1,22 +1,22 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ceres Unified,Argus High (Continuation),2555 Lawrence Street Ceres CA 95307-0307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.590541,-120.948315
-Ceres Unified,Blaker-Kinser Junior High,1601 Kinser Road Ceres CA 95307-0307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.591274,-120.968615
-Ceres Unified,Carroll Fowler Elementary,2611 Garrison Street Ceres CA 95307-2736,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.598782,-120.946149
-Ceres Unified,Caswell Elementary,1800 North Central Avenue Ceres CA 95307-1807,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.602541,-120.956885
-Ceres Unified,Central Valley High,4033 Central Avenue Ceres CA 95307-7507,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.579742,-120.957015
-Ceres Unified,Ceres High,2320 Central Avenue Ceres CA 95307-2502,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.596394,-120.956808
-Ceres Unified,Cesar Chavez Junior High,2701 Eastgate Boulevard Ceres CA 95307-5054,7,ppb,TRUE,tested,Ceres,Stanislaus County,37.594429,-120.926767
-Ceres Unified,Don Pedro Elementary,2300 Don Pedro Road Ceres CA 95307-4134,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.582869,-120.953424
-Ceres Unified,Hanline Elementary,4231 Central Avenue Ceres CA 95307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.576985,-120.957052
-Ceres Unified,Joel J. Hidahl Elementary,2351 East Redwood Road Ceres CA 95307-5052,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.574692,-120.953564
-Ceres Unified,La Rosa Elementary,2800 Eastgate Boulevard Ceres CA 95307-5053,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.594429,-120.926767
-Ceres Unified,Lucas Elementary,3500 Rose Avenue Ceres CA 95307-3865,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.597625,-120.943283
-Ceres Unified,M. Robert Adkison Elementary,1824 Nadine Avenue Modesto CA 95351-4401,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.612821,-120.963466
-Ceres Unified,Mae Hensley Junior High,1806 Moffet Road Ceres CA 95307-1936,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.603247,-120.947519
-Ceres Unified,Patricia Kay Beaver Elementary,4927 Central Avenue Ceres CA 95307,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.566797,-120.957168
-Ceres Unified,Samuel Vaughn Elementary,3618 Helen Perry Road Ceres CA 95307-7456,5.3,ppb,TRUE,tested,Ceres,Stanislaus County,37.602038,-120.923205
-Ceres Unified,Sinclear Elementary,1211 Hackett Road Ceres CA 95307-7357,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.587906,-120.975619
-Ceres Unified,Summit Charter Academy,2036 E. Hatch Road Ceres CA 95340,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.609015,-120.957733
-Ceres Unified,Virginia Parks Elementary,1021 Moffett Road Modesto CA 95351-4904,NA,NA,FALSE,tested,Modesto,Stanislaus County,37.614077,-120.949504
-Ceres Unified,Walter White Elementary,2904 Sixth Street Ceres CA 95307-3336,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.591736,-120.950418
-Ceres Unified,Whitmore Charter School of Art & Technology,3435 Don Pedro  Ceres CA 95307-9436,NA,NA,FALSE,tested,Ceres,Stanislaus County,37.584514,-120.933092
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ceres Unified,Argus High (Continuation),2555 Lawrence Street Ceres CA 95307-0307,,,False,tested,Ceres,Stanislaus County,37.590540999999995,-120.948315,
+Ceres Unified,Blaker-Kinser Junior High,1601 Kinser Road Ceres CA 95307-0307,,,False,tested,Ceres,Stanislaus County,37.591274,-120.96861499999999,
+Ceres Unified,Carroll Fowler Elementary,2611 Garrison Street Ceres CA 95307-2736,,,False,tested,Ceres,Stanislaus County,37.598782,-120.946149,
+Ceres Unified,Caswell Elementary,1800 North Central Avenue Ceres CA 95307-1807,,,False,tested,Ceres,Stanislaus County,37.602540999999995,-120.95688500000001,
+Ceres Unified,Central Valley High,4033 Central Avenue Ceres CA 95307-7507,,,False,tested,Ceres,Stanislaus County,37.579741999999996,-120.95701499999998,
+Ceres Unified,Ceres High,2320 Central Avenue Ceres CA 95307-2502,,,False,tested,Ceres,Stanislaus County,37.596394000000004,-120.95680800000001,
+Ceres Unified,Cesar Chavez Junior High,2701 Eastgate Boulevard Ceres CA 95307-5054,7.0,ppb,True,tested,Ceres,Stanislaus County,37.594429,-120.926767,7.0
+Ceres Unified,Don Pedro Elementary,2300 Don Pedro Road Ceres CA 95307-4134,,,False,tested,Ceres,Stanislaus County,37.582869,-120.953424,
+Ceres Unified,Hanline Elementary,4231 Central Avenue Ceres CA 95307,,,False,tested,Ceres,Stanislaus County,37.576985,-120.957052,
+Ceres Unified,Joel J. Hidahl Elementary,2351 East Redwood Road Ceres CA 95307-5052,,,False,tested,Ceres,Stanislaus County,37.574692,-120.95356399999999,
+Ceres Unified,La Rosa Elementary,2800 Eastgate Boulevard Ceres CA 95307-5053,,,False,tested,Ceres,Stanislaus County,37.594429,-120.926767,
+Ceres Unified,Lucas Elementary,3500 Rose Avenue Ceres CA 95307-3865,,,False,tested,Ceres,Stanislaus County,37.597625,-120.94328300000001,
+Ceres Unified,M. Robert Adkison Elementary,1824 Nadine Avenue Modesto CA 95351-4401,,,False,tested,Modesto,Stanislaus County,37.612821000000004,-120.963466,
+Ceres Unified,Mae Hensley Junior High,1806 Moffet Road Ceres CA 95307-1936,,,False,tested,Ceres,Stanislaus County,37.603246999999996,-120.947519,
+Ceres Unified,Patricia Kay Beaver Elementary,4927 Central Avenue Ceres CA 95307,,,False,tested,Ceres,Stanislaus County,37.566796999999994,-120.957168,
+Ceres Unified,Samuel Vaughn Elementary,3618 Helen Perry Road Ceres CA 95307-7456,5.3,ppb,True,tested,Ceres,Stanislaus County,37.602038,-120.92320500000001,5.3
+Ceres Unified,Sinclear Elementary,1211 Hackett Road Ceres CA 95307-7357,,,False,tested,Ceres,Stanislaus County,37.587906,-120.975619,
+Ceres Unified,Summit Charter Academy,2036 E. Hatch Road Ceres CA 95340,,,False,tested,Modesto,Stanislaus County,37.609015,-120.957733,
+Ceres Unified,Virginia Parks Elementary,1021 Moffett Road Modesto CA 95351-4904,,,False,tested,Modesto,Stanislaus County,37.614077,-120.949504,
+Ceres Unified,Walter White Elementary,2904 Sixth Street Ceres CA 95307-3336,,,False,tested,Ceres,Stanislaus County,37.591736,-120.950418,
+Ceres Unified,Whitmore Charter School of Art & Technology,3435 Don Pedro  Ceres CA 95307-9436,,,False,tested,Ceres,Stanislaus County,37.584514,-120.93309199999999,

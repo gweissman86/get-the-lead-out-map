@@ -1,13 +1,13 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kern County Office of Education,Bakersfield College Delano Campus,1450 Timmons Ave Delano CA 93215,NA,NA,NA,not tested,NA,Kern County,35.768611,-119.271834
-Kern County Office of Education,Grimmway Academy,901 Nectarine Court Arvin CA 93203-2424,NA,NA,NA,not tested,NA,Kern County,35.214074,-118.833254
-Kern County Office of Education,Karl F. Clemens State Preschool,523 Broadway Ave. Wasco CA 93280,NA,NA,FALSE,tested,NA,Kern County,35.595936,-119.338053
-Kern County Office of Education,Kern County Community,1300 17th Street City Centre Bakersfield CA 93301,NA,NA,NA,not tested,Bakersfield,Kern County,35.374562,-119.016787
-Kern County Office of Education,Kern County Juvenile Court,1300 17th Street Bakersfield CA 93301-4533,NA,NA,NA,not tested,Bakersfield,Kern County,35.374395,-119.016582
-Kern County Office of Education,Kern County Special Education,1300 17th StCity Centre Bakersfield CA 93301-4533,NA,NA,NA,not tested,Bakersfield,Kern County,35.374562,-119.016787
-Kern County Office of Education,Valley Oaks Charter,3501 Chester Avenue Bakersfield CA 93301-1629,NA,NA,FALSE,tested,Bakersfield,Kern County,35.391412,-119.01883
-Kern County Office of Education,Wasco Child Development Center,617 6th Street Wasco CA 93280,NA,NA,NA,not tested,NA,Kern County,35.595474,-119.328832
-Kern County Office of Education,Wasco Child Development Center (H St.),764 H Street Wasco CA 93280,NA,NA,NA,not tested,NA,Kern County,35.592753,-119.330811
-Kern County Office of Education,West Kern Community School,301 North Street Taft CA 93268,NA,NA,NA,not tested,Taft,Kern County,35.140832,-119.455869
-Kern County Office of Education,Wonderful College Prep Academy,1942 Randolph Street Delano CA 93215-1527,NA,NA,NA,not tested,NA,Tulare County,35.782096,-119.231916
-Kern County Office of Education,Wonderful College Prep Academy,2070 Veneto Street Delano CA 93215,NA,NA,NA,not tested,Delano,Kern County,35.784717,-119.21226
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Kern County Office of Education,Bakersfield College Delano Campus,1450 Timmons Ave Delano CA 93215,,,,not tested,,Kern County,35.768611,-119.27183400000001,
+Kern County Office of Education,Grimmway Academy,901 Nectarine Court Arvin CA 93203-2424,,,,not tested,,Kern County,35.214074,-118.83325400000001,
+Kern County Office of Education,Karl F. Clemens State Preschool,523 Broadway Ave. Wasco CA 93280,,,False,tested,,Kern County,35.595936,-119.338053,
+Kern County Office of Education,Kern County Community,1300 17th Street City Centre Bakersfield CA 93301,,,,not tested,Bakersfield,Kern County,35.374562,-119.01678700000001,
+Kern County Office of Education,Kern County Juvenile Court,1300 17th Street Bakersfield CA 93301-4533,,,,not tested,Bakersfield,Kern County,35.374395,-119.016582,
+Kern County Office of Education,Kern County Special Education,1300 17th StCity Centre Bakersfield CA 93301-4533,,,,not tested,Bakersfield,Kern County,35.374562,-119.01678700000001,
+Kern County Office of Education,Valley Oaks Charter,3501 Chester Avenue Bakersfield CA 93301-1629,,,False,tested,Bakersfield,Kern County,35.391412,-119.01883000000001,
+Kern County Office of Education,Wasco Child Development Center,617 6th Street Wasco CA 93280,,,,not tested,,Kern County,35.595473999999996,-119.328832,
+Kern County Office of Education,Wasco Child Development Center (H St.),764 H Street Wasco CA 93280,,,,not tested,,Kern County,35.592753,-119.33081100000001,
+Kern County Office of Education,West Kern Community School,301 North Street Taft CA 93268,,,,not tested,Taft,Kern County,35.140832,-119.45586899999999,
+Kern County Office of Education,Wonderful College Prep Academy,1942 Randolph Street Delano CA 93215-1527,,,,not tested,,Tulare County,35.782096,-119.231916,
+Kern County Office of Education,Wonderful College Prep Academy,2070 Veneto Street Delano CA 93215,,,,not tested,Delano,Kern County,35.784717,-119.21226000000001,

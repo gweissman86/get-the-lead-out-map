@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Lemon Grove,Lemon Grove Academy Elementary,7885 Golden Avenue Lemon Grove CA 91945,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.741848,-117.028459
-Lemon Grove,Lemon Grove Academy for the Sciences and Humanities,7866 Lincoln Street Lemon Grove CA 91945-2542,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.738225,-117.029315
-Lemon Grove,Monterey Heights Elementary,7550 Canton Drive Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.722212,-117.033496
-Lemon Grove,Mt. Vernon Elementary,8350 Mount Vernon Street Lemon Grove CA 91945-3336,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.731928,-117.020447
-Lemon Grove,San Altos Elementary,1750 Madera Street Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.726681,-117.042671
-Lemon Grove,San Miguel Elementary,7059 San Miguel Avenue Lemon Grove CA 91945-2515,NA,NA,FALSE,tested,Lemon Grove,San Diego County,32.735111,-117.045536
-Lemon Grove,Vista La Mesa Academy,3900 Violet Street La Mesa CA 91941-7542,NA,NA,FALSE,tested,La Mesa,San Diego County,32.748522,-117.045
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Lemon Grove,Lemon Grove Academy Elementary,7885 Golden Avenue Lemon Grove CA 91945,,,False,tested,Lemon Grove,San Diego County,32.741848,-117.02845900000001,
+Lemon Grove,Lemon Grove Academy for the Sciences and Humanities,7866 Lincoln Street Lemon Grove CA 91945-2542,,,False,tested,Lemon Grove,San Diego County,32.738225,-117.029315,
+Lemon Grove,Monterey Heights Elementary,7550 Canton Drive Lemon Grove CA 91945-2515,,,False,tested,Lemon Grove,San Diego County,32.722212,-117.033496,
+Lemon Grove,Mt. Vernon Elementary,8350 Mount Vernon Street Lemon Grove CA 91945-3336,,,False,tested,Lemon Grove,San Diego County,32.731928,-117.02044699999999,
+Lemon Grove,San Altos Elementary,1750 Madera Street Lemon Grove CA 91945-2515,,,False,tested,Lemon Grove,San Diego County,32.726681,-117.042671,
+Lemon Grove,San Miguel Elementary,7059 San Miguel Avenue Lemon Grove CA 91945-2515,,,False,tested,Lemon Grove,San Diego County,32.735110999999996,-117.04553600000001,
+Lemon Grove,Vista La Mesa Academy,3900 Violet Street La Mesa CA 91941-7542,,,False,tested,La Mesa,San Diego County,32.748521999999994,-117.045,

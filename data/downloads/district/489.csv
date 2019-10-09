@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Moraga Elementary,Camino Pablo Elementary,1111 Camino Pablo Moraga CA 94556-1898,NA,NA,FALSE,tested,NA,Contra Costa County,37.822976,-122.124552
-Moraga Elementary,Donald L. Rheem Elementary,90 Laird Drive Moraga CA 94556-1407,NA,NA,FALSE,tested,NA,Contra Costa County,37.856021,-122.130456
-Moraga Elementary,Joaquin Moraga Intermediate,1010 Camino Pablo Moraga CA 94556-1899,NA,NA,FALSE,tested,NA,Contra Costa County,37.82431,-122.130426
-Moraga Elementary,Los Perales Elementary,22 Wakefield Drive Moraga CA 94556-1216,NA,NA,FALSE,tested,NA,Contra Costa County,37.84761,-122.138177
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Moraga Elementary,Camino Pablo Elementary,1111 Camino Pablo Moraga CA 94556-1898,,,False,tested,,Contra Costa County,37.822976000000004,-122.12455200000001,
+Moraga Elementary,Donald L. Rheem Elementary,90 Laird Drive Moraga CA 94556-1407,,,False,tested,,Contra Costa County,37.856021000000005,-122.13045600000001,
+Moraga Elementary,Joaquin Moraga Intermediate,1010 Camino Pablo Moraga CA 94556-1899,,,False,tested,,Contra Costa County,37.82431,-122.130426,
+Moraga Elementary,Los Perales Elementary,22 Wakefield Drive Moraga CA 94556-1216,,,False,tested,,Contra Costa County,37.847609999999996,-122.138177,

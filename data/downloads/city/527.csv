@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Long Beach Unified,Alvarado Elementary,1900 East 21st Street Signal Hill CA 90755-5858,6.3,ppb,TRUE,tested,Signal Hill,Los Angeles County,33.795203,-118.168325
-Long Beach Unified,Browning High School,2180 Obispo Avenue Long Beach CA 90804,NA,NA,NA,not tested,Signal Hill,Los Angeles County,33.796921,-118.154466
-Long Beach Unified,Jessie Nelson Academy,1951 Cherry Avenue Signal Hill CA 90755-5823,NA,NA,NA,not tested,Signal Hill,Los Angeles County,33.79274,-118.167717
-Long Beach Unified,John Burroughs Elementary,1260 E. 33rd St. Signal Hill CA 90755,6.3,ppb,TRUE,tested,Signal Hill,Los Angeles County,33.817018,-118.17612
-Long Beach Unified,Signal Hill Elementary,2285 Walnut Avenue Signal Hill CA 90755-3619,NA,NA,FALSE,tested,Signal Hill,Los Angeles County,33.798568,-118.17211
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Long Beach Unified,Alvarado Elementary,1900 East 21st Street Signal Hill CA 90755-5858,6.3,ppb,True,tested,Signal Hill,Los Angeles County,33.795203,-118.168325,6.3
+Long Beach Unified,Browning High School,2180 Obispo Avenue Long Beach CA 90804,,,,not tested,Signal Hill,Los Angeles County,33.796921000000005,-118.15446599999999,
+Long Beach Unified,Jessie Nelson Academy,1951 Cherry Avenue Signal Hill CA 90755-5823,,,,not tested,Signal Hill,Los Angeles County,33.79274,-118.167717,
+Long Beach Unified,John Burroughs Elementary,1260 E. 33rd St. Signal Hill CA 90755,6.3,ppb,True,tested,Signal Hill,Los Angeles County,33.817018,-118.17612,7.0
+Long Beach Unified,Signal Hill Elementary,2285 Walnut Avenue Signal Hill CA 90755-3619,,,False,tested,Signal Hill,Los Angeles County,33.798567999999996,-118.17211,

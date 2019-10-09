@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-South Pasadena Unified,Arroyo Vista Elementary,335 El Centro Street South Pasadena CA 91030-3006,NA,NA,NA,not tested,NA,Los Angeles County,34.113957,-118.167166
-South Pasadena Unified,Marengo Elementary,1400 Marengo Avenue South Pasadena CA 91030-3951,NA,NA,NA,not tested,NA,Los Angeles County,34.109857,-118.146596
-South Pasadena Unified,Monterey Hills Elementary,1624 Via del Rey South Pasadena CA 91030-4126,NA,NA,NA,not tested,NA,Los Angeles County,34.104462,-118.16434
-South Pasadena Unified,South Pasadena Middle,1500 Fair Oaks South Pasadena CA 91030-4126,NA,NA,NA,not tested,South Pasadena,Los Angeles County,34.108074,-118.149663
-South Pasadena Unified,South Pasadena Senior High,1401 Fremont Avenue South Pasadena CA 91030-3809,NA,NA,NA,not tested,NA,Los Angeles County,34.109808,-118.153245
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+South Pasadena Unified,Arroyo Vista Elementary,335 El Centro Street South Pasadena CA 91030-3006,,,,not tested,,Los Angeles County,34.113957,-118.167166,
+South Pasadena Unified,Marengo Elementary,1400 Marengo Avenue South Pasadena CA 91030-3951,,,,not tested,,Los Angeles County,34.109857,-118.146596,
+South Pasadena Unified,Monterey Hills Elementary,1624 Via del Rey South Pasadena CA 91030-4126,,,,not tested,,Los Angeles County,34.104462,-118.16434,
+South Pasadena Unified,South Pasadena Middle,1500 Fair Oaks South Pasadena CA 91030-4126,,,,not tested,South Pasadena,Los Angeles County,34.108074,-118.14966299999999,
+South Pasadena Unified,South Pasadena Senior High,1401 Fremont Avenue South Pasadena CA 91030-3809,,,,not tested,,Los Angeles County,34.109808,-118.153245,

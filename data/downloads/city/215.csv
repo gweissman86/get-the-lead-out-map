@@ -1,2 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Pierce Joint Unified,Grand Island Elementary,551 Leven Street Grimes CA 95950-0030,7.8,ppb,TRUE,tested,Grimes,Colusa County,39.070056,-121.896438
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Gridley Unified,Esperanza High (Continuation),581 Jackson Street Gridley CA 95948-2538,,,False,tested,Gridley,Butte County,39.365152,-121.693626,
+Gridley Unified,Gridley High,300 East Spruce Street Gridley CA 95948-2235,,,False,tested,Gridley,Butte County,39.367055,-121.68428899999999,
+Gridley Unified,McKinley Elementary,1045 Sycamore Street Gridley CA 95948-3040,,,False,tested,Gridley,Butte County,39.362926,-121.69808,
+Gridley Unified,Sycamore Middle,1125 Sycamore Street Gridley CA 95948-2949,,,False,tested,Gridley,Butte County,39.362864,-121.699372,
+Gridley Unified,Wilson Elementary,409 Magnolia Street Gridley CA 95948-2533,,,False,tested,Gridley,Butte County,39.362840000000006,-121.690998,

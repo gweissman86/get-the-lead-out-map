@@ -1,24 +1,24 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Redlands Unified,Barbara Phelps Community School,1812 West Park Ave. Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.059389,-117.216185
-Redlands Unified,Citrus Valley High,800 West Pioneer Avenue Redlands CA 92374-1509,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.082784,-117.194482
-Redlands Unified,Clement Middle,501 East Pennsylvania Avenue Redlands CA 92374-2496,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.07376,-117.176795
-Colton-Redlands-Yucaipa ROP,Colton-Redlands-Yucaipa ROP,1214 Indiana Court Redlands CA 92374-2896,NA,NA,NA,not tested,Redlands,San Bernardino County,34.069867,-117.2057
-Redlands Unified,Cope Middle,1000 West Cypress Avenue Redlands CA 92373-5722,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.040675,-117.188833
-Redlands Unified,Crafton Elementary,311 North Wabash Avenue Redlands CA 92374-4261,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.048992,-117.138859
-Redlands Unified,Franklin Elementary,850 East Colton Avenue Redlands CA 92374-3635,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.06281,-117.123786
-Redlands Unified,Grove,200 Nevada Street Redlands CA 92373-5385,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.053552,-117.216238
-Redlands Unified,Judson & Brown Elementary,1401 East Pennsylvania Avenue Redlands CA 92374-4734,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.073607,-117.156175
-Redlands Unified,Kimberly Elementary,301 West South Avenue Redlands CA 92373-7039,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.034002,-117.16657
-Redlands Unified,Kingsbury Elementary,600 Cajon Street Redlands CA 92373-5938,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.047246,-117.176464
-Redlands Unified,Lugonia Elementary,202 East Pennsylvania Avenue Redlands CA 92374-2344,5.7,ppb,TRUE,tested,Redlands,San Bernardino County,34.073584,-117.180614
-Redlands Unified,McKinley Elementary,645 West Olive Avenue Redlands CA 92373-5167,8.4,ppb,TRUE,tested,Redlands,San Bernardino County,34.049719,-117.187832
-Redlands Unified,Mentone Elementary,1320 Crafton Avenue Mentone CA 92359-1318,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.070581,-117.121742
-Redlands Unified,Mission Elementary,10568 California Street Redlands CA 92373-6239,NA,NA,NA,not tested,Redlands,San Bernardino County,34.068553,-117.226309
-Redlands Unified,Mission School,10568 California St Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.068553,-117.226309
-Redlands Unified,Moore Middle,1550 East Highland Avenue Redlands CA 92374-5518,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.051948,-117.150851
-Redlands Unified,Orangewood High (Continuation),515 Texas Street Redlands CA 92374-3071,9.4,ppb,TRUE,tested,Redlands,San Bernardino County,34.059892,-117.191475
-Redlands Unified,Redlands eAcademy,820 West Stuart Avenue Redlands CA 92374,NA,NA,NA,not tested,Redlands,San Bernardino County,34.060144,-117.192324
-Redlands Unified,Redlands East Valley High,31000 East Colton Avenue Redlands CA 92374-8290,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.0628,-117.1287
-Redlands Unified,Redlands Senior High,840 East Citrus Avenue Redlands CA 92374-5399,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.055456,-117.172735
-Private,Sacred Heart Academy,215 South Eureka Street Redlands CA 92373,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.052196,-117.182769
-Redlands Unified,Smiley Elementary,1210 West Cypress Avenue Redlands CA 92373-5726,NA,NA,FALSE,tested,Redlands,San Bernardino County,34.038863,-117.192093
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Redlands Unified,Barbara Phelps Community School,1812 West Park Ave. Redlands CA 92373,,,False,tested,Redlands,San Bernardino County,34.059389,-117.21618500000001,
+Redlands Unified,Citrus Valley High,800 West Pioneer Avenue Redlands CA 92374-1509,,,False,tested,Redlands,San Bernardino County,34.082784000000004,-117.19448200000001,
+Redlands Unified,Clement Middle,501 East Pennsylvania Avenue Redlands CA 92374-2496,,,False,tested,Redlands,San Bernardino County,34.07376,-117.176795,
+Colton-Redlands-Yucaipa ROP,Colton-Redlands-Yucaipa ROP,1214 Indiana Court Redlands CA 92374-2896,,,,not tested,Redlands,San Bernardino County,34.069866999999995,-117.2057,
+Redlands Unified,Cope Middle,1000 West Cypress Avenue Redlands CA 92373-5722,,,False,tested,Redlands,San Bernardino County,34.040675,-117.188833,
+Redlands Unified,Crafton Elementary,311 North Wabash Avenue Redlands CA 92374-4261,,,False,tested,Redlands,San Bernardino County,34.048992,-117.13885900000001,
+Redlands Unified,Franklin Elementary,850 East Colton Avenue Redlands CA 92374-3635,,,False,tested,Redlands,San Bernardino County,34.06281,-117.12378600000001,
+Redlands Unified,Grove,200 Nevada Street Redlands CA 92373-5385,,,False,tested,Redlands,San Bernardino County,34.053552,-117.21623799999999,
+Redlands Unified,Judson & Brown Elementary,1401 East Pennsylvania Avenue Redlands CA 92374-4734,,,False,tested,Redlands,San Bernardino County,34.073607,-117.156175,
+Redlands Unified,Kimberly Elementary,301 West South Avenue Redlands CA 92373-7039,,,False,tested,Redlands,San Bernardino County,34.034002,-117.16657,
+Redlands Unified,Kingsbury Elementary,600 Cajon Street Redlands CA 92373-5938,,,False,tested,Redlands,San Bernardino County,34.047246,-117.176464,
+Redlands Unified,Lugonia Elementary,202 East Pennsylvania Avenue Redlands CA 92374-2344,5.7,ppb,True,tested,Redlands,San Bernardino County,34.073584000000004,-117.18061399999999,5.7
+Redlands Unified,McKinley Elementary,645 West Olive Avenue Redlands CA 92373-5167,8.4,ppb,True,tested,Redlands,San Bernardino County,34.049719,-117.187832,12.9
+Redlands Unified,Mentone Elementary,1320 Crafton Avenue Mentone CA 92359-1318,,,False,tested,Redlands,San Bernardino County,34.070581,-117.121742,
+Redlands Unified,Mission Elementary,10568 California Street Redlands CA 92373-6239,,,,not tested,Redlands,San Bernardino County,34.068553,-117.22630900000001,
+Redlands Unified,Mission School,10568 California St Redlands CA 92373,,,False,tested,Redlands,San Bernardino County,34.068553,-117.22630900000001,
+Redlands Unified,Moore Middle,1550 East Highland Avenue Redlands CA 92374-5518,,,False,tested,Redlands,San Bernardino County,34.051947999999996,-117.150851,
+Redlands Unified,Orangewood High (Continuation),515 Texas Street Redlands CA 92374-3071,9.4,ppb,True,tested,Redlands,San Bernardino County,34.059892,-117.191475,11.0
+Redlands Unified,Redlands eAcademy,820 West Stuart Avenue Redlands CA 92374,,,,not tested,Redlands,San Bernardino County,34.060144,-117.192324,
+Redlands Unified,Redlands East Valley High,31000 East Colton Avenue Redlands CA 92374-8290,,,False,tested,Redlands,San Bernardino County,34.0628,-117.1287,
+Redlands Unified,Redlands Senior High,840 East Citrus Avenue Redlands CA 92374-5399,,,False,tested,Redlands,San Bernardino County,34.055456,-117.172735,
+Private,Sacred Heart Academy,215 South Eureka Street Redlands CA 92373,,,False,tested,Redlands,San Bernardino County,34.052196,-117.182769,
+Redlands Unified,Smiley Elementary,1210 West Cypress Avenue Redlands CA 92373-5726,,,False,tested,Redlands,San Bernardino County,34.038863,-117.192093,

@@ -1,10 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Center Joint Unified,Arthur S. Dudley Elementary,8000 Aztec Way Antelope CA 95843-4486,NA,NA,FALSE,tested,NA,Sacramento County,38.71394,-121.38171
-Center Joint Unified,Center High,3111 Center Court Lane Antelope CA 95843-9111,NA,NA,FALSE,tested,Antelope,Sacramento County,38.720248,-121.3897
-Center Joint Unified,CJUSD District Office,8401 Watt Avenue Antelope CA 95843,NA,NA,FALSE,tested,Antelope,Sacramento County,38.72181,-121.392334
-Center Joint Unified,Cyril Spinelli Elementary,3401 Scotland Dr Antelope CA 95843-2226,7.8,ppb,TRUE,tested,Antelope,Sacramento County,38.707579,-121.387589
-Center Joint Unified,Global Youth Charter,3243 Center Court Lane Antelope CA 95843-9111,NA,NA,FALSE,tested,Antelope,Sacramento County,38.719686,-121.386457
-Center Joint Unified,McClellan High (Continuation),8725 Watt Avenue Antelope CA 95843-9116,10,ppb,TRUE,tested,Antelope,Sacramento County,38.727633,-121.393076
-Center Joint Unified,North Country Elementary,3901 Little Rock Drive Antelope CA 95843-6231,9,ppb,TRUE,tested,Antelope,Sacramento County,38.706213,-121.374331
-Center Joint Unified,Oak Hill Elementary,3909 North Loop Boulevard Antelope CA 95843-4539,NA,NA,FALSE,tested,Antelope,Sacramento County,38.720785,-121.373259
-Center Joint Unified,Wilson C. Riles Middle,4747 PFE Road Roseville CA 95747-9776,NA,NA,FALSE,tested,Roseville,Placer County,38.729233,-121.32159
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Center Joint Unified,Arthur S. Dudley Elementary,8000 Aztec Way Antelope CA 95843-4486,,,False,tested,,Sacramento County,38.71394,-121.38171000000001,
+Center Joint Unified,Center High,3111 Center Court Lane Antelope CA 95843-9111,,,False,tested,Antelope,Sacramento County,38.720248,-121.3897,
+Center Joint Unified,CJUSD District Office,8401 Watt Avenue Antelope CA 95843,,,False,tested,Antelope,Sacramento County,38.72181,-121.392334,
+Center Joint Unified,Cyril Spinelli Elementary,3401 Scotland Dr Antelope CA 95843-2226,7.8,ppb,True,tested,Antelope,Sacramento County,38.707578999999996,-121.38758899999999,7.8
+Center Joint Unified,Global Youth Charter,3243 Center Court Lane Antelope CA 95843-9111,,,False,tested,Antelope,Sacramento County,38.719685999999996,-121.38645700000001,
+Center Joint Unified,McClellan High (Continuation),8725 Watt Avenue Antelope CA 95843-9116,10.0,ppb,True,tested,Antelope,Sacramento County,38.727633000000004,-121.39307600000001,14.0
+Center Joint Unified,North Country Elementary,3901 Little Rock Drive Antelope CA 95843-6231,9.0,ppb,True,tested,Antelope,Sacramento County,38.706213,-121.37433100000001,9.0
+Center Joint Unified,Oak Hill Elementary,3909 North Loop Boulevard Antelope CA 95843-4539,,,False,tested,Antelope,Sacramento County,38.720785,-121.373259,
+Center Joint Unified,Wilson C. Riles Middle,4747 PFE Road Roseville CA 95747-9776,,,False,tested,Roseville,Placer County,38.729233,-121.32158999999999,

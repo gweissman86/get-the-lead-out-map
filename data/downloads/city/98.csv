@@ -1,16 +1,32 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Chino Valley Unified,Alicia Cortez Elementary,12750 Carissa Avenue Chino CA 91710-3701,NA,NA,NA,not tested,Chino,San Bernardino County,34.022957,-117.669855
-Chino Valley Unified,Anna A. Borba Fundamental Elementary,4980 Riverside Drive Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.01913,-117.696354
-Chino Valley Unified,Buena Vista Continuation High,13509 Ramona Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.008179,-117.706523
-Chino Valley Unified,Cal Aero Preserve Academy,15850 Main Street Chino CA 91708-9290,NA,NA,NA,not tested,Chino,San Bernardino County,33.965714,-117.62314
-Chino Valley Unified,Chino High,5472 Park Place Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.021256,-117.685187
-Chino Valley Unified,Dickson Elementary,3930 Pamela Drive Chino CA 91710-4130,NA,NA,FALSE,tested,Chino,San Bernardino County,34.015273,-117.71937
-Chino Valley Unified,Don Antonio Lugo High,13400 Pipeline Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,33.994904,-117.715166
-Chino Valley Unified,E. J. Marshall Elementary,12045 Telephone Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.034561,-117.693918
-Chino Valley Unified,Edwin Rhodes Elementary,6655 Schaefer Avenue Chino CA 91710-9106,NA,NA,NA,not tested,Chino,San Bernardino County,34.00468,-117.659537
-Chino Valley Unified,Howard Cattle Elementary,13590 Cypress Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.00667,-117.662944
-Chino Valley Unified,Lyle S. Briggs Fundamental,11880 Roswell Avenue Chino CA 91710-4130,NA,NA,FALSE,tested,Chino,San Bernardino County,34.037094,-117.720086
-Chino Valley Unified,Magnolia Junior High,13150 Mountain Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.018088,-117.667627
-Chino Valley Unified,Newman Elementary,4150 Walnut Avenue Chino CA 91710-4130,NA,NA,FALSE,tested,Chino,San Bernardino County,34.026267,-117.714654
-Chino Valley Unified,Ramona Junior High,4575 Walnut Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.026154,-117.706123
-Chino Valley Unified,Walnut Avenue Elementary,5550 Walnut Avenue Chino CA 91710-4130,NA,NA,NA,not tested,Chino,San Bernardino County,34.026273,-117.68335
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Chico Unified,Academy for Change,290 East Avenue Chico CA 95926-1122,,,,not tested,Chico,Butte County,39.758629,-121.85836200000001,
+Chico Unified,Bidwell Junior High,2376 North Avenue Chico CA 95926-1434,,,False,tested,Chico,Butte County,39.756981,-121.836976,
+Chico Unified,Blue Oak Charter,450 West East Avenue Chico CA 95926-7238,,,,not tested,Chico,Butte County,39.755781,-121.863194,
+Butte County Office of Education,Butte County Community School - LEAD,2345 Fair Street Chico CA 95928-6749,,,,not tested,Chico,Butte County,39.716777,-121.815304,
+Chico Unified,Center for Alternative Learning,290 East Ave Chico CA 95926-1122,,,,not tested,Chico,Butte County,39.758629,-121.85836200000001,
+Chico Unified,Chapman Elementary,1071 East 16th Street Chico CA 95928-6207,,,False,tested,Chico,Butte County,39.726044,-121.81572299999999,
+Chico Unified,Chico Country Day,102 West 11th Street Chico CA 95928-6006,,,False,tested,Chico,Butte County,39.723495,-121.83331100000001,
+Chico Unified,Chico High,901 Esplanade Chico CA 95926-3908,,,False,tested,Chico,Butte County,39.736309999999996,-121.844622,
+Chico Unified,Chico Junior High,280 Memorial Way Chico CA 95926-3921,8.2,ppb,True,tested,Chico,Butte County,39.733503999999996,-121.839331,8.2
+Chico Unified,Citrus Avenue Elementary,1350 Citrus Avenue Chico CA 95926-3219,,,False,tested,Chico,Butte County,39.738422,-121.852231,
+Butte County Office of Education,CORE Butte Charter,260 Cohasset Road Suite 120 Chico CA 95926-2282,,,,not tested,Chico,Butte County,39.754052,-121.850994,
+Chico Unified,Emma Wilson Elementary,1530 West Eighth Avenue Chico CA 95926-7155,,,False,tested,Chico,Butte County,39.734,-121.870448,
+Chico Unified,Fair View High (Continuation),290 East Ave. Chico CA 95926-1122,,,False,tested,Chico,Butte County,39.758629,-121.85836200000001,
+Chico Unified,Hooker Oak Elementary,1238 Arbutus Avenue Chico CA 95926-3586,,,False,tested,Chico,Butte County,39.743328000000005,-121.83716000000001,
+Chico Unified,Inspire School of Arts and Sciences,335 West Sacramento Avenue Chico CA 95926-3908,,,False,tested,Chico,Butte County,39.735101,-121.84863,
+Chico Unified,Little Chico Creek Elementary,2090 Amanda Way Chico CA 95928-3700,,,False,tested,Chico,Butte County,39.733628,-121.798825,
+Chico Unified,Loma Vista,2404 Marigold Avenue Chico CA 95926-1615,,,False,tested,Chico,Butte County,39.764239,-121.81526799999999,
+Chico Unified,Marigold Elementary,2446 Marigold Avenue Chico CA 95926-1697,,,False,tested,Chico,Butte County,39.764239,-121.81526799999999,
+Chico Unified,Marsh (Harry M.) Junior High,2253 Humboldt Road Chico CA 95928-9132,,,False,tested,Chico,Butte County,39.739052,-121.79930300000001,
+Chico Unified,McManus (John A.) Elementary,988 East Avenue Chico CA 95926-1398,,,False,tested,Chico,Butte County,39.761016999999995,-121.839321,
+Chico Unified,Neal Dow Elementary,1420 Neal Dow Avenue Chico CA 95926-2441,,,False,tested,Chico,Butte County,39.749297999999996,-121.833251,
+Private,Notre Dame School,435 Hazel Street Chico CA 95928,,,False,tested,Chico,Butte County,39.725612,-121.84303700000001,
+Chico Unified,Oakdale,290 East Av Chico CA 95926-1122,,,,not tested,Chico,Butte County,39.758629,-121.85836200000001,
+Chico Unified,Parkview Elementary,1770 East Eighth Street Chico CA 95928-4107,,,False,tested,Chico,Butte County,39.7419,-121.81348899999999,
+Golden Feather Union Elementary,Pivot Charter School North Valley,2550 Lakewest Drive Suite 30 Chico CA 95928-8419,,,,not tested,Chico,Butte County,39.747541999999996,-121.792257,
+Chico Unified,Pleasant Valley High,1475 East Avenue Chico CA 95926-1699,,,False,tested,Chico,Butte County,39.761094,-121.81857,
+Chico Unified,Rosedale Elementary,100 Oak Street Chico CA 95928-5046,,,False,tested,Chico,Butte County,39.724058,-121.851349,
+Chico Unified,Shasta Elementary,169 Leora Court Chico CA 95926-0252,,,False,tested,Chico,Butte County,39.780336,-121.883656,
+Chico Unified,Sherwood Montessori,1071 East 16th St. Chico CA 95926-2009,,,False,tested,Chico,Butte County,39.726044,-121.81572299999999,
+Chico Unified,Sierra View Elementary,1598 Hooker Oak Avenue Chico CA 95926-2961,,,False,tested,Chico,Butte County,39.750871999999994,-121.812739,
+Chico Unified,Wildflower Open Classroom,2414 Cohasset Road Suite 3 Chico CA 95926-1318,,,,not tested,Chico,Butte County,39.758612,-121.843552,

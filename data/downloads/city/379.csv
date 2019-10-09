@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Hesperia Unified,Oak Hills High,7625 Cataba Road Oak Hills CA 92344-8713,NA,NA,NA,not tested,Oak Hills,San Bernardino County,34.388503,-117.384621
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hesperia Unified,Oak Hills High,7625 Cataba Road Oak Hills CA 92344-8713,,,,not tested,Oak Hills,San Bernardino County,34.388503,-117.384621,

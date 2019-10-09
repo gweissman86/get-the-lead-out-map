@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Keyes Union,Keyes to Learning Charter,5709 Ninth Street Keyes CA 95328,8.2,ppb,TRUE,tested,Keyes,Stanislaus County,37.553278,-120.907875
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Kernville Union Elementary,Kernville Elementary,13550 Sierra Way Kernville CA 93238,,,False,tested,Kernville,Kern County,35.760835,-118.420243,

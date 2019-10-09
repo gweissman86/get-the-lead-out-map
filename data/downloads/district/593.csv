@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Placerville Union Elementary,Edwin Markham Middle,2800 Moulton Drive Placerville CA 95667-4334,NA,NA,NA,not tested,Placerville,El Dorado County,38.734454,-120.816235
-Placerville Union Elementary,Louisiana Schnell Elementary,2871 Schnell School Road Placerville CA 95667-4935,NA,NA,NA,not tested,Placerville,El Dorado County,38.737457,-120.779457
-Placerville Union Elementary,Sierra Elementary,1100 Thompson Way Placerville CA 95667-5726,NA,NA,NA,not tested,Placerville,El Dorado County,38.727918,-120.79413
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Placerville Union Elementary,Edwin Markham Middle,2800 Moulton Drive Placerville CA 95667-4334,,,,not tested,Placerville,El Dorado County,38.734454,-120.816235,
+Placerville Union Elementary,Louisiana Schnell Elementary,2871 Schnell School Road Placerville CA 95667-4935,,,,not tested,Placerville,El Dorado County,38.737457,-120.77945700000001,
+Placerville Union Elementary,Sierra Elementary,1100 Thompson Way Placerville CA 95667-5726,,,,not tested,Placerville,El Dorado County,38.727918,-120.79413000000001,

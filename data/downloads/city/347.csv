@@ -1,13 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Monrovia Unified,Bradoaks Elementary,930 East Lemon Avenue Monrovia CA 91016-3076,NA,NA,FALSE,tested,Monrovia,Los Angeles County,34.146794,-117.985086
-Monrovia Unified,Canyon Early Learning Center,1000 South Canyon Boulevard Monrovia CA 91016-3535,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.145963,-117.996567
-Monrovia Unified,Canyon Oaks High,930 Royal Oaks Drive Monrovia CA 91016-3735,NA,NA,FALSE,tested,Monrovia,Los Angeles County,34.143118,-117.984741
-Monrovia Unified,Clifton Middle,226 South Ivy Avenue Monrovia CA 91016-2836,NA,NA,FALSE,tested,Monrovia,Los Angeles County,34.150009,-117.998713
-Monrovia Unified,Mayflower Elementary,210 North Mayflower Avenue Monrovia CA 91016-2008,NA,NA,FALSE,tested,Monrovia,Los Angeles County,34.154316,-118.009767
-Monrovia Unified,Monroe Elementary,402 West Colorado Boulevard Monrovia CA 91016-2647,NA,NA,FALSE,tested,Monrovia,Los Angeles County,34.145737,-118.007676
-Monrovia Unified,Monrovia Community Adult,920 South Mountain Avenue Monrovia CA 91016-3641,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.14166,-117.985578
-Monrovia Unified,Monrovia High,845 West Colorado Boulevard Monrovia CA 91016-2517,NA,NA,FALSE,tested,Monrovia,Los Angeles County,34.146501,-118.016148
-Monrovia Unified,Mountain Park,950 South Mountain Avenue Monrovia CA 91016-3641,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.139709,-117.986184
-Monrovia Unified,Plymouth Elementary,1300 Boley Street Monrovia CA 91016-4905,NA,NA,NA,not tested,Monrovia,Los Angeles County,34.116716,-118.006386
-Monrovia Unified,Santa Fe Middle,148 West Duarte Road Monrovia CA 91016-4539,NA,NA,FALSE,tested,Monrovia,Los Angeles County,34.132281,-118.002682
-Monrovia Unified,Wild Rose Elementary,232 Jasmine Avenue Monrovia CA 91016-2919,NA,NA,FALSE,tested,Monrovia,Los Angeles County,34.149739,-117.992916
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Calaveras Unified,Mokelumne Hill Elementary,8350 Highway 26 Mokelumne Hill CA 95245-9692,,,,not tested,Mokelumne Hill,Calaveras County,38.298435999999995,-120.699032,
+Calaveras Unified,Rail Road Flat Elementary,298 Rail Road Flat Road Rail Road Flat CA 95248-0217,,,,not tested,Mokelumne Hill,Calaveras County,38.330335,-120.518227,

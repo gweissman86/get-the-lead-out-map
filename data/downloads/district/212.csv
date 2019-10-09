@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-El Dorado County Office of Education,Charles F. Brown Elementary,6520 Oak Dell Road El Dorado CA 95623,NA,NA,FALSE,tested,Diamond Springs,El Dorado County,38.680607,-120.835351
-El Dorado County Office of Education,El Dorado Office of Education,6767 Green Valley Rd Placerville CA 95667,NA,NA,FALSE,tested,Placerville,El Dorado County,38.725448,-120.840355
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+El Dorado County Office of Education,Charles F. Brown Elementary,6520 Oak Dell Road El Dorado CA 95623,,,False,tested,Diamond Springs,El Dorado County,38.680607,-120.835351,
+El Dorado County Office of Education,El Dorado Office of Education,6767 Green Valley Rd Placerville CA 95667,,,False,tested,Placerville,El Dorado County,38.725448,-120.840355,

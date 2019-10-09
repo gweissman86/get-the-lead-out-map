@@ -1,9 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Nevada County Office of Education,Bitney College Preparatory High,135 Joerschke Drive Grass Valley CA 95945-5249,9.1,ppb,TRUE,tested,Grass Valley,Nevada County,39.232951,-121.041902
-Nevada County Office of Education,Forest Charter - Auburn,11952 Masters Court  Auburn CA 95603,NA,NA,FALSE,tested,NA,Placer County,38.937337,-121.096287
-Nevada County Office of Education,Forest Charter - Foresthll,23221 Forest Hill Road Foresthill CA 95631,NA,NA,FALSE,tested,NA,Placer County,39.014221,-120.837929
-Nevada County Office of Education,Forest Charter - Nevada City,470 Searls Avenue Nevada City CA 95959-3030,NA,NA,NA,not tested,Nevada City,Nevada County,39.255202,-121.023546
-Nevada County Office of Education,Forest Charter - Truckee,10725 Pioneer Trl #201 Truckee CA 96161,NA,NA,NA,not tested,Truckee,Nevada County,39.335541,-120.180252
-Nevada County Office of Education,Nevada County Special Education,400 Hoover Lane Nevada City CA 95959-2944,NA,NA,NA,not tested,Nevada City,Nevada County,39.253893,-121.031605
-Nevada County Office of Education,Twin Ridges Home Study Charter,111 New Mohawk Road Nevada City CA 95959-3226,NA,NA,NA,not tested,Nevada City,Nevada County,39.248259,-121.016083
-Nevada County Office of Education,Yuba River Charter,505 Main Street Nevada City CA 95959-2218,NA,NA,NA,not tested,Nevada City,Nevada County,39.26529,-121.018759
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Nevada County Office of Education,Bitney College Preparatory High,135 Joerschke Drive Grass Valley CA 95945-5249,9.1,ppb,True,tested,Grass Valley,Nevada County,39.232951,-121.04190200000001,9.1
+Nevada County Office of Education,Forest Charter - Auburn,11952 Masters Court  Auburn CA 95603,,,False,tested,,Placer County,38.937337,-121.09628700000002,
+Nevada County Office of Education,Forest Charter - Foresthll,23221 Forest Hill Road Foresthill CA 95631,,,False,tested,,Placer County,39.014221,-120.837929,
+Nevada County Office of Education,Forest Charter - Nevada City,470 Searls Avenue Nevada City CA 95959-3030,,,,not tested,Nevada City,Nevada County,39.255202000000004,-121.023546,
+Nevada County Office of Education,Forest Charter - Truckee,10725 Pioneer Trl #201 Truckee CA 96161,,,,not tested,Truckee,Nevada County,39.335541,-120.180252,
+Nevada County Office of Education,Nevada County Special Education,400 Hoover Lane Nevada City CA 95959-2944,,,,not tested,Nevada City,Nevada County,39.253893,-121.031605,
+Nevada County Office of Education,Twin Ridges Home Study Charter,111 New Mohawk Road Nevada City CA 95959-3226,,,,not tested,Nevada City,Nevada County,39.248259000000004,-121.01608300000001,
+Nevada County Office of Education,Yuba River Charter,505 Main Street Nevada City CA 95959-2218,,,,not tested,Nevada City,Nevada County,39.26529,-121.018759,

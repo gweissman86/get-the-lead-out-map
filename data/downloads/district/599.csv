@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Plumas Lake Elementary,Cobblestone Elementary,1718 Churchill Way Plumas Lake CA 95961-9144,NA,NA,NA,not tested,NA,Yuba County,39.002627,-121.549715
-Plumas Lake Elementary,Rio Del Oro Elementary,1220 Zanes Drive Plumas Lake CA 95961-9090,NA,NA,FALSE,tested,NA,Yuba County,39.011385,-121.554403
-Plumas Lake Elementary,Riverside Meadows Intermediate,1751 Cimarron Drive Plumas Lake CA 95961-8910,NA,NA,FALSE,tested,NA,Yuba County,38.992188,-121.546534
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Plumas Lake Elementary,Cobblestone Elementary,1718 Churchill Way Plumas Lake CA 95961-9144,,,,not tested,,Yuba County,39.002627000000004,-121.54971499999999,
+Plumas Lake Elementary,Rio Del Oro Elementary,1220 Zanes Drive Plumas Lake CA 95961-9090,,,False,tested,,Yuba County,39.011385,-121.55440300000001,
+Plumas Lake Elementary,Riverside Meadows Intermediate,1751 Cimarron Drive Plumas Lake CA 95961-8910,,,False,tested,,Yuba County,38.992188,-121.54653400000001,

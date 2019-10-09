@@ -1,7 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Manteca Unified,"Joseph Widmer, Jr., Elementary",751 Stonebridge Lane Lathrop CA 95330-8928,NA,NA,FALSE,tested,Lathrop,San Joaquin County,37.83762,-121.280408
-Manteca Unified,Lathrop Elementary,15851 South Fifth Street Lathrop CA 95330-0160,NA,NA,FALSE,tested,Lathrop,San Joaquin County,37.817609,-121.279261
-Manteca Unified,Lathrop High,647 West Lathrop Road Lathrop CA 95330-9770,NA,NA,FALSE,tested,Lathrop,San Joaquin County,37.826309,-121.285733
-Manteca Unified,Mossdale Elementary,455 Brookhurst Boulevard Lathrop CA 95330-8688,NA,NA,FALSE,tested,Lathrop,San Joaquin County,37.801953,-121.306307
-Banta Elementary,NextGeneration STEAM Academy,18001 Commercial Street Lathrop CA 95330-8543,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.796726,-121.319138
-San Joaquin County Office of Education,River Islands Technology Academy II,1175 Marina Drive Lathrop CA 95330-8543,NA,NA,NA,not tested,Lathrop,San Joaquin County,37.799546,-121.318831
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Larkspur-Corte Madera,Hall Middle,200 Doherty Drive Larkspur CA 94939-1532,,,False,tested,Larkspur,Marin County,37.938134000000005,-122.526519,
+Tamalpais Union High,Redwood High,395 Doherty Drive Larkspur CA 94939-1536,,,False,tested,Larkspur,Marin County,37.937996000000005,-122.53469399999999,
+Tamalpais Union High,San Andreas High (Continuation),599 William Avenue Larkspur CA 94939-1554,,,False,tested,Larkspur,Marin County,37.934279,-122.52831699999999,
+Tamalpais Union High,Tamalpais Adult/Community Education,375 Doherty Drive Larkspur CA 94939-1536,,,,not tested,Larkspur,Marin County,37.937999,-122.534682,
+Tamalpais Union High,Tamiscal High (Alternative),305 Doherty Drive Larkspur CA 94939-0605,,,False,tested,Larkspur,Marin County,37.938010999999996,-122.53464199999999,

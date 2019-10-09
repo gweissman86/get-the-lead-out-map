@@ -1,34 +1,34 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Conejo Valley Unified,Acacia Elementary,55 Norman Avenue Thousand Oaks CA 91360-3599,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.196785,-118.871438
-Conejo Valley Unified,Aspen Elementary,1870 Oberlin Avenue Thousand Oaks CA 91360-2099,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.202975,-118.883564
-Conejo Valley Unified,Banyan Elementary,1120 Knollwood Drive Newbury Park CA 91320-5599,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.158223,-118.953448
-Ventura County Office of Education,BRIDGES Charter,1335 Calle Bouganvilla Thousand Oaks CA 91360-6604,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.211537,-118.856073
-Conejo Valley Unified,Century Academy,1025 Old Farm School Road Thousand Oaks CA 91360-4941,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.204986,-118.860045
-Conejo Valley Unified,Colina Middle,1500 East Hillcrest Drive Thousand Oaks CA 91362-2599,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.182156,-118.853861
-Private,Conejo Adventist Elementary School,1250 Academy Drive Newbury Park CA 91320,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.195528,-118.93727
-Conejo Valley Unified,Conejo Elementary,280 North Conejo School Road Thousand Oaks CA 91362-3199,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.178158,-118.842465
-Conejo Valley Unified,Conejo Valley High (Continuation),1872 Newbury Road Newbury Park CA 91320-3495,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.183865,-118.920307
-Conejo Valley Unified,Cypress Elementary,4200 Kimber Drive Newbury Park CA 91320-4898,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.170841,-118.963016
-Conejo Valley Unified,Environmental Academy of Research Technology and Earth Sciences,2626 Michael Drive Newbury Park CA 91320-3252,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.183072,-118.931955
-Conejo Valley Unified,Glenwood Elementary,1135 Windsor Drive Thousand Oaks CA 91360-5228,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.193731,-118.865687
-Conejo Valley Unified,Ladera Elementary,1211 Calle Almendro Thousand Oaks CA 91360-6499,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.217253,-118.857667
-Conejo Valley Unified,Lang Ranch,2450 Whitechapel Place Thousand Oaks CA 91362-5399,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.220037,-118.83268
-Conejo Valley Unified,Los Cerritos Middle,2100 Avenida de las Flores Thousand Oaks CA 91362-1599,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.207214,-118.84044
-Conejo Valley Unified,Madrona Elementary,612 Camino Manzanas Thousand Oaks CA 91360-2199,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.198833,-118.892336
-Conejo Valley Unified,Maple Elementary,3501 Kimber Drive Newbury Park CA 91320-4399,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.173415,-118.950837
-Ventura County Office of Education,Meadows Arts and Technology Elementary,2000 La Granada Drive Thousand Oaks CA 91362-2099,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.193271,-118.841291
-Conejo Valley Unified,Newbury Park High,456 North Reino Road Newbury Park CA 91320-3798,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.184486,-118.951788
-Oak Park Unified,Oak Hills Elementary,1010 Kanan Road Oak Park CA 91377-4826,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.184977,-118.785657
-Oak Park Unified,Oak Park High,899 Kanan Road Oak Park CA 91377-3904,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.181168,-118.769067
-Private,Passageway,1153 Lawrence Drive Newbury Park CA 91320,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.194312,-118.930347
-Oak Park Unified,Red Oak Elementary,4857 Rockfield Street Oak Park CA 91377-5512,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.175601,-118.785174
-Conejo Valley Unified,Redwood Middle,233 West Gainsborough Road Thousand Oaks CA 91360-3499,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.196822,-118.882641
-Conejo Valley Unified,Sequoia Middle,2855 Borchard Road Newbury Park CA 91320-3898,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.179172,-118.936209
-Conejo Valley Unified,Sycamore Canyon,4601 Via Rio Newbury Park CA 91320-6872,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.173411,-118.972786
-Conejo Valley Unified,Thousand Oaks High,2323 North Moorpark Road Thousand Oaks CA 91360-3198,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.211134,-118.870509
-Conejo Valley Unified,Walnut Elementary,581 Dena Drive Newbury Park CA 91320-2999,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.185964,-118.94552
-Conejo Valley Unified,Weathersfield Elementary,3151 Darlington Drive Thousand Oaks CA 91360-4593,NA,NA,NA,not tested,Thousand Oaks,Ventura County,34.225034,-118.866374
-Conejo Valley Unified,Westlake Elementary,1571 East Potrero Road Westlake Village CA 91361-1529,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.143244,-118.853415
-Conejo Valley Unified,Westlake High,100 North Lakeview Canyon Road Westlake Village CA 91362-3895,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.160608,-118.816478
-Conejo Valley Unified,Westlake Hills Elementary,3333 Medicine Bow Court Westlake Village CA 91362-3545,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.168017,-118.828452
-Conejo Valley Unified,Wildwood Elementary,620 West Velarde Drive Thousand Oaks CA 91360-1399,NA,NA,FALSE,tested,Thousand Oaks,Ventura County,34.21563,-118.893234
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Conejo Valley Unified,Acacia Elementary,55 Norman Avenue Thousand Oaks CA 91360-3599,,,False,tested,Thousand Oaks,Ventura County,34.196785,-118.87143799999998,
+Conejo Valley Unified,Aspen Elementary,1870 Oberlin Avenue Thousand Oaks CA 91360-2099,,,False,tested,Thousand Oaks,Ventura County,34.202975,-118.88356399999999,
+Conejo Valley Unified,Banyan Elementary,1120 Knollwood Drive Newbury Park CA 91320-5599,,,False,tested,Thousand Oaks,Ventura County,34.158223,-118.953448,
+Ventura County Office of Education,BRIDGES Charter,1335 Calle Bouganvilla Thousand Oaks CA 91360-6604,,,,not tested,Thousand Oaks,Ventura County,34.211537,-118.856073,
+Conejo Valley Unified,Century Academy,1025 Old Farm School Road Thousand Oaks CA 91360-4941,,,,not tested,Thousand Oaks,Ventura County,34.204986,-118.860045,
+Conejo Valley Unified,Colina Middle,1500 East Hillcrest Drive Thousand Oaks CA 91362-2599,,,,not tested,Thousand Oaks,Ventura County,34.182156,-118.85386100000001,
+Private,Conejo Adventist Elementary School,1250 Academy Drive Newbury Park CA 91320,,,False,tested,Thousand Oaks,Ventura County,34.195528,-118.93727,
+Conejo Valley Unified,Conejo Elementary,280 North Conejo School Road Thousand Oaks CA 91362-3199,,,,not tested,Thousand Oaks,Ventura County,34.178158,-118.84246499999999,
+Conejo Valley Unified,Conejo Valley High (Continuation),1872 Newbury Road Newbury Park CA 91320-3495,,,,not tested,Thousand Oaks,Ventura County,34.183865000000004,-118.92030700000001,
+Conejo Valley Unified,Cypress Elementary,4200 Kimber Drive Newbury Park CA 91320-4898,,,False,tested,Thousand Oaks,Ventura County,34.170840999999996,-118.963016,
+Conejo Valley Unified,Environmental Academy of Research Technology and Earth Sciences,2626 Michael Drive Newbury Park CA 91320-3252,,,False,tested,Thousand Oaks,Ventura County,34.183071999999996,-118.931955,
+Conejo Valley Unified,Glenwood Elementary,1135 Windsor Drive Thousand Oaks CA 91360-5228,,,,not tested,Thousand Oaks,Ventura County,34.193731,-118.86568700000001,
+Conejo Valley Unified,Ladera Elementary,1211 Calle Almendro Thousand Oaks CA 91360-6499,,,,not tested,Thousand Oaks,Ventura County,34.217253,-118.85766699999999,
+Conejo Valley Unified,Lang Ranch,2450 Whitechapel Place Thousand Oaks CA 91362-5399,,,,not tested,Thousand Oaks,Ventura County,34.220037,-118.83268000000001,
+Conejo Valley Unified,Los Cerritos Middle,2100 Avenida de las Flores Thousand Oaks CA 91362-1599,,,,not tested,Thousand Oaks,Ventura County,34.207214,-118.84043999999999,
+Conejo Valley Unified,Madrona Elementary,612 Camino Manzanas Thousand Oaks CA 91360-2199,,,False,tested,Thousand Oaks,Ventura County,34.198833,-118.89233600000001,
+Conejo Valley Unified,Maple Elementary,3501 Kimber Drive Newbury Park CA 91320-4399,,,False,tested,Thousand Oaks,Ventura County,34.173415000000006,-118.950837,
+Ventura County Office of Education,Meadows Arts and Technology Elementary,2000 La Granada Drive Thousand Oaks CA 91362-2099,,,,not tested,Thousand Oaks,Ventura County,34.193271,-118.841291,
+Conejo Valley Unified,Newbury Park High,456 North Reino Road Newbury Park CA 91320-3798,,,False,tested,Thousand Oaks,Ventura County,34.184486,-118.951788,
+Oak Park Unified,Oak Hills Elementary,1010 Kanan Road Oak Park CA 91377-4826,,,False,tested,Thousand Oaks,Ventura County,34.184977,-118.785657,
+Oak Park Unified,Oak Park High,899 Kanan Road Oak Park CA 91377-3904,,,False,tested,Thousand Oaks,Ventura County,34.181168,-118.76906699999999,
+Private,Passageway,1153 Lawrence Drive Newbury Park CA 91320,,,False,tested,Thousand Oaks,Ventura County,34.194312,-118.930347,
+Oak Park Unified,Red Oak Elementary,4857 Rockfield Street Oak Park CA 91377-5512,,,False,tested,Thousand Oaks,Ventura County,34.175601,-118.785174,
+Conejo Valley Unified,Redwood Middle,233 West Gainsborough Road Thousand Oaks CA 91360-3499,,,False,tested,Thousand Oaks,Ventura County,34.196822,-118.88264099999999,
+Conejo Valley Unified,Sequoia Middle,2855 Borchard Road Newbury Park CA 91320-3898,,,False,tested,Thousand Oaks,Ventura County,34.179171999999994,-118.936209,
+Conejo Valley Unified,Sycamore Canyon,4601 Via Rio Newbury Park CA 91320-6872,,,False,tested,Thousand Oaks,Ventura County,34.173411,-118.97278600000001,
+Conejo Valley Unified,Thousand Oaks High,2323 North Moorpark Road Thousand Oaks CA 91360-3198,,,False,tested,Thousand Oaks,Ventura County,34.211134,-118.87050900000001,
+Conejo Valley Unified,Walnut Elementary,581 Dena Drive Newbury Park CA 91320-2999,,,False,tested,Thousand Oaks,Ventura County,34.185964,-118.94552,
+Conejo Valley Unified,Weathersfield Elementary,3151 Darlington Drive Thousand Oaks CA 91360-4593,,,,not tested,Thousand Oaks,Ventura County,34.225034,-118.866374,
+Conejo Valley Unified,Westlake Elementary,1571 East Potrero Road Westlake Village CA 91361-1529,,,False,tested,Thousand Oaks,Ventura County,34.143244,-118.85341499999998,
+Conejo Valley Unified,Westlake High,100 North Lakeview Canyon Road Westlake Village CA 91362-3895,,,False,tested,Thousand Oaks,Ventura County,34.160608,-118.816478,
+Conejo Valley Unified,Westlake Hills Elementary,3333 Medicine Bow Court Westlake Village CA 91362-3545,,,False,tested,Thousand Oaks,Ventura County,34.168017,-118.828452,
+Conejo Valley Unified,Wildwood Elementary,620 West Velarde Drive Thousand Oaks CA 91360-1399,,,False,tested,Thousand Oaks,Ventura County,34.21563,-118.893234,

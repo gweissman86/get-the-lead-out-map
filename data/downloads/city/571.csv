@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Big Lagoon Union Elementary,Big Lagoon Elementary,269 Big Lagoon Park Road Trinidad CA 95570-9622,8.9,ppb,TRUE,tested,Trinidad,Humboldt County,41.157909,-124.130928
-Trinidad Union Elementary,Trinidad Elementary,300 Trinity Street Trinidad CA 95570-3030,7.199999999999999,ppb,TRUE,tested,Trinidad,Humboldt County,41.060979,-124.143269
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Big Lagoon Union Elementary,Big Lagoon Elementary,269 Big Lagoon Park Road Trinidad CA 95570-9622,8.9,ppb,True,tested,Trinidad,Humboldt County,41.157909000000004,-124.130928,8.9
+Trinidad Union Elementary,Trinidad Elementary,300 Trinity Street Trinidad CA 95570-3030,7.199999999999998,ppb,True,tested,Trinidad,Humboldt County,41.060978999999996,-124.14326899999999,9.2

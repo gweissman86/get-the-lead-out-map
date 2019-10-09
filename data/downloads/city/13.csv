@@ -1,9 +1,71 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cascade Union Elementary,Anderson Heights Elementary,1530 Spruce Street Anderson CA 96007-4369,NA,NA,FALSE,tested,Anderson,Shasta County,40.436784,-122.293101
-Anderson Union High,Anderson High,1471 Ferry Street Anderson CA 96007-3313,NA,NA,NA,not tested,Anderson,Shasta County,40.444368,-122.305756
-Cascade Union Elementary,Anderson Middle,1646 West Ferry Street Anderson CA 96007-3314,6.34,ppb,TRUE,tested,Anderson,Shasta County,40.446405,-122.304974
-Anderson Union High,Anderson New Technology High,2098 North Street Anderson CA 96007-3477,NA,NA,FALSE,tested,Anderson,Shasta County,40.451721,-122.299701
-Happy Valley Union Elementary,Happy Valley Elementary,17480 Palm Avenue Anderson CA 96007-8241,NA,NA,FALSE,tested,Anderson,Shasta County,40.446968,-122.408331
-Happy Valley Union Elementary,Happy Valley Primary,16300 Cloverdale Road Anderson CA 96007-8209,NA,NA,FALSE,tested,Anderson,Shasta County,40.474378,-122.45393
-Cascade Union Elementary,Meadow Lane Elementary,2770 Balls Ferry Road Anderson CA 96007-3537,NA,NA,FALSE,tested,Anderson,Shasta County,40.453032,-122.270547
-Anderson Union High,North Valley High,20083 Olinda Road Anderson CA 96007-8291,NA,NA,NA,not tested,Anderson,Shasta County,40.441389,-122.323959
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Anaheim Union High,Anaheim High,811 West Lincoln Avenue Anaheim CA 92805-2499,5.9,ppb,True,tested,Anaheim,Orange County,33.835031,-117.925578,5.9
+Orange Unified,Anaheim Hills Elementary,6450 East Serrano Anaheim CA 92807-5034,6.2,ppb,True,tested,Anaheim,Orange County,33.829133,-117.76091100000001,6.2
+Anaheim Union High,Ball Junior High,1500 West Ball Road Anaheim CA 92802-1626,6.6,ppb,True,tested,Anaheim,Orange County,33.817915,-117.933481,6.6
+Anaheim Elementary,Barton (Clara) Elementary,1926 Clearbrook Lane Anaheim CA 92804-3519,,,False,tested,Anaheim,Orange County,33.823485,-117.973949,
+Anaheim Union High,Brookhurst Junior High,601 North Brookhurst Avenue Anaheim CA 92801-3879,,,False,tested,Anaheim,Orange County,33.841393,-117.95972900000001,
+Orange Unified,Canyon High,220 South Imperial Highway Anaheim CA 92807-3945,,,False,tested,Anaheim,Orange County,33.848058,-117.78851200000001,
+Orange Unified,Canyon Hills,260 South Imperial Highway Anaheim CA 92807-3945,7.3,ppb,True,tested,Anaheim,Orange County,33.850024,-117.79036299999999,7.3
+Orange Unified,Canyon Rim Elementary,1090 The Highlands Drive Anaheim CA 92808-2144,,,False,tested,Anaheim,Orange County,33.844819,-117.74131799999999,
+Centralia Elementary,Centralia Elementary,195 North Western Avenue Anaheim CA 92801-6040,,,False,tested,Anaheim,Orange County,33.832805,-118.00233100000001,
+Savanna Elementary,Cerritos Elementary,3731 Cerritos Anaheim CA 92804-4603,,,False,tested,Anaheim,Orange County,33.810497,-117.958969,
+Orange Unified,Crescent Elementary,5001 Gerda Drive Anaheim CA 92807-3090,,,False,tested,Anaheim,Orange County,33.852419,-117.807919,
+Anaheim Union High,Dale Junior High,900 South Dale Street Anaheim CA 92804-4097,,,False,tested,Anaheim,Orange County,33.819641,-117.982671,
+Centralia Elementary,Danbrook Elementary,320 Danbrook Street Anaheim CA 92804-2715,8.3,ppb,True,tested,Anaheim,Orange County,33.828462,-118.008133,8.3
+Magnolia Elementary,Dr. Albert Schweitzer,229 South Dale Avenue Anaheim CA 92804-2006,,,False,tested,Anaheim,Orange County,33.829522,-117.98480500000001,
+Magnolia Elementary,Dr. Peter Marshall,2627 Crescent Avenue Anaheim CA 92801-4902,5.3,ppb,True,tested,Anaheim,Orange County,33.839604,-117.978602,5.3
+Anaheim Elementary,Edison (Thomas) Elementary,1526 East Romneya Drive Anaheim CA 92805-1214,,,False,tested,Anaheim,Orange County,33.850807,-117.89582800000001,
+Orange Unified,El Rancho Charter,181 South Del Giorgio Road Anaheim CA 92808-1307,,,False,tested,Anaheim,Orange County,33.857729,-117.767982,
+Placentia-Yorba Linda Unified,Esperanza High,1830 North Kellogg Dr Anaheim CA 92807-1218,,,False,tested,Anaheim,Orange County,33.869338,-117.80339099999999,
+Placentia-Yorba Linda Unified,Esperanza High,1830 North Kellogg Drive Anaheim CA 92807-1218,11.0,ppb,True,tested,Anaheim,Orange County,33.869338,-117.80339099999999,11.0
+Anaheim Elementary,Franklin (Benjamin) Elementary,521 West Water Street Anaheim CA 92805-4542,,,False,tested,Anaheim,Orange County,33.8276,-117.91771000000001,
+Anaheim Elementary,Gauer (Melbourne A.) Elementary,810 North Gilbert Street Anaheim CA 92801-3348,,,False,tested,Anaheim,Orange County,33.843368,-117.967693,
+Anaheim Union High,Gilbert High (Continuation),1800 Ball Road Anaheim CA 92804-5516,,,False,tested,Anaheim,Orange County,33.817658,-117.968255,
+Placentia-Yorba Linda Unified,Glenview Elementary,1775 Glenview Avenue Anaheim CA 92807-1040,,,False,tested,Anaheim,Orange County,33.868871999999996,-117.81266399999998,
+Anaheim Elementary,GOALS Academy,412 W. Carl Karcher Way Anaheim CA 92801-2408,,,False,tested,Anaheim,Orange County,33.850737,-117.92299299999999,
+Anaheim Elementary,Guinn (James M.) Elementary,1051 South Sunkist Street Anaheim CA 92806-5051,,,False,tested,Anaheim,Orange County,33.823452,-117.880652,
+Savanna Elementary,Hansen Elementary,1300 South Knott Anaheim CA 92804-4711,,,False,tested,Anaheim,Orange County,33.815393,-118.009993,
+Anaheim Elementary,Henry (Patrick) Elementary,1123 West Romneya Drive Anaheim CA 92801-2109,,,False,tested,Anaheim,Orange County,33.850844,-117.933081,
+Orange Unified,Imperial Elementary,400 South Imperial Highway Anaheim CA 92807-3946,,,False,tested,Anaheim,Orange County,33.849109999999996,-117.79009599999999,
+Anaheim Elementary,Jefferson (Thomas) Elementary,504 East South Street Anaheim CA 92805-5338,,,False,tested,Anaheim,Orange County,33.827811,-117.90590300000001,
+Anaheim Elementary,Juarez (Benito) Elementary,841 South Sunkist Street Anaheim CA 92806-4716,,,False,tested,Anaheim,Orange County,33.818577000000005,-117.88058600000001,
+Magnolia Elementary,Juliette Low,215 North Ventura Anaheim CA 92801-5167,,,False,tested,Anaheim,Orange County,33.833812,-117.96337199999999,
+Anaheim Union High,Katella High,2200 East Wagner Avenue Anaheim CA 92806-4999,,,False,tested,Anaheim,Orange County,33.825305,-117.889128,
+Anaheim Elementary,Key (Francis Scott),2000 West Ball Road Anaheim CA 92804,9.55,ppb,True,tested,Anaheim,Orange County,33.817778999999994,-117.956423,13.0
+Anaheim Elementary,Lincoln (Abraham) Elementary,1413 East Broadway Anaheim CA 92805-4214,,,False,tested,Anaheim,Orange County,33.836781,-117.898579,
+Anaheim Elementary,Loara Elementary,1601 West Broadway Anaheim CA 92802-1107,,,False,tested,Anaheim,Orange County,33.829021999999995,-117.937284,
+Anaheim Union High,Loara High,1765 West Cerritos Avenue Anaheim CA 92804-6198,,,False,tested,Anaheim,Orange County,33.810109000000004,-117.90713500000001,
+Magnolia Elementary,Lord Baden-Powell,2911 Stonybrook Drive Anaheim CA 92804-3931,,,False,tested,Anaheim,Orange County,33.823116999999996,-118.001567,
+Garden Grove Unified,Louis G. Zeyen Elementary,12081 South Magnolia Street Garden Grove CA 92841-3314,,,False,tested,Anaheim,Orange County,33.803115999999996,-117.97563500000001,
+Anaheim Elementary,Madison (James) Elementary,1510 South Nutwood Street Anaheim CA 92804-6023,,,False,tested,Anaheim,Orange County,33.81029,-117.950235,
+Anaheim Union High,Magnolia High,2450 West Ball Road Anaheim CA 92804-5298,,,False,tested,Anaheim,Orange County,33.817723,-117.970432,
+Anaheim Elementary,Mann (Horace) Elementary,600 West La Palma Avenue Anaheim CA 92801-2361,,,False,tested,Anaheim,Orange County,33.847171,-117.91191,
+Anaheim Elementary,Marshall (John) Elementary,2066 Falmouth Avenue Anaheim CA 92801-1751,,,False,tested,Anaheim,Orange County,33.848289,-117.95045,
+Magnolia Elementary,Mattie Lou Maxwell,2613 West Orange Avenue Anaheim CA 92804-3201,,,False,tested,Anaheim,Orange County,33.826245,-117.977028,
+Orange Unified,Nohl Canyon Elementary,4100 East Nohl Ranch Road Anaheim CA 92807-3415,6.4,ppb,True,tested,Anaheim,Orange County,33.837751000000004,-117.825126,6.4
+North Monterey County Unified,North Orange County ROP,385 North Muller Street Anaheim CA 92801-5456,,,False,tested,Anaheim,Orange County,33.838306,-117.95028400000001,
+Anaheim Elementary,Olive Street Elementary,890 South Olive Street Anaheim CA 92805-5214,,,False,tested,Anaheim,Orange County,33.826059,-117.90663799999999,
+Orange County Department of Education,Orange County Workforce Innovation High,505 North Euclid Street Anaheim CA 92805-5506,,,,not tested,Anaheim,Orange County,33.837814,-117.94166100000001,
+Anaheim Elementary,Orange Grove Elementary,1000 South Harbor Boulevard Anaheim CA 92805-5531,,,False,tested,Anaheim,Orange County,33.820817,-117.913749,
+Orange Unified,Orange Unified Pre-K SDC,5125 East Gerda Drive Anaheim CA 92807-3009,,,False,tested,Anaheim,Orange County,33.852073,-117.80548300000001,
+Anaheim Union High,Orangeview Junior High,3715 West Orange Avenue Anaheim CA 92804-2899,5.2,ppb,True,tested,Anaheim,Orange County,33.826446999999995,-118.013899,5.2
+Anaheim Elementary,Palm Lane Elementary,1646 West Palm Lane Anaheim CA 92802-2007,,,False,tested,Anaheim,Orange County,33.816034,-117.940197,
+Orange County Department of Education,Placentia Education Center,5247 E Orangethorpe Avenue Anaheim CA 92807,,,,not tested,Anaheim,Orange County,33.859494,-117.918477,
+Anaheim Elementary,Ponderosa Elementary,2135 South Mountain View Avenue Anaheim CA 92802-4917,,,False,tested,Anaheim,Orange County,33.794629,-117.904179,
+Anaheim Elementary,Price (Adelaide) Elementary,1516 West North Street Anaheim CA 92801-4332,5.2,ppb,True,tested,Anaheim,Orange County,33.840771999999994,-117.9365,5.2
+Anaheim Elementary,Revere (Paul) Elementary,140 West Guinida Lane Anaheim CA 92805-6507,,,False,tested,Anaheim,Orange County,33.814136,-117.908409,
+Placentia-Yorba Linda Unified,Rio Vista Elementary,310 North Rio Vista Street Anaheim CA 92806-3767,,,False,tested,Anaheim,Orange County,33.843225,-117.871646,
+Magnolia Elementary,Robert M. Pyles,10411 South Dale Street Stanton CA 90680-2505,,,False,tested,Anaheim,Orange County,33.815642,-117.98473500000001,
+Anaheim Elementary,Roosevelt (Theodore) Elementary,1600 East Vermont Avenue Anaheim CA 92805-5628,6.85,ppb,True,tested,Anaheim,Orange County,33.826925,-117.893047,8.6
+Anaheim Elementary,Ross (Betsy) Elementary,535 South Walnut Street Anaheim CA 92802-1450,6.9,ppb,True,tested,Anaheim,Orange County,33.826569,-117.929578,6.9
+Orange Unified,Running Springs Elementary,8670 East Running Springs Drive Anaheim CA 92808-1693,,,False,tested,Anaheim,Orange County,33.859008,-117.725101,
+Anaheim Union High,Savanna High,301 North Gilbert Street Anaheim CA 92801-5099,,,False,tested,Anaheim,Orange County,33.835376000000004,-117.967782,
+Anaheim Union High,South Junior High,2320 East South Street Anaheim CA 92806-4599,,,False,tested,Anaheim,Orange County,33.832577,-117.88450700000001,
+Anaheim Elementary,Stoddard (Alexander J.) Elementary,1841 South Ninth Street Anaheim CA 92802-3299,,,False,tested,Anaheim,Orange County,33.801664,-117.93320700000001,
+Anaheim Elementary,Sunkist Elementary,500 North Sunkist Street Anaheim CA 92806-3052,,,False,tested,Anaheim,Orange County,33.846025,-117.879301,
+Anaheim Union High,Sycamore Junior High,1801 East Sycamore Street Anaheim CA 92805-3486,,,False,tested,Anaheim,Orange County,33.846005,-117.893653,
+Savanna Elementary,Twila Reid Elementary,720 South Western Anaheim CA 92804-3831,,,False,tested,Anaheim,Orange County,33.821956,-118.001424,
+Magnolia Elementary,Walt Disney,2323 West Orange Avenue Anaheim CA 92804-3474,,,False,tested,Anaheim,Orange County,33.825075,-117.964662,
+Anaheim Union High,Western High,501 South Western Avenue Anaheim CA 92804-1699,11.0,ppb,True,tested,Anaheim,Orange County,33.824514,-118.002234,11.0
+Anaheim Elementary,Westmont Elementary,1525 West Westmont Drive Anaheim CA 92801-4736,,,False,tested,Anaheim,Orange County,33.837628,-117.93589899999999,
+Placentia-Yorba Linda Unified,Woodsboro Elementary,7575 East Woodsboro Avenue Anaheim CA 92807-2441,,,False,tested,Anaheim,Orange County,33.868513,-117.772421,

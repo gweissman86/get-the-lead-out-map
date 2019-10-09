@@ -1,5 +1,13 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Beaumont Unified,Beaumont Senior High,39139 Cherry Valley Blvd Beaumont CA 92223-4484,NA,NA,FALSE,tested,Calimesa,Riverside County,33.96167,-117.036723
-Beaumont Unified,Brookside Elementary,38755 Brookside Avenue Beaumont CA 92223-4244,NA,NA,FALSE,tested,Calimesa,Riverside County,33.961375,-116.985504
-Yucaipa-Calimesa Joint Unified,Mesa View Middle,800 Mustang Way Calimesa CA 92399-1080,NA,NA,FALSE,tested,Calimesa,Riverside County,33.99741,-117.069558
-Beaumont Unified,Tournament Hills Elementary,36611 Champions Drive Beaumont CA 92223-9712,NA,NA,FALSE,tested,Calimesa,Riverside County,33.954064,-117.026232
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Calexico Unified,Aurora High (Continuation),641 Rockwood Avenue Calexico CA 92231-2700,,,False,tested,Calexico,Imperial County,32.671336,-115.496374,
+Calexico Unified,Blanche Charles Elementary,1201 Kloke Road Calexico CA 92231-3491,,,False,tested,Calexico,Imperial County,32.682481,-115.516172,
+Calexico Unified,Calexico High,1030 Encinas Avenue Calexico CA 92231-2560,,,False,tested,Calexico,Imperial County,32.678336,-115.488417,
+Calexico Unified,Calexico High School 9th Grade Campus,824 Blair Ave. Calexico CA 92231,,,False,tested,Calexico,Imperial County,32.673275,-115.49080900000001,
+Calexico Unified,Cesar Chavez Elementary,1251 East Zapata Street Calexico CA 92231-9677,,,False,tested,Calexico,Imperial County,32.689876,-115.47588600000002,
+Calexico Unified,Dool Elementary,800 Encinas Avenue Calexico CA 92231-2559,17.0,ppb,True,tested,Calexico,Imperial County,32.673626,-115.487218,17.0
+Calexico Unified,Enrique Camarena Jr. High,800 East Rivera Avenue Calexico CA 92231-3387,7.5,ppb,True,tested,Calexico,Imperial County,32.673326,-115.474088,7.5
+Calexico Unified,Jefferson Elementary,1120 East Seventh Street Calexico CA 92231-2956,6.65,ppb,True,tested,Calexico,Imperial County,32.671658,-115.482076,65.0
+Calexico Unified,Kennedy Gardens Elementary,2300 Rockwood Avenue Calexico CA 92231-1726,,,False,tested,Calexico,Imperial County,32.69368,-115.49616599999999,
+Calexico Unified,Mains Elementary,655 Sheridan Ave Calexico CA 92231-2096,,,False,tested,Calexico,Imperial County,32.678027,-115.510058,
+Calexico Unified,Rockwood Elementary,1000 Rockwood Avenue Calexico CA 92231-2333,,,False,tested,Calexico,Imperial County,32.677662,-115.496169,
+Calexico Unified,William Moreno Junior High,1202 Kloke Road Calexico CA 92231-3490,,,False,tested,Calexico,Imperial County,32.682473,-115.516171,

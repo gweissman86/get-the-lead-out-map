@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Big Oak Flat-Groveland Unified,Tenaya Elementary,19177 Highwy 120 Groveland CA 95321-1397,NA,NA,FALSE,tested,Groveland,Tuolumne County,37.834815,-120.22105
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Pierce Joint Unified,Grand Island Elementary,551 Leven Street Grimes CA 95950-0030,7.8,ppb,True,tested,Grimes,Colusa County,39.070056,-121.89643799999999,7.8

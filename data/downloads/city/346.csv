@@ -1,3 +1,67 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Calaveras Unified,Mokelumne Hill Elementary,8350 Highway 26 Mokelumne Hill CA 95245-9692,NA,NA,NA,not tested,Mokelumne Hill,Calaveras County,38.298436,-120.699032
-Calaveras Unified,Rail Road Flat Elementary,298 Rail Road Flat Road Rail Road Flat CA 95248-0217,NA,NA,NA,not tested,Mokelumne Hill,Calaveras County,38.330335,-120.518227
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Stanislaus Union Elementary,Agnes M. Baptist Elementary,1825 Cheyenne Way Modesto CA 95356-0987,,,False,tested,Modesto,Stanislaus County,37.693425,-121.02533799999999,
+Modesto City Elementary,Alberta Martone Elementary,1413 Poust Road Modesto CA 95358-1093,,,False,tested,Modesto,Stanislaus County,37.655429,-121.046002,
+Empire Union Elementary,Alice N. Stroud Elementary,815 Frazine Road Modesto CA 95357-0255,8.3,ppb,True,tested,Modesto,Stanislaus County,37.654152,-120.912348,10.0
+Sylvan Union Elementary,Aspire University Charter,3313 Coffee Road Modesto CA 95355-1534,,,False,tested,Modesto,Stanislaus County,37.686386,-120.97613,
+Modesto City High,Aspire Vanguard College Preparatory Academy,5255 First Street Empire CA 95319,,,False,tested,Modesto,Stanislaus County,37.639936999999996,-120.898052,
+Empire Union Elementary,Bernard L. Hughes Elementary,512 North McClure Road Modesto CA 95357-1542,,,False,tested,Modesto,Stanislaus County,37.647071000000004,-120.929993,
+Modesto City Elementary,Bret Harte Elementary,909 Bret Harte Place Modesto CA 95358-5099,,,False,tested,Modesto,Stanislaus County,37.602553,-121.005757,
+Modesto City Elementary,Burbank Elementary,1135 Paradise Road Modesto CA 95351-2999,,,False,tested,Modesto,Stanislaus County,37.619215000000004,-121.025553,
+Empire Union Elementary,Capistrano Elementary,400 Capistrano Drive Modesto CA 95354-3243,,,False,tested,Modesto,Stanislaus County,37.643516,-120.942392,
+Modesto City Elementary,Catherine Everett Elementary,1530 Mount Vernon Drive Modesto CA 95350-2798,,,False,tested,Modesto,Stanislaus County,37.67657,-121.01796599999999,
+Empire Union Elementary,Christine Sipherd Elementary,3420 East Orangeburg Avenue Modesto CA 95355-3550,,,False,tested,Modesto,Stanislaus County,37.663486999999996,-120.932101,
+Sylvan Union Elementary,Coleman F. Brown Elementary,2024 Vera Cruz Drive Modesto CA 95355-2404,,,False,tested,Modesto,Stanislaus County,37.672739,-120.97224299999999,
+Sylvan Union Elementary,Daniel J. Savage Middle,1900 Maid Mariane Lane Modesto CA 95355-8744,,,False,tested,Modesto,Stanislaus County,37.670832,-120.93033,
+Modesto City Elementary,El Vista Elementary,450 El Vista Avenue Modesto CA 95354-1899,5.85,ppb,True,tested,Modesto,Stanislaus County,37.644223,-120.956103,6.4
+Modesto City Elementary,Elihu Beard Elementary,915 Bowen Avenue Modesto CA 95350-3096,,,False,tested,Modesto,Stanislaus County,37.675032,-121.00365,
+Sylvan Union Elementary,Elizabeth Ustach Middle,2701 Kodiak Drive Modesto CA 95355-9256,,,False,tested,Modesto,Stanislaus County,37.683371,-120.954843,
+Empire Union Elementary,Empire Elementary,5201 First Street Empire CA 95319,,,,not tested,Modesto,Stanislaus County,37.639632,-120.89858899999999,
+Modesto City Elementary,Enslen Elementary,515 Coldwell Avenue Modesto CA 95354-0107,,,False,tested,Modesto,Stanislaus County,37.652966,-120.999851,
+Modesto City Elementary,Ethel Pearson Elementary,500 Locust Street Modesto CA 95351,,,False,tested,Modesto,Stanislaus County,37.640315,-121.01398300000001,
+Modesto City Elementary,Evelyn Hanshaw Middle,1725 Las Vegas Street Modesto CA 95358-5500,6.7,ppb,True,tested,Modesto,Stanislaus County,37.605744,-121.00281899999999,6.7
+Modesto City Elementary,Franklin Elementary,120 South Emerald Avenue Modesto CA 95351-1197,,,False,tested,Modesto,Stanislaus County,37.637527,-121.020149,
+Modesto City High,Fred C. Beyer High,1717 Sylvan Avenue Modesto CA 95355-1399,,,False,tested,Modesto,Stanislaus County,37.689042,-120.968151,
+Sylvan Union Elementary,Freedom Elementary,2101 Fine Avenue Modesto CA 95355-9771,,,False,tested,Modesto,Stanislaus County,37.67354,-120.926001,
+Stanislaus Union Elementary,George Eisenhut Elementary,1809 Sheldon Drive Modesto CA 95350-0420,,,False,tested,Modesto,Stanislaus County,37.685531,-121.025145,
+Modesto City High,Grace M. Davis High,1200 West Rumble Road Modesto CA 95350-2198,,,False,tested,Modesto,Stanislaus County,37.681172,-121.01003600000001,
+Stanislaus County Office of Education,Great Valley Academy,3200 Tully Road Modesto CA 95350-0811,5.2,ppb,True,tested,Modesto,Stanislaus County,37.685068,-121.011649,5.2
+Salida Union Elementary,Great Valley Academy - Salida,5901 Sisk Road Modesto CA 95356-8870,,,False,tested,Modesto,Stanislaus County,37.687146999999996,-121.057143,
+Modesto City Elementary,Harriette Kirschen Elementary,1900 Kirschen Drive Modesto CA 95351-2916,,,False,tested,Modesto,Stanislaus County,37.615456,-121.022172,
+Modesto City High,James C. Enochs High,3201 Sylvan Avenue Modesto CA 95355-7893,10.0,ppb,True,tested,Modesto,Stanislaus County,37.689071000000006,-120.935069,10.0
+Modesto City Elementary,James Marshall Elementary,515 Sutter Avenue Modesto CA 95351-3798,,,False,tested,Modesto,Stanislaus County,37.622817,-121.01236499999999,
+Modesto City Elementary,John Fremont Elementary,1220 West Orangeburg Avenue Modesto CA 95350-4074,,,False,tested,Modesto,Stanislaus County,37.663581,-121.01115800000001,
+Modesto City Elementary,John Muir Elementary,1215 Lucerne Avenue Modesto CA 95350-6012,,,False,tested,Modesto,Stanislaus County,37.653059000000006,-120.977101,
+Stanislaus Union Elementary,Josephine Chrysler Elementary,2818 Conant Avenue Modesto CA 95350-1752,,,False,tested,Modesto,Stanislaus County,37.681065000000004,-121.04038899999999,
+Modesto City Elementary,La Loma Junior High,1800 Encina Avenue Modesto CA 95354-1598,9.7,ppb,True,tested,Modesto,Stanislaus County,37.645162,-120.966245,9.7
+Modesto City Elementary,Lakewood Elementary,2920 Middleboro Place Modesto CA 95355-4699,9.8,ppb,True,tested,Modesto,Stanislaus County,37.657810999999995,-120.94094799999999,10.0
+Ceres Unified,M. Robert Adkison Elementary,1824 Nadine Avenue Modesto CA 95351-4401,,,False,tested,Modesto,Stanislaus County,37.612821000000004,-120.963466,
+Modesto City Elementary,Mark Twain Junior High,707 Emerald Avenue Modesto CA 95351-1996,,,False,tested,Modesto,Stanislaus County,37.63263,-121.022618,
+Sylvan Union Elementary,Mary Ann Sanders Elementary,3101 Fine Avenue Modesto CA 95355-9702,,,False,tested,Modesto,Stanislaus County,37.67811,-120.92598400000001,
+Stanislaus Union Elementary,Mary Lou Dieterich Elementary,2412 Warm Springs Drive Modesto CA 95350-9399,,,False,tested,Modesto,Stanislaus County,37.698822,-121.038758,
+Salida Union Elementary,Mildred Perkins Elementary,3920 Blue Bird Dr. Modesto CA 95356-0254,,,False,tested,Modesto,Stanislaus County,37.696395,-121.058545,
+Modesto City High,Modesto High,18 H Street Modesto CA 95351-3203,9.7,ppb,True,tested,Modesto,Stanislaus County,37.631473,-121.007126,9.7
+Empire Union Elementary,Norman N. Glick Middle,400 Frazine Road Modesto CA 95357-0251,,,False,tested,Modesto,Stanislaus County,37.64306,-120.91060800000001,
+Sylvan Union Elementary,Orchard Elementary,1800 Wisdom Way Modesto CA 95355-8836,,,False,tested,Modesto,Stanislaus County,37.669814,-120.953972,
+Modesto City Elementary,Orville Wright Elementary,1602 Monterey Street Modesto CA 95354-4298,,,False,tested,Modesto,Stanislaus County,37.626335,-120.969981,
+Modesto City High,Peter Johansen High,641 Norseman Drive Modesto CA 95357-0405,,,False,tested,Modesto,Stanislaus County,37.648039000000004,-120.91925900000001,
+Stanislaus County Office of Education,Petersen Alternative Center for Education,2209 Blue Gum Avenue Modesto CA 95358-1052,,,False,tested,Modesto,Stanislaus County,37.664382,-121.042174,
+Stanislaus Union Elementary,Prescott Junior High,2243 West Rumble Road Modesto CA 95350-0219,,,False,tested,Modesto,Stanislaus County,37.682415,-121.03611799999999,
+Modesto City High,Robert Elliott Alternative Education Center,1440 Sunrise Avenue Modesto CA 95350-4643,,,False,tested,Modesto,Stanislaus County,37.664362,-120.984703,
+Modesto City Elementary,Robertson Road Elementary,1821 Robertson Road Modesto CA 95351-3499,,,False,tested,Modesto,Stanislaus County,37.613653,-121.019356,
+Modesto City Elementary,Roosevelt Junior High,1330 College Avenue Modesto CA 95350-5099,6.6,ppb,True,tested,Modesto,Stanislaus County,37.663045000000004,-121.005854,6.6
+Modesto City Elementary,Rose Avenue Elementary,1120 Rose Avenue Modesto CA 95355-3799,12.0,ppb,True,tested,Modesto,Stanislaus County,37.65869,-120.966641,12.0
+Modesto City Elementary,Shackelford Elementary,100 School Avenue Modesto CA 95351-5398,9.4,ppb,True,tested,Modesto,Stanislaus County,37.612079,-120.993499,9.4
+Sylvan Union Elementary,Sherwood Elementary,819 Rumble Road Modesto CA 95350-2414,,,False,tested,Modesto,Stanislaus County,37.68159,-120.96305500000001,
+Sylvan Union Elementary,Somerset Middle,1037 Floyd Avenue Modesto CA 95350-2426,,,False,tested,Modesto,Stanislaus County,37.678139,-120.978843,
+Modesto City Elementary,Sonoma Elementary,1325 Sonoma Avenue Modesto CA 95355-3999,,,False,tested,Modesto,Stanislaus County,37.662628000000005,-120.94944699999999,
+Sylvan Union Elementary,Standiford Elementary,605 Tokay Avenue Modesto CA 95350-3535,9.2,ppb,True,tested,Modesto,Stanislaus County,37.672736,-120.985722,10.0
+Stanislaus Union Elementary,Stanislaus Elementary,1931 Kiernan Avenue Modesto CA 95356-9159,,,,not tested,Modesto,Stanislaus County,37.711394,-121.03841399999999,
+Sylvan Union Elementary,Stockard Coffee Elementary,3900 Northview Drive Modesto CA 95355-1244,5.4,ppb,True,tested,Modesto,Stanislaus County,37.694755,-120.968402,5.4
+Ceres Unified,Summit Charter Academy,2036 E. Hatch Road Ceres CA 95340,,,False,tested,Modesto,Stanislaus County,37.609015,-120.957733,
+Sylvan Union Elementary,Sylvan Elementary,2908 Coffee Road Modesto CA 95355-1757,6.0,ppb,True,tested,Modesto,Stanislaus County,37.680777,-120.97580500000001,6.0
+Modesto City High,Thomas Downey High,1000 Coffee Road Modesto CA 95355-4275,,,False,tested,Modesto,Stanislaus County,37.657317,-120.975493,
+Stanislaus County Office of Education,Valley Charter High,108 Campus Way Modesto CA 95350-5803,,,False,tested,Modesto,Stanislaus County,37.64764,-121.01083200000001,
+Ceres Unified,Virginia Parks Elementary,1021 Moffett Road Modesto CA 95351-4904,,,False,tested,Modesto,Stanislaus County,37.614077,-120.949504,
+Modesto City Elementary,William Garrison Elementary,1811 Teresa Street Modesto CA 95350-3794,7.3,ppb,True,tested,Modesto,Stanislaus County,37.665925,-121.02538799999999,7.3
+Modesto City Elementary,Wilson Elementary,201 Wilson Avenue Modesto CA 95354-2789,8.1,ppb,True,tested,Modesto,Stanislaus County,37.641227,-120.9778,11.0
+Sylvan Union Elementary,Woodrow Elementary,800 Woodrow Avenue Modesto CA 95350-1234,,,False,tested,Modesto,Stanislaus County,37.685518,-121.003547,

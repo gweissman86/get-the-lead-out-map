@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Coachella Valley Unified,Coachella Valley High,83-800 Airport Boulevard Thermal CA 92274-9367,NA,NA,FALSE,tested,Thermal,Riverside County,33.647499,-116.201067
-Coachella Valley Unified,Desert Mirage High,86-150 Ave 66 Thermal CA 92274,NA,NA,NA,not tested,Thermal,Riverside County,33.569234,-116.138444
-Coachella Valley Unified,John Kelley Elementary,87-163 Center Street Thermal CA 92274-8753,NA,NA,FALSE,tested,Thermal,Riverside County,33.639808,-116.144704
-Coachella Valley Unified,La Familia Continuation High,56 615 Olive Street Thermal CA 92274,NA,NA,NA,not tested,Thermal,Riverside County,33.640172,-116.142235
-Coachella Valley Unified,Las Palmitas Elementary,86-150 Ave. 66 Thermal CA 92274,NA,NA,FALSE,tested,Thermal,Riverside County,33.569234,-116.138444
-Coachella Valley Unified,Oasis Elementary,88175 74th Avenue Thermal CA 92274-9618,NA,NA,FALSE,tested,Thermal,Riverside County,33.50991,-116.12775
-Coachella Valley Unified,Toro Canyon Middle,86-150 Avenue 66 Thermal CA 92274,NA,NA,FALSE,tested,Thermal,Riverside County,33.569234,-116.138444
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Coachella Valley Unified,Coachella Valley High,83-800 Airport Boulevard Thermal CA 92274-9367,,,False,tested,Thermal,Riverside County,33.647498999999996,-116.201067,
+Coachella Valley Unified,Desert Mirage High,86-150 Ave 66 Thermal CA 92274,,,,not tested,Thermal,Riverside County,33.569234,-116.13844399999999,
+Coachella Valley Unified,John Kelley Elementary,87-163 Center Street Thermal CA 92274-8753,,,False,tested,Thermal,Riverside County,33.639808,-116.144704,
+Coachella Valley Unified,La Familia Continuation High,56 615 Olive Street Thermal CA 92274,,,,not tested,Thermal,Riverside County,33.640172,-116.14223500000001,
+Coachella Valley Unified,Las Palmitas Elementary,86-150 Ave. 66 Thermal CA 92274,,,False,tested,Thermal,Riverside County,33.569234,-116.13844399999999,
+Coachella Valley Unified,Oasis Elementary,88175 74th Avenue Thermal CA 92274-9618,,,False,tested,Thermal,Riverside County,33.50991,-116.12775,
+Coachella Valley Unified,Toro Canyon Middle,86-150 Avenue 66 Thermal CA 92274,,,False,tested,Thermal,Riverside County,33.569234,-116.13844399999999,

@@ -1,3 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Muroc Joint Unified,Boron Junior-Senior High,26831 Prospect Street Boron CA 93516-1539,5.2,ppb,TRUE,tested,Boron,Kern County,35.004871,-117.655181
-Muroc Joint Unified,West Boron Elementary,12300 Del Oro Street Boron CA 93516-1310,5.3,ppb,TRUE,tested,Boron,Kern County,35.004146,-117.693983
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Chula Vista Elementary,Sunnyside Elementary,5430 San Miguel Road Bonita CA 91902-2209,9.0,ppb,True,tested,Bonita,San Diego County,32.674106,-117.01428,9.0

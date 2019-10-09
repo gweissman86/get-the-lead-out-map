@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fillmore Unified,Piru Elementary,3811 East Center Street Piru CA 93040-0215,NA,NA,NA,not tested,Piru,Ventura County,34.415636,-118.798157
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fillmore Unified,Piru Elementary,3811 East Center Street Piru CA 93040-0215,,,,not tested,Piru,Ventura County,34.415636,-118.798157,

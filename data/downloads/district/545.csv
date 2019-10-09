@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Orange County Department of Education,Harbor Learning Center,15872 Harbor Boulevard Fountain Valley CA 92708,NA,NA,FALSE,tested,Fountain Valley,Orange County,33.731936,-117.919035
-Orange County Department of Education,Orange County Workforce Innovation High,505 North Euclid Street Anaheim CA 92805-5506,NA,NA,NA,not tested,Anaheim,Orange County,33.837814,-117.941661
-Orange County Department of Education,Placentia Education Center,5247 E Orangethorpe Avenue Anaheim CA 92807,NA,NA,NA,not tested,Anaheim,Orange County,33.859494,-117.918477
-Orange County Department of Education,Samueli Academy,1901 North Fairview Street Santa Ana CA 92706-2205,NA,NA,FALSE,tested,Santa Ana,Orange County,33.763154,-117.902335
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Orange County Department of Education,Harbor Learning Center,15872 Harbor Boulevard Fountain Valley CA 92708,,,False,tested,Fountain Valley,Orange County,33.731936,-117.91903500000001,
+Orange County Department of Education,Orange County Workforce Innovation High,505 North Euclid Street Anaheim CA 92805-5506,,,,not tested,Anaheim,Orange County,33.837814,-117.94166100000001,
+Orange County Department of Education,Placentia Education Center,5247 E Orangethorpe Avenue Anaheim CA 92807,,,,not tested,Anaheim,Orange County,33.859494,-117.918477,
+Orange County Department of Education,Samueli Academy,1901 North Fairview Street Santa Ana CA 92706-2205,,,False,tested,Santa Ana,Orange County,33.763154,-117.90233500000001,

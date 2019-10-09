@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kern County Superintendent of Schools Office,North Kern Community School,1915 Cecil Ave Delano CA 93215,NA,NA,FALSE,tested,NA,Kern County,35.775905,-119.247245
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Kern County Superintendent of Schools Office,North Kern Community School,1915 Cecil Ave Delano CA 93215,,,False,tested,,Kern County,35.775905,-119.24724499999999,

@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sonora Union High,Dario Cassina High,251-South A Baretta Street Sonora CA 95370-5042,NA,NA,NA,not tested,Sonora,Tuolumne County,37.98295,-120.382172
-Sonora Union High,Sonora High,430 North Washington Street Sonora CA 95370-5526,NA,NA,NA,not tested,Sonora,Tuolumne County,37.991386,-120.38652
-Sonora Union High,Theodore Bird High,251-A South Baretta Street Sonora CA 95370-5042,NA,NA,NA,not tested,Sonora,Tuolumne County,37.981383,-120.379647
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Sonora Union High,Dario Cassina High,251-South A Baretta Street Sonora CA 95370-5042,,,,not tested,Sonora,Tuolumne County,37.98295,-120.382172,
+Sonora Union High,Sonora High,430 North Washington Street Sonora CA 95370-5526,,,,not tested,Sonora,Tuolumne County,37.991386,-120.38651999999999,
+Sonora Union High,Theodore Bird High,251-A South Baretta Street Sonora CA 95370-5042,,,,not tested,Sonora,Tuolumne County,37.981383,-120.37964699999999,

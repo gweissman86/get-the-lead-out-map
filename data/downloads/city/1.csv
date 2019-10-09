@@ -1,2 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Acton-Agua Dulce Unified,Meadowlark Elementary,3015 West Sacramento Street Acton CA 93510-2434,7.3,ppb,TRUE,tested,Acton,Los Angeles County,34.474787,-118.18607
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Morongo Unified,Condor Elementary,2551 Condor Road Twentynine Palms CA 92277-0980,,,False,tested,29 Palms,San Bernardino County,34.205315,-116.045579,
+Morongo Unified,Oasis Elementary,73175 El Paseo Twentynine Palms CA 92277-0980,,,False,tested,29 Palms,San Bernardino County,34.135692,-116.054351,
+Morongo Unified,Palm Vista Elementary,74350 Baseline Twentynine Palms CA 92277-0980,,,False,tested,29 Palms,San Bernardino County,34.121395,-116.042372,
+Morongo Unified,Twentynine Palms High,72750 Wildcat Way Twentynine Palms CA 92277-0980,,,False,tested,29 Palms,San Bernardino County,34.141834,-116.07509399999999,
+Morongo Unified,Twentynine Palms Junior High,5798 Utah Trail Twentynine Palms CA 92277-0980,,,False,tested,29 Palms,San Bernardino County,34.153743,-116.036645,

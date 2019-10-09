@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-KIPP Los Angeles Schools,KIPP Comienza Community Prep Campus 2,6348 Seville Avenue Huntington Park CA 90255,NA,NA,FALSE,tested,Huntington Park,Los Angeles County,33.982082,-118.222372
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+KIPP Los Angeles Schools,KIPP Comienza Community Prep Campus 2,6348 Seville Avenue Huntington Park CA 90255,,,False,tested,Huntington Park,Los Angeles County,33.982082,-118.222372,

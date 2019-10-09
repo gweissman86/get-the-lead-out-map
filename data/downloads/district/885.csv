@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Winton,Frank Sparkes Elementary,7265 West Almond Avenue Winton CA 95388-0008,NA,NA,FALSE,tested,Winton,Merced County,37.38213,-120.618966
-Winton,Sybil N. Crookham Elementary,7160 West Walnut Avenue Winton CA 95388-0130,NA,NA,FALSE,tested,NA,Merced County,37.390213,-120.616215
-Winton,Winfield Elementary,6981 Chestnut Lane Winton CA 95388,NA,NA,FALSE,tested,NA,Merced County,37.389072,-120.604448
-Winton,Winton Middle,6300 North Cypress Avenue Winton CA 95388-1477,NA,NA,FALSE,tested,Winton,Merced County,37.379335,-120.621629
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Winton,Frank Sparkes Elementary,7265 West Almond Avenue Winton CA 95388-0008,,,False,tested,Winton,Merced County,37.38213,-120.61896599999999,
+Winton,Sybil N. Crookham Elementary,7160 West Walnut Avenue Winton CA 95388-0130,,,False,tested,,Merced County,37.390213,-120.616215,
+Winton,Winfield Elementary,6981 Chestnut Lane Winton CA 95388,,,False,tested,,Merced County,37.389072,-120.604448,
+Winton,Winton Middle,6300 North Cypress Avenue Winton CA 95388-1477,,,False,tested,Winton,Merced County,37.379335,-120.621629,

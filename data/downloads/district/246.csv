@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Firebaugh-Las Deltas Unified,Arthur E. Mills Intermediate,1191 P Street Firebaugh CA 93622-2230,9.6,ppb,TRUE,tested,NA,Fresno County,36.8595,-120.455155
-Firebaugh-Las Deltas Unified,El Puente High,1691 Saipan Avenue Firebaugh CA 93622-2465,9.2,ppb,TRUE,tested,NA,Fresno County,36.852436,-120.449092
-Firebaugh-Las Deltas Unified,Firebaugh Community Day,1666 Saipan Avenue Firebaugh CA 93622-2438,NA,NA,FALSE,tested,NA,Fresno County,36.852497,-120.447794
-Firebaugh-Las Deltas Unified,Firebaugh High,1976 Morris Kyle Drive Firebaugh CA 93622-9711,14,ppb,TRUE,tested,NA,Fresno County,36.846858,-120.449348
-Firebaugh-Las Deltas Unified,Firebaugh Middle,1600 16th Street Firebaugh CA 93622-2407,NA,NA,FALSE,tested,NA,Fresno County,36.854198,-120.449943
-Firebaugh-Las Deltas Unified,Firebaugh-Las Deltas Adult,1976 Morris Kyle Dr. Firebaugh CA 93622-9711,NA,NA,NA,not tested,NA,Fresno County,36.846858,-120.449348
-Firebaugh-Las Deltas Unified,Hazel M. Bailey Primary,1691 Q Street Firebaugh CA 93622-9711,11.1,ppb,TRUE,tested,NA,Fresno County,36.862209,-120.456682
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Firebaugh-Las Deltas Unified,Arthur E. Mills Intermediate,1191 P Street Firebaugh CA 93622-2230,9.6,ppb,True,tested,,Fresno County,36.8595,-120.455155,9.6
+Firebaugh-Las Deltas Unified,El Puente High,1691 Saipan Avenue Firebaugh CA 93622-2465,9.2,ppb,True,tested,,Fresno County,36.852436,-120.449092,9.2
+Firebaugh-Las Deltas Unified,Firebaugh Community Day,1666 Saipan Avenue Firebaugh CA 93622-2438,,,False,tested,,Fresno County,36.852497,-120.44779399999999,
+Firebaugh-Las Deltas Unified,Firebaugh High,1976 Morris Kyle Drive Firebaugh CA 93622-9711,14.0,ppb,True,tested,,Fresno County,36.846858000000005,-120.449348,14.0
+Firebaugh-Las Deltas Unified,Firebaugh Middle,1600 16th Street Firebaugh CA 93622-2407,,,False,tested,,Fresno County,36.854198,-120.44994299999999,
+Firebaugh-Las Deltas Unified,Firebaugh-Las Deltas Adult,1976 Morris Kyle Dr. Firebaugh CA 93622-9711,,,,not tested,,Fresno County,36.846858000000005,-120.449348,
+Firebaugh-Las Deltas Unified,Hazel M. Bailey Primary,1691 Q Street Firebaugh CA 93622-9711,11.1,ppb,True,tested,,Fresno County,36.862209,-120.456682,16.0

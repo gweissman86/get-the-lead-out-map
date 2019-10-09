@@ -1,15 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Eureka City Schools,Alice Birney Elementary,717 South Avenue Eureka CA 95503-5041,NA,NA,FALSE,tested,Eureka,Humboldt County,40.777503,-124.17911
-Eureka City Schools,Catherine L. Zane Middle,2155 S Street Eureka CA 95501-3140,NA,NA,FALSE,tested,Eureka,Humboldt County,40.787817,-124.148956
-Cutten Elementary,Cutten Elementary,4182 Walnut Drive Eureka CA 95503-6223,NA,NA,FALSE,tested,Eureka,Humboldt County,40.766511,-124.14308
-Eureka City Schools,Eureka Senior High,1915 J Street Eureka CA 95501-3052,NA,NA,FALSE,tested,Eureka,Humboldt County,40.78977,-124.158786
-Freshwater Elementary,Freshwater Charter Middle,75 Greenwood Heights Drive Eureka CA 95503-9569,NA,NA,FALSE,tested,Eureka,Humboldt County,40.786017,-124.082047
-Freshwater Elementary,Freshwater Elementary,75 Greenwood Heights Dr. Eureka CA 95503-9569,NA,NA,FALSE,tested,Eureka,Humboldt County,40.786017,-124.082047
-Eureka City Schools,Grant Elementary,3901 G Street Eureka CA 95503-6009,NA,NA,FALSE,tested,Eureka,Humboldt County,40.771025,-124.16239
-Eureka City Schools,Lafayette Elementary,3100 Park Street Eureka CA 95501-1544,NA,NA,FALSE,tested,Eureka,Humboldt County,40.79439,-124.132091
-South Bay Union Elementary,Pine Hill Elementary,5230 Vance Avenue Eureka CA 95503-6351,NA,NA,FALSE,tested,Eureka,Humboldt County,40.758287,-124.181643
-Cutten Elementary,Ridgewood Elementary,2060 Ridgewood Drive Eureka CA 95503-6687,5.6,ppb,TRUE,tested,Eureka,Humboldt County,40.732436,-124.147078
-South Bay Union Elementary,South Bay Elementary,6077 Loma Avenue Eureka CA 95503-6869,NA,NA,FALSE,tested,Eureka,Humboldt County,40.73465,-124.207291
-Eureka City Schools,Washington Elementary,3322 Dolbeer Street Eureka CA 95503-5633,NA,NA,FALSE,tested,Eureka,Humboldt County,40.778213,-124.142129
-Eureka City Schools,Winship Middle,2500 Cypress Avenue Eureka CA 95503-6213,NA,NA,FALSE,tested,Eureka,Humboldt County,40.765001,-124.138222
-Eureka City Schools,Zoe Barnum High,216 West Harris Street Eureka CA 95501-4074,NA,NA,FALSE,tested,Eureka,Humboldt County,40.780565,-124.173279
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Scott Valley Unified,Etna Community Day,220 Collier Way Etna CA 96027-9576,,,,not tested,Etna,Siskiyou County,41.459379,-122.895668,
+Scott Valley Unified,Etna Elementary,220 Collier Wy Etna CA 96027-0490,55.75,ppb,True,tested,Etna,Siskiyou County,41.459379,-122.895668,86.1
+Scott Valley Unified,Etna Union High,400 Howell Avenue Etna CA 96027-0721,,,False,tested,Etna,Siskiyou County,41.459376,-122.89841799999999,
+Scott Valley Unified,Scott River High,450 Campus Way B Etna CA 96027,,,False,tested,Etna,Siskiyou County,41.460304,-122.900783,
+Scott Valley Unified,Scott Valley Adult,450 Campus Way Etna CA 96027-0059,,,,not tested,Etna,Siskiyou County,41.460304,-122.900783,

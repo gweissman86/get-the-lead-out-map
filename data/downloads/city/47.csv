@@ -1,2 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Benicia Unified,Robert Semple Elementary,2015 East Third Street Benicia CA 94510-2206,NA,NA,NA,not tested,Benicia,Solano County,38.059083,-122.146949
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Sequoia Union High,Carlmont High,1400 Alameda de Las Pulgas Belmont CA 94002-3585,,,False,tested,Belmont,San Mateo County,37.505105,-122.288643,
+Belmont-Redwood Shores Elementary,Central Elementary,525 Middle Road Belmont CA 94002-2130,,,,not tested,Belmont,San Mateo County,37.523753,-122.28238700000001,
+Belmont-Redwood Shores Elementary,Cipriani Elementary,2525 Buena Vista Belmont CA 94002-1454,,,False,tested,Belmont,San Mateo County,37.515966,-122.30644699999999,
+Belmont-Redwood Shores Elementary,Fox Elementary,3100 Saint James Road Belmont CA 94002-2956,,,,not tested,Belmont,San Mateo County,37.507815,-122.32176100000001,
+Belmont-Redwood Shores Elementary,Nesbit Elementary,500 Biddulph Way Belmont CA 94002-2711,,,,not tested,Belmont,San Mateo County,37.525707000000004,-122.27458600000001,
+Belmont-Redwood Shores Elementary,Ralston Intermediate,2675 Ralston Avenue Belmont CA 94002-1216,,,,not tested,Belmont,San Mateo County,37.515114000000004,-122.28384799999999,

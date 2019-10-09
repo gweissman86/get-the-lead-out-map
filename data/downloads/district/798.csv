@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-TCUSD,Longden Elementary,9501 E. Wendon St. Temple City CA 91780,NA,NA,FALSE,tested,Temple City,Los Angeles County,34.112788,-118.064809
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+TCUSD,Longden Elementary,9501 E. Wendon St. Temple City CA 91780,,,False,tested,Temple City,Los Angeles County,34.112788,-118.06480900000001,

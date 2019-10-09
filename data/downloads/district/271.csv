@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Garfield Elementary,Garfield Elementary,2200 Freshwater Road Eureka CA 95503-9562,NA,NA,FALSE,tested,NA,Humboldt County,40.761519,-124.061724
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Garfield Elementary,Garfield Elementary,2200 Freshwater Road Eureka CA 95503-9562,,,False,tested,,Humboldt County,40.761519,-124.061724,

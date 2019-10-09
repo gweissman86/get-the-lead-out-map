@@ -1,12 +1,12 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Goleta Union Elementary,Brandon Elementary,195 Brandon Drive Goleta CA 93117-1036,NA,NA,FALSE,tested,NA,Santa Barbara County,34.438716,-119.893538
-Goleta Union Elementary,El Camino Elementary,5020 San Simeon Drive Santa Barbara CA 93111-2129,NA,NA,FALSE,tested,NA,Santa Barbara County,34.440285,-119.796526
-Goleta Union Elementary,Ellwood Elementary,7686 Hollister Avenue Goleta CA 93117-2439,7.6,ppb,TRUE,tested,NA,Santa Barbara County,34.430637,-119.896176
-Goleta Union Elementary,Foothill Elementary,711 Ribera Drive Santa Barbara CA 93111-1808,6.1,ppb,TRUE,tested,NA,Santa Barbara County,34.450589,-119.801037
-Goleta Union Elementary,Goleta Union School District cafeteria,401 N. Fairview  Goleta CA 93110,NA,NA,FALSE,tested,Goleta,Santa Barbara County,34.447178,-119.832137
-Goleta Union Elementary,Hollister Elementary,4950 Anita Lane Santa Barbara CA 93111-2704,7.8,ppb,TRUE,tested,NA,Santa Barbara County,34.432662,-119.794596
-Goleta Union Elementary,Isla Vista Elementary,6875 El Colegio Road Goleta CA 93117-4317,NA,NA,FALSE,tested,Goleta,Santa Barbara County,34.417012,-119.868654
-Goleta Union Elementary,Kellogg Elementary,475 Cambridge Avenue Goleta CA 93117-2141,NA,NA,FALSE,tested,Goleta,Santa Barbara County,34.447209,-119.821293
-Goleta Union Elementary,La Patera Elementary,555 North La Patera Lane Goleta CA 93117-1507,NA,NA,FALSE,tested,NA,Santa Barbara County,34.447293,-119.84779
-Goleta Union Elementary,Learning Tree Preschool,401 North Fairview Avenue Goleta CA 93117-1732,NA,NA,NA,not tested,NA,Santa Barbara County,34.447178,-119.832137
-Goleta Union Elementary,Mountain View Elementary,5465 Queen Anne Lane Santa Barbara CA 93111-1028,NA,NA,FALSE,tested,Santa Barbara,Santa Barbara County,34.455105,-119.816059
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Goleta Union Elementary,Brandon Elementary,195 Brandon Drive Goleta CA 93117-1036,,,False,tested,,Santa Barbara County,34.438716,-119.89353799999999,
+Goleta Union Elementary,El Camino Elementary,5020 San Simeon Drive Santa Barbara CA 93111-2129,,,False,tested,,Santa Barbara County,34.440284999999996,-119.796526,
+Goleta Union Elementary,Ellwood Elementary,7686 Hollister Avenue Goleta CA 93117-2439,7.6,ppb,True,tested,,Santa Barbara County,34.430637,-119.896176,7.6
+Goleta Union Elementary,Foothill Elementary,711 Ribera Drive Santa Barbara CA 93111-1808,6.1,ppb,True,tested,,Santa Barbara County,34.450589,-119.80103700000001,6.1
+Goleta Union Elementary,Goleta Union School District cafeteria,401 N. Fairview  Goleta CA 93110,,,False,tested,Goleta,Santa Barbara County,34.447178,-119.83213700000002,
+Goleta Union Elementary,Hollister Elementary,4950 Anita Lane Santa Barbara CA 93111-2704,7.8,ppb,True,tested,,Santa Barbara County,34.432662,-119.794596,14.0
+Goleta Union Elementary,Isla Vista Elementary,6875 El Colegio Road Goleta CA 93117-4317,,,False,tested,Goleta,Santa Barbara County,34.417012,-119.868654,
+Goleta Union Elementary,Kellogg Elementary,475 Cambridge Avenue Goleta CA 93117-2141,,,False,tested,Goleta,Santa Barbara County,34.447209,-119.821293,
+Goleta Union Elementary,La Patera Elementary,555 North La Patera Lane Goleta CA 93117-1507,,,False,tested,,Santa Barbara County,34.447293,-119.84778999999999,
+Goleta Union Elementary,Learning Tree Preschool,401 North Fairview Avenue Goleta CA 93117-1732,,,,not tested,,Santa Barbara County,34.447178,-119.83213700000002,
+Goleta Union Elementary,Mountain View Elementary,5465 Queen Anne Lane Santa Barbara CA 93111-1028,,,False,tested,Santa Barbara,Santa Barbara County,34.455104999999996,-119.81605900000001,

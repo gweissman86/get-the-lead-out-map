@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Mark West Union Elementary,John B. Riebli Elementary,315 Mark West Springs Road Santa Rosa CA 95404-1101,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.500904,-122.741804
-Mark West Union Elementary,Mark West Charter,5350 Faught Rd Santa Rosa CA 95403-1205,NA,NA,FALSE,tested,Larkfield-Wikiup,Sonoma County,38.513658,-122.759756
-Mark West Union Elementary,Mark West Elementary,4600 Lavell Road Santa Rosa CA 95403-7822,NA,NA,FALSE,tested,Santa Rosa,Sonoma County,38.502514,-122.759423
-Mark West Union Elementary,San Miguel Elementary,5350 Faught Road Santa Rosa CA 95403-1205,NA,NA,FALSE,tested,Larkfield-Wikiup,Sonoma County,38.513658,-122.759756
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Mark West Union Elementary,John B. Riebli Elementary,315 Mark West Springs Road Santa Rosa CA 95404-1101,,,False,tested,Santa Rosa,Sonoma County,38.500904,-122.741804,
+Mark West Union Elementary,Mark West Charter,5350 Faught Rd Santa Rosa CA 95403-1205,,,False,tested,Larkfield-Wikiup,Sonoma County,38.513658,-122.75975600000001,
+Mark West Union Elementary,Mark West Elementary,4600 Lavell Road Santa Rosa CA 95403-7822,,,False,tested,Santa Rosa,Sonoma County,38.502514,-122.759423,
+Mark West Union Elementary,San Miguel Elementary,5350 Faught Road Santa Rosa CA 95403-1205,,,False,tested,Larkfield-Wikiup,Sonoma County,38.513658,-122.75975600000001,

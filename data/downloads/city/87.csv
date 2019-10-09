@@ -1,3 +1,20 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Carmel Unified,Carmel High,3600 Ocean Avenue Carmel CA 93923,NA,NA,FALSE,tested,Carmel-by-the-Sea,Monterey County,36.555138,-121.920148
-Carmel Unified,Carmel River Elementary,Monte Verde Street and 15th Avenue Carmel CA 93923,9,ppb,TRUE,tested,Carmel-by-the-Sea,Monterey County,36.56035,-121.924329
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Carlsbad Unified,Aviara Oaks Elementary,6900 Ambrosia Lane Carlsbad CA 92009-2430,,,,not tested,Carlsbad,San Diego County,33.101105,-117.276367,
+Carlsbad Unified,Buena Vista Elementary,1330 Buena Vista Way Carlsbad CA 92008-1535,,,False,tested,Carlsbad,San Diego County,33.168797,-117.34265800000001,
+Carlsbad Unified,Calavera Hills Elementary,4100 Tamarack Avenue Carlsbad CA 92008-7101,,,,not tested,Carlsbad,San Diego County,33.149936,-117.34120700000001,
+Carlsbad Unified,Carlsbad High,3557 Monroe Street B Carlsbad CA 92008-2729,,,False,tested,Carlsbad,San Diego County,33.162389000000005,-117.32701000000002,
+San Marcos Unified,Carrillo Elementary,2875 Poinsettia Lane Carlsbad CA 92009-3041,,,False,tested,Carlsbad,San Diego County,33.118598,-117.245056,
+Encinitas Union Elementary,El Camino Creek Elementary,7885 Paseo Aliso Carlsbad CA 92009-9028,,,,not tested,Carlsbad,San Diego County,33.077026000000004,-117.258968,
+Carlsbad Unified,Hope Elementary,3010 Tamarack Avenue Carlsbad CA 92008-2430,,,False,tested,Carlsbad,San Diego County,33.169678000000005,-117.303104,
+Carlsbad Unified,Jefferson Elementary,3743 Jefferson Street Carlsbad CA 92008-3336,,,False,tested,Carlsbad,San Diego County,33.163296,-117.34722099999999,
+Carlsbad Unified,Kelly Elementary,4885 Kelly Drive Carlsbad CA 92008-3734,,,False,tested,Carlsbad,San Diego County,33.149353999999995,-117.311346,
+San Dieguito Union High,La Costa Canyon High,1 Maverick Way Encinitas CA 92009,,,False,tested,Carlsbad,San Diego County,33.073174,-117.22806399999999,
+Encinitas Union Elementary,La Costa Heights Elementary,3035 Levante Street Carlsbad CA 92009-8331,,,,not tested,Carlsbad,San Diego County,33.08092,-117.24338700000001,
+San Marcos Unified,La Costa Meadows Elementary,6889 El Fuerte Street Carlsbad CA 92009-5923,,,False,tested,Carlsbad,San Diego County,33.104528,-117.239977,
+Carlsbad Unified,Magnolia Elementary,1905 Magnolia Avenue Carlsbad CA 92008-2632,5.7,ppb,True,tested,Carlsbad,San Diego County,33.160061,-117.326673,5.7
+Encinitas Union Elementary,Mission Estancia Elementary,3330 Calle Barcelona Carlsbad CA 92009-9319,,,,not tested,Carlsbad,San Diego County,33.07233,-117.240137,
+Encinitas Union Elementary,Olivenhain Pioneer Elementary,8000 Calle Acervo Carlsbad CA 92009-8900,,,,not tested,Carlsbad,San Diego County,33.069318,-117.232973,
+Carlsbad Unified,Pacific Rim Elementary,1100 Camino de las Ondas Carlsbad CA 92009-3400,,,,not tested,Carlsbad,San Diego County,33.11091,-117.30536000000001,
+Carlsbad Unified,Poinsettia Elementary,2445 Mica Road Carlsbad CA 92009-1733,,,,not tested,Carlsbad,San Diego County,33.118446999999996,-117.253905,
+Private,St. Patrick Catholic School,3820 Pio Pico Drive Carlsbad CA 92008,,,False,tested,Carlsbad,San Diego County,33.164615999999995,-117.34194199999999,
+Carlsbad Unified,Valley Middle,1645 Magnolia Avenue Carlsbad CA 92008-2626,,,False,tested,Carlsbad,San Diego County,33.158836,-117.329342,

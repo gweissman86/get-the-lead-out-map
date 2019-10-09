@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Garden Grove Unified,Alamitos Intermediate,12381 Dale Street Garden Grove CA 92841-3219,NA,NA,FALSE,tested,Stanton,Orange County,33.782746,-117.98416
-Magnolia Elementary,Esther L. Walter,10802 Rustic Lane Anaheim CA  92804-6356,NA,NA,FALSE,tested,Stanton,Orange County,33.805534,-117.973385
-Magnolia Elementary,Esther L. Walter,10802 Rustic Lane Anaheim CA 92804-6356,NA,NA,FALSE,tested,Stanton,Orange County,33.805534,-117.973385
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Garden Grove Unified,Alamitos Intermediate,12381 Dale Street Garden Grove CA 92841-3219,,,False,tested,Stanton,Orange County,33.782746,-117.98416,
+Magnolia Elementary,Esther L. Walter,10802 Rustic Lane Anaheim CA  92804-6356,,,False,tested,Stanton,Orange County,33.805534,-117.97338500000001,
+Magnolia Elementary,Esther L. Walter,10802 Rustic Lane Anaheim CA 92804-6356,,,False,tested,Stanton,Orange County,33.805534,-117.97338500000001,

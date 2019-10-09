@@ -1,17 +1,17 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Paradise Unified,Achieve Charter School of Paradise Inc.,771 Elliott Road Paradise CA 95969-3913,NA,NA,NA,not tested,NA,Butte County,39.759571,-121.621329
-Paradise Unified,Cedarwood Elementary,6400 Columbine Rd Magalia CA 95954-9152,6.62,ppb,TRUE,tested,Magalia,Butte County,39.853002,-121.596351
-Paradise Unified,Children's Community Charter,6830 Pentz Road Paradise CA 95969-2902,NA,NA,NA,not tested,NA,Butte County,39.783526,-121.579459
-Paradise Unified,HomeTech Charter,7126 Skyway Paradise CA 95969-3271,NA,NA,NA,not tested,NA,Butte County,39.744167,-121.65058
-Paradise Unified,Honey Run Academy Elementary,622 Pearson Road Paradise CA 95969-5133,NA,NA,NA,not tested,NA,Butte County,39.752153,-121.608521
-Paradise Unified,Honey Run Academy Secondary,622 Pearson Paradise CA 95969-5133,NA,NA,NA,not tested,NA,Butte County,39.752153,-121.608521
-Paradise Unified,Paradise Adult,622 Pearson Rd Paradise CA 95969-5132,NA,NA,NA,not tested,NA,Butte County,39.752153,-121.608521
-Paradise Unified,Paradise Charter Middle,6473 Clark Rd Paradise CA 95969-3501,NA,NA,NA,not tested,NA,Butte County,39.77243,-121.595886
-Paradise Unified,Paradise eLearning Charter Academy,5911 Maxwell Drive Paradise CA 95969-4023,NA,NA,NA,not tested,NA,Butte County,39.76207,-121.612497
-Paradise Unified,Paradise Elementary,588 Pearson Rd Paradise CA 95969-5193,NA,NA,NA,not tested,NA,Butte County,39.752141,-121.611716
-Paradise Unified,Paradise Intermediate,5657 Recreation Dr Paradise CA 95969-5194,NA,NA,NA,not tested,NA,Butte County,39.750733,-121.613181
-Paradise Unified,Paradise Senior High,5911 Maxwell Dr Paradise CA 95969-4023,NA,NA,NA,not tested,NA,Butte County,39.76207,-121.612497
-Paradise Unified,Paradise Unified Special Education,6696 Clark Road Paradise CA 95969-2834,NA,NA,NA,not tested,NA,Butte County,39.778896,-121.589751
-Paradise Unified,Pine Ridge,13878 Compton Dr Magalia CA 95954-9430,NA,NA,FALSE,tested,NA,Butte County,39.81407,-121.603084
-Paradise Unified,Ponderosa Elementary,6593 Pentz Rd Paradise CA 95969-3632,NA,NA,NA,not tested,NA,Butte County,39.775353,-121.579679
-Paradise Unified,Ridgeview High (Continuation),13665 Skyway Magalia CA 95954-0640,NA,NA,FALSE,tested,NA,Butte County,39.806148,-121.57763
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Paradise Unified,Achieve Charter School of Paradise Inc.,771 Elliott Road Paradise CA 95969-3913,,,,not tested,,Butte County,39.759571,-121.621329,
+Paradise Unified,Cedarwood Elementary,6400 Columbine Rd Magalia CA 95954-9152,6.62,ppb,True,tested,Magalia,Butte County,39.853002000000004,-121.596351,6.62
+Paradise Unified,Children's Community Charter,6830 Pentz Road Paradise CA 95969-2902,,,,not tested,,Butte County,39.783526,-121.57945900000001,
+Paradise Unified,HomeTech Charter,7126 Skyway Paradise CA 95969-3271,,,,not tested,,Butte County,39.744167,-121.65058,
+Paradise Unified,Honey Run Academy Elementary,622 Pearson Road Paradise CA 95969-5133,,,,not tested,,Butte County,39.752153,-121.608521,
+Paradise Unified,Honey Run Academy Secondary,622 Pearson Paradise CA 95969-5133,,,,not tested,,Butte County,39.752153,-121.608521,
+Paradise Unified,Paradise Adult,622 Pearson Rd Paradise CA 95969-5132,,,,not tested,,Butte County,39.752153,-121.608521,
+Paradise Unified,Paradise Charter Middle,6473 Clark Rd Paradise CA 95969-3501,,,,not tested,,Butte County,39.77243,-121.59588600000001,
+Paradise Unified,Paradise eLearning Charter Academy,5911 Maxwell Drive Paradise CA 95969-4023,,,,not tested,,Butte County,39.76207,-121.61249699999999,
+Paradise Unified,Paradise Elementary,588 Pearson Rd Paradise CA 95969-5193,,,,not tested,,Butte County,39.752140999999995,-121.61171599999999,
+Paradise Unified,Paradise Intermediate,5657 Recreation Dr Paradise CA 95969-5194,,,,not tested,,Butte County,39.750733000000004,-121.61318100000001,
+Paradise Unified,Paradise Senior High,5911 Maxwell Dr Paradise CA 95969-4023,,,,not tested,,Butte County,39.76207,-121.61249699999999,
+Paradise Unified,Paradise Unified Special Education,6696 Clark Road Paradise CA 95969-2834,,,,not tested,,Butte County,39.778896,-121.589751,
+Paradise Unified,Pine Ridge,13878 Compton Dr Magalia CA 95954-9430,,,False,tested,,Butte County,39.81407,-121.60308400000001,
+Paradise Unified,Ponderosa Elementary,6593 Pentz Rd Paradise CA 95969-3632,,,,not tested,,Butte County,39.775353,-121.579679,
+Paradise Unified,Ridgeview High (Continuation),13665 Skyway Magalia CA 95954-0640,,,False,tested,,Butte County,39.806148,-121.57763,

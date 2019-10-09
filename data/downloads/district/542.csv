@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Old Adobe Union,La Tercera Elementary,1600 Albin Way Petaluma CA 94954-4599,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.246382,-122.609588
-Old Adobe Union,Loma Vista Immersion Academy,207 Maria Drive Petaluma CA 94954-2301,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.255757,-122.626951
-Old Adobe Union,Miwok Valley Language Academy Charter,1010 Saint Francis Drive Petaluma CA 94954-5322,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.235981,-122.61023
-Old Adobe Union,Old Adobe Elementary Charter,2856 Adobe Road Petaluma CA 94954-9536,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.26198,-122.598079
-Old Adobe Union,River Montessori Elementary Charter,3880 Cypress Drive Suite B Petaluma CA 94954-5613,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.226034,-122.586695
-Old Adobe Union,Sonoma Mountain Elementary,1900 Rainier Circle Petaluma CA 94954-2543,NA,NA,FALSE,tested,Petaluma,Sonoma County,38.267294,-122.629379
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Old Adobe Union,La Tercera Elementary,1600 Albin Way Petaluma CA 94954-4599,,,False,tested,Petaluma,Sonoma County,38.246382000000004,-122.60958799999999,
+Old Adobe Union,Loma Vista Immersion Academy,207 Maria Drive Petaluma CA 94954-2301,,,False,tested,Petaluma,Sonoma County,38.255757,-122.626951,
+Old Adobe Union,Miwok Valley Language Academy Charter,1010 Saint Francis Drive Petaluma CA 94954-5322,,,False,tested,Petaluma,Sonoma County,38.235981,-122.61023,
+Old Adobe Union,Old Adobe Elementary Charter,2856 Adobe Road Petaluma CA 94954-9536,,,False,tested,Petaluma,Sonoma County,38.26198,-122.598079,
+Old Adobe Union,River Montessori Elementary Charter,3880 Cypress Drive Suite B Petaluma CA 94954-5613,,,False,tested,Petaluma,Sonoma County,38.226034000000006,-122.58669499999999,
+Old Adobe Union,Sonoma Mountain Elementary,1900 Rainier Circle Petaluma CA 94954-2543,,,False,tested,Petaluma,Sonoma County,38.267294,-122.629379,

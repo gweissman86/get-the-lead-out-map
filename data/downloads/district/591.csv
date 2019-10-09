@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Placer Hills Union Elementary,Weimar Hills,200 West Weimar Crossroad Weimar CA 95736-0255,5.42,ppb,TRUE,tested,Colfax,Placer County,39.044044,-120.977798
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Placer Hills Union Elementary,Weimar Hills,200 West Weimar Crossroad Weimar CA 95736-0255,5.42,ppb,True,tested,Colfax,Placer County,39.044044,-120.97779799999999,5.42

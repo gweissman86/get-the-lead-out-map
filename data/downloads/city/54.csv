@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Big Creek Elementary,Big Creek Elementary,55190 Point Road Big Creek CA 93605-0098,NA,NA,NA,not tested,Big Creek,Fresno County,37.204807,-119.247121
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Bear Valley Unified,Big Bear Elementary,409040 Pennsylvania Big Bear Lake CA 92315-1627,,,False,tested,Big Bear Lake,San Bernardino County,34.239182,-116.90626999999999,
+Bear Valley Unified,Big Bear Middle,41275 Big Bear Boulevard Big Bear Lake CA 92315-1607,,,False,tested,Big Bear Lake,San Bernardino County,34.242979999999996,-116.9018,
+Bear Valley Unified,North Shore Elementary,765 North Stanfield Cutoff Big Bear Lake CA 92315-1887,,,False,tested,Big Bear Lake,San Bernardino County,34.257287,-116.88326599999999,

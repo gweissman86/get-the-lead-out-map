@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Twin Rivers Unified,Westside Elementary,6537 West Second Street Rio Linda CA 95673-3231,NA,NA,FALSE,tested,Rio Linda,Sacramento County,38.686458,-121.46664
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Twin Rivers Unified,Westside Elementary,6537 West Second Street Rio Linda CA 95673-3231,,,False,tested,Rio Linda,Sacramento County,38.686458,-121.46663999999998,

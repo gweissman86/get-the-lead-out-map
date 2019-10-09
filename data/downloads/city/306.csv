@@ -1,11 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Angeles Unified,Alexander Fleming Middle,25425 Walnut Street Lomita CA 90717-2610,NA,NA,FALSE,tested,Lomita,Los Angeles County,33.793161,-118.311937
-LAUSD,ESHELMAN AVE. ELEMENTARY SCHOOL,"25902 ESHELMAN AVE, LOMITA,         CA 90717",NA,NA,NA,exempt,Lomita,Los Angeles County,33.787616,-118.31443
-Los Angeles Unified,Eshelman Avenue Elementary,25902 Eshelman Avenue Lomita CA 90717-3223,NA,NA,FALSE,tested,Lomita,Los Angeles County,33.787616,-118.31443
-LAUSD,FLEMING MIDDLE SCHOOL,"25425 WALNUT ST, LOMITA,         CA 90717",NA,NA,NA,exempt,Lomita,Los Angeles County,33.793161,-118.311937
-LAUSD,HARBOR CITY ELEMENTARY,"1508 W 254TH ST, HARBOR CITY,    CA 90710",NA,NA,NA,exempt,Lomita,Los Angeles County,33.793699,-118.302962
-Los Angeles Unified,Harbor City Elementary,1508 West 254th Street Harbor City CA 90710-2717,NA,NA,NA,not tested,Lomita,Los Angeles County,33.793699,-118.302962
-LAUSD,LOMITA MATH/SCIENCE MAGNET,"2211 W 247TH ST, LOMITA,         CA 90717",NA,NA,NA,exempt,Lomita,Los Angeles County,33.800762,-118.321713
-Los Angeles Unified,Lomita Math/Science/Technology Magnet,2211 West 247th Street Lomita CA 90717-1503,6.3,ppb,TRUE,tested,Lomita,Los Angeles County,33.800762,-118.321713
-LAUSD,NORMONT ELEMENTARY,"1001 W 253RD ST, HARBOR CITY,    CA 90710",NA,NA,NA,exempt,Lomita,Los Angeles County,33.794792,-118.292899
-Los Angeles Unified,Normont Elementary,1001 West 253rd Street Harbor City CA 90710-3003,NA,NA,NA,not tested,Lomita,Los Angeles County,33.794792,-118.292899
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Redlands Unified,Bryn Mawr Elementary,11680 Whittier Avenue Loma Linda CA 92354-4154,,,False,tested,Loma Linda,San Bernardino County,34.04305,-117.230581,
+Private,Loma Linda Academy,10656 Anderson Street Loma Linda CA 92354,,,False,tested,Loma Linda,San Bernardino County,34.060195,-117.26328400000001,
+Redlands Unified,Victoria Elementary,9963 Richardson Street San Bernardino CA 92408-2965,5.65,ppb,True,tested,Loma Linda,San Bernardino County,34.049327000000005,-117.25873500000002,6.1

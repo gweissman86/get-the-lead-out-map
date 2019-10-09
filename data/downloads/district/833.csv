@@ -1,13 +1,13 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Union Elementary,Alta Vista Elementary,200 Blossom Valley Road Los Gatos CA 95032-3809,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.239625,-121.941711
-Union Elementary,Athenour Early Childhood Education Center,5200 Dent Avenue San Jose CA 95118-2258,NA,NA,FALSE,tested,San José,Santa Clara County,37.249092,-121.897383
-Union Elementary,Bright Horizons Preschool,220 Belgatos Rd Los Gatos CA 95032,NA,NA,FALSE,tested,Los Gatos,Santa Clara County,37.233313,-121.918999
-Union Elementary,Carlton Elementary,2421 Carlton Avenue San Jose CA 95124-4949,NA,NA,FALSE,tested,NA,Santa Clara County,37.247287,-121.94646
-Union Elementary,Dartmouth Middle,5575 Dartmouth Drive San Jose CA 95118-3332,NA,NA,FALSE,tested,San José,Santa Clara County,37.239847,-121.896463
-Union Elementary,Enlighten Chinese Preschool,1921 Clarinda Wy San Jose CA 95124,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.245418,-121.925178
-Union Elementary,Guadalupe Elementary,6044 Vera Cruz Drive San Jose CA 95120-4863,NA,NA,FALSE,tested,San José,Santa Clara County,37.228327,-121.897766
-Union Elementary,Lietz Elementary,5300 Carter Avenue San Jose CA 95118-2813,NA,NA,FALSE,tested,San José,Santa Clara County,37.243515,-121.903457
-Union Elementary,Little Oak Preschool,1921 Clarinda Way San Jose CA 95124,NA,NA,NA,not tested,San José,Santa Clara County,37.245027,-121.924234
-Union Elementary,Noddin Elementary,1755 Gilda Way San Jose CA 95124-6207,NA,NA,FALSE,tested,San José,Santa Clara County,37.237788,-121.916242
-Union Elementary,Oster Elementary,1855 Lencar Way San Jose CA 95124-3603,NA,NA,FALSE,tested,San José,Santa Clara County,37.256757,-121.919733
-Union Elementary,Union Middle,2130 Los Gatos-Almaden Road San Jose CA 95124-5418,NA,NA,FALSE,tested,San Jose,Santa Clara County,37.241786,-121.935102
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Union Elementary,Alta Vista Elementary,200 Blossom Valley Road Los Gatos CA 95032-3809,,,False,tested,San Jose,Santa Clara County,37.239625,-121.94171100000001,
+Union Elementary,Athenour Early Childhood Education Center,5200 Dent Avenue San Jose CA 95118-2258,,,False,tested,San José,Santa Clara County,37.249092,-121.897383,
+Union Elementary,Bright Horizons Preschool,220 Belgatos Rd Los Gatos CA 95032,,,False,tested,Los Gatos,Santa Clara County,37.233313,-121.918999,
+Union Elementary,Carlton Elementary,2421 Carlton Avenue San Jose CA 95124-4949,,,False,tested,,Santa Clara County,37.247287,-121.94646000000002,
+Union Elementary,Dartmouth Middle,5575 Dartmouth Drive San Jose CA 95118-3332,,,False,tested,San José,Santa Clara County,37.239847,-121.89646299999998,
+Union Elementary,Enlighten Chinese Preschool,1921 Clarinda Wy San Jose CA 95124,,,False,tested,San Jose,Santa Clara County,37.245418,-121.925178,
+Union Elementary,Guadalupe Elementary,6044 Vera Cruz Drive San Jose CA 95120-4863,,,False,tested,San José,Santa Clara County,37.228327,-121.89776599999999,
+Union Elementary,Lietz Elementary,5300 Carter Avenue San Jose CA 95118-2813,,,False,tested,San José,Santa Clara County,37.243515,-121.903457,
+Union Elementary,Little Oak Preschool,1921 Clarinda Way San Jose CA 95124,,,,not tested,San José,Santa Clara County,37.245027,-121.92423400000001,
+Union Elementary,Noddin Elementary,1755 Gilda Way San Jose CA 95124-6207,,,False,tested,San José,Santa Clara County,37.237788,-121.916242,
+Union Elementary,Oster Elementary,1855 Lencar Way San Jose CA 95124-3603,,,False,tested,San José,Santa Clara County,37.256757,-121.91973300000001,
+Union Elementary,Union Middle,2130 Los Gatos-Almaden Road San Jose CA 95124-5418,,,False,tested,San Jose,Santa Clara County,37.241786,-121.935102,

@@ -1,29 +1,29 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Cajon Valley Union,Anza Elementary,1005 South Anza Street El Cajon CA 92020-8602,NA,NA,FALSE,tested,El Cajon,San Diego County,32.782212,-116.948111
-Cajon Valley Union,Avocado Elementary,3845 Avocado School Road La Mesa CA 91941-7319,NA,NA,FALSE,tested,La Mesa,San Diego County,32.750637,-116.959827
-Cajon Valley Union,Blossom Valley Elementary,9863 Oakmont Terrace El Cajon CA 92021-2300,NA,NA,FALSE,tested,El Cajon,San Diego County,32.861406,-116.845755
-Cajon Valley Union,Bostonia Language Academy,1390 East Broadway El Cajon CA 92021-5812,NA,NA,FALSE,tested,El Cajon,San Diego County,32.808029,-116.931657
-Cajon Valley Union,Cajon Valley Community Day,165 Roanoke Road El Cajon CA 92021-4015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.795728,-116.954781
-Cajon Valley Union,Cajon Valley Middle,550 Park Avenue El Cajon CA 92020-3922,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79906,-116.956819
-Cajon Valley Union,Chase Avenue Elementary,195 East Chase Avenue El Cajon CA 92020-6201,NA,NA,FALSE,tested,El Cajon,San Diego County,32.780303,-116.961299
-Cajon Valley Union,Crest Elementary,2000 Suncrest Boulevard El Cajon CA 92021-4249,NA,NA,FALSE,tested,NA,San Diego County,32.804219,-116.864469
-Cajon Valley Union,EJE Academies,851 South Johnson Avenue El Cajon CA 92020-5811,NA,NA,FALSE,tested,El Cajon,San Diego County,32.791306,-116.970947
-Cajon Valley Union,Emerald Middle,1221 South Emerald Avenue El Cajon CA 92020-7315,NA,NA,FALSE,tested,El Cajon,San Diego County,32.778705,-116.967995
-Cajon Valley Union,Flying Hills Elementary,1251 Finch Street El Cajon CA 92020-1433,NA,NA,FALSE,tested,El Cajon,San Diego County,32.811839,-116.982374
-Cajon Valley Union,Fuerte Elementary,11625 Fuerte Drive El Cajon CA 92020-8309,NA,NA,FALSE,tested,NA,San Diego County,32.766094,-116.971848
-Cajon Valley Union,Greenfield Middle,1495 Greenfield Drive El Cajon CA 92021-3414,NA,NA,FALSE,tested,El Cajon,San Diego County,32.813188,-116.931424
-Cajon Valley Union,Hillsdale Middle,1301 Brabham Street El Cajon CA 92019-4374,NA,NA,FALSE,tested,El Cajon,San Diego County,32.748933,-116.932023
-Cajon Valley Union,Jamacha Elementary,2962 Jamul Drive El Cajon CA 92019-4640,NA,NA,FALSE,tested,NA,San Diego County,32.716999,-116.876135
-Cajon Valley Union,Johnson Elementary,500 West Madison El Cajon CA 92020-3211,NA,NA,FALSE,tested,El Cajon,San Diego County,32.801176,-116.968927
-Cajon Valley Union,Lexington Elementary,1145 Redwood Ave El Cajon CA 92019-4739,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79122,-116.94201
-Cajon Valley Union,Los Coches Creek Middle,9669 Dunbar Lane El Cajon CA 92021-2619,NA,NA,FALSE,tested,El Cajon,San Diego County,32.860262,-116.818012
-Cajon Valley Union,Madison Avenue Elementary,1615 East Madison Avenue El Cajon CA 92019-1046,NA,NA,FALSE,tested,El Cajon,San Diego County,32.800116,-116.922195
-Cajon Valley Union,Magnolia Elementary,650 Greenfield Drive El Cajon CA 92021-2957,NA,NA,FALSE,tested,El Cajon,San Diego County,32.813414,-116.953733
-Cajon Valley Union,Meridian Elementary,651 South Third Street El Cajon CA 92019-2517,NA,NA,FALSE,tested,El Cajon,San Diego County,32.788377,-116.925607
-Cajon Valley Union,Montgomery Middle,1570 Melody Lane El Cajon CA 92019-2015,NA,NA,FALSE,tested,El Cajon,San Diego County,32.79656,-116.924821
-Cajon Valley Union,Naranca Elementary,1030 Naranca Avenue El Cajon CA 92021-5615,NA,NA,FALSE,tested,El Cajon,San Diego County,32.804018,-116.947147
-Cajon Valley Union,Rancho San Diego Elementary,12151 Calle Albara El Cajon CA 92019-4825,NA,NA,FALSE,tested,El Cajon,San Diego County,32.754316,-116.932715
-Cajon Valley Union,Rios Elementary,14314 Rios Canyon Road El Cajon CA 92021-2725,NA,NA,FALSE,tested,El Cajon,San Diego County,32.840641,-116.873231
-Cajon Valley Union,Sevick Special Education,1609 East Madison Avenue El Cajon CA 92019-1046,NA,NA,FALSE,tested,El Cajon,San Diego County,32.799316,-116.921476
-Cajon Valley Union,Vista Grande Elementary,1908 Vista Grande Road El Cajon CA 92019-3823,NA,NA,FALSE,tested,NA,San Diego County,32.764434,-116.915056
-Cajon Valley Union,W. D. Hall Elementary,1376 Pepper Drive El Cajon CA 92021-1460,NA,NA,FALSE,tested,El Cajon,San Diego County,32.820905,-116.931059
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Cajon Valley Union,Anza Elementary,1005 South Anza Street El Cajon CA 92020-8602,,,False,tested,El Cajon,San Diego County,32.782212,-116.94811100000001,
+Cajon Valley Union,Avocado Elementary,3845 Avocado School Road La Mesa CA 91941-7319,,,False,tested,La Mesa,San Diego County,32.750637,-116.959827,
+Cajon Valley Union,Blossom Valley Elementary,9863 Oakmont Terrace El Cajon CA 92021-2300,,,False,tested,El Cajon,San Diego County,32.861406,-116.84575500000001,
+Cajon Valley Union,Bostonia Language Academy,1390 East Broadway El Cajon CA 92021-5812,,,False,tested,El Cajon,San Diego County,32.808029,-116.931657,
+Cajon Valley Union,Cajon Valley Community Day,165 Roanoke Road El Cajon CA 92021-4015,,,False,tested,El Cajon,San Diego County,32.795728000000004,-116.95478100000001,
+Cajon Valley Union,Cajon Valley Middle,550 Park Avenue El Cajon CA 92020-3922,,,False,tested,El Cajon,San Diego County,32.79906,-116.956819,
+Cajon Valley Union,Chase Avenue Elementary,195 East Chase Avenue El Cajon CA 92020-6201,,,False,tested,El Cajon,San Diego County,32.780303,-116.961299,
+Cajon Valley Union,Crest Elementary,2000 Suncrest Boulevard El Cajon CA 92021-4249,,,False,tested,,San Diego County,32.804219,-116.864469,
+Cajon Valley Union,EJE Academies,851 South Johnson Avenue El Cajon CA 92020-5811,,,False,tested,El Cajon,San Diego County,32.791306,-116.970947,
+Cajon Valley Union,Emerald Middle,1221 South Emerald Avenue El Cajon CA 92020-7315,,,False,tested,El Cajon,San Diego County,32.778705,-116.967995,
+Cajon Valley Union,Flying Hills Elementary,1251 Finch Street El Cajon CA 92020-1433,,,False,tested,El Cajon,San Diego County,32.811839,-116.982374,
+Cajon Valley Union,Fuerte Elementary,11625 Fuerte Drive El Cajon CA 92020-8309,,,False,tested,,San Diego County,32.766094,-116.971848,
+Cajon Valley Union,Greenfield Middle,1495 Greenfield Drive El Cajon CA 92021-3414,,,False,tested,El Cajon,San Diego County,32.813188000000004,-116.93142399999999,
+Cajon Valley Union,Hillsdale Middle,1301 Brabham Street El Cajon CA 92019-4374,,,False,tested,El Cajon,San Diego County,32.748933,-116.932023,
+Cajon Valley Union,Jamacha Elementary,2962 Jamul Drive El Cajon CA 92019-4640,,,False,tested,,San Diego County,32.716999,-116.876135,
+Cajon Valley Union,Johnson Elementary,500 West Madison El Cajon CA 92020-3211,,,False,tested,El Cajon,San Diego County,32.801176,-116.96892700000001,
+Cajon Valley Union,Lexington Elementary,1145 Redwood Ave El Cajon CA 92019-4739,,,False,tested,El Cajon,San Diego County,32.79122,-116.94201000000001,
+Cajon Valley Union,Los Coches Creek Middle,9669 Dunbar Lane El Cajon CA 92021-2619,,,False,tested,El Cajon,San Diego County,32.860262,-116.81801200000001,
+Cajon Valley Union,Madison Avenue Elementary,1615 East Madison Avenue El Cajon CA 92019-1046,,,False,tested,El Cajon,San Diego County,32.800115999999996,-116.922195,
+Cajon Valley Union,Magnolia Elementary,650 Greenfield Drive El Cajon CA 92021-2957,,,False,tested,El Cajon,San Diego County,32.813414,-116.95373300000001,
+Cajon Valley Union,Meridian Elementary,651 South Third Street El Cajon CA 92019-2517,,,False,tested,El Cajon,San Diego County,32.788377000000004,-116.92560700000001,
+Cajon Valley Union,Montgomery Middle,1570 Melody Lane El Cajon CA 92019-2015,,,False,tested,El Cajon,San Diego County,32.79656,-116.924821,
+Cajon Valley Union,Naranca Elementary,1030 Naranca Avenue El Cajon CA 92021-5615,,,False,tested,El Cajon,San Diego County,32.804018,-116.947147,
+Cajon Valley Union,Rancho San Diego Elementary,12151 Calle Albara El Cajon CA 92019-4825,,,False,tested,El Cajon,San Diego County,32.754315999999996,-116.93271499999999,
+Cajon Valley Union,Rios Elementary,14314 Rios Canyon Road El Cajon CA 92021-2725,,,False,tested,El Cajon,San Diego County,32.840641,-116.873231,
+Cajon Valley Union,Sevick Special Education,1609 East Madison Avenue El Cajon CA 92019-1046,,,False,tested,El Cajon,San Diego County,32.799316,-116.921476,
+Cajon Valley Union,Vista Grande Elementary,1908 Vista Grande Road El Cajon CA 92019-3823,,,False,tested,,San Diego County,32.764434,-116.915056,
+Cajon Valley Union,W. D. Hall Elementary,1376 Pepper Drive El Cajon CA 92021-1460,,,False,tested,El Cajon,San Diego County,32.820904999999996,-116.931059,

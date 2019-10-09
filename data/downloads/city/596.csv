@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Wasco Union Elementary,John L. Prueitt Elementary,3501 Seventh Street Wasco CA 93280-9533,NA,NA,FALSE,tested,Wasco,Kern County,35.592595,-119.365904
-Wasco Union Elementary,Karl F. Clemens Elementary,523 Broadway Avenue Wasco CA 93280-1838,NA,NA,FALSE,tested,Wasco,Kern County,35.596465,-119.338406
-Semitropic Elementary,Semitropic Elementary,25300 Highway 46 Wasco CA 93280-9540,NA,NA,FALSE,tested,Wasco,Kern County,35.601395,-119.508617
-Wasco Union High,Wasco High,1900 Seventh Street Wasco CA 93280-0250,NA,NA,FALSE,tested,Wasco,Kern County,35.594937,-119.347403
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Wasco Union Elementary,John L. Prueitt Elementary,3501 Seventh Street Wasco CA 93280-9533,,,False,tested,Wasco,Kern County,35.592595,-119.365904,
+Wasco Union Elementary,Karl F. Clemens Elementary,523 Broadway Avenue Wasco CA 93280-1838,,,False,tested,Wasco,Kern County,35.596465,-119.338406,
+Semitropic Elementary,Semitropic Elementary,25300 Highway 46 Wasco CA 93280-9540,,,False,tested,Wasco,Kern County,35.601395000000004,-119.50861699999999,
+Wasco Union High,Wasco High,1900 Seventh Street Wasco CA 93280-0250,,,False,tested,Wasco,Kern County,35.594937,-119.347403,

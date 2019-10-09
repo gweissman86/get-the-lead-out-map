@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Terra Bella Union Elementary,Terra Bella Elementary,9364 Road 238 Terra Bella CA 93270-9400,NA,NA,FALSE,tested,Terra Bella,Tulare County,35.959901,-119.039219
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Terra Bella Union Elementary,Terra Bella Elementary,9364 Road 238 Terra Bella CA 93270-9400,,,False,tested,Terra Bella,Tulare County,35.959901,-119.03921899999999,

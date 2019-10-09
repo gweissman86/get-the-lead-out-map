@@ -1,2 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Earlimart Elementary,Earlimart Middle,599 South Sutter Street Earlimart CA 93219-1970,NA,NA,NA,not tested,Earlimart,Tulare County,35.888161,-119.270711
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Dunsmuir Elementary,Dunsmuir Elementary,4760 Siskiyou Avenue Dunsmuir CA 96025-1902,,,,not tested,Dunsmuir,Siskiyou County,41.229696000000004,-122.274381,
+Dunsmuir Joint Union High,Dunsmuir High,5805 High School Way Dunsmuir CA 96025-2202,,,,not tested,Dunsmuir,Siskiyou County,41.210414,-122.275896,
+Dunsmuir Joint Union High,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",,,,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896,
+Dunsmuir Joint Union High,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",,,,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896,
+Dunsmuir Joint Union High,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",,,,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896,
+Dunsmuir Joint Union High,Dunsmuir High School,"5805 High School Way  dunsmuir, CA  96025",,,,exempt,Dunsmuir,Siskiyou County,41.210414,-122.275896,

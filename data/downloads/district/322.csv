@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Humboldt County Office of Education,Eel River Community,2292 Newburg Road Fortuna CA 95540-2814,NA,NA,NA,not tested,NA,Humboldt County,40.589423,-124.142016
-Humboldt County Office of Education,Northcoast Performing Arts and Preparatory Academy Middle,285 Bayside Road Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.856032,-124.071069
-Humboldt County Office of Education,Northcoast Preparatory and Performing Arts Academy,1761 11th Street Arcata CA 95521-5403,NA,NA,FALSE,tested,Arcata,Humboldt County,40.872745,-124.096423
-Humboldt County Office of Education,Northern United Charter School Arcata Learning Center,1539 F Street Arcata CA 95521,NA,NA,FALSE,tested,Arcata,Humboldt County,40.873682,-124.08291
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Humboldt County Office of Education,Eel River Community,2292 Newburg Road Fortuna CA 95540-2814,,,,not tested,,Humboldt County,40.589423,-124.142016,
+Humboldt County Office of Education,Northcoast Performing Arts and Preparatory Academy Middle,285 Bayside Road Arcata CA 95521,,,False,tested,Arcata,Humboldt County,40.856032,-124.071069,
+Humboldt County Office of Education,Northcoast Preparatory and Performing Arts Academy,1761 11th Street Arcata CA 95521-5403,,,False,tested,Arcata,Humboldt County,40.872745,-124.096423,
+Humboldt County Office of Education,Northern United Charter School Arcata Learning Center,1539 F Street Arcata CA 95521,,,False,tested,Arcata,Humboldt County,40.873682,-124.08291000000001,

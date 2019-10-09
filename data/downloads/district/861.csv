@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Weed Union Elementary,Weed Elementary,575 White Avenue Weed CA 96094-2431,NA,NA,FALSE,tested,Weed,Siskiyou County,41.429104,-122.38224
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Weed Union Elementary,Weed Elementary,575 White Avenue Weed CA 96094-2431,,,False,tested,Weed,Siskiyou County,41.429103999999995,-122.38224,

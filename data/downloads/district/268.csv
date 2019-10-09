@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Galt Joint Union Elementary,Fairsite Preschool & School Readiness Center,902 Caroline Avenue Galt CA 95632,NA,NA,NA,not tested,Galt,Sacramento County,38.251103,-121.299499
-Galt Joint Union Elementary,Lake Canyon Elementary,800 Lake Canyon Avenue Galt CA 95632-8166,NA,NA,NA,not tested,Galt,Sacramento County,38.286325,-121.301595
-Galt Joint Union Elementary,Marengo Ranch Elementary,1000 Elk Hills Drive Galt CA 95632-3434,NA,NA,NA,not tested,Galt,Sacramento County,38.282265,-121.290643
-Galt Joint Union Elementary,River Oaks Elementary,905 Vintage Oak Avenue Galt CA 95632-3076,NA,NA,NA,not tested,Galt,Sacramento County,38.274479,-121.295499
-Galt Joint Union Elementary,Robert L. McCaffrey Middle,997 Park Terrace Drive Galt CA 95632-3766,NA,NA,NA,not tested,Galt,Sacramento County,38.283909,-121.287091
-Galt Joint Union Elementary,Valley Oaks Elementary,21 C Street Galt CA 95632-1825,NA,NA,NA,not tested,Galt,Sacramento County,38.251556,-121.309178
-Galt Joint Union Elementary,Vernon E. Greer Elementary,248 West A Street Galt CA 95632-2449,NA,NA,NA,not tested,Galt,Sacramento County,38.254625,-121.319411
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Galt Joint Union Elementary,Fairsite Preschool & School Readiness Center,902 Caroline Avenue Galt CA 95632,,,,not tested,Galt,Sacramento County,38.251103,-121.299499,
+Galt Joint Union Elementary,Lake Canyon Elementary,800 Lake Canyon Avenue Galt CA 95632-8166,,,,not tested,Galt,Sacramento County,38.286325,-121.30159499999999,
+Galt Joint Union Elementary,Marengo Ranch Elementary,1000 Elk Hills Drive Galt CA 95632-3434,,,,not tested,Galt,Sacramento County,38.282265,-121.29064299999999,
+Galt Joint Union Elementary,River Oaks Elementary,905 Vintage Oak Avenue Galt CA 95632-3076,,,,not tested,Galt,Sacramento County,38.274479,-121.29549899999999,
+Galt Joint Union Elementary,Robert L. McCaffrey Middle,997 Park Terrace Drive Galt CA 95632-3766,,,,not tested,Galt,Sacramento County,38.283909,-121.28709099999999,
+Galt Joint Union Elementary,Valley Oaks Elementary,21 C Street Galt CA 95632-1825,,,,not tested,Galt,Sacramento County,38.251556,-121.309178,
+Galt Joint Union Elementary,Vernon E. Greer Elementary,248 West A Street Galt CA 95632-2449,,,,not tested,Galt,Sacramento County,38.254625,-121.31941100000002,

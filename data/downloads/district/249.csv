@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Foresthill Union Elementary,Foresthill Divide,22888 Foresthill Road Foresthill CA 95631-9216,NA,NA,FALSE,tested,NA,Placer County,39.011116,-120.844006
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Foresthill Union Elementary,Foresthill Divide,22888 Foresthill Road Foresthill CA 95631-9216,,,False,tested,,Placer County,39.011115999999994,-120.84400600000001,

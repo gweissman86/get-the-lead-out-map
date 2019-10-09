@@ -1,14 +1,9 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Brea-Olinda Unified,Arovista Elementary,900 Eadington Drive Brea CA 92821-5298,NA,NA,FALSE,tested,Brea,Orange County,33.913696,-117.911997
-Brea-Olinda Unified,Brea Canyon High (Continuation),689 North Wildcat Way Brea CA 92821-7400,6,ppb,TRUE,tested,Brea,Orange County,33.92958,-117.875186
-Brea-Olinda Unified,Brea Country Hills Elementary,150 North Associated Road Brea CA 92821-4669,17,ppb,TRUE,tested,Brea,Orange County,33.920472,-117.873107
-Brea-Olinda Unified,Brea Junior High,400 North Brea Boulevard Brea CA 92821-3399,14,ppb,TRUE,tested,Brea,Orange County,33.92631,-117.894576
-Brea-Olinda Unified,Brea-Olinda High,789 North Wildcat Way Brea CA 92821-7400,NA,NA,FALSE,tested,Brea,Orange County,33.931962,-117.875972
-Private,Christ Lutheran,820 West Imperial Highway Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.917553,-117.911302
-Private,Heights Christian School / Brea,200 South Associated Road Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.917261,-117.876035
-Brea-Olinda Unified,Laurel Elementary,200 South Flower Avenue Brea CA 92821-4944,NA,NA,FALSE,tested,Brea,Orange County,33.916069,-117.896975
-Brea-Olinda Unified,Mariposa Elementary,1111 West Mariposa Drive Brea CA 92821-2599,NA,NA,FALSE,tested,Brea,Orange County,33.935145,-117.896934
-Private,Montessori of Brea Inc.,701 Mulberry Avenue Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.9106,-117.907309
-Brea-Olinda Unified,Olinda Elementary,3145 East Birch Street Brea CA 92821-6250,NA,NA,FALSE,tested,Brea,Orange County,33.919475,-117.853967
-Private,St. Angela Merici Elementary,575 South Walnut Avenue Brea CA 92821,NA,NA,FALSE,tested,Brea,Orange County,33.912094,-117.904174
-Brea-Olinda Unified,William E. Fanning Elementary,650 North Apricot Brea CA 92821-3501,NA,NA,FALSE,tested,Brea,Orange County,33.928276,-117.887751
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Brawley Elementary,Barbara Worth Junior High,385 D Street Brawley CA 92227-1912,,,,not tested,Brawley,Imperial County,32.980959000000006,-115.535835,
+Brawley Union High,Brawley High,480 North Imperial Avenue Brawley CA 92227-1625,,,,not tested,Brawley,Imperial County,32.982799,-115.534861,
+Brawley Union High,Desert Valley High (Continuation),104 West Magnolia Street Brawley CA 92227-1583,,,,not tested,Brawley,Imperial County,32.984724,-115.550618,
+Brawley Elementary,J. W. Oakley Elementary,1401 B Street Brawley CA 92227-1912,,,,not tested,Brawley,Imperial County,32.982981,-115.51881100000001,
+Brawley Elementary,Miguel Hidalgo Elementary,615 South Cesar Chavez Street Brawley CA 92227-1912,,,,not tested,Brawley,Imperial County,32.972807,-115.526471,
+Brawley Elementary,Myron D. Witter Elementary,150 K Street Brawley CA 92227-1912,,,,not tested,Brawley,Imperial County,32.973034999999996,-115.540529,
+Brawley Elementary,Phil D. Swing Elementary,245 West A Street Brawley CA 92227-1912,,,,not tested,Brawley,Imperial County,32.984248,-115.54475900000001,
+Brawley Union High,Renaissance,104 Magnolia Avenue Brawley CA 92227-1583,,,,not tested,Brawley,Imperial County,32.984718,-115.547975,

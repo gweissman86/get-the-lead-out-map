@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fortuna Union High,Fortuna Adult Education,379 12th Street Fortuna CA 95540-2357,NA,NA,NA,not tested,NA,Humboldt County,40.594398,-124.154375
-Fortuna Union High,Fortuna Union High,379 12th Street Fortuna CA 95540-2398,NA,NA,NA,not tested,NA,Humboldt County,40.594398,-124.154375
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fortuna Union High,Fortuna Adult Education,379 12th Street Fortuna CA 95540-2357,,,,not tested,,Humboldt County,40.594398,-124.154375,
+Fortuna Union High,Fortuna Union High,379 12th Street Fortuna CA 95540-2398,,,,not tested,,Humboldt County,40.594398,-124.154375,

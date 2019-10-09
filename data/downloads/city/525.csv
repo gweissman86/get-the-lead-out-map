@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-El Dorado Union High,Ponderosa High,3661 Ponderosa Road Shingle Springs CA 95682-9435,NA,NA,FALSE,tested,Shingle Springs,El Dorado County,38.674366,-120.942059
-Private,Thorson Family School,4001 Ponytail Lane Shingle Springs CA 95682,NA,NA,FALSE,tested,Shingle Springs,El Dorado County,38.660034,-120.940907
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+El Dorado Union High,Ponderosa High,3661 Ponderosa Road Shingle Springs CA 95682-9435,,,False,tested,Shingle Springs,El Dorado County,38.674366,-120.94205900000001,
+Private,Thorson Family School,4001 Ponytail Lane Shingle Springs CA 95682,,,False,tested,Shingle Springs,El Dorado County,38.660034,-120.94090700000001,

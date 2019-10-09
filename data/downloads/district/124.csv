@@ -1,31 +1,31 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Castro Valley Unified,Alma Preschool,4400 Alma Avenue Castro Valley CA 94546-3104,NA,NA,NA,not tested,NA,Alameda County,37.707815,-122.072155
-Castro Valley Unified,Canyon Middle,19600 Cull Canyon Road Castro Valley CA 94552-3715,NA,NA,NA,not tested,NA,Alameda County,37.706265,-122.054208
-Castro Valley Unified,Canyon Middle School,"19600 Cull Canyon Rd., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.705597,-122.051839
-Castro Valley Unified,Castro Valley Adult and Career Education,4430 Alma Avenue Castro Valley CA 94546-4704,NA,NA,NA,not tested,NA,Alameda County,37.708347,-122.070911
-Castro Valley Unified,Castro Valley Adult School w/Alma Pre-School,"4430 Alma Ave, Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.707964,-122.071087
-Castro Valley Unified,Castro Valley Elementary,20185 San Miguel Avenue Castro Valley CA 94546-0146,NA,NA,NA,not tested,NA,Alameda County,37.697829,-122.081038
-Castro Valley Unified,Castro Valley Elementary School,"20185 San Miguel Ave., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.69806,-122.081459
-Castro Valley Unified,Castro Valley High,19400 Santa Maria Avenue Castro Valley CA 94546-3400,NA,NA,NA,not tested,NA,Alameda County,37.705047,-122.078419
-Castro Valley Unified,Castro Valley Virtual Academy,18400 Clifton Way Castro Valley CA 94546-2020,NA,NA,NA,not tested,NA,Alameda County,37.712859,-122.092855
-Castro Valley Unified,Chabot Elementary School,"19104 Lake Chabot Rd, Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.707161,-122.089247
-Castro Valley Unified,Chester W. Morrison Elementary,"19400 Santa Maria Ave., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.7045,-122.076299
-Castro Valley Unified,Creekside Middle,19722 Center Street Castro Valley CA 94546-4704,NA,NA,NA,not tested,NA,Alameda County,37.699062,-122.058946
-Castro Valley Unified,Creekside Middle School,"19722 Center Street, Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.699615,-122.061115
-Castro Valley Unified,Independent Elementary,21201 Independent School Road Castro Valley CA 94552-4826,NA,NA,NA,not tested,Castro Valley,Alameda County,37.699023,-122.050919
-Castro Valley Unified,Independent Elementary School,"21201 Independent School Rd., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.699023,-122.050919
-Castro Valley Unified,Jensen Ranch Elementary,20001 Carson Lane Castro Valley CA 94552-1001,NA,NA,NA,not tested,Castro Valley,Alameda County,37.712462,-122.031161
-Castro Valley Unified,Jensen Ranch Elementary School,"20001 Carson Ln., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.712462,-122.031161
-Castro Valley Unified,Marshall Elementary,20111 Marshall Street Castro Valley CA 94546-4656,NA,NA,NA,not tested,NA,Alameda County,37.698304,-122.066396
-Castro Valley Unified,Marshall Elementary School,"20111 Marshall St., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.698178,-122.066908
-Castro Valley Unified,Palomares Elementary,6395 Palo Verde Road Castro Valley CA 94552-9708,NA,NA,NA,not tested,Castro Valley,Alameda County,37.694695,-122.025519
-Castro Valley Unified,Palomares Elementary School,"6395 Palo Verde Rd., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.694695,-122.025519
-Castro Valley Unified,Proctor Elementary,17520 Redwood Road Castro Valley CA 94546-1434,NA,NA,NA,not tested,NA,Alameda County,37.694971,-122.073819
-Castro Valley Unified,Proctor Elementary School,"17520 Redwood Rd., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.716152,-122.072545
-Castro Valley Unified,Redwood Continuation High,18400 Clifton Castro Valley CA 94546-0146,NA,NA,NA,not tested,NA,Alameda County,37.712859,-122.092855
-Castro Valley Unified,Redwood High School,"18400 Clifton Way, Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.71332,-122.092556
-Castro Valley Unified,Roy A. Johnson High,18400 Clifton Wy Castro Valley CA 94546-0146,NA,NA,NA,not tested,NA,Alameda County,37.712859,-122.092855
-Castro Valley Unified,Stanton Elementary,2644 Somerset Avenue Castro Valley CA 94546-4016,NA,NA,NA,not tested,NA,Alameda County,37.700552,-122.093601
-Castro Valley Unified,Stanton Elementary School,"2644 Somerset Ave., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.700573,-122.094041
-Castro Valley Unified,Vannoy Elementary,5100 Vannoy Castro Valley CA 94546-0146,NA,NA,NA,not tested,NA,Alameda County,37.706728,-122.059388
-Castro Valley Unified,Vannoy Elementary School,"5100 Vannoy Ave., Castro Valley CA94546",NA,NA,NA,exempt,Castro Valley,Alameda County,37.707129,-122.058753
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Castro Valley Unified,Alma Preschool,4400 Alma Avenue Castro Valley CA 94546-3104,,,,not tested,,Alameda County,37.707815000000004,-122.07215500000001,
+Castro Valley Unified,Canyon Middle,19600 Cull Canyon Road Castro Valley CA 94552-3715,,,,not tested,,Alameda County,37.706265,-122.054208,
+Castro Valley Unified,Canyon Middle School,"19600 Cull Canyon Rd., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.705597,-122.05183899999999,
+Castro Valley Unified,Castro Valley Adult and Career Education,4430 Alma Avenue Castro Valley CA 94546-4704,,,,not tested,,Alameda County,37.708346999999996,-122.07091100000001,
+Castro Valley Unified,Castro Valley Adult School w/Alma Pre-School,"4430 Alma Ave, Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.707964000000004,-122.071087,
+Castro Valley Unified,Castro Valley Elementary,20185 San Miguel Avenue Castro Valley CA 94546-0146,,,,not tested,,Alameda County,37.697829,-122.08103799999999,
+Castro Valley Unified,Castro Valley Elementary School,"20185 San Miguel Ave., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.69806,-122.08145900000001,
+Castro Valley Unified,Castro Valley High,19400 Santa Maria Avenue Castro Valley CA 94546-3400,,,,not tested,,Alameda County,37.705047,-122.078419,
+Castro Valley Unified,Castro Valley Virtual Academy,18400 Clifton Way Castro Valley CA 94546-2020,,,,not tested,,Alameda County,37.712859,-122.092855,
+Castro Valley Unified,Chabot Elementary School,"19104 Lake Chabot Rd, Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.707161,-122.089247,
+Castro Valley Unified,Chester W. Morrison Elementary,"19400 Santa Maria Ave., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.7045,-122.076299,
+Castro Valley Unified,Creekside Middle,19722 Center Street Castro Valley CA 94546-4704,,,,not tested,,Alameda County,37.699062,-122.05894599999999,
+Castro Valley Unified,Creekside Middle School,"19722 Center Street, Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.699615,-122.06111499999999,
+Castro Valley Unified,Independent Elementary,21201 Independent School Road Castro Valley CA 94552-4826,,,,not tested,Castro Valley,Alameda County,37.699023,-122.050919,
+Castro Valley Unified,Independent Elementary School,"21201 Independent School Rd., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.699023,-122.050919,
+Castro Valley Unified,Jensen Ranch Elementary,20001 Carson Lane Castro Valley CA 94552-1001,,,,not tested,Castro Valley,Alameda County,37.712462,-122.03116100000001,
+Castro Valley Unified,Jensen Ranch Elementary School,"20001 Carson Ln., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.712462,-122.03116100000001,
+Castro Valley Unified,Marshall Elementary,20111 Marshall Street Castro Valley CA 94546-4656,,,,not tested,,Alameda County,37.698304,-122.066396,
+Castro Valley Unified,Marshall Elementary School,"20111 Marshall St., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.698178000000006,-122.06690800000001,
+Castro Valley Unified,Palomares Elementary,6395 Palo Verde Road Castro Valley CA 94552-9708,,,,not tested,Castro Valley,Alameda County,37.694695,-122.02551899999999,
+Castro Valley Unified,Palomares Elementary School,"6395 Palo Verde Rd., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.694695,-122.02551899999999,
+Castro Valley Unified,Proctor Elementary,17520 Redwood Road Castro Valley CA 94546-1434,,,,not tested,,Alameda County,37.694971,-122.073819,
+Castro Valley Unified,Proctor Elementary School,"17520 Redwood Rd., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.716152,-122.07254499999999,
+Castro Valley Unified,Redwood Continuation High,18400 Clifton Castro Valley CA 94546-0146,,,,not tested,,Alameda County,37.712859,-122.092855,
+Castro Valley Unified,Redwood High School,"18400 Clifton Way, Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.71332,-122.092556,
+Castro Valley Unified,Roy A. Johnson High,18400 Clifton Wy Castro Valley CA 94546-0146,,,,not tested,,Alameda County,37.712859,-122.092855,
+Castro Valley Unified,Stanton Elementary,2644 Somerset Avenue Castro Valley CA 94546-4016,,,,not tested,,Alameda County,37.700552,-122.093601,
+Castro Valley Unified,Stanton Elementary School,"2644 Somerset Ave., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.700573,-122.09404099999999,
+Castro Valley Unified,Vannoy Elementary,5100 Vannoy Castro Valley CA 94546-0146,,,,not tested,,Alameda County,37.706728000000005,-122.05938799999998,
+Castro Valley Unified,Vannoy Elementary School,"5100 Vannoy Ave., Castro Valley CA94546",,,,exempt,Castro Valley,Alameda County,37.707128999999995,-122.058753,

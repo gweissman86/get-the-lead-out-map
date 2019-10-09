@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fallbrook Union High,Fallbrook High,2400 South Stage Coach Lane Fallbrook CA 92028-4429,NA,NA,NA,not tested,NA,San Diego County,33.348525,-117.241815
-Fallbrook Union High,Ivy High (Continuation),1056 Winterhaven Road Fallbrook CA 92028-4500,NA,NA,NA,not tested,Fallbrook,San Diego County,33.347613,-117.236796
-Fallbrook Union High,Oasis High (Alternative),1056 Winterhaven Rd Fallbrook CA 92028-4500,NA,NA,NA,not tested,Fallbrook,San Diego County,33.347613,-117.236796
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fallbrook Union High,Fallbrook High,2400 South Stage Coach Lane Fallbrook CA 92028-4429,,,,not tested,,San Diego County,33.348525,-117.24181499999999,
+Fallbrook Union High,Ivy High (Continuation),1056 Winterhaven Road Fallbrook CA 92028-4500,,,,not tested,Fallbrook,San Diego County,33.347613,-117.236796,
+Fallbrook Union High,Oasis High (Alternative),1056 Winterhaven Rd Fallbrook CA 92028-4500,,,,not tested,Fallbrook,San Diego County,33.347613,-117.236796,

@@ -1,7 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fort Bragg Unified,Dana Gray Elementary,1197 East Chestnut Street Fort Bragg CA 95437-4503,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.43643,-123.79078
-Fort Bragg Unified,Fort Bragg High,300 Dana Street Fort Bragg CA 95437-4522,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.438027,-123.788531
-Fort Bragg Unified,Fort Bragg Middle,500 Harold Street Fort Bragg CA 95437-3308,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.448296,-123.797945
-Fort Bragg Unified,Noyo High (Continuation),250 South Sanderson Way Fort Bragg CA 95437-4532,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.43966,-123.790859
-Fort Bragg Unified,Redwood Elementary,324 South Lincoln Street Fort Bragg CA 95437-4416,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.436616,-123.79542
-Fort Bragg Unified,Three Rivers Charter,1211 Del Mar Drive Fort Bragg CA 95437-9533,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.421927,-123.811306
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Forestville Union Elementary,Forestville Academy,6321 Hwy 116 Forestville CA 95436-9606,,,False,tested,Forestville,Sonoma County,38.47332,-122.888076,
+Forestville Union Elementary,Forestville Elementary,6321 Highway 116 Forestville CA 95436-9699,,,False,tested,Forestville,Sonoma County,38.47332,-122.888076,
+West Sonoma County Union High,West County Charter Middle,6321 State Highway 116 Forestville CA 95436,,,False,tested,Forestville,Sonoma County,38.47332,-122.888076,

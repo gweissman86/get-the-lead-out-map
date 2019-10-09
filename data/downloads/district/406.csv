@@ -1,10 +1,10 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Little Lake City Elementary,Cresson Elementary,11650 East Cresson Street Norwalk CA 90650-1618,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.92976,-118.084221
-Little Lake City Elementary,Jersey Avenue Elementary,9400 Jersey Avenue Santa Fe Springs CA 90670-2859,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.954453,-118.081853
-Little Lake City Elementary,Lake Center Middle,10503 South Pioneer Boulevard Santa Fe Springs CA 90670-3703,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.945104,-118.080829
-Little Lake City Elementary,Lakeland Elementary,11224 Bombardier Avenue Norwalk CA 90650-1830,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.929655,-118.076835
-Little Lake City Elementary,Lakeside Middle,11000 East Kenney Street Norwalk CA 90650-7625,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.92768,-118.096964
-Little Lake City Elementary,Lakeview Elementary,11500 East Joslin Street Santa Fe Springs CA 90670-3612,NA,NA,FALSE,tested,Santa Fe Springs,Los Angeles County,33.944289,-118.088504
-Little Lake City Elementary,Paddison Elementary,12100 Crewe Street Norwalk CA 90650-2443,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.920673,-118.076448
-Little Lake City Elementary,Studebaker Elementary,11800 Halcourt Avenue Norwalk CA 90650-7512,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.926331,-118.101047
-Little Lake City Elementary,William W. Orr Elementary,12130 South Jersey Avenue Norwalk CA 90650-2316,NA,NA,NA,not tested,Norwalk,Los Angeles County,33.921118,-118.085066
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Little Lake City Elementary,Cresson Elementary,11650 East Cresson Street Norwalk CA 90650-1618,,,,not tested,Norwalk,Los Angeles County,33.929759999999995,-118.084221,
+Little Lake City Elementary,Jersey Avenue Elementary,9400 Jersey Avenue Santa Fe Springs CA 90670-2859,,,False,tested,Santa Fe Springs,Los Angeles County,33.954453,-118.08185300000001,
+Little Lake City Elementary,Lake Center Middle,10503 South Pioneer Boulevard Santa Fe Springs CA 90670-3703,,,False,tested,Santa Fe Springs,Los Angeles County,33.945104,-118.08082900000001,
+Little Lake City Elementary,Lakeland Elementary,11224 Bombardier Avenue Norwalk CA 90650-1830,,,,not tested,Norwalk,Los Angeles County,33.929655,-118.076835,
+Little Lake City Elementary,Lakeside Middle,11000 East Kenney Street Norwalk CA 90650-7625,,,,not tested,Norwalk,Los Angeles County,33.92768,-118.09696399999999,
+Little Lake City Elementary,Lakeview Elementary,11500 East Joslin Street Santa Fe Springs CA 90670-3612,,,False,tested,Santa Fe Springs,Los Angeles County,33.944289000000005,-118.088504,
+Little Lake City Elementary,Paddison Elementary,12100 Crewe Street Norwalk CA 90650-2443,,,,not tested,Norwalk,Los Angeles County,33.920673,-118.076448,
+Little Lake City Elementary,Studebaker Elementary,11800 Halcourt Avenue Norwalk CA 90650-7512,,,,not tested,Norwalk,Los Angeles County,33.926331,-118.101047,
+Little Lake City Elementary,William W. Orr Elementary,12130 South Jersey Avenue Norwalk CA 90650-2316,,,,not tested,Norwalk,Los Angeles County,33.921118,-118.085066,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Sausalito Marin City,Bayside Martin Luther King Jr. Academy,200 Phillips Drive Sausalito CA 94965-1194,NA,NA,FALSE,tested,Sausalito,Marin County,37.872529,-122.513784
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Sausalito Marin City,Bayside Martin Luther King Jr. Academy,200 Phillips Drive Sausalito CA 94965-1194,,,False,tested,Sausalito,Marin County,37.872529,-122.51378400000002,

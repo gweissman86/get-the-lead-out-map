@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Allensworth Elementary,Allensworth Elementary,3320 Young Road Allensworth CA 93219-9709,NA,NA,FALSE,tested,NA,Tulare County,35.863385,-119.392497
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Allensworth Elementary,Allensworth Elementary,3320 Young Road Allensworth CA 93219-9709,,,False,tested,,Tulare County,35.863385,-119.39249699999999,

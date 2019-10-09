@@ -1,8 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Dixon Unified,Anderson (Linford L.) Elementary,415 East C Street Dixon CA 95620-2798,NA,NA,FALSE,tested,Dixon,Solano County,38.447567,-121.818387
-Dixon Unified,C. A. Jacobs Intermediate,200 North Lincoln Street Dixon CA 95620-3209,NA,NA,FALSE,tested,Dixon,Solano County,38.446529,-121.836271
-Dixon Unified,Dixon High,555 College Way Dixon CA 95620-9301,NA,NA,FALSE,tested,Dixon,Solano County,38.435601,-121.815997
-Dixon Unified,Dixon Montessori Charter,355 North Almond Street Dixon CA 95620-2702,NA,NA,FALSE,tested,Dixon,Solano County,38.448449,-121.8317
-Dixon Unified,Gretchen Higgins Elementary,1525 Pembroke Way Dixon CA 95620-4115,NA,NA,FALSE,tested,Dixon,Solano County,38.461792,-121.828751
-Dixon Unified,Maine Prairie High (Continuation),305 East C Street Dixon CA 95620-3019,NA,NA,FALSE,tested,Dixon,Solano County,38.447585,-121.819731
-Dixon Unified,Tremont Elementary,355 Pheasant Run Drive Dixon CA 95620-4219,NA,NA,FALSE,tested,Dixon,Solano County,38.449063,-121.844312
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Dinuba Unified,John F. Kennedy Elementary,999 North Crawford Dinuba CA 93618-8700,,,,not tested,Dinuba,Tulare County,36.553231,-119.376925,
+Dinuba Unified,Lincoln Elementary,850 North Eaton Avenue Dinuba CA 93618-1825,,,False,tested,Dinuba,Tulare County,36.552104,-119.38928899999999,
+Dinuba Unified,Roosevelt Elementary,1311 Euclid Avenue Dinuba CA 93618-1825,,,False,tested,Dinuba,Tulare County,36.557684,-119.40096799999999,

@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Susanville Elementary,Diamond View Middle,850 Richmond Road Susanville CA 96130-4823,NA,NA,NA,not tested,Susanville,Lassen County,40.407632,-120.661499
-Lassen County Office of Education,Lassen County Juvenile Court,1415B Chestnut Street Susanville CA 96130-8752,NA,NA,NA,not tested,Susanville,Lassen County,40.423992,-120.650682
-Lassen Union High,Lassen High,1110 Main Street Susanville CA 96130-4421,NA,NA,NA,not tested,Susanville,Lassen County,40.416762,-120.65467
-Susanville Elementary,McKinley Elementary,2005 Fourth Street Susanville CA 96130-4105,NA,NA,FALSE,tested,Susanville,Lassen County,40.418718,-120.643467
-Susanville Elementary,Meadow View,1200 Paiute Lane Susanville CA 96130-4105,NA,NA,NA,not tested,Susanville,Lassen County,40.433938,-120.663944
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Susanville Elementary,Diamond View Middle,850 Richmond Road Susanville CA 96130-4823,,,,not tested,Susanville,Lassen County,40.407632,-120.66149899999999,
+Lassen County Office of Education,Lassen County Juvenile Court,1415B Chestnut Street Susanville CA 96130-8752,,,,not tested,Susanville,Lassen County,40.423992,-120.650682,
+Lassen Union High,Lassen High,1110 Main Street Susanville CA 96130-4421,,,,not tested,Susanville,Lassen County,40.416762,-120.65467,
+Susanville Elementary,McKinley Elementary,2005 Fourth Street Susanville CA 96130-4105,,,False,tested,Susanville,Lassen County,40.418718,-120.64346699999999,
+Susanville Elementary,Meadow View,1200 Paiute Lane Susanville CA 96130-4105,,,,not tested,Susanville,Lassen County,40.433938,-120.663944,

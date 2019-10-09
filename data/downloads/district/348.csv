@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Kern County Superintendent of Schools,Auburn Community School,3700 Auburn St Bakersfield CA 93306,6,ppb,TRUE,tested,Bakersfield,Kern County,35.397807,-118.950883
-Kern County Superintendent of Schools,Aurora Center,7900 Niles Bakersfield CA 93306,NA,NA,NA,not tested,Bakersfield,Kern County,35.376252,-118.922946
-Kern County Superintendent of Schools,Community Learning Center,222 34th St Bakersfield CA 93301,NA,NA,FALSE,tested,Bakersfield,Kern County,35.390403,-119.008365
-Kern County Superintendent of Schools,Sandstone Education Center,300 E Truxton Ave Bakersfield CA 93305,NA,NA,FALSE,tested,Bakersfield,Kern County,35.373592,-119.005101
-Kern County Superintendent of Schools,Sillect Community School,3600 Sillect Ave Bakersfield CA 93308,NA,NA,FALSE,tested,Bakersfield,Kern County,35.390715,-119.037192
-Kern County Superintendent of Schools,Valley Oaks Charter School,3401 Chester Ave Bakersfield CA 93301,NA,NA,FALSE,tested,Bakersfield,Kern County,35.390579,-119.018833
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Kern County Superintendent of Schools,Auburn Community School,3700 Auburn St Bakersfield CA 93306,6.0,ppb,True,tested,Bakersfield,Kern County,35.397807,-118.950883,6.0
+Kern County Superintendent of Schools,Aurora Center,7900 Niles Bakersfield CA 93306,,,,not tested,Bakersfield,Kern County,35.376252,-118.922946,
+Kern County Superintendent of Schools,Community Learning Center,222 34th St Bakersfield CA 93301,,,False,tested,Bakersfield,Kern County,35.390403000000006,-119.008365,
+Kern County Superintendent of Schools,Sandstone Education Center,300 E Truxton Ave Bakersfield CA 93305,,,False,tested,Bakersfield,Kern County,35.373591999999995,-119.005101,
+Kern County Superintendent of Schools,Sillect Community School,3600 Sillect Ave Bakersfield CA 93308,,,False,tested,Bakersfield,Kern County,35.390715,-119.03719199999999,
+Kern County Superintendent of Schools,Valley Oaks Charter School,3401 Chester Ave Bakersfield CA 93301,,,False,tested,Bakersfield,Kern County,35.390578999999995,-119.018833,

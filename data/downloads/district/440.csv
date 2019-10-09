@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Maple Elementary,Maple Elementary,29161 Fresno Avenue Shafter CA 93263-9719,NA,NA,NA,not tested,NA,Kern County,35.514438,-119.338132
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Maple Elementary,Maple Elementary,29161 Fresno Avenue Shafter CA 93263-9719,,,,not tested,,Kern County,35.514438,-119.338132,

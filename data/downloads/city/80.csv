@@ -1,3 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Camino Union Elementary,Camino Science and Natural Resources Charter,3060 Snows Rd school B Camino CA 95709-9578,6.5,ppb,TRUE,tested,Camino,El Dorado County,38.732425,-120.676383
-El Dorado Office of Education,El Dorado High School East Campus,3440 Pondorado Road Camino  CA 95709,NA,NA,FALSE,tested,Camino,El Dorado County,38.735721,-120.705619
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Buckeye Union Elementary,Blue Oak Elementary,2391 Merrychase Drive Cameron Park CA 95682-9094,7.0,ppb,True,tested,Cameron Park,El Dorado County,38.658044,-121.00748200000001,7.0
+Buckeye Union Elementary,Camerado Springs Middle,2480 Merrychase Drive Cameron Park CA 95682-9093,,,False,tested,Cameron Park,El Dorado County,38.658029,-121.005098,
+Buckeye Union Elementary,Charter Montessori Blue Oak Campus,2391 Merrychase Dr Cameron Park CA 95682-9094,,,False,tested,Cameron Park,El Dorado County,38.658044,-121.00748200000001,

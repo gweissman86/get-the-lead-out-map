@@ -1,5 +1,28 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Capistrano Unified,Dana Hills High,33333 Golden Lantern Dana Point CA 92629-1840,NA,NA,FALSE,tested,Dana Point,Orange County,33.47806,-117.699933
-Capistrano Unified,Palisades Elementary,26462 Via Sacramento Capistrano Beach CA 92624-1399,NA,NA,FALSE,tested,Dana Point,Orange County,33.461154,-117.667986
-Capistrano Unified,Richard Henry Dana Elementary,24242 La Cresta Dr Dana Point CA 92629-2561,NA,NA,FALSE,tested,Dana Point,Orange County,33.469114,-117.706106
-Capistrano Unified,Richard Henry Dana Exceptional Needs,24242 La Cresta Drive Dana Point CA 92629-2561,8.5,ppb,TRUE,tested,Dana Point,Orange County,33.469114,-117.706106
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Jefferson Union High,Adult Education Division,699 Serramonte Boulevard Suite 111 Daly City CA 94015-3219,,,False,tested,Daly City,San Mateo County,37.668040000000005,-122.478545,
+Bayshore Elementary,Bayshore Elementary,1 Martin Street Daly City CA 94014-1530,,,False,tested,Daly City,San Mateo County,37.700851,-122.41408899999999,
+Jefferson Elementary,Daniel Webster Elementary,425 El Dorado Drive Daly City CA 94015-2126,,,False,tested,Daly City,San Mateo County,37.678934999999996,-122.47798,
+Jefferson Elementary,Fernando Rivera Intermediate,1255 Southgate Avenue Daly City CA 94015-3920,,,False,tested,Daly City,San Mateo County,37.676562,-122.486301,
+Jefferson Elementary,Franklin Delano Roosevelt Elementary,1200 Skyline Drive Daly City CA 94015-4728,,,False,tested,Daly City,San Mateo County,37.662209999999995,-122.48808899999999,
+Jefferson Elementary,Garden Village Elementary,208 Garden Lane Colma CA 94015-1628,,,False,tested,Daly City,San Mateo County,37.694383,-122.47799199999999,
+Bayshore Elementary,Garnet J. Robertson Intermediate,1 Martin Street B Daly City CA 94014-1603,,,,not tested,Daly City,San Mateo County,37.700851,-122.41408899999999,
+Jefferson Elementary,General Pershing Elementary,631 Hanover Street Daly City CA 94014,,,False,tested,Daly City,San Mateo County,37.70678,-122.449863,
+Jefferson Elementary,George Washington Elementary,251 Whittier Street Daly City CA 94014-1337,,,False,tested,Daly City,San Mateo County,37.707234,-122.44657,
+Private,Hilldale School,79 Florence Street Daly City CA 94014,,,False,tested,Daly City,San Mateo County,37.6984,-122.45843899999998,
+Jefferson Union High,Jefferson High,6996 Mission Street Daly City CA 94014-2035,,,False,tested,Daly City,San Mateo County,37.696191999999996,-122.466375,
+Jefferson Elementary,John F. Kennedy Elementary,785 Price Street Daly City CA 94014-2163,6.65,ppb,True,tested,Daly City,San Mateo County,37.694731,-122.45648500000001,7.3
+South San Francisco Unified,Junipero Serra Elementary,151 Victoria Street Daly City CA 94015-2708,,,False,tested,Daly City,San Mateo County,37.661013,-122.469776,
+Jefferson Elementary,Margaret Pauline Brown Elementary,305 Eastmoor Avenue Daly City CA 94015-2038,13.0,ppb,True,tested,Daly City,San Mateo County,37.684717,-122.47803400000001,13.0
+Jefferson Elementary,Marjorie H. Tobias Elementary,725 Southgate Avenue Daly City CA 94015-3659,9.6,ppb,True,tested,Daly City,San Mateo County,37.692535,-122.491001,15.0
+Private,Our Lady of Mercy Elementary,7 Elmwood Drive Daly City CA 94015,8.05,ppb,True,tested,Daly City,San Mateo County,37.699644,-122.488846,15.0
+Private,Our Lady of Perpetual Help,80 Wellington Avenue Daly City CA 94014,,,False,tested,Daly City,San Mateo County,37.705446,-122.46091899999999,
+Brisbane Elementary,Panorama Elementary,25 Bellevue Avenue Daly City CA 94014-1423,,,False,tested,Daly City,San Mateo County,37.706928999999995,-122.437252,
+South San Francisco Unified,Skyline Elementary,55 Christen Avenue Daly City CA 94015-2811,,,False,tested,Daly City,San Mateo County,37.651577,-122.466559,
+Jefferson Union High,Summit Public School: Shasta,699 Serramonte Boulevard Daly City CA 94015-4132,,,False,tested,Daly City,San Mateo County,37.668634000000004,-122.477728,
+Jefferson Elementary,Susan B. Anthony Elementary,575 Abbot Avenue Daly City CA 94014-2774,,,False,tested,Daly City,San Mateo County,37.688841,-122.45806699999999,
+Jefferson Elementary,Thomas Edison Elementary,1267 Southgate Avenue Daly City CA 94015-3920,,,False,tested,Daly City,San Mateo County,37.6762,-122.48540600000001,
+Jefferson Elementary,Thomas R. Pollicita Middle,550 East Market Street Daly City CA 94014-2103,,,False,tested,Daly City,San Mateo County,37.690416,-122.45988799999999,
+Jefferson Union High,Thornton High,115 First Avenue Daly City CA 94014-2643,,,False,tested,Daly City,San Mateo County,37.691328999999996,-122.463774,
+Jefferson Elementary,Westlake Elementary,80 Fieldcrest Drive Daly City CA 94015-1004,,,False,tested,Daly City,San Mateo County,37.705293,-122.480047,
+Jefferson Union High,Westmoor High,131 Westmoor Avenue Daly City CA 94015-3843,,,False,tested,Daly City,San Mateo County,37.683183,-122.485118,
+Jefferson Elementary,Woodrow Wilson Elementary,43 Miriam Street Daly City CA 94014-3814,,,False,tested,Daly City,San Mateo County,37.704164,-122.46524699999999,

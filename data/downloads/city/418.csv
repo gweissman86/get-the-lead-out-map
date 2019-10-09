@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Amador County Unified,Pine Grove Elementary STEM Magnet,20101 State Highway 88 Pinegrove CA 95665,NA,NA,FALSE,tested,Pine Grove,Amador County,38.413,-120.653517
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Amador County Unified,Pine Grove Elementary STEM Magnet,20101 State Highway 88 Pinegrove CA 95665,,,False,tested,Pine Grove,Amador County,38.413000000000004,-120.653517,

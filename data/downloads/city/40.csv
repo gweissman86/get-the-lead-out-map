@@ -1,2 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Jacoby Creek Elementary,Jacoby Creek,1617 Old Arcata Road Bayside CA 95524-9301,NA,NA,FALSE,tested,Bayside,Humboldt County,40.84659,-124.068338
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Mt. Diablo Unified,Delta View Elementary,2916 Rio Verde Pittsburg CA 94565-7641,,,False,tested,Bay Point,Contra Costa County,38.011988,-121.967156,
+Mt. Diablo Unified,Shore Acres Elementary,351 Marina Road Bay Point CA 94565-1399,,,False,tested,Bay Point,Contra Costa County,38.035684,-121.969751,

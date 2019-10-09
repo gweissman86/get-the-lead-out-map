@@ -1,5 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Siskiyou Union High,Jefferson High (Continuation),720 Rockfellow Drive Mount Shasta CA 96067-9405,NA,NA,FALSE,tested,Mount Shasta,Siskiyou County,41.319806,-122.305298
-Mt. Shasta Union Elementary,Mt. Shasta Elementary,501 Cedar Street Mount Shasta CA 96067-2106,NA,NA,FALSE,tested,Mount Shasta,Siskiyou County,41.313205,-122.317493
-Siskiyou Union High,Mt. Shasta High,710 Everitt Memorial Highway Mount Shasta CA 96067-2042,8.6,ppb,TRUE,tested,Mount Shasta,Siskiyou County,41.320883,-122.30601
-Mt. Shasta Union Elementary,Sisson,601 East Alma Street Mount Shasta CA 96067-2316,NA,NA,FALSE,tested,Mount Shasta,Siskiyou County,41.318552,-122.309096
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+San Luis Coastal Unified,Del Mar Elementary,501 Sequoia Street Morro Bay CA 93442-1436,,,False,tested,Morro Bay,San Luis Obispo County,35.397094,-120.858449,
+San Luis Coastal Unified,Morro Bay High,235 Atascadero Road Morro Bay CA 93442-1516,5.2,ppb,True,tested,Morro Bay,San Luis Obispo County,35.381523,-120.85773,5.2
+San Lorenzo Valley Unified,Morro Elementary,1130 Napa  Morro Bay CA 93442,15.2,ppb,True,tested,Morro Bay,San Luis Obispo County,35.36947,-120.848235,15.2

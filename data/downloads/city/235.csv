@@ -1,2 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Middletown Unified,Coyote Valley Elementary,18950 Coyote Valley Road Middletown CA 95461-0338,NA,NA,NA,not tested,Hidden Valley Lake,Lake County,38.795163,-122.558819
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Hickman Community Charter,Hickman Charter,"13306 Fourth Street, Area B Hickman CA 95323",,,,not tested,Hickman,Stanislaus County,37.620327,-120.748302,
+Hickman Community Charter,Hickman Elementary,"13306 Fourth Street, Area A Hickman CA 95323",,,,not tested,Hickman,Stanislaus County,37.620327,-120.748302,
+Hickman Community Charter,Hickman Middle,13306 Fourth Street Hickman CA 95323-9634,,,,not tested,Hickman,Stanislaus County,37.620327,-120.748302,

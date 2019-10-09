@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Savanna Elementary,Cerritos Elementary,3731 Cerritos Anaheim CA 92804-4603,NA,NA,FALSE,tested,Anaheim,Orange County,33.810497,-117.958969
-Savanna Elementary,Hansen Elementary,1300 South Knott Anaheim CA 92804-4711,NA,NA,FALSE,tested,Anaheim,Orange County,33.815393,-118.009993
-Savanna Elementary,Holder Elementary,9550 Holder Street Buena Park CA 90620-4209,NA,NA,FALSE,tested,Buena Park,Orange County,33.823548,-118.018256
-Savanna Elementary,Twila Reid Elementary,720 South Western Anaheim CA 92804-3831,NA,NA,FALSE,tested,Anaheim,Orange County,33.821956,-118.001424
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Savanna Elementary,Cerritos Elementary,3731 Cerritos Anaheim CA 92804-4603,,,False,tested,Anaheim,Orange County,33.810497,-117.958969,
+Savanna Elementary,Hansen Elementary,1300 South Knott Anaheim CA 92804-4711,,,False,tested,Anaheim,Orange County,33.815393,-118.009993,
+Savanna Elementary,Holder Elementary,9550 Holder Street Buena Park CA 90620-4209,,,False,tested,Buena Park,Orange County,33.823547999999995,-118.01825600000001,
+Savanna Elementary,Twila Reid Elementary,720 South Western Anaheim CA 92804-3831,,,False,tested,Anaheim,Orange County,33.821956,-118.001424,

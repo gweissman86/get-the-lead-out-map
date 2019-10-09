@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Franklin Elementary,Franklin Elementary,332 North Township Road Yuba City CA 95993-9629,NA,NA,FALSE,tested,Yuba City,Sutter County,39.128198,-121.68953
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Franklin Elementary,Franklin Elementary,332 North Township Road Yuba City CA 95993-9629,,,False,tested,Yuba City,Sutter County,39.128198,-121.68953,

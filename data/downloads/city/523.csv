@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Shandon Joint Unified,Shandon Community Day,101 South First Street Shandon CA 93461,NA,NA,NA,not tested,Shandon,San Luis Obispo County,35.655202,-120.377511
-Shandon Joint Unified,Shandon Elementary,301 South First Street Shandon CA 93461-0049,NA,NA,NA,not tested,Shandon,San Luis Obispo County,35.65263,-120.378621
-Shandon Joint Unified,Shandon High,101 South First St Shandon CA 93461-0079,NA,NA,NA,not tested,Shandon,San Luis Obispo County,35.655202,-120.377511
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Shandon Joint Unified,Shandon Community Day,101 South First Street Shandon CA 93461,,,,not tested,Shandon,San Luis Obispo County,35.655202,-120.37751100000001,
+Shandon Joint Unified,Shandon Elementary,301 South First Street Shandon CA 93461-0049,,,,not tested,Shandon,San Luis Obispo County,35.65263,-120.378621,
+Shandon Joint Unified,Shandon High,101 South First St Shandon CA 93461-0079,,,,not tested,Shandon,San Luis Obispo County,35.655202,-120.37751100000001,

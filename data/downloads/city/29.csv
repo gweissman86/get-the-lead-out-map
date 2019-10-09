@@ -1,9 +1,16 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Auburn Union Elementary,Alta Vista Community Charter,173 Oak Street Auburn CA 95603-4318,NA,NA,FALSE,tested,Auburn,Placer County,38.908487,-121.063474
-Ackerman Charter,Bowman Charter,13777 Bowman Road Auburn CA 95603-3147,NA,NA,FALSE,tested,Auburn,Placer County,38.935346,-121.056089
-Auburn Union Elementary,EV Cain 21st Century STEM Charter,150 Palm Avenue Auburn CA 95603-3712,NA,NA,FALSE,tested,Auburn,Placer County,38.906804,-121.078458
-Placer Union High,Lynn MacDonald Center,3775 Richardson Dr. Auburn CA 95602-9350,NA,NA,FALSE,tested,Auburn,Placer County,38.952328,-121.107814
-Private,Pine Hills Adventist Academy,13500 Richards Lane Auburn CA 95603,NA,NA,FALSE,tested,Auburn,Placer County,38.941694,-121.063518
-Placer Union High,Placer High,275 Orange Street Auburn CA 95603-5115,NA,NA,FALSE,tested,Auburn,Placer County,38.895195,-121.070033
-Placer Union High,Placer School for Adults,390 Finley Street Auburn CA 95603-5217,NA,NA,NA,not tested,Auburn,Placer County,38.89608,-121.068027
-Auburn Union Elementary,Skyridge Elementary,800 Perkins Way Auburn CA 95603-5709,NA,NA,FALSE,tested,Auburn,Placer County,38.875067,-121.072992
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Atwater Elementary,Aileen Colburn Elementary,2201 Heller Street Atwater CA 95301-3438,,,False,tested,Atwater,Merced County,37.353118,-120.619786,
+Merced Union High,Atwater High,2201 Fruitland Avenue Atwater CA 95301-0835,,,,not tested,Atwater,Merced County,37.36825,-120.61656799999999,
+Atwater Elementary,Atwater Senior Academy,1800 Juniper Avenue Atwater CA 95301-1401,,,,not tested,Atwater,Merced County,37.355554,-120.612664,
+Atwater Elementary,Bellevue Elementary,1020 East Bellevue Road Atwater CA 95301-2314,,,False,tested,Atwater,Merced County,37.359445,-120.58458799999998,
+Atwater Elementary,Bellevue Senior Elementary,1020 East Bellevue Rd Atwater CA 95301-2314,,,False,tested,Atwater,Merced County,37.359445,-120.58458799999998,
+Atwater Elementary,Elmer Wood Elementary,1271 West Bellevue Road Atwater CA 95301-2716,,,False,tested,Atwater,Merced County,37.360924,-120.60621499999999,
+Private,King's Christian Academy,1683 Fifth Street Atwater CA 95301,15.0,ppb,True,tested,Atwater,Merced County,37.352331,-120.608798,15.0
+Private,Landmark Christian,1925 Olive Avenue Atwater CA 95301,,,False,tested,Atwater,Merced County,37.349802000000004,-120.616359,
+Atwater Elementary,Mitchell Elementary,1761 Grove Avenue Atwater CA 95301-3537,,,False,tested,Atwater,Merced County,37.352953,-120.611296,
+Atwater Elementary,Mitchell Intermediate,1753 Fifth Street Atwater CA 95301-3620,,,False,tested,Atwater,Merced County,37.352952,-120.60823500000001,
+Atwater Elementary,Peggy Heller Elementary,201 Lake View Drive Atwater CA 95301-4769,,,False,tested,Atwater,Merced County,37.370764,-120.59381,
+Atwater Elementary,Shaffer Elementary,1434 California Street Atwater CA 95301-4464,,,False,tested,Atwater,Merced County,37.346828,-120.597518,
+Private,St. Anthony,1801 Winton Way Atwater CA 95301,,,False,tested,Atwater,Merced County,37.356577,-120.61443899999999,
+Atwater Elementary,Thomas Olaeta Elementary,2266 High Street Atwater CA 95301-2831,,,False,tested,Atwater,Merced County,37.354681,-120.59685900000001,
+Merced County Office of Education,Valley Atwater Community,1800 Matthew Avenue Atwater CA 95301-2079,,,False,tested,Atwater,Merced County,37.340312,-120.618121,

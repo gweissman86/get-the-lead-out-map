@@ -1,12 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Altos Elementary,Almond Elementary,550 Almond Avenue Los Altos CA 94022-2312,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385082,-122.100526
-Los Altos Elementary,Ardis G. Egan Junior High,100 West Portola Avenue Los Altos CA 94022-1210,5.2,ppb,TRUE,tested,Los Altos,Santa Clara County,37.396124,-122.116366
-Santa Clara County Office of Education,Bullis Charter,102 West Portola Avenue Los Altos CA 94022-1210,NA,NA,NA,not tested,Los Altos,Santa Clara County,37.39673,-122.117781
-Los Altos Elementary,Covington Elementary,205 Covington Road Los Altos CA 94024-4030,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.370465,-122.107404
-Los Altos Elementary,Georgina P. Blach Junior High,1120 Covington Road Los Altos CA 94024-5005,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.363867,-122.081682
-Mountain View-Los Altos Union High,Los Altos High,201 Almond Avenue Los Altos CA 94022-2206,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.385071,-122.109264
-Los Altos Elementary,Loyola Elementary,770 Berry Avenue Los Altos CA 94024-5413,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.361362,-122.092284
-Cupertino Union,Montclaire Elementary,1160 Street Joseph Avenue Los Altos CA 94024-6755,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.343133,-122.081779
-Mountain View-Los Altos Union High,Mountain View High,3535 Truman Avenue Mountain View CA 94040-4559,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.358603,-122.067157
-Los Altos Elementary,Oak Avenue Elementary,1501 Oak Avenue Los Altos CA 94024-5831,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.356843,-122.071846
-Los Altos Elementary,Springer Elementary,1120 Rose Avenue Mountain View CA 94040-4058,NA,NA,FALSE,tested,Los Altos,Santa Clara County,37.370939,-122.091476
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Loomis Union Elementary,Franklin Elementary,7050 Franklin School Road Loomis CA 95650-8952,,,False,tested,Loomis,Placer County,38.787711,-121.17223100000001,

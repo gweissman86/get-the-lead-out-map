@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Trona Joint Unified,Trona Elementary,83600 Trona Road. Trona CA 93562-2101,NA,NA,FALSE,tested,Searles Valley,San Bernardino County,35.771567,-117.369283
-Trona Joint Unified,Trona High,83600 Trona Rd Trona CA 93562-2101,NA,NA,FALSE,tested,Searles Valley,San Bernardino County,35.771567,-117.369283
-Trona Joint Unified,Trona High,83600 Trona Rd. Trona CA 93562-2101,NA,NA,NA,not tested,NA,San Bernardino County,35.770694,-117.369153
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Trona Joint Unified,Trona Elementary,83600 Trona Road. Trona CA 93562-2101,,,False,tested,Searles Valley,San Bernardino County,35.771567,-117.36928300000001,
+Trona Joint Unified,Trona High,83600 Trona Rd Trona CA 93562-2101,,,False,tested,Searles Valley,San Bernardino County,35.771567,-117.36928300000001,
+Trona Joint Unified,Trona High,83600 Trona Rd. Trona CA 93562-2101,,,,not tested,,San Bernardino County,35.770694,-117.369153,

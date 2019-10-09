@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Snowline Joint Unified,Wrightwood Elementary,1175 State Highway 2 Wrightwood CA 92397,NA,NA,FALSE,tested,Wrightwood,San Bernardino County,34.361514,-117.635723
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Snowline Joint Unified,Wrightwood Elementary,1175 State Highway 2 Wrightwood CA 92397,,,False,tested,Wrightwood,San Bernardino County,34.361514,-117.635723,

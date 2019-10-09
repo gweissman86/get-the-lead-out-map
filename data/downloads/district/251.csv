@@ -1,7 +1,7 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fort Bragg Unified,Dana Gray Elementary,1197 East Chestnut Street Fort Bragg CA 95437-4503,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.43643,-123.79078
-Fort Bragg Unified,Fort Bragg High,300 Dana Street Fort Bragg CA 95437-4522,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.438027,-123.788531
-Fort Bragg Unified,Fort Bragg Middle,500 Harold Street Fort Bragg CA 95437-3308,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.448296,-123.797945
-Fort Bragg Unified,Noyo High (Continuation),250 South Sanderson Way Fort Bragg CA 95437-4532,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.43966,-123.790859
-Fort Bragg Unified,Redwood Elementary,324 South Lincoln Street Fort Bragg CA 95437-4416,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.436616,-123.79542
-Fort Bragg Unified,Three Rivers Charter,1211 Del Mar Drive Fort Bragg CA 95437-9533,NA,NA,NA,not tested,Fort Bragg,Mendocino County,39.421927,-123.811306
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fort Bragg Unified,Dana Gray Elementary,1197 East Chestnut Street Fort Bragg CA 95437-4503,,,,not tested,Fort Bragg,Mendocino County,39.43643,-123.79078,
+Fort Bragg Unified,Fort Bragg High,300 Dana Street Fort Bragg CA 95437-4522,,,,not tested,Fort Bragg,Mendocino County,39.438027000000005,-123.788531,
+Fort Bragg Unified,Fort Bragg Middle,500 Harold Street Fort Bragg CA 95437-3308,,,,not tested,Fort Bragg,Mendocino County,39.448296,-123.797945,
+Fort Bragg Unified,Noyo High (Continuation),250 South Sanderson Way Fort Bragg CA 95437-4532,,,,not tested,Fort Bragg,Mendocino County,39.439659999999996,-123.79085900000001,
+Fort Bragg Unified,Redwood Elementary,324 South Lincoln Street Fort Bragg CA 95437-4416,,,,not tested,Fort Bragg,Mendocino County,39.436616,-123.79542,
+Fort Bragg Unified,Three Rivers Charter,1211 Del Mar Drive Fort Bragg CA 95437-9533,,,,not tested,Fort Bragg,Mendocino County,39.421927000000004,-123.811306,

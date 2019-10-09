@@ -1,6 +1,6 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Fowler Unified,Fowler Academy Continuation,975 E. Adams Avenue Fowler CA 93625-2702,NA,NA,NA,not tested,Fowler,Fresno County,36.634426,-119.667679
-Fowler Unified,Fowler High,701 East Main Street Fowler CA 93625-2423,NA,NA,NA,not tested,Fowler,Fresno County,36.633413,-119.670523
-Fowler Unified,John Sutter Middle,701 East Walter Fowler CA 93625-9792,NA,NA,NA,not tested,Fowler,Fresno County,36.630775,-119.670125
-Fowler Unified,Malaga Elementary,3910 South Ward Avenue Fresno CA 93725-2538,NA,NA,NA,not tested,NA,Fresno County,36.679105,-119.732883
-Fowler Unified,Marshall Elementary,142 North Armstrong Avenue Fowler CA 93625-9601,NA,NA,NA,not tested,Fowler,Fresno County,36.635227,-119.673362
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Fowler Unified,Fowler Academy Continuation,975 E. Adams Avenue Fowler CA 93625-2702,,,,not tested,Fowler,Fresno County,36.634426,-119.667679,
+Fowler Unified,Fowler High,701 East Main Street Fowler CA 93625-2423,,,,not tested,Fowler,Fresno County,36.633413,-119.670523,
+Fowler Unified,John Sutter Middle,701 East Walter Fowler CA 93625-9792,,,,not tested,Fowler,Fresno County,36.630775,-119.670125,
+Fowler Unified,Malaga Elementary,3910 South Ward Avenue Fresno CA 93725-2538,,,,not tested,,Fresno County,36.679105,-119.732883,
+Fowler Unified,Marshall Elementary,142 North Armstrong Avenue Fowler CA 93625-9601,,,,not tested,Fowler,Fresno County,36.635227,-119.67336200000001,

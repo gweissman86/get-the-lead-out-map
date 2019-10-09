@@ -1,3 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-McFarland Unified,McFarland Independent,599 Fifth Street McFarland CA 93250-1174,NA,NA,NA,not tested,McFarland,Kern County,35.679988,-119.23453
-McFarland Unified,San Joaquin High (Continuation),599 Fifth St McFarland CA 93250-1174,NA,NA,NA,not tested,McFarland,Kern County,35.679988,-119.23453
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Siskiyou Union High,McCloud High,133 Campus Way McCloud CA 95057,10.005,ppb,True,tested,McCloud,Siskiyou County,41.254795,-122.13350700000001,10.8

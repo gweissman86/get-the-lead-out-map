@@ -1,4 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Luis Coastal Unified,Del Mar Elementary,501 Sequoia Street Morro Bay CA 93442-1436,NA,NA,FALSE,tested,Morro Bay,San Luis Obispo County,35.397094,-120.858449
-San Luis Coastal Unified,Morro Bay High,235 Atascadero Road Morro Bay CA 93442-1516,5.2,ppb,TRUE,tested,Morro Bay,San Luis Obispo County,35.381523,-120.85773
-San Lorenzo Valley Unified,Morro Elementary,1130 Napa  Morro Bay CA 93442,15.2,ppb,TRUE,tested,Morro Bay,San Luis Obispo County,35.36947,-120.848235
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Morgan Hill Unified,Ann Sobrato High,401 Burnett Avenue Morgan Hill CA 95037-2641,,,False,tested,Morgan Hill,Santa Clara County,37.158903,-121.670427,
+Morgan Hill Unified,Central High (Continuation),85 Tilton Avenue Morgan Hill CA 95037-2504,,,False,tested,Morgan Hill,Santa Clara County,37.153855,-121.67883799999998,

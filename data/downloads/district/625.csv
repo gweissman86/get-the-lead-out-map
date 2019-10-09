@@ -1,8 +1,8 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Rescue Union Elementary,Green Valley Elementary,2380 Bass Lake Road Rescue CA 95672-9571,NA,NA,FALSE,tested,Rescue,El Dorado County,38.69676,-121.008557
-Rescue Union Elementary,Jackson Elementary,2561 Francisco Drive El Dorado Hills CA 95762-8201,NA,NA,FALSE,tested,NA,El Dorado County,38.726789,-121.090391
-Rescue Union Elementary,Lake Forest Elementary,2240 Sailsbury Drive El Dorado Hills CA 95762-6984,NA,NA,FALSE,tested,El Dorado Hills,El Dorado County,38.720202,-121.084641
-Rescue Union Elementary,Lakeview Elementary,3371 Brittany Way El Dorado Hills CA 95762-3996,NA,NA,FALSE,tested,El Dorado Hills,El Dorado County,38.698938,-121.094482
-Rescue Union Elementary,Marina Village Middle,1901 Francisco Drive El Dorado Hills CA 95762-3736,7.6,ppb,TRUE,tested,NA,El Dorado County,38.723188,-121.088112
-Rescue Union Elementary,Pleasant Grove Middle,2540 Green Valley Road Rescue CA 95672-9415,NA,NA,FALSE,tested,NA,El Dorado County,38.707061,-120.965875
-Rescue Union Elementary,Rescue Elementary,3880 Green Valley Road Rescue CA 95672-9403,NA,NA,FALSE,tested,NA,El Dorado County,38.707,-120.964966
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Rescue Union Elementary,Green Valley Elementary,2380 Bass Lake Road Rescue CA 95672-9571,,,False,tested,Rescue,El Dorado County,38.69676,-121.00855700000001,
+Rescue Union Elementary,Jackson Elementary,2561 Francisco Drive El Dorado Hills CA 95762-8201,,,False,tested,,El Dorado County,38.726789000000004,-121.090391,
+Rescue Union Elementary,Lake Forest Elementary,2240 Sailsbury Drive El Dorado Hills CA 95762-6984,,,False,tested,El Dorado Hills,El Dorado County,38.720202,-121.08464099999999,
+Rescue Union Elementary,Lakeview Elementary,3371 Brittany Way El Dorado Hills CA 95762-3996,,,False,tested,El Dorado Hills,El Dorado County,38.698938,-121.09448200000001,
+Rescue Union Elementary,Marina Village Middle,1901 Francisco Drive El Dorado Hills CA 95762-3736,7.6,ppb,True,tested,,El Dorado County,38.723188,-121.08811200000001,7.6
+Rescue Union Elementary,Pleasant Grove Middle,2540 Green Valley Road Rescue CA 95672-9415,,,False,tested,,El Dorado County,38.707060999999996,-120.965875,
+Rescue Union Elementary,Rescue Elementary,3880 Green Valley Road Rescue CA 95672-9403,,,False,tested,,El Dorado County,38.707,-120.96496599999999,

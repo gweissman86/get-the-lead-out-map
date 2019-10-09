@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Woodland Joint Unified,Cache Creek High (Continuation),145 Second Street Yolo CA 95697-0298,NA,NA,NA,not tested,Yolo,Yolo County,38.732011,-121.807573
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Woodland Joint Unified,Cache Creek High (Continuation),145 Second Street Yolo CA 95697-0298,,,,not tested,Yolo,Yolo County,38.732011,-121.807573,

@@ -1,15 +1,15 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Palos Verdes Peninsula Unified,Cornerstone at Pedregal Elementary,6069 Groveoak Place Rancho Palos Verdes CA 90275-2261,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.786041,-118.383278
-LAUSD,CRESTWOOD ELEMENTARY,"1946 W CRESTWOOD ST, RANCHO PALOS V, CA 90275",NA,NA,NA,exempt,Rancho Palos Verdes,Los Angeles County,33.749528,-118.312645
-Los Angeles Unified,Crestwood Street Elementary,1946 West Crestwood Street Rancho Palos Verdes CA 90275-1302,NA,NA,NA,not tested,Rancho Palos Verdes,Los Angeles County,33.749735,-118.31246
-LAUSD,DODSON MIDDLE SCHOOL,"28014 MONTEREINA DR, RANCHO PALOS V, CA 90275",NA,NA,NA,exempt,Rancho Palos Verdes,Los Angeles County,33.766016,-118.315592
-Palos Verdes Peninsula Unified,Mira Catalina Elementary,30511 Lucania Drive Rancho Palos Verdes CA 90275-6272,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.740023,-118.335594
-Palos Verdes Peninsula Unified,Miraleste Elementary,6245 Via Canada Rancho Palos Verdes CA 90275-6540,5.3,ppb,TRUE,tested,Rancho Palos Verdes,Los Angeles County,33.751823,-118.324609
-Palos Verdes Peninsula Unified,Miraleste Intermediate,29323 Palos Verdes Drive East Rancho Palos Verdes CA 90275-6470,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.753458,-118.329027
-Palos Verdes Peninsula Unified,Point Vicente Elementary,30540 Rue de La Pierre Rancho Palos Verdes CA 90275-5364,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.756122,-118.407913
-Palos Verdes Peninsula Unified,Rancho del Mar High (Continuation),38 Crest Road West Rolling Hills CA 90274-5058,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.761434,-118.364282
-Palos Verdes Peninsula Unified,Ridgecrest Intermediate,28915 Northbay Road Rancho Palos Verdes CA 90275-4902,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.766688,-118.379425
-Los Angeles Unified,Rudecinda Sepulveda Dodson Middle,28014 Montereina Drive Rancho Palos Verdes CA 90275-1288,NA,NA,NA,not tested,Rancho Palos Verdes,Los Angeles County,33.764917,-118.316586
-Palos Verdes Peninsula Unified,Silver Spur Elementary,5500 Ironwood Street Rancho Palos Verdes CA 90275-1739,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.789022,-118.375209
-Palos Verdes Peninsula Unified,Soleado Elementary,27800 Longhill Drive Rancho Palos Verdes CA 90275-3909,NA,NA,FALSE,tested,Rancho Palos Verdes,Los Angeles County,33.773354,-118.36679
-Palos Verdes Peninsula Unified,Vista Grande Elementary,7032 Purpleridge Drive Rancho Palos Verdes CA 90275-3059,5.2,ppb,TRUE,tested,Rancho Palos Verdes,Los Angeles County,33.771057,-118.40207
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Palos Verdes Peninsula Unified,Cornerstone at Pedregal Elementary,6069 Groveoak Place Rancho Palos Verdes CA 90275-2261,,,False,tested,Rancho Palos Verdes,Los Angeles County,33.786041,-118.383278,
+LAUSD,CRESTWOOD ELEMENTARY,"1946 W CRESTWOOD ST, RANCHO PALOS V, CA 90275",,,,exempt,Rancho Palos Verdes,Los Angeles County,33.749528000000005,-118.31264499999999,
+Los Angeles Unified,Crestwood Street Elementary,1946 West Crestwood Street Rancho Palos Verdes CA 90275-1302,,,,not tested,Rancho Palos Verdes,Los Angeles County,33.749735,-118.31246000000002,
+LAUSD,DODSON MIDDLE SCHOOL,"28014 MONTEREINA DR, RANCHO PALOS V, CA 90275",,,,exempt,Rancho Palos Verdes,Los Angeles County,33.766016,-118.315592,
+Palos Verdes Peninsula Unified,Mira Catalina Elementary,30511 Lucania Drive Rancho Palos Verdes CA 90275-6272,,,False,tested,Rancho Palos Verdes,Los Angeles County,33.740023,-118.335594,
+Palos Verdes Peninsula Unified,Miraleste Elementary,6245 Via Canada Rancho Palos Verdes CA 90275-6540,5.3,ppb,True,tested,Rancho Palos Verdes,Los Angeles County,33.751823,-118.32460900000001,5.3
+Palos Verdes Peninsula Unified,Miraleste Intermediate,29323 Palos Verdes Drive East Rancho Palos Verdes CA 90275-6470,,,False,tested,Rancho Palos Verdes,Los Angeles County,33.753458,-118.329027,
+Palos Verdes Peninsula Unified,Point Vicente Elementary,30540 Rue de La Pierre Rancho Palos Verdes CA 90275-5364,,,False,tested,Rancho Palos Verdes,Los Angeles County,33.756122,-118.407913,
+Palos Verdes Peninsula Unified,Rancho del Mar High (Continuation),38 Crest Road West Rolling Hills CA 90274-5058,,,False,tested,Rancho Palos Verdes,Los Angeles County,33.761434,-118.364282,
+Palos Verdes Peninsula Unified,Ridgecrest Intermediate,28915 Northbay Road Rancho Palos Verdes CA 90275-4902,,,False,tested,Rancho Palos Verdes,Los Angeles County,33.766688,-118.379425,
+Los Angeles Unified,Rudecinda Sepulveda Dodson Middle,28014 Montereina Drive Rancho Palos Verdes CA 90275-1288,,,,not tested,Rancho Palos Verdes,Los Angeles County,33.764917,-118.31658600000002,
+Palos Verdes Peninsula Unified,Silver Spur Elementary,5500 Ironwood Street Rancho Palos Verdes CA 90275-1739,,,False,tested,Rancho Palos Verdes,Los Angeles County,33.789021999999996,-118.37520900000001,
+Palos Verdes Peninsula Unified,Soleado Elementary,27800 Longhill Drive Rancho Palos Verdes CA 90275-3909,,,False,tested,Rancho Palos Verdes,Los Angeles County,33.773354,-118.36679,
+Palos Verdes Peninsula Unified,Vista Grande Elementary,7032 Purpleridge Drive Rancho Palos Verdes CA 90275-3059,5.2,ppb,True,tested,Rancho Palos Verdes,Los Angeles County,33.771057,-118.40207,5.2

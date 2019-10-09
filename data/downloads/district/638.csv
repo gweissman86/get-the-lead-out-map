@@ -1,5 +1,5 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Riverside County Office Of Education ROP,Betty Gibbel RLC,1251 Eagle Drive San Jacinto CA 92583,NA,NA,FALSE,tested,San Jacinto,Riverside County,33.801786,-116.96773
-Riverside County Office Of Education ROP,Perris Head Start,148 Avocado Avenu Perris CA 92571,NA,NA,FALSE,tested,Perris,Riverside County,33.810917,-117.222552
-Riverside County Office Of Education ROP,Riverside County ROP,3939 13th Street F Riverside CA 92502-3505,NA,NA,NA,not tested,Riverside,Riverside County,33.978547,-117.380547
-Riverside County Office Of Education ROP,Val Verde RLC,3010 Webster Avenue Perris CA 92571,NA,NA,FALSE,tested,Perris,Riverside County,33.844477,-117.243827
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Riverside County Office Of Education ROP,Betty Gibbel RLC,1251 Eagle Drive San Jacinto CA 92583,,,False,tested,San Jacinto,Riverside County,33.801786,-116.96773,
+Riverside County Office Of Education ROP,Perris Head Start,148 Avocado Avenu Perris CA 92571,,,False,tested,Perris,Riverside County,33.810916999999996,-117.22255200000001,
+Riverside County Office Of Education ROP,Riverside County ROP,3939 13th Street F Riverside CA 92502-3505,,,,not tested,Riverside,Riverside County,33.978547,-117.38054699999999,
+Riverside County Office Of Education ROP,Val Verde RLC,3010 Webster Avenue Perris CA 92571,,,False,tested,Perris,Riverside County,33.844477000000005,-117.243827,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Two Rock Union,Two Rock Elementary,5001 Spring Hill Road Petaluma CA 94952-9639,NA,NA,NA,not tested,Petaluma,Sonoma County,38.255008,-122.778707
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Two Rock Union,Two Rock Elementary,5001 Spring Hill Road Petaluma CA 94952-9639,,,,not tested,Petaluma,Sonoma County,38.255008000000004,-122.77870700000001,

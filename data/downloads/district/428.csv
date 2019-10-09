@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Los Olivos Elementary,Los Olivos Elementary,2540 Alamo Pintado Avenue Los Olivos CA 93441-0208,NA,NA,FALSE,tested,NA,Santa Barbara County,34.665399,-120.111406
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Los Olivos Elementary,Los Olivos Elementary,2540 Alamo Pintado Avenue Los Olivos CA 93441-0208,,,False,tested,,Santa Barbara County,34.665399,-120.111406,

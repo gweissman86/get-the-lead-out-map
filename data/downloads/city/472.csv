@@ -1,57 +1,57 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Alisal Union,Alisal Community,1437 Del Monte Avenue Salinas CA 93905-1902,NA,NA,NA,not tested,Salinas,Monterey County,36.682074,-121.604924
-Salinas Union High,Alisal High,777 Williams Road Salinas CA 93905-1907,NA,NA,NA,not tested,Salinas,Monterey County,36.681113,-121.604596
-Monterey County Office of Education,Arthur B Ingham School,47 San Benancio Road Salinas CA 93908,10.05,ppb,TRUE,tested,Salinas,Monterey County,36.578025,-121.715787
-Monterey County Office of Education,Bard Blades Elementary,1145 Acosta Salinas CA 93905,NA,NA,NA,not tested,Salinas,Monterey County,36.680472,-121.617519
-Alisal Union,Bardin Elementary,425 Bardin Road Salinas CA 93905-3025,NA,NA,NA,not tested,Salinas,Monterey County,36.674083,-121.601989
-Santa Rita Union Elementary,Bolsa Knolls Middle,1031 Rogge Road Salinas CA 93906-1305,13,ppb,TRUE,tested,Salinas,Monterey County,36.733811,-121.631717
-Salinas City Elementary,Boronda Elementary,1114 Fontes Lane Salinas CA 93907-1823,NA,NA,FALSE,tested,Salinas,Monterey County,36.696602,-121.674382
-Salinas City Elementary,Boronda Meadows,915 Larkin Street Salinas CA 93907-2532,NA,NA,FALSE,tested,Salinas,Monterey County,36.689748,-121.65981
-Spreckels Union Elementary,Buena Vista Middle,18250 Tara Drive Salinas CA 93908-8752,NA,NA,FALSE,tested,Salinas,Monterey County,36.60573,-121.647806
-Salinas Union High,Carr Lake Community Day,10 Sherwood Place Salinas CA 93906-4010,NA,NA,NA,not tested,Salinas,Monterey County,36.687381,-121.646338
-Alisal Union,Cesar E. Chavez Elementary,1225 Towt Street Salinas CA 93905-4125,NA,NA,NA,not tested,Salinas,Monterey County,36.68785,-121.603079
-Alisal Union,Creekside Elementary,1770 Kittery Street Salinas CA 93906-5080,NA,NA,NA,not tested,Salinas,Monterey County,36.70427,-121.611601
-Alisal Union,"Dr. Martin Luther King, Jr. Academy",925 North Sanborn Road Salinas CA 93905-1308,NA,NA,NA,not tested,Salinas,Monterey County,36.685391,-121.61669
-Salinas City Elementary,El Gabilan Elementary,1256 Linwood Drive Salinas CA 93906-3328,NA,NA,FALSE,tested,Salinas,Monterey County,36.70054,-121.642967
-Salinas Union High,El Puente,20 Sherwood Place Salinas CA 93906-4010,NA,NA,NA,not tested,Salinas,Monterey County,36.687288,-121.646123
-Salinas Union High,El Sausal Middle,1155 East Alisal Street Salinas CA 93905-2715,NA,NA,NA,not tested,Salinas,Monterey County,36.672673,-121.624131
-Salinas Union High,Everett Alvarez High,1900 Independence Boulevard Salinas CA 93906-5300,NA,NA,FALSE,tested,Salinas,Monterey County,36.712132,-121.618425
-Alisal Union,Frank Paul Elementary,1300 Rider Avenue Salinas CA 93905-1263,NA,NA,NA,not tested,Salinas,Monterey County,36.694866,-121.607973
-Alisal Union,Fremont Elementary,1255 East Market Street Salinas CA 93905-2831,NA,NA,NA,not tested,Salinas,Monterey County,36.676543,-121.620536
-Santa Rita Union Elementary,Gavilan View Middle,18250 Vab Buren Salinas CA 93906-4300,NA,NA,FALSE,tested,Salinas,Monterey County,36.733287,-121.648533
-Salinas Union High,Harden Middle,1561 McKinnon Street Salinas CA 93906-4100,NA,NA,FALSE,tested,Salinas,Monterey County,36.7082,-121.645599
-Salinas City Elementary,Henry F. Kammann Elementary,521 Rochex Street Salinas CA 93906-3426,NA,NA,FALSE,tested,Salinas,Monterey County,36.700164,-121.65771
-Alisal Union,Jesse G. Sanchez Elementary,901 North Sanborn Road Salinas CA 93905-1308,NA,NA,NA,not tested,Salinas,Monterey County,36.685136,-121.617148
-Alisal Union,John E. Steinbeck Elementary,1714 Burlington Drive Salinas CA 93906-4411,NA,NA,FALSE,tested,Salinas,Monterey County,36.709764,-121.617749
-Santa Rita Union Elementary,La Joya Elementary,55 Rogge Road Salinas CA 93906-1301,NA,NA,FALSE,tested,Salinas,Monterey County,36.732307,-121.634653
-Salinas Union High,La Paz Middle,1300 North Sanborn Road Salinas CA 93905-4127,NA,NA,NA,not tested,Salinas,Monterey County,36.691219,-121.6061
-Lagunita Elementary,Lagunita Elementary,975 San Juan Grade Road Salinas CA 93907-8438,6.1,ppb,TRUE,tested,Salinas,Monterey County,36.718729,-121.652566
-Salinas City Elementary,Laurel Wood Elementary,645 Larkin Street Salinas CA 93907-1970,NA,NA,FALSE,tested,Salinas,Monterey County,36.689748,-121.65981
-Salinas City Elementary,Lincoln Elementary,705 California Street Salinas CA 93901-4104,NA,NA,FALSE,tested,Salinas,Monterey County,36.66552,-121.651449
-Salinas City Elementary,Loma Vista Elementary,757 Sausal Drive Salinas CA 93906-2299,NA,NA,FALSE,tested,Salinas,Monterey County,36.708307,-121.623554
-Salinas City Elementary,Los Padres Elementary,1130 John Street Salinas CA 93905-3204,NA,NA,FALSE,tested,Salinas,Monterey County,36.670681,-121.623181
-Santa Rita Union Elementary,McKinnon,2100 McKinnon Salinas CA 93906-5700,NA,NA,FALSE,tested,Salinas,Monterey County,36.717277,-121.643541
-Monterey County Office of Education,Millennium Charter High,901 Blanco Circle Salinas CA 93901-4401,NA,NA,NA,not tested,Salinas,Monterey County,36.654273,-121.637833
-Salinas City Elementary,Mission Park Elementary,403 West Acacia Street Salinas CA 93901-1830,5.2,ppb,TRUE,tested,Salinas,Monterey County,36.666841,-121.667321
-Mission Trails ROP,Mission Trails ROP,867 East Laurel Drive Salinas CA 93905-1310,NA,NA,NA,not tested,Salinas,Monterey County,36.68786,-121.624365
-Alisal Union,Monte Bella Elementary,1300 Tuscany Blvd Salinas CA 93905-2292,NA,NA,NA,not tested,Salinas,Monterey County,36.682256,-121.596867
-Monterey County Office of Education,Monterey County Home Charter,901 Blanco Circle Salinas CA 93901-4401,NA,NA,NA,not tested,Salinas,Monterey County,36.654273,-121.637833
-Monterey County Office of Education,Monterey County Special Education,901 Blanco Circle Salinas CA 93912-0851,NA,NA,NA,not tested,Salinas,Monterey County,36.654273,-121.637833
-Salinas City Elementary,Monterey Park Elementary,410 San Miguel Avenue Salinas CA 93901-3854,5.9,ppb,TRUE,tested,Salinas,Monterey County,36.65676,-121.649705
-Salinas Union High,Mount Toro High,10 Sherwood Place B Salinas CA 93906-4010,NA,NA,FALSE,tested,Salinas,Monterey County,36.687381,-121.646338
-Salinas City Elementary,Natividad Elementary,1465 Modoc Avenue Salinas CA 93906-3003,5.4,ppb,TRUE,tested,Salinas,Monterey County,36.703268,-121.636827
-Santa Rita Union Elementary,New Republic Elementary,636 Arcadia Way Salinas CA 93906-5422,NA,NA,FALSE,tested,Salinas,Monterey County,36.71372,-121.628195
-Salinas Union High,North Salinas High,55 Kip Drive Salinas CA 93906-2908,NA,NA,FALSE,tested,Salinas,Monterey County,36.705013,-121.644829
-Alisal Union,Oasis Charter Public,1135 Westridge Parkway Salinas CA 93907-2529,NA,NA,FALSE,tested,Salinas,Monterey County,36.705447,-121.670204
-Alisal Union,Oscar F. Loya Elementary,1505 Cougar Drive Salinas CA 93905-4722,NA,NA,NA,not tested,Salinas,Monterey County,36.689176,-121.594228
-Salinas City Elementary,Roosevelt Elementary,120 Capitol Street Salinas CA 93901-2014,NA,NA,FALSE,tested,Salinas,Monterey County,36.675018,-121.660634
-Salinas Union High,Salinas High,726 South Main Street Salinas CA 93901-3243,NA,NA,FALSE,tested,Salinas,Monterey County,36.667541,-121.655927
-Washington Union Elementary,San Benancio Middle,43 San Benancio Rd. Salinas CA 93908-9133,NA,NA,FALSE,tested,Salinas,Monterey County,36.578064,-121.715657
-Santa Rita Union Elementary,Santa Rita Elementary,2014 South Santa Rita Street Salinas CA 93906-1912,NA,NA,FALSE,tested,Salinas,Monterey County,36.724483,-121.653558
-Salinas City Elementary,Sherwood Elementary,110 South Wood Street Salinas CA 93905-3104,NA,NA,FALSE,tested,Salinas,Monterey County,36.673029,-121.635457
-Washington Union Elementary,Toro Park Elementary,22500 Portola Drive Salinas CA 93908-9133,NA,NA,NA,not tested,Salinas,Monterey County,36.595636,-121.705072
-Salinas City Elementary,University Park Elementary,833 West Acacia Street Salinas CA 93901-1101,NA,NA,FALSE,tested,Salinas,Monterey County,36.671878,-121.678814
-Alisal Union,Virginia Rocca Barton Elementary,680 Las Casitas Drive Salinas CA 93905-1200,NA,NA,NA,not tested,Salinas,Monterey County,36.696491,-121.61407
-Washington Union Elementary,Washington Elementary,340 Corral de Tierra Road Salinas CA 93908-9133,NA,NA,NA,not tested,Salinas,Monterey County,36.537884,-121.725062
-Salinas Union High,Washington Middle,560 Iverson Street Salinas CA 93901-2534,NA,NA,FALSE,tested,Salinas,Monterey County,36.669256,-121.663323
-Monterey County Office of Education,"Wellington M. Smith, Jr.",1420 Natividad Road Salinas CA 93906,NA,NA,NA,not tested,Salinas,Monterey County,36.697807,-121.636633
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Alisal Union,Alisal Community,1437 Del Monte Avenue Salinas CA 93905-1902,,,,not tested,Salinas,Monterey County,36.682074,-121.604924,
+Salinas Union High,Alisal High,777 Williams Road Salinas CA 93905-1907,,,,not tested,Salinas,Monterey County,36.681113,-121.604596,
+Monterey County Office of Education,Arthur B Ingham School,47 San Benancio Road Salinas CA 93908,10.05,ppb,True,tested,Salinas,Monterey County,36.578025,-121.715787,10.9
+Monterey County Office of Education,Bard Blades Elementary,1145 Acosta Salinas CA 93905,,,,not tested,Salinas,Monterey County,36.680471999999995,-121.617519,
+Alisal Union,Bardin Elementary,425 Bardin Road Salinas CA 93905-3025,,,,not tested,Salinas,Monterey County,36.674083,-121.60198899999999,
+Santa Rita Union Elementary,Bolsa Knolls Middle,1031 Rogge Road Salinas CA 93906-1305,13.0,ppb,True,tested,Salinas,Monterey County,36.733810999999996,-121.631717,13.0
+Salinas City Elementary,Boronda Elementary,1114 Fontes Lane Salinas CA 93907-1823,,,False,tested,Salinas,Monterey County,36.696602,-121.67438200000001,
+Salinas City Elementary,Boronda Meadows,915 Larkin Street Salinas CA 93907-2532,,,False,tested,Salinas,Monterey County,36.689748,-121.65981000000001,
+Spreckels Union Elementary,Buena Vista Middle,18250 Tara Drive Salinas CA 93908-8752,,,False,tested,Salinas,Monterey County,36.60573,-121.647806,
+Salinas Union High,Carr Lake Community Day,10 Sherwood Place Salinas CA 93906-4010,,,,not tested,Salinas,Monterey County,36.687381,-121.64633799999999,
+Alisal Union,Cesar E. Chavez Elementary,1225 Towt Street Salinas CA 93905-4125,,,,not tested,Salinas,Monterey County,36.68785,-121.60307900000001,
+Alisal Union,Creekside Elementary,1770 Kittery Street Salinas CA 93906-5080,,,,not tested,Salinas,Monterey County,36.70427,-121.61160100000001,
+Alisal Union,"Dr. Martin Luther King, Jr. Academy",925 North Sanborn Road Salinas CA 93905-1308,,,,not tested,Salinas,Monterey County,36.685390999999996,-121.61668999999999,
+Salinas City Elementary,El Gabilan Elementary,1256 Linwood Drive Salinas CA 93906-3328,,,False,tested,Salinas,Monterey County,36.700540000000004,-121.642967,
+Salinas Union High,El Puente,20 Sherwood Place Salinas CA 93906-4010,,,,not tested,Salinas,Monterey County,36.687288,-121.646123,
+Salinas Union High,El Sausal Middle,1155 East Alisal Street Salinas CA 93905-2715,,,,not tested,Salinas,Monterey County,36.672672999999996,-121.624131,
+Salinas Union High,Everett Alvarez High,1900 Independence Boulevard Salinas CA 93906-5300,,,False,tested,Salinas,Monterey County,36.712132000000004,-121.618425,
+Alisal Union,Frank Paul Elementary,1300 Rider Avenue Salinas CA 93905-1263,,,,not tested,Salinas,Monterey County,36.694866,-121.607973,
+Alisal Union,Fremont Elementary,1255 East Market Street Salinas CA 93905-2831,,,,not tested,Salinas,Monterey County,36.676543,-121.62053600000002,
+Santa Rita Union Elementary,Gavilan View Middle,18250 Vab Buren Salinas CA 93906-4300,,,False,tested,Salinas,Monterey County,36.733287,-121.648533,
+Salinas Union High,Harden Middle,1561 McKinnon Street Salinas CA 93906-4100,,,False,tested,Salinas,Monterey County,36.7082,-121.645599,
+Salinas City Elementary,Henry F. Kammann Elementary,521 Rochex Street Salinas CA 93906-3426,,,False,tested,Salinas,Monterey County,36.700164,-121.65771000000001,
+Alisal Union,Jesse G. Sanchez Elementary,901 North Sanborn Road Salinas CA 93905-1308,,,,not tested,Salinas,Monterey County,36.685136,-121.617148,
+Alisal Union,John E. Steinbeck Elementary,1714 Burlington Drive Salinas CA 93906-4411,,,False,tested,Salinas,Monterey County,36.709764,-121.617749,
+Santa Rita Union Elementary,La Joya Elementary,55 Rogge Road Salinas CA 93906-1301,,,False,tested,Salinas,Monterey County,36.732307,-121.634653,
+Salinas Union High,La Paz Middle,1300 North Sanborn Road Salinas CA 93905-4127,,,,not tested,Salinas,Monterey County,36.691219,-121.6061,
+Lagunita Elementary,Lagunita Elementary,975 San Juan Grade Road Salinas CA 93907-8438,6.1,ppb,True,tested,Salinas,Monterey County,36.718728999999996,-121.652566,6.1
+Salinas City Elementary,Laurel Wood Elementary,645 Larkin Street Salinas CA 93907-1970,,,False,tested,Salinas,Monterey County,36.689748,-121.65981000000001,
+Salinas City Elementary,Lincoln Elementary,705 California Street Salinas CA 93901-4104,,,False,tested,Salinas,Monterey County,36.66552,-121.651449,
+Salinas City Elementary,Loma Vista Elementary,757 Sausal Drive Salinas CA 93906-2299,,,False,tested,Salinas,Monterey County,36.708307,-121.623554,
+Salinas City Elementary,Los Padres Elementary,1130 John Street Salinas CA 93905-3204,,,False,tested,Salinas,Monterey County,36.670681,-121.623181,
+Santa Rita Union Elementary,McKinnon,2100 McKinnon Salinas CA 93906-5700,,,False,tested,Salinas,Monterey County,36.717277,-121.64354099999998,
+Monterey County Office of Education,Millennium Charter High,901 Blanco Circle Salinas CA 93901-4401,,,,not tested,Salinas,Monterey County,36.654272999999996,-121.637833,
+Salinas City Elementary,Mission Park Elementary,403 West Acacia Street Salinas CA 93901-1830,5.2,ppb,True,tested,Salinas,Monterey County,36.666841,-121.667321,5.2
+Mission Trails ROP,Mission Trails ROP,867 East Laurel Drive Salinas CA 93905-1310,,,,not tested,Salinas,Monterey County,36.68786,-121.624365,
+Alisal Union,Monte Bella Elementary,1300 Tuscany Blvd Salinas CA 93905-2292,,,,not tested,Salinas,Monterey County,36.682256,-121.59686699999999,
+Monterey County Office of Education,Monterey County Home Charter,901 Blanco Circle Salinas CA 93901-4401,,,,not tested,Salinas,Monterey County,36.654272999999996,-121.637833,
+Monterey County Office of Education,Monterey County Special Education,901 Blanco Circle Salinas CA 93912-0851,,,,not tested,Salinas,Monterey County,36.654272999999996,-121.637833,
+Salinas City Elementary,Monterey Park Elementary,410 San Miguel Avenue Salinas CA 93901-3854,5.9,ppb,True,tested,Salinas,Monterey County,36.65676,-121.64970500000001,7.9
+Salinas Union High,Mount Toro High,10 Sherwood Place B Salinas CA 93906-4010,,,False,tested,Salinas,Monterey County,36.687381,-121.64633799999999,
+Salinas City Elementary,Natividad Elementary,1465 Modoc Avenue Salinas CA 93906-3003,5.4,ppb,True,tested,Salinas,Monterey County,36.703268,-121.636827,5.4
+Santa Rita Union Elementary,New Republic Elementary,636 Arcadia Way Salinas CA 93906-5422,,,False,tested,Salinas,Monterey County,36.71372,-121.62819499999999,
+Salinas Union High,North Salinas High,55 Kip Drive Salinas CA 93906-2908,,,False,tested,Salinas,Monterey County,36.705013,-121.644829,
+Alisal Union,Oasis Charter Public,1135 Westridge Parkway Salinas CA 93907-2529,,,False,tested,Salinas,Monterey County,36.705447,-121.670204,
+Alisal Union,Oscar F. Loya Elementary,1505 Cougar Drive Salinas CA 93905-4722,,,,not tested,Salinas,Monterey County,36.689176,-121.594228,
+Salinas City Elementary,Roosevelt Elementary,120 Capitol Street Salinas CA 93901-2014,,,False,tested,Salinas,Monterey County,36.675018,-121.660634,
+Salinas Union High,Salinas High,726 South Main Street Salinas CA 93901-3243,,,False,tested,Salinas,Monterey County,36.667541,-121.655927,
+Washington Union Elementary,San Benancio Middle,43 San Benancio Rd. Salinas CA 93908-9133,,,False,tested,Salinas,Monterey County,36.578064000000005,-121.71565700000001,
+Santa Rita Union Elementary,Santa Rita Elementary,2014 South Santa Rita Street Salinas CA 93906-1912,,,False,tested,Salinas,Monterey County,36.724483,-121.653558,
+Salinas City Elementary,Sherwood Elementary,110 South Wood Street Salinas CA 93905-3104,,,False,tested,Salinas,Monterey County,36.673029,-121.635457,
+Washington Union Elementary,Toro Park Elementary,22500 Portola Drive Salinas CA 93908-9133,,,,not tested,Salinas,Monterey County,36.595636,-121.705072,
+Salinas City Elementary,University Park Elementary,833 West Acacia Street Salinas CA 93901-1101,,,False,tested,Salinas,Monterey County,36.671878,-121.67881399999999,
+Alisal Union,Virginia Rocca Barton Elementary,680 Las Casitas Drive Salinas CA 93905-1200,,,,not tested,Salinas,Monterey County,36.696490999999995,-121.61407,
+Washington Union Elementary,Washington Elementary,340 Corral de Tierra Road Salinas CA 93908-9133,,,,not tested,Salinas,Monterey County,36.537884000000005,-121.72506200000001,
+Salinas Union High,Washington Middle,560 Iverson Street Salinas CA 93901-2534,,,False,tested,Salinas,Monterey County,36.669256,-121.66332299999999,
+Monterey County Office of Education,"Wellington M. Smith, Jr.",1420 Natividad Road Salinas CA 93906,,,,not tested,Salinas,Monterey County,36.697807,-121.636633,

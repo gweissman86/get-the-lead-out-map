@@ -1,3 +1,3 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Ross Valley Elementary,Hidden Valley Elementary,46 Green Valley Court San Anselmo CA 94960-1112,NA,NA,FALSE,tested,San Anselmo,Marin County,38.005577,-122.573682
-Tamalpais Union High,Sir Francis Drake High,1327 Sir Francis Drake Boulevard San Anselmo CA 94960-1800,NA,NA,FALSE,tested,San Anselmo,Marin County,37.983305,-122.572556
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Ross Valley Elementary,Hidden Valley Elementary,46 Green Valley Court San Anselmo CA 94960-1112,,,False,tested,San Anselmo,Marin County,38.005577,-122.573682,
+Tamalpais Union High,Sir Francis Drake High,1327 Sir Francis Drake Boulevard San Anselmo CA 94960-1800,,,False,tested,San Anselmo,Marin County,37.983305,-122.572556,

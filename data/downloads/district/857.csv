@@ -1,4 +1,4 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Washington Union Elementary,San Benancio Middle,43 San Benancio Rd. Salinas CA 93908-9133,NA,NA,FALSE,tested,Salinas,Monterey County,36.578064,-121.715657
-Washington Union Elementary,Toro Park Elementary,22500 Portola Drive Salinas CA 93908-9133,NA,NA,NA,not tested,Salinas,Monterey County,36.595636,-121.705072
-Washington Union Elementary,Washington Elementary,340 Corral de Tierra Road Salinas CA 93908-9133,NA,NA,NA,not tested,Salinas,Monterey County,36.537884,-121.725062
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Washington Union Elementary,San Benancio Middle,43 San Benancio Rd. Salinas CA 93908-9133,,,False,tested,Salinas,Monterey County,36.578064000000005,-121.71565700000001,
+Washington Union Elementary,Toro Park Elementary,22500 Portola Drive Salinas CA 93908-9133,,,,not tested,Salinas,Monterey County,36.595636,-121.705072,
+Washington Union Elementary,Washington Elementary,340 Corral de Tierra Road Salinas CA 93908-9133,,,,not tested,Salinas,Monterey County,36.537884000000005,-121.72506200000001,

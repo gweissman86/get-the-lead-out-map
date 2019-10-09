@@ -1,13 +1,13 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-Western Placer Unified,Carlin C. Coppin Elementary,150 12th Street Lincoln CA 95648-2058,NA,NA,FALSE,tested,Lincoln,Placer County,38.901707,-121.28434
-Western Placer Unified,Creekside Oaks Elementary,2030 First Street Lincoln CA 95648-2173,NA,NA,FALSE,tested,Lincoln,Placer County,38.8876,-121.315937
-Western Placer Unified,First Street,1400 First Street Lincoln CA 95648-1688,NA,NA,FALSE,tested,Lincoln,Placer County,38.887061,-121.3009
-Western Placer Unified,Foskett Ranch Elementary,1561 Joiner Parkway Lincoln CA 95648-2969,NA,NA,NA,not tested,Lincoln,Placer County,38.906828,-121.317538
-Western Placer Unified,Glen Edwards Middle,204 L Street Lincoln CA 95648-1674,NA,NA,FALSE,tested,Lincoln,Placer County,38.889013,-121.299255
-Western Placer Unified,Horizon Charter,2800 Nicolaus Rd Suite 100 Lincoln CA 95648-1757,NA,NA,FALSE,tested,Lincoln,Placer County,38.897697,-121.329428
-Western Placer Unified,Lincoln Crossing Elementary,635 Groveland Lane Lincoln CA 95648-8013,NA,NA,FALSE,tested,Lincoln,Placer County,38.878213,-121.304989
-Western Placer Unified,Lincoln High,790 J Street Lincoln CA 95648-1614,NA,NA,FALSE,tested,Lincoln,Placer County,38.894251,-121.298518
-Western Placer Unified,Phoenix High (Continuation),870 J Street Lincoln CA 95648-1757,NA,NA,FALSE,tested,Lincoln,Placer County,38.896261,-121.296732
-Western Placer Unified,Sheridan,4730 H Street Sheridan CA 95681-0268,NA,NA,FALSE,tested,NA,Placer County,38.982552,-121.373576
-Western Placer Unified,Twelve Bridges Elementary,2450 Eastridge Drive Lincoln CA 95648-8282,NA,NA,FALSE,tested,Lincoln,Placer County,38.846299,-121.268643
-Western Placer Unified,Twelve Bridges Middle,770 Westview Drive Lincoln CA 95648-7823,NA,NA,FALSE,tested,Lincoln,Placer County,38.8429,-121.285633
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Western Placer Unified,Carlin C. Coppin Elementary,150 12th Street Lincoln CA 95648-2058,,,False,tested,Lincoln,Placer County,38.901707,-121.28433999999999,
+Western Placer Unified,Creekside Oaks Elementary,2030 First Street Lincoln CA 95648-2173,,,False,tested,Lincoln,Placer County,38.8876,-121.315937,
+Western Placer Unified,First Street,1400 First Street Lincoln CA 95648-1688,,,False,tested,Lincoln,Placer County,38.887060999999996,-121.3009,
+Western Placer Unified,Foskett Ranch Elementary,1561 Joiner Parkway Lincoln CA 95648-2969,,,,not tested,Lincoln,Placer County,38.906828000000004,-121.31753799999998,
+Western Placer Unified,Glen Edwards Middle,204 L Street Lincoln CA 95648-1674,,,False,tested,Lincoln,Placer County,38.889013,-121.299255,
+Western Placer Unified,Horizon Charter,2800 Nicolaus Rd Suite 100 Lincoln CA 95648-1757,,,False,tested,Lincoln,Placer County,38.897696999999994,-121.32942800000001,
+Western Placer Unified,Lincoln Crossing Elementary,635 Groveland Lane Lincoln CA 95648-8013,,,False,tested,Lincoln,Placer County,38.878213,-121.30498899999999,
+Western Placer Unified,Lincoln High,790 J Street Lincoln CA 95648-1614,,,False,tested,Lincoln,Placer County,38.894251000000004,-121.29851799999999,
+Western Placer Unified,Phoenix High (Continuation),870 J Street Lincoln CA 95648-1757,,,False,tested,Lincoln,Placer County,38.896260999999996,-121.296732,
+Western Placer Unified,Sheridan,4730 H Street Sheridan CA 95681-0268,,,False,tested,,Placer County,38.982552,-121.373576,
+Western Placer Unified,Twelve Bridges Elementary,2450 Eastridge Drive Lincoln CA 95648-8282,,,False,tested,Lincoln,Placer County,38.846299,-121.268643,
+Western Placer Unified,Twelve Bridges Middle,770 Westview Drive Lincoln CA 95648-7823,,,False,tested,Lincoln,Placer County,38.8429,-121.285633,

@@ -1,2 +1,2 @@
-district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude
-San Juan Unified,Orangevale Open K-8,5630 Illinois Avenue Fair Oaks CA 95628-2948,NA,NA,FALSE,tested,Fair Oaks,Sacramento County,38.668714,-121.234503
+district,schoolName,schoolAddress,medianResult,unit,lead,status,city,county,latitude,longitude,maxResult
+Exeter Unified,Alternative Education,1107 E Rocky Hill Dr Exeter CA 93221,,,,not tested,Exeter,Tulare County,36.297049,-119.130822,
