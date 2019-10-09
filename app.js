@@ -8,7 +8,16 @@ var cache = {
 var appState = {
   selectedCity: null,
   selectedDistrict: null,
-  selectedCounty: null
+  selectedCounty: null,
+  getToggleState: function() {
+    if (document.querySelector(".toggler").className.indexOf("max") > -1) {
+      return "max";
+    } else {
+      // default to median
+      return "median";
+    }
+  },
+  markerclusters: undefined
 }
 
 /* tab switching */
@@ -321,15 +330,16 @@ function defineClusterIcon(cluster) {
 
 // check status-index.txt for number to status mapping
 function getCategory(properties) {
-  var medianResult = properties.medianResult;
+  var toggleState = appState.getToggleState();
+  var testResult = toggleState === "max" ? properties.maxResult : properties.medianResult;
   var status = properties.status;
   if (status == "0") {
     return "exempt";
   } else if (status == "1") {
     return "untested";
-  } else if (medianResult == "" || medianResult == "NA") {
+  } else if (testResult == "" || testResult == "NA") {
     return "low";
-  } else if (medianResult >= 5) {
+  } else if (testResult >= 5) {
     return "high";
   }
 }
@@ -415,11 +425,12 @@ var Toggler = L.Control.extend({
   onAdd: function(map) {
     var container = L.DomUtil.create('div', 'leaflet-control leaflet-control-custom toggler median');
     container.innerHTML = '<div class="toggle-option median">Median</div><div class="toggle-option max">Max</div>';
-    container.onclick = function(event) {
+    container.onclick = function() {
       var className = container.className;
       var newState = className.indexOf('median') > -1 ? 'max' : 'median';
       var newClassName = (className.replace('median', '').replace('max', '').trim() + ' ' + newState).trim();
       container.className = newClassName;
+      appState.markerclusters.refreshClusters();
     };
 		return container;
 	}
@@ -440,12 +451,12 @@ L.tileLayer('https://api.mapbox.com/styles/v1/viymak/cjt7h2y9q01eq1frqxcqfptqh/t
   attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>'
 }).addTo(map);
 
-var markerclusters = L.markerClusterGroup({
+appState.markerclusters = L.markerClusterGroup({
   maxClusterRadius: 2*rmax,
   iconCreateFunction: defineClusterIcon //aggregates points into pie according to zoom
 });
 //add the empty markercluster layer
-map.addLayer(markerclusters);
+map.addLayer(appState.markerclusters);
 
 // initially loading the data
 loadText(csvPath, function(text) {
@@ -456,12 +467,12 @@ loadText(csvPath, function(text) {
       pointToLayer: defineFeature,
       onEachFeature: defineFeatureClickEvent
     });
-    markerclusters.addLayer(markers);
+    appState.markerclusters.addLayer(markers);
   });
 });
 
 function filterMapByPropertyValue(property, value) {
-  markerclusters.clearLayers();
+  appState.markerclusters.clearLayers();
   var newGeoJson = {
     features: cache.geojson.features.filter(function(feature) {
       return feature.properties[property] == value;
@@ -472,10 +483,10 @@ function filterMapByPropertyValue(property, value) {
     pointToLayer: defineFeature,
     onEachFeature: defineFeatureClickEvent
   });
-  markerclusters.addLayer(markers);
+  appState.markerclusters.addLayer(markers);
 
   // zoom to filtered data
-  map.fitBounds(markerclusters.getBounds());
+  map.fitBounds(appState.markerclusters.getBounds());
 }
 
 function toNumber(inpt) {
@@ -486,7 +497,22 @@ function toNumber(inpt) {
   }
 }
 
-function getLeadLevelDisplay(row) {
+function getMaxLeadLevelDisplay(row) {
+  var maxResult = toNumber(row.maxResult);
+  if (maxResult > 0) {
+    return maxResult + " ppb";
+  } else if (row.lead === "FALSE") {
+    return "< 5 ppb";
+  } else if (row.status === "1") {
+    return "Not Tested";
+  } else if (row.status === "0") {
+    return "Exempt";
+  } else {
+    return "NA";
+  }
+}
+
+function getMedianLeadLevelDisplay(row) {
   var medianResult = toNumber(row.medianResult);
   if (medianResult > 0) {
     return medianResult + " ppb";
@@ -512,8 +538,9 @@ function filterTableByPropertyValue(property, value) {
       var tableBodyInnerHTML = '';
       rows.forEach(function(row) {
         var category = getCategory({ medianResult: row.medianResult, status: row.status });
-        var leadLevel = getLeadLevelDisplay(row);
-        tableBodyInnerHTML += '<tr><td><span class="inline-block circle ' + category + '"></span><span> ' + leadLevel + ' </span></td><td> ' + row.schoolName + ' </td><td> ' + row.district + ' </td><td> ' + row.schoolAddress + ' </td></tr>';
+        var leadLevelMax = getMaxLeadLevelDisplay(row);
+        var leadLevelMedian = getMedianLeadLevelDisplay(row);
+        tableBodyInnerHTML += '<tr><td><span class="inline-block circle ' + category + '"></span><span> Median: ' + leadLevelMedian + ' </span><span> Max: ' + leadLevelMax + ' </span></td><td> ' + row.schoolName + ' </td><td> ' + row.district + ' </td><td> ' + row.schoolAddress + ' </td></tr>';
         tableBody.innerHTML = tableBodyInnerHTML;
       });
     });
@@ -545,19 +572,25 @@ function updateSchoolInfo(schoolID) {
     loadIndex("lead", function(){
       var info = {
         lead: cache.indices.lead[props.lead],
+        maxResult: props.maxResult,
         medianResult: props.medianResult,
         status: props.status
       };
-      var leadDisplayText = getLeadLevelDisplay(info);
+      var maxLeadDisplayText = getMaxLeadLevelDisplay(info);
+      var medianLeadDisplayText = getMedianLeadLevelDisplay(info);
       var category = getCategory(info);
 
       var schoolImage = document.getElementById("school-image");
       schoolImage.style.display = "block";
       schoolImage.src = "img/school-" + category + ".svg";
 
-      var schoolLeadResult = document.getElementById("school-lead-result");
-      schoolLeadResult.style.display = "block";
-      schoolLeadResult.textContent = leadDisplayText;
+      var schoolMedianLeadResult = document.getElementById("median-school-lead-result");
+      schoolMedianLeadResult.style.display = "block";
+      schoolMedianLeadResult.textContent = "Median: " + medianLeadDisplayText;
+
+      var schoolMaxLeadResult = document.getElementById("max-school-lead-result");
+      schoolMaxLeadResult.style.display = "block";
+      schoolMaxLeadResult.textContent = "Max: " + maxLeadDisplayText;
 
       var schoolNameDisplay = document.getElementById("school-name");
       schoolNameDisplay.style.display = "block";
@@ -576,7 +609,7 @@ function resetMap() {
     pointToLayer: defineFeature,
     onEachFeature: defineFeatureClickEvent
   });
-  markerclusters.addLayer(markers);
+  appState.markerclusters.addLayer(markers);
 }
 
 function filterMapAndTable() {
@@ -626,7 +659,7 @@ function onChangeSchoolDropdown() {
   filterMapAndTable();
   var selectedSchool = getValue("schoolDropdown");
 
-  var layers = markerclusters.getLayers();
+  var layers = appState.markerclusters.getLayers();
   for (var i = 0; i < layers.length; i++) {
     var layer = layers[i];
     if (layer.feature.properties.schoolName == selectedSchool) {
