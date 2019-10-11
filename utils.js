@@ -54,3 +54,35 @@ function hideById(id) {
 function showById(id) {
 	getById(id).style.display = "block";
 }
+
+function setStateById(id, key, value) {
+	getById(id).setAttribute(key, value);
+}
+
+function removeClass(id, className) {
+	var tag = getById(id);
+	tag.className = tag.className.replace(className, "").trim();
+}
+
+function addClass(id, className) {
+	var tag = getById(id);
+	tag.className = (tag.className.replace(className, "") + " " + className).trim();
+}
+
+function serializeXmlNode(xmlNode) {
+	if (typeof window.XMLSerializer != "undefined") {
+		return (new window.XMLSerializer()).serializeToString(xmlNode);
+	} else if (typeof xmlNode.xml != "undefined") {
+		return xmlNode.xml;
+	}
+	return "";
+}
+
+function toNumber(inpt) {
+	try {
+		return Number(inpt);
+	} catch (error) {
+		return inpt;
+	}
+}
+  

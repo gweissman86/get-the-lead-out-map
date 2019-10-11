@@ -96,11 +96,19 @@ h4, p {
 }
 #school-visualizer {
   position: relative;
-  padding: 15%;
+  padding: 10%;
 }
 
-#school-lead-result {
+#school-lead-result, #median-school-lead-result, #max-school-lead-result {
   font-weight: bold;
+}
+
+.emphasized {
+  font-size: 30px;
+}
+
+.downplayed {
+  font-size: 14px;
 }
 
 #school-name {
@@ -327,5 +335,11 @@ a.leaflet-control-zoom-in, a.leaflet-control-zoom-out {
     position: relative;
     width: 100%;
     width: calc(100% - 40px);
+  }
+}
+
+@media screen and (min-width: 700px) {
+  #credits {
+    margin-top: 250px;
   }
 }

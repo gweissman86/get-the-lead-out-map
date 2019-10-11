@@ -408,21 +408,9 @@ function loadGeoJSONFromText(text, callback) {
   });
 }
 
-/*Helper function*/
-function serializeXmlNode(xmlNode) {
-  if (typeof window.XMLSerializer != "undefined") {
-    return (new window.XMLSerializer()).serializeToString(xmlNode);
-  } else if (typeof xmlNode.xml != "undefined") {
-    return xmlNode.xml;
-  }
-  return "";
-}
-
-
 var NWcoordinates = L.latLng(43.617188, -131.661213),
 SEcoordinates = L.latLng(30.847858, -109.286723),
 calBounds = L.latLngBounds(NWcoordinates, SEcoordinates);
-
 
 var Toggler = L.Control.extend({
   options: {
@@ -437,6 +425,7 @@ var Toggler = L.Control.extend({
       var newClassName = (className.replace('median', '').replace('max', '').trim() + ' ' + newState).trim();
       container.className = newClassName;
       appState.markerclusters.refreshClusters();
+      changeEmphasis(); // changes whether median or max is emphasized in side panel
     };
 		return container;
 	}
@@ -493,14 +482,6 @@ function filterMapByPropertyValue(property, value) {
 
   // zoom to filtered data
   map.fitBounds(appState.markerclusters.getBounds());
-}
-
-function toNumber(inpt) {
-  try {
-    return Number(inpt);
-  } catch (error) {
-    return inpt;
-  }
 }
 
 function getMaxLeadLevelDisplay(row) {
@@ -592,6 +573,8 @@ function updateSchoolInfo(schoolID) {
       var maxLeadDisplayText = getMaxLeadLevelDisplay(info);
       var medianLeadDisplayText = getMedianLeadLevelDisplay(info);
 
+      changeEmphasis();
+
       if (maxLeadDisplayText === "Not Tested" && medianLeadDisplayText === "Not Tested") {
         hideById("max-school-lead-result");
         hideById("median-school-lead-result");
@@ -599,7 +582,8 @@ function updateSchoolInfo(schoolID) {
         showById('school-lead-result');
       } else {
         hideById("school-lead-result");
-        getById("median-school-lead-result").textContent = "Median: " + medianLeadDisplayText;
+        medianSchoolLeadResultTag = getById("median-school-lead-result");
+        medianSchoolLeadResultTag.textContent = "Median: " + medianLeadDisplayText;
         getById("max-school-lead-result").textContent = "Max: " + maxLeadDisplayText;
         showById("median-school-lead-result");
         showById("max-school-lead-result");
@@ -609,6 +593,25 @@ function updateSchoolInfo(schoolID) {
       getById("school-name").textContent = schoolName;
     });
   });
+}
+
+function changeEmphasis(){
+  // make max or median larger depending on toggle selection
+  var state = appState.getToggleState();
+  console.log("state:", state);
+  if (state === "max") {
+    removeClass("max-school-lead-result", "downplayed");
+    addClass("max-school-lead-result", "emphasized");
+
+    removeClass("median-school-lead-result", "emphasized");
+    addClass("median-school-lead-result", "downplayed");
+  } else if (state === "median") {
+    removeClass("max-school-lead-result", "emphasized");
+    addClass("max-school-lead-result", "downplayed");
+
+    removeClass("median-school-lead-result", "downplayed");
+    addClass("median-school-lead-result", "emphasized");
+  }
 }
 
 function filterMapAndTableByPropertyValue(property, value) {
