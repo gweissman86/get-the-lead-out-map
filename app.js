@@ -32,9 +32,9 @@ tabs.forEach(function(tab) {
       console.log("you clicked a tab that is already active");
       if (window.innerWidth <= 700) {
         //show map
-        document.getElementById('one').style.display = 'none';
-        document.getElementById('two').style.display = 'none';
-        document.getElementById('credits').style.display = 'none';
+        hideById('one');
+        hideById('two');
+        hideById('credits');
       }
     } else  {
       console.log("you clicked a closed tab");
@@ -48,13 +48,13 @@ tabs.forEach(function(tab) {
       var tabID = li.id;
 
       if (tabID === 'info-tab') {
-        document.getElementById('one').style.display = 'block';
-        document.getElementById('two').style.display = 'none';
-        document.getElementById('credits').style.display = 'none';
+        showById('one');
+        hideById('two');
+        hideById('credits');
       } else if (tabID=== 'dashboard-tab') {
-        document.getElementById('one').style.display = 'none';
-        document.getElementById('two').style.display = 'block';
-        document.getElementById('credits').style.display = 'block';
+        hideById('one');
+        showById('two');
+        showById('credits');
       }
     }
   });
@@ -71,7 +71,7 @@ function populateDropdown(id, defaultName, optionArray) {
 }
 
 function fillDropdown(dropdownID, options) {
-  var dropdown = document.getElementById(dropdownID);
+  var dropdown = getById(dropdownID);
   var innerHTML = '';
   options.forEach(function(option) {
     var selectedText = option.selected ? 'selected' : false;
@@ -388,6 +388,12 @@ function defineFeatureClickEvent(feature, layer) {
     fillSchoolDropdownBySelection("county-to-schoolName", countyID, schoolID);
 
     updateSchoolInfo(schoolID);
+
+    // send synthetic click event to dashboard tab
+    var tab = document.querySelector("#dashboard-tab a");
+    if (tab.className.indexOf("active") === -1) {
+      document.querySelector("#dashboard-tab a").click();
+    }
   });
 }
 
@@ -528,7 +534,7 @@ function getMedianLeadLevelDisplay(row) {
 }
 
 function filterTableByPropertyValue(property, value) {
-  var tableBody = document.getElementById('table-body');
+  var tableBody = getById('table-body');
   tableBody.innerHTML = 'loading'; // clears
   var url = 'data/downloads/' + property + '/' + value + '.csv';
   if (property == 'county' && value == 18) {
@@ -545,7 +551,7 @@ function filterTableByPropertyValue(property, value) {
       });
     });
   }
-  document.getElementById('download-table').href = url;
+  getById('download-table').href = url;
 }
 
 function loadCSVFromURL(url, callback) {
@@ -576,25 +582,31 @@ function updateSchoolInfo(schoolID) {
         medianResult: props.medianResult,
         status: props.status
       };
-      var maxLeadDisplayText = getMaxLeadLevelDisplay(info);
-      var medianLeadDisplayText = getMedianLeadLevelDisplay(info);
+
       var category = getCategory(info);
 
-      var schoolImage = document.getElementById("school-image");
-      schoolImage.style.display = "block";
+      var schoolImage = getById("school-image");
+      showById('school-image');
       schoolImage.src = "img/school-" + category + ".svg";
 
-      var schoolMedianLeadResult = document.getElementById("median-school-lead-result");
-      schoolMedianLeadResult.style.display = "block";
-      schoolMedianLeadResult.textContent = "Median: " + medianLeadDisplayText;
+      var maxLeadDisplayText = getMaxLeadLevelDisplay(info);
+      var medianLeadDisplayText = getMedianLeadLevelDisplay(info);
 
-      var schoolMaxLeadResult = document.getElementById("max-school-lead-result");
-      schoolMaxLeadResult.style.display = "block";
-      schoolMaxLeadResult.textContent = "Max: " + maxLeadDisplayText;
+      if (maxLeadDisplayText === "Not Tested" && medianLeadDisplayText === "Not Tested") {
+        hideById("max-school-lead-result");
+        hideById("median-school-lead-result");
+        getById("school-lead-result").textContent = "Not Tested";
+        showById('school-lead-result');
+      } else {
+        hideById("school-lead-result");
+        getById("median-school-lead-result").textContent = "Median: " + medianLeadDisplayText;
+        getById("max-school-lead-result").textContent = "Max: " + maxLeadDisplayText;
+        showById("median-school-lead-result");
+        showById("max-school-lead-result");
+      }
 
-      var schoolNameDisplay = document.getElementById("school-name");
-      schoolNameDisplay.style.display = "block";
-      schoolNameDisplay.textContent = schoolName;
+      showById('school-name');
+      getById("school-name").textContent = schoolName;
     });
   });
 }
@@ -644,13 +656,13 @@ function onChangeCountyDropdown() {
 }
 
 function onChangeCityDropdown() {
-  getValue('districtDropdown').value = -1;
+  setValue("districtDropdown", -1);
   populateSchoolDropdown();
   filterMapAndTable();
 }
 
 function onChangeDistrictDropdown() {
-  document.getElementById('cityDropdown').value = -1;
+  setValue("cityDropdown", -1);
   populateSchoolDropdown();
   filterMapAndTable();
 }

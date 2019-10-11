@@ -35,6 +35,22 @@ function loadCSVFromText(text, callback) {
 	callback(rows);
 }
 
+function getById(id) {
+	return document.getElementById(id);
+}
+
 function getValue(id) {
-	return document.getElementById(id).value;
+	return getById(id).value;
+}
+
+function setValue(id, value) {
+	getById(id).value = value;
+}
+
+function hideById(id) {
+	getById(id).style.display = "none";
+}
+
+function showById(id) {
+	getById(id).style.display = "block";
 }
