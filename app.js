@@ -18,7 +18,7 @@ var appState = {
     }
   },
   markerclusters: undefined
-}
+};
 
 /* tab switching */
 var tabs =  Array.prototype.slice.call(document.querySelectorAll("#sub-panel .tabs li a"));
@@ -387,7 +387,7 @@ function defineFeatureClickEvent(feature, layer) {
     var schoolID = feature.properties.schoolName;
     fillSchoolDropdownBySelection("county-to-schoolName", countyID, schoolID);
 
-    updateSchoolInfo(schoolID);
+    updateSchoolInfo(schoolID, countyID);
 
     // send synthetic click event to dashboard tab
     var tab = document.querySelector("#dashboard-tab a");
@@ -549,11 +549,14 @@ function loadCSVFromURL(url, callback) {
 }
 
 // medianResult and status are decompressed by default
-function updateSchoolInfo(schoolID) {
+function updateSchoolInfo(schoolID, countyID) {
+  console.log("starting updateSchoolInfo with a schoolID of" + schoolID + " and a countyID of " + countyID);
   loadIndex("schoolName", function() {
     var schoolName = cache.indices.schoolName[schoolID];
+    console.log("schoolName:", schoolName);
     var school = cache.geojson.features.filter(function(feature) {
-      return feature.properties.schoolName == schoolID;
+      var props = feature.properties;
+      return props.schoolName == schoolID && props.county == countyID;
     })[0];
     var props = school.properties;
     loadIndex("lead", function(){
@@ -566,9 +569,8 @@ function updateSchoolInfo(schoolID) {
 
       var category = getCategory(info);
 
-      var schoolImage = getById("school-image");
       showById('school-image');
-      schoolImage.src = "img/school-" + category + ".svg";
+      getById("school-image").src = "img/school-" + category + ".svg";
 
       var maxLeadDisplayText = getMaxLeadLevelDisplay(info);
       var medianLeadDisplayText = getMedianLeadLevelDisplay(info);
@@ -639,7 +641,15 @@ function filterMapAndTable() {
   var userHasSelectedSchool = selectedSchool != -1 && selectedSchool != '';
 
   if (userHasSelectedSchool) {
-    updateSchoolInfo(selectedSchool);
+    if (userHasSelectedCounty) {
+      updateSchoolInfo(selectedSchool, selectedCounty);
+    } else {
+      console.error("selectedCity: ", selectedCity);
+      console.error("selectedDistrict: ", selectedDistrict);
+      console.error("selectedCounty: ", selectedCounty);
+      console.error("selectedSchool: ", selectedSchool);
+      console.error("Uh Oh.  We have reached a weird state where the user has selected a school but not a county");
+    }
   } else if (userHasSelectedCity) {
     filterMapAndTableByPropertyValue("city", selectedCity);
   } else if (userHasSelectedDistrict) {
