@@ -138,11 +138,27 @@ body {
 /* map styling */
 #map {
   height: 100% !important;
-  width: 70%;
+  width: 100%;
   position: absolute;
   z-index: 0;
   top: 0;
   right: 0;
+}
+
+#left-thumb {
+  left: 0;
+  position: absolute;
+  z-index: 2;
+  width: 15%;
+  background: rgba(255,255,255,0.1)
+}
+
+#right-thumb {
+  right: 0;
+  position: absolute;
+  z-index: 2;
+  width: 15%;
+  background: rgba(255,255,255,0.1)
 }
 
 a.leaflet-control-zoom-in, a.leaflet-control-zoom-out {
