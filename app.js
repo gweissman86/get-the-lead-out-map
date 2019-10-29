@@ -488,7 +488,7 @@ function getMaxLeadLevelDisplay(row) {
   var maxResult = toNumber(row.maxResult);
   if (maxResult > 0) {
     return maxResult + " ppb";
-  } else if (row.lead === "FALSE") {
+  } else if (row.lead === "FALSE" || row.lead === "False") {
     return "< 5 ppb";
   } else if (row.status === "1") {
     return "Not Tested";
@@ -503,7 +503,7 @@ function getMedianLeadLevelDisplay(row) {
   var medianResult = toNumber(row.medianResult);
   if (medianResult > 0) {
     return medianResult + " ppb";
-  } else if (row.lead === "FALSE") {
+  } else if (row.lead === "FALSE" || row.lead === "False") {
     return "< 5 ppb";
   } else if (row.status === "1") {
     return "Not Tested";

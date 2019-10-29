@@ -80,7 +80,11 @@ function serializeXmlNode(xmlNode) {
 
 function toNumber(inpt) {
 	try {
-		return Number(inpt);
+		if (inpt !== "") {
+			return Number(inpt);
+		} else {
+			return inpt;
+		}
 	} catch (error) {
 		return inpt;
 	}
